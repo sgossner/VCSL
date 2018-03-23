@@ -13,7 +13,7 @@ This set shall include the bulk of the VSCO 2 CE sample set, including some rewo
 
 # 3rd Party Contributions
 3rd party developers are welcome to make additions to the sample set. The following standards shall be adhered to:
-- Samples shall be named in a human-readable format. The recommended syntax is- [Instrument]_[Articulation]_[Mic]_vl[Velocity]_rr[RR].wav.
+- Samples shall be named in a human-readable format. The recommended syntax is- `[Instrument]_[Articulation]_[Mic]_vl[Velocity]_rr[RR].wav.`
 - Samples shall be made available at 44.1 or 48 kHz sample rate, and either 16 or 24-bit depth, as uncompressed .wav files.
 - Samples shall be recorded in stereo if possible, unless (1) idiomatic (e.g. harmonicas, solo vox) or (2) impractical to do so. The recommended stereo array is NOS, but spaced pair and ORTF are also acceptable.
 - Samples shall be organized in folders, one per instrument, preferably with sub-folders, one per articulation, if there are many samples.
