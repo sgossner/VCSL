@@ -1,0 +1,1 @@
+These patches are user-created using the TX81Z Programmer application and sampled from the original FM hardware using Samplit.
