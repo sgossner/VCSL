@@ -21,7 +21,7 @@ This set shall include the bulk of the VSCO 2 CE sample set, including some rewo
 - Samples shall be named in a human-readable format. The recommended syntax is- `[Instrument]_[Articulation]_[Mic]_vl[Velocity]_rr[RR].wav.`
 - Samples shall be made available at 44.1 or 48 kHz sample rate, and either 16 or 24-bit depth, as uncompressed .wav files.
 - Samples shall be recorded in stereo if possible, unless (1) idiomatic (e.g. harmonicas, solo vox) or (2) impractical to do so. Most of the sample set is recorded with spaced pair or NOS, but other arrays are acceptable so long as the stereo image is reasonable.
-- Samples shall preferably be recorded in a clean, 'mid-close' position, typically 0.5-2.5 meters from the performer(s), in an acoustically neutral space with as little background noise as possible. These recordings shall not be processed with the exception of (1) tuning, (2) mild eq'ing to fix microphone problems, and (3) noise reduction (if necessary).
+- Samples shall preferably be recorded in a clean, 'mid-close' position, typically 0.5-3 meters from the performer(s), in an acoustically neutral space with as little background noise as possible. These recordings shall not be processed with the exception of (1) tuning, (2) mild eq'ing to fix microphone problems, and (3) noise reduction (if necessary).
 - Samples shall be organized in folders, one per instrument, preferably with sub-folders, one per articulation, if there are many samples.
 - Any metadata relating to the samples should be included (brand/model, performer, mics, space) if possible, but not necessary.
 
