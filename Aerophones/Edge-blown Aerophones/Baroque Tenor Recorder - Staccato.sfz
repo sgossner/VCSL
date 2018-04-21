@@ -1,0 +1,112 @@
+<group>
+ampeg_attack=0.100000
+ampeg_release=0.500000
+
+<region>
+sample=Baroque Tenor Recorder/Staccato/TenRecorder_Stac_C3_rr1_Main.wav
+pitch_keycenter=48
+lokey=48.0
+hikey=49.0
+offset=946
+tune=-17
+volume=5.176264
+
+<region>
+sample=Baroque Tenor Recorder/Staccato/TenRecorder_Stac_D3_rr1_Main.wav
+pitch_keycenter=50
+lokey=50.0
+hikey=51.0
+offset=834
+tune=1
+volume=2.519714
+
+<region>
+sample=Baroque Tenor Recorder/Staccato/TenRecorder_Stac_E3_rr1_Main.wav
+pitch_keycenter=52
+lokey=52.0
+hikey=53.0
+offset=709
+tune=-10
+volume=1.890295
+
+<region>
+sample=Baroque Tenor Recorder/Staccato/TenRecorder_Stac_F#3_rr1_Main.wav
+pitch_keycenter=54
+lokey=54.0
+hikey=55.0
+offset=154
+tune=47
+volume=1.166740
+
+<region>
+sample=Baroque Tenor Recorder/Staccato/TenRecorder_Stac_G#3_rr1_Main.wav
+pitch_keycenter=56
+lokey=56.0
+hikey=57.0
+offset=410
+tune=-4
+volume=0.581037
+
+<region>
+sample=Baroque Tenor Recorder/Staccato/TenRecorder_Stac_A#3_rr1_Main.wav
+pitch_keycenter=58
+lokey=58.0
+hikey=59.0
+offset=301
+tune=4
+volume=-2.792669
+
+<region>
+sample=Baroque Tenor Recorder/Staccato/TenRecorder_Stac_C4_rr1_Main.wav
+pitch_keycenter=60
+lokey=60.0
+hikey=61.0
+offset=92
+tune=-14
+volume=1.946526
+
+<region>
+sample=Baroque Tenor Recorder/Staccato/TenRecorder_Stac_D4_rr1_Main.wav
+pitch_keycenter=62
+lokey=62.0
+hikey=63.0
+offset=201
+tune=3
+volume=1.738200
+
+<region>
+sample=Baroque Tenor Recorder/Staccato/TenRecorder_Stac_E4_rr1_Main.wav
+pitch_keycenter=64
+lokey=64.0
+hikey=65.0
+offset=364
+tune=3
+volume=6.000000
+
+<region>
+sample=Baroque Tenor Recorder/Staccato/TenRecorder_Stac_F#4_rr1_Main.wav
+pitch_keycenter=66
+lokey=66.0
+hikey=67.0
+offset=304
+tune=-3
+volume=1.865087
+
+<region>
+sample=Baroque Tenor Recorder/Staccato/TenRecorder_Stac_G#4_rr1_Main.wav
+pitch_keycenter=68
+lokey=68.0
+hikey=69.0
+offset=544
+tune=-6
+volume=-3.464630
+
+<region>
+sample=Baroque Tenor Recorder/Staccato/TenRecorder_Stac_B4_rr1_Main.wav
+pitch_keycenter=71
+lokey=70.0
+hikey=72.0
+offset=265
+tune=-1
+volume=-1.854808
+
