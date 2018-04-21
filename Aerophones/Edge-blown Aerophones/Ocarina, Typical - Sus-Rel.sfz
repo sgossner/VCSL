@@ -1,0 +1,91 @@
+<group>
+ampeg_attack=0.100000
+ampeg_release=0.500000
+
+<region>
+sample=Ocarina, Typical/Sus/Rel/StdOcarina_Sus_A3_rel.wav
+pitch_keycenter=57
+lokey=57.0
+hikey=58.0
+tune=13
+volume=-6.664647
+
+<region>
+sample=Ocarina, Typical/Sus/Rel/StdOcarina_Sus_B3_rel.wav
+pitch_keycenter=59
+lokey=59.0
+hikey=60.0
+volume=2.175354
+
+<region>
+sample=Ocarina, Typical/Sus/Rel/StdOcarina_Sus_C#4_rel.wav
+pitch_keycenter=61
+lokey=61.0
+hikey=61.0
+tune=12
+volume=6.000000
+
+<region>
+sample=Ocarina, Typical/Sus/Rel/StdOcarina_Sus_D4_rel.wav
+pitch_keycenter=62
+lokey=62.0
+hikey=63.0
+tune=1
+volume=-1.427192
+
+<region>
+sample=Ocarina, Typical/Sus/Rel/StdOcarina_Sus_E4_rel.wav
+pitch_keycenter=64
+lokey=64.0
+hikey=65.0
+tune=9
+volume=3.668378
+
+<region>
+sample=Ocarina, Typical/Sus/Rel/StdOcarina_Sus_F#4_rel.wav
+pitch_keycenter=66
+lokey=66.0
+hikey=67.0
+tune=7
+volume=-4.047365
+
+<region>
+sample=Ocarina, Typical/Sus/Rel/StdOcarina_Sus_G#4_rel.wav
+pitch_keycenter=68
+lokey=68.0
+hikey=68.0
+tune=18
+volume=4.452053
+
+<region>
+sample=Ocarina, Typical/Sus/Rel/StdOcarina_Sus_A4_rel.wav
+pitch_keycenter=69
+lokey=69.0
+hikey=69.0
+tune=43
+volume=3.776966
+
+<region>
+sample=Ocarina, Typical/Sus/Rel/StdOcarina_Sus_A#4_rel.wav
+pitch_keycenter=70
+lokey=70.0
+hikey=71.0
+tune=16
+volume=-3.393385
+
+<region>
+sample=Ocarina, Typical/Sus/Rel/StdOcarina_Sus_C5_rel.wav
+pitch_keycenter=72
+lokey=72.0
+hikey=72.0
+tune=18
+volume=-0.906254
+
+<region>
+sample=Ocarina, Typical/Sus/Rel/StdOcarina_Sus_C#5_rel.wav
+pitch_keycenter=73
+lokey=73.0
+hikey=74.0
+tune=27
+volume=2.201628
+
