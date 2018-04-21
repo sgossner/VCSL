@@ -1,0 +1,158 @@
+<group>
+ampeg_attack=0.100000
+ampeg_release=0.500000
+
+<region>
+sample=Tenor Saxophone/Vibrato/BrettTenor_Vib_Main_A#1_var2.wav
+pitch_keycenter=34
+lokey=34.0
+hikey=35.0
+tune=6
+volume=-2.081861
+
+<region>
+sample=Tenor Saxophone/Vibrato/BrettTenor_Vib_Main_C2_var4.wav
+pitch_keycenter=36
+lokey=36.0
+hikey=37.0
+offset=15
+volume=1.629777
+
+<region>
+sample=Tenor Saxophone/Vibrato/BrettTenor_Vib_Main_D2_var2.wav
+pitch_keycenter=38
+lokey=38.0
+hikey=39.0
+offset=45
+tune=-2
+volume=1.602410
+
+<region>
+sample=Tenor Saxophone/Vibrato/BrettTenor_Vib_Main_E2_var2.wav
+pitch_keycenter=40
+lokey=40.0
+hikey=41.0
+volume=-3.352078
+
+<region>
+sample=Tenor Saxophone/Vibrato/BrettTenor_Vib_Main_F#2_var3.wav
+pitch_keycenter=42
+lokey=42.0
+hikey=44.0
+tune=3
+volume=-1.816511
+
+<region>
+sample=Tenor Saxophone/Vibrato/BrettTenor_Vib_Main_A#2_var4.wav
+pitch_keycenter=46
+lokey=45.0
+hikey=47.0
+tune=4
+volume=6.000000
+
+<region>
+sample=Tenor Saxophone/Vibrato/BrettTenor_Vib_Main_C3_var1.wav
+pitch_keycenter=48
+lokey=48.0
+hikey=49.0
+tune=1
+volume=3.718749
+
+<region>
+sample=Tenor Saxophone/Vibrato/BrettTenor_Vib_Main_D3_var1.wav
+pitch_keycenter=50
+lokey=50.0
+hikey=51.0
+tune=-2
+volume=2.156322
+
+<region>
+sample=Tenor Saxophone/Vibrato/BrettTenor_Vib_Main_E3_var3.wav
+pitch_keycenter=52
+lokey=52.0
+hikey=53.0
+tune=-1
+volume=-3.931937
+
+<region>
+sample=Tenor Saxophone/Vibrato/BrettTenor_Vib_Main_F#3_var2.wav
+pitch_keycenter=54
+lokey=54.0
+hikey=56.0
+offset=819
+tune=7
+volume=1.089534
+
+<region>
+sample=Tenor Saxophone/Vibrato/BrettTenor_Vib_Main_A#3_var3.wav
+pitch_keycenter=58
+lokey=57.0
+hikey=59.0
+offset=1055
+tune=4
+volume=-1.021770
+
+<region>
+sample=Tenor Saxophone/Vibrato/BrettTenor_Vib_Main_C4_var2.wav
+pitch_keycenter=60
+lokey=60.0
+hikey=61.0
+volume=-0.490635
+
+<region>
+sample=Tenor Saxophone/Vibrato/BrettTenor_Vib_Main_D4_var1.wav
+pitch_keycenter=62
+lokey=62.0
+hikey=63.0
+offset=284
+tune=-4
+volume=4.299820
+
+<region>
+sample=Tenor Saxophone/Vibrato/BrettTenor_Vib_Main_E4_var4.wav
+pitch_keycenter=64
+lokey=64.0
+hikey=65.0
+tune=1
+volume=-1.313520
+
+<region>
+sample=Tenor Saxophone/Vibrato/BrettTenor_Vib_Main_G4_var3.wav
+pitch_keycenter=67
+lokey=66.0
+hikey=67.0
+offset=114
+tune=3
+volume=-2.638178
+
+<region>
+sample=Tenor Saxophone/Vibrato/BrettTenor_Vib_Main_G#4_var3.wav
+pitch_keycenter=68
+lokey=68.0
+hikey=69.0
+volume=3.007297
+
+<region>
+sample=Tenor Saxophone/Vibrato/BrettTenor_Vib_Main_A#4_var2.wav
+pitch_keycenter=70
+lokey=70.0
+hikey=71.0
+tune=3
+volume=0.746317
+
+<region>
+sample=Tenor Saxophone/Vibrato/BrettTenor_Vib_Main_C5_var2.wav
+pitch_keycenter=72
+lokey=72.0
+hikey=73.0
+tune=-2
+volume=2.647163
+
+<region>
+sample=Tenor Saxophone/Vibrato/BrettTenor_Vib_Main_D5_var3.wav
+pitch_keycenter=74
+lokey=74.0
+hikey=75.0
+tune=2
+volume=-3.556866
+
