@@ -1,112 +1,112 @@
 <group>
 ampeg_attack=0.100000
-ampeg_release=0.500000
+ampeg_release=0.300000
 
 <region>
 sample=Baroque Tenor Recorder/Staccato/TenRecorder_Stac_C3_rr1_Main.wav
-pitch_keycenter=48
-lokey=48.0
-hikey=49.0
+pitch_keycenter=60
+lokey=60
+hikey=61
 offset=946
 tune=-17
-volume=5.176264
+volume=10.176264
 
 <region>
 sample=Baroque Tenor Recorder/Staccato/TenRecorder_Stac_D3_rr1_Main.wav
-pitch_keycenter=50
-lokey=50.0
-hikey=51.0
+pitch_keycenter=62
+lokey=62
+hikey=63
 offset=834
 tune=1
-volume=2.519714
+volume=7.519714
 
 <region>
 sample=Baroque Tenor Recorder/Staccato/TenRecorder_Stac_E3_rr1_Main.wav
-pitch_keycenter=52
-lokey=52.0
-hikey=53.0
+pitch_keycenter=64
+lokey=64
+hikey=65
 offset=709
 tune=-10
-volume=1.890295
+volume=6.890295
 
 <region>
 sample=Baroque Tenor Recorder/Staccato/TenRecorder_Stac_F#3_rr1_Main.wav
-pitch_keycenter=54
-lokey=54.0
-hikey=55.0
+pitch_keycenter=66
+lokey=66
+hikey=67
 offset=154
 tune=47
-volume=1.166740
+volume=6.166740
 
 <region>
 sample=Baroque Tenor Recorder/Staccato/TenRecorder_Stac_G#3_rr1_Main.wav
-pitch_keycenter=56
-lokey=56.0
-hikey=57.0
+pitch_keycenter=68
+lokey=68
+hikey=69
 offset=410
 tune=-4
-volume=0.581037
+volume=5.581037
 
 <region>
 sample=Baroque Tenor Recorder/Staccato/TenRecorder_Stac_A#3_rr1_Main.wav
-pitch_keycenter=58
-lokey=58.0
-hikey=59.0
+pitch_keycenter=70
+lokey=70
+hikey=71
 offset=301
 tune=4
-volume=-2.792669
+volume=2.207331
 
 <region>
 sample=Baroque Tenor Recorder/Staccato/TenRecorder_Stac_C4_rr1_Main.wav
-pitch_keycenter=60
-lokey=60.0
-hikey=61.0
+pitch_keycenter=72
+lokey=72
+hikey=73
 offset=92
 tune=-14
-volume=1.946526
+volume=6.946526
 
 <region>
 sample=Baroque Tenor Recorder/Staccato/TenRecorder_Stac_D4_rr1_Main.wav
-pitch_keycenter=62
-lokey=62.0
-hikey=63.0
+pitch_keycenter=74
+lokey=74
+hikey=75
 offset=201
 tune=3
-volume=1.738200
+volume=6.738200
 
 <region>
 sample=Baroque Tenor Recorder/Staccato/TenRecorder_Stac_E4_rr1_Main.wav
-pitch_keycenter=64
-lokey=64.0
-hikey=65.0
+pitch_keycenter=76
+lokey=76
+hikey=77
 offset=364
 tune=3
-volume=6.000000
+volume=11.268070
 
 <region>
 sample=Baroque Tenor Recorder/Staccato/TenRecorder_Stac_F#4_rr1_Main.wav
-pitch_keycenter=66
-lokey=66.0
-hikey=67.0
+pitch_keycenter=78
+lokey=78
+hikey=79
 offset=304
 tune=-3
-volume=1.865087
+volume=6.865087
 
 <region>
 sample=Baroque Tenor Recorder/Staccato/TenRecorder_Stac_G#4_rr1_Main.wav
-pitch_keycenter=68
-lokey=68.0
-hikey=69.0
+pitch_keycenter=80
+lokey=80
+hikey=81
 offset=544
 tune=-6
-volume=-3.464630
+volume=1.535370
 
 <region>
 sample=Baroque Tenor Recorder/Staccato/TenRecorder_Stac_B4_rr1_Main.wav
-pitch_keycenter=71
-lokey=70.0
-hikey=72.0
+pitch_keycenter=83
+lokey=82
+hikey=84
 offset=265
 tune=-1
-volume=-1.854808
+volume=3.145192
 

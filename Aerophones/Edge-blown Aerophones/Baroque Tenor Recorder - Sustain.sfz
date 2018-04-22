@@ -1,112 +1,112 @@
 <group>
 ampeg_attack=0.100000
-ampeg_release=0.500000
+ampeg_release=0.300000
 
 <region>
 sample=Baroque Tenor Recorder/Sustain/TenRecorder_Sus_C3_rr1_Main.wav
-pitch_keycenter=48
-lokey=48.0
-hikey=49.0
+pitch_keycenter=60
+lokey=60
+hikey=61
 offset=1611
 tune=-2
-volume=1.677995
+volume=6.677995
 
 <region>
 sample=Baroque Tenor Recorder/Sustain/TenRecorder_Sus_D3_rr1_Main.wav
-pitch_keycenter=50
-lokey=50.0
-hikey=51.0
+pitch_keycenter=62
+lokey=62
+hikey=63
 offset=1329
 tune=-2
-volume=-1.944154
+volume=3.055846
 
 <region>
 sample=Baroque Tenor Recorder/Sustain/TenRecorder_Sus_E3_rr1_Main.wav
-pitch_keycenter=52
-lokey=52.0
-hikey=53.0
+pitch_keycenter=64
+lokey=64
+hikey=65
 offset=1247
 tune=-3
-volume=6.000000
+volume=11.698088
 
 <region>
 sample=Baroque Tenor Recorder/Sustain/TenRecorder_Sus_F#3_rr1_Main.wav
-pitch_keycenter=54
-lokey=54.0
-hikey=55.0
+pitch_keycenter=66
+lokey=66
+hikey=67
 offset=671
-volume=0.904645
+volume=5.904645
 
 <region>
 sample=Baroque Tenor Recorder/Sustain/TenRecorder_Sus_G#3_rr1_Main.wav
-pitch_keycenter=56
-lokey=56.0
-hikey=57.0
+pitch_keycenter=68
+lokey=68
+hikey=69
 offset=457
 tune=-1
-volume=-2.783500
+volume=2.216500
 
 <region>
 sample=Baroque Tenor Recorder/Sustain/TenRecorder_Sus_A#3_rr1_Main.wav
-pitch_keycenter=58
-lokey=58.0
-hikey=59.0
-volume=-1.819626
+pitch_keycenter=70
+lokey=70
+hikey=71
+volume=3.180374
 
 <region>
 sample=Baroque Tenor Recorder/Sustain/TenRecorder_Sus_C4_rr1_Main.wav
-pitch_keycenter=60
-lokey=60.0
-hikey=61.0
+pitch_keycenter=72
+lokey=72
+hikey=73
 offset=493
-volume=6.000000
+volume=12.688264
 
 <region>
 sample=Baroque Tenor Recorder/Sustain/TenRecorder_Sus_D4_rr1_Main.wav
-pitch_keycenter=62
-lokey=62.0
-hikey=63.0
+pitch_keycenter=74
+lokey=74
+hikey=75
 offset=323
-volume=-1.266485
+volume=3.733515
 
 <region>
 sample=Baroque Tenor Recorder/Sustain/TenRecorder_Sus_E4_rr1_Main.wav
-pitch_keycenter=64
-lokey=64.0
-hikey=65.0
+pitch_keycenter=76
+lokey=76
+hikey=77
 offset=676
-volume=1.578932
+volume=6.578932
 
 <region>
 sample=Baroque Tenor Recorder/Sustain/TenRecorder_Sus_F#4_rr1_Main.wav
-pitch_keycenter=66
-lokey=66.0
-hikey=67.0
+pitch_keycenter=78
+lokey=78
+hikey=79
 offset=420
-volume=0.223089
+volume=5.223089
 
 <region>
 sample=Baroque Tenor Recorder/Sustain/TenRecorder_Sus_G#4_rr1_Main.wav
-pitch_keycenter=68
-lokey=68.0
-hikey=68.0
+pitch_keycenter=80
+lokey=80
+hikey=80
 offset=429
-volume=2.454909
+volume=7.454909
 
 <region>
 sample=Baroque Tenor Recorder/Sustain/TenRecorder_Sus_A4_rr1_Main.wav
-pitch_keycenter=69
-lokey=69.0
-hikey=70.0
+pitch_keycenter=81
+lokey=81
+hikey=82
 offset=486
 tune=-1
-volume=-0.995323
+volume=4.004677
 
 <region>
 sample=Baroque Tenor Recorder/Sustain/TenRecorder_Sus_C5_rr1_Main.wav
-pitch_keycenter=72
-lokey=71.0
-hikey=73.0
+pitch_keycenter=84
+lokey=83
+hikey=85
 offset=592
-volume=-3.023342
+volume=1.976658
 

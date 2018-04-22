@@ -1,15 +1,13 @@
 """Create SFZ instruments from samples.
 
-Written by Peter Eastman.  This file is in the public domain.
+Written by Peter Eastman.  This file is in the public domain.  For usage instructions, run this script as
 
-Usage: python createInstruments.py <instrument dir>
-
-where <instrument dir> is the path to the top level directory containing all of the instrument's sample.  Output files
-will be placed into the parent directory of <instrument dir>.
+python createInstruments.py --help
 """
 
 from __future__ import print_function
 from __future__ import division
+import argparse
 import collections
 import os
 import sys
@@ -17,11 +15,20 @@ import numpy as np
 import scipy.signal
 import wavio
 
-instrumentDir = sys.argv[1]
-outputDir = os.path.abspath(os.path.join(instrumentDir, os.pardir))
-
 noteNames = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B']
 dynamicNames = ['ppp', 'pp', 'p', 'mp', 'mf', 'f', 'ff', 'fff', 'v11', 'vl2', 'vl3', 'vl4', 'vl5']
+
+# Parse command line options.
+
+parser = argparse.ArgumentParser(description='Create SFZ instruments from samples.')
+parser.add_argument('--attack', type=float, default=0.1, help='Attack time in seconds (default=0.1)')
+parser.add_argument('--release', type=float, default=0.3, help='Release time in seconds (default=0.3)')
+parser.add_argument('--velocityexponent', type=float, default=0.7, help='Exponent shaping the curve assigning layers to velocities (default=0.7)')
+parser.add_argument('--transpose', type=int, default=0, help='Transposition that has been applied to the samples, in semitones (default=0)')
+parser.add_argument('--volume', type=float, default=0.0, help='Amplification to apply to all samples, in dB (default=0.0)')
+parser.add_argument('instrumentdir', help="Top level directory containing the instrument's samples")
+args = parser.parse_args()
+outputDir = os.path.abspath(os.path.join(args.instrumentdir, os.pardir))
 
 # Create objects to represent all the notes in the scale.
 
@@ -29,7 +36,7 @@ Note = collections.namedtuple('Note', ['index', 'name', 'frequency'])
 noteWithName = {}
 for octave in range(10):
     for i, name in enumerate(noteNames):
-        index = i+(octave+1)*12
+        index = i+(octave+2)*12-args.transpose
         name = name+str(octave)
         frequency = 440.0 * 2**((index-69)/12.0)
         noteWithName[name] = Note(index, name, frequency)
@@ -62,14 +69,13 @@ class Sample(object):
 # Define a class to represent an articulation.
 
 class Articulation(object):
-    def __init__(self, instrument, directory):
+    def __init__(self, instrument, directory, isRelease):
         self.instrument = instrument
         self.directory = directory
+        self.isRelease = isRelease
         self.samples = []
         self.noteSamples = collections.defaultdict(list)
-        relpath = os.path.relpath(directory, instrument.directory)
-        dirs = [d for d in os.path.split(relpath) if len(d) > 0]
-        self.name = '-'.join(dirs)
+        self.name = os.path.split(directory)[-1]
 
     def addSample(self, sample):
         self.samples.append(sample);
@@ -106,19 +112,21 @@ def freq_from_autocorr(sig, fs):
 
 # Scan the directory to create a list of articulations and samples for the instrument.
 
-def scanDirectory(directory, instrument):
-    articulation = Articulation(instrument, directory)
+def scanDirectory(directory, instrument, isRelease):
+    if os.path.split(directory)[-1].lower() == 'releases':
+        isRelease = True
+    articulation = Articulation(instrument, directory, isRelease)
     for filename in os.listdir(directory):
         filepath = os.path.join(directory, filename)
         if os.path.isdir(filepath):
-            scanDirectory(filepath, instrument)
+            scanDirectory(filepath, instrument, isRelease)
         elif filename.endswith('wav'):
             articulation.addSample(Sample(filename))
     if len(articulation.samples) > 0:
         instrument.articulations.append(articulation)
 
-instrument = Instrument(instrumentDir)
-scanDirectory(instrumentDir, instrument)
+instrument = Instrument(args.instrumentdir)
+scanDirectory(args.instrumentdir, instrument, False)
 
 # Loop over all samples and analyze them.
 
@@ -150,10 +158,18 @@ for articulation in instrument.articulations:
 
 # Write an articulation to a SFZ file.
 
-def writeArticulation(articulation, outfile):
+def writeArticulation(articulation, outfile, isSustain, isRelease):
     print('<group>', file=outfile)
-    print('ampeg_attack=%f' % 0.1, file=outfile)
-    print('ampeg_release=%f' % 0.5, file=outfile)
+    attack = args.attack
+    release = args.release
+    if isSustain:
+        print('trigger=attack', file=outfile)
+        release = 0.1
+    elif isRelease:
+        print('trigger=release', file=outfile)
+        attack = 0.1
+    print('ampeg_attack=%f' % attack, file=outfile)
+    print('ampeg_release=%f' % release, file=outfile)
     print(file=outfile)
     
     # Find the range of keys to use each note for.
@@ -187,8 +203,8 @@ def writeArticulation(articulation, outfile):
         # Loop over velocity layers for each note.
         
         for layerIndex, layer in enumerate(layers):
-            lowvel = int(layerIndex*128/len(layers))
-            highvel = int((layerIndex+1)*128/len(layers)-1)
+            lowvel = int((layerIndex/len(layers))**args.velocityexponent*128)
+            highvel = int(((layerIndex+1)/len(layers))**args.velocityexponent*128)-1
             rrs = sorted(set([s.rr for s in samples if s.layer == layer]))
             
             # Loop over round robins for each layer.
@@ -207,26 +223,34 @@ def writeArticulation(articulation, outfile):
                     print('hivel=%d' % highvel, file=outfile)
                 print('sample=%s' % os.path.relpath(os.path.join(articulation.directory, sample.filename), outputDir), file=outfile)
                 print('pitch_keycenter=%s' % note.index, file=outfile)
-                print('lokey=%s' % lowkey[noteIndex], file=outfile)
-                print('hikey=%s' % highkey[noteIndex], file=outfile)
+                print('lokey=%d' % lowkey[noteIndex], file=outfile)
+                print('hikey=%d' % highkey[noteIndex], file=outfile)
                 if sample.offset > 0:
                     print('offset=%d' % sample.offset, file=outfile)
                 if sample.tuning != 0:
                     print('tune=%d' % sample.tuning, file=outfile)
                 amplification = targetLoudness[noteIndex]/sample.loudness
-                db = 20*np.log10(amplification)
-                if db > 6:
-                    db = 6
+                db = 20*np.log10(amplification) + args.volume
                 print('volume=%f' % db, file=outfile)
                 print(file=outfile)
     
 #  Create SFZ files for all the articulations.
 
-for articulation in instrument.articulations:
-    if len(instrument.articulations) == 1:
-        filename = '%s.sfz' % instrument.name
-    else:
-        filename = '%s - %s.sfz' % (instrument.name, articulation.name)
-    with open(os.path.join(outputDir, filename), 'w') as outfile:
-        writeArticulation(articulation, outfile)
-
+articulations = [a for a in instrument.articulations if not a.isRelease]
+for articulation in articulations:
+    if not articulation.isRelease:
+        if len(articulations) == 1:
+            filename = '%s.sfz' % instrument.name
+        else:
+            filename = '%s - %s.sfz' % (instrument.name, articulation.name)
+        
+        # See if we have release samples for this articulation.
+        
+        release = None
+        for a in instrument.articulations:
+            if a.isRelease and a.name == articulation.name:
+                release = a
+        with open(os.path.join(outputDir, filename), 'w') as outfile:
+            writeArticulation(articulation, outfile, release is not None, False)
+            if release is not None:
+                writeArticulation(release, outfile, False, True)
