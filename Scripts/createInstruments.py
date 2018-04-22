@@ -26,6 +26,7 @@ parser.add_argument('--release', type=float, default=0.3, help='Release time in 
 parser.add_argument('--velocityexponent', type=float, default=0.7, help='Exponent shaping the curve assigning layers to velocities (default=0.7)')
 parser.add_argument('--transpose', type=int, default=0, help='Transposition that has been applied to the samples, in semitones (default=0)')
 parser.add_argument('--volume', type=float, default=0.0, help='Amplification to apply to all samples, in dB (default=0.0)')
+parser.add_argument('--crossfade', action='store_true', help='Perform crossfading between velocity layers')
 parser.add_argument('instrumentdir', help="Top level directory containing the instrument's samples")
 args = parser.parse_args()
 outputDir = os.path.abspath(os.path.join(args.instrumentdir, os.pardir))
@@ -92,6 +93,14 @@ class Instrument(object):
             self.name = tail
         else:
             self.name = os.path.split(head)[-1]
+
+# This function computes the low end of the velocity range for a layer.
+
+def layer_lowvel(layerIndex, layers):
+    numLayers = len(layers)
+    if args.crossfade:
+        numLayers -= 1
+    return int((layerIndex/numLayers)**args.velocityexponent*128)
 
 # The following functions are adapted from https://gist.github.com/endolith/255291.  They
 # are used to estimate the pitch of a sample.
@@ -198,17 +207,15 @@ def writeArticulation(articulation, outfile, isSustain, isRelease):
 
     for noteIndex, note in enumerate(notes):
         samples = [s for s in articulation.samples if s.note == note]
-        layers = sorted(set([s.layer for s in samples]))
         
         # Loop over velocity layers for each note.
         
+        layers = sorted(set([s.layer for s in samples]))
         for layerIndex, layer in enumerate(layers):
-            lowvel = int((layerIndex/len(layers))**args.velocityexponent*128)
-            highvel = int(((layerIndex+1)/len(layers))**args.velocityexponent*128)-1
-            rrs = sorted(set([s.rr for s in samples if s.layer == layer]))
             
             # Loop over round robins for each layer.
             
+            rrs = sorted(set([s.rr for s in samples if s.layer == layer]))
             for rrIndex, rr in enumerate(rrs):
                 sample = [s for s in samples if s.layer == layer and s.rr == rr]
                 if len(sample) != 1:
@@ -219,8 +226,16 @@ def writeArticulation(articulation, outfile, isSustain, isRelease):
                     print('seq_length=%d' % len(rrs), file=outfile)
                     print('seq_position=%d' % (rrIndex+1), file=outfile)
                 if len(layers) > 1:
-                    print('lovel=%d' % lowvel, file=outfile)
-                    print('hivel=%d' % highvel, file=outfile)
+                    if args.crossfade:
+                        if layerIndex > 0:
+                            print('xfin_lovel=%d' % layer_lowvel(layerIndex-1, layers), file=outfile)
+                            print('xfin_hivel=%d' % (layer_lowvel(layerIndex, layers)-1), file=outfile)
+                        if layerIndex < len(layers)-1:
+                            print('xfout_lovel=%d' % layer_lowvel(layerIndex, layers), file=outfile)
+                            print('xfout_hivel=%d' % (layer_lowvel(layerIndex+1, layers)-1), file=outfile)
+                    else:
+                        print('lovel=%d' % layer_lowvel(layerIndex, layers), file=outfile)
+                        print('hivel=%d' % (layer_lowvel(layerIndex+1, layers)-1), file=outfile)
                 print('sample=%s' % os.path.relpath(os.path.join(articulation.directory, sample.filename), outputDir), file=outfile)
                 print('pitch_keycenter=%s' % note.index, file=outfile)
                 print('lokey=%d' % lowkey[noteIndex], file=outfile)
