@@ -253,7 +253,7 @@ sw_hikey=39
 sw_last=38
 sw_label=Staccato
 ampeg_attack=0.004000
-ampeg_release=0.300000
+ampeg_release=1.300000
 
 <region>
 sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_F2_rr1_Main.wav

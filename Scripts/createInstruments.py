@@ -26,12 +26,13 @@ dynamicNames = ['ppp', 'pp', 'p', 'mp', 'mf', 'f', 'ff', 'fff',
 parser = argparse.ArgumentParser(description='Create SFZ instruments from samples.')
 parser.add_argument('--attack', type=float, default=0.004, help='Attack time in seconds (default=0.004)')
 parser.add_argument('--release', type=float, default=0.3, help='Release time in seconds (default=0.3)')
-parser.add_argument('--velocityexponent', type=float, default=0.7, help='Exponent shaping the curve assigning layers to velocities (default=0.7)')
+parser.add_argument('--velocityexponent', type=float, default=0.6, help='Exponent shaping the curve assigning layers to velocities (default=0.6)')
 parser.add_argument('--transpose', type=int, default=0, help='Transposition that has been applied to the samples, in semitones (default=0)')
 parser.add_argument('--volume', type=float, default=0.0, help='Amplification to apply to all samples, in dB (default=0.0)')
 parser.add_argument('--releasevolume', type=float, default=0.0, help='Amplification to apply to release samples, in dB (default=0.0)')
 parser.add_argument('--crossfade', action='store_true', help='Perform crossfading between velocity layers')
 parser.add_argument('--noreleases', action='store_true', help='Ignore release samples')
+parser.add_argument('--notuning', action='store_true', help='Do not apply tuning to correct pitches')
 parser.add_argument('--articulation', type=str, default=None, help='Name of the articulation to create (default is to create all articulations)')
 parser.add_argument('instrumentdir', help="Top level directory containing the instrument's samples")
 args = parser.parse_args()
@@ -190,7 +191,8 @@ def writeArticulation(articulation, outfile, isSustain, isRelease):
         print('trigger=release', file=outfile)
         attack = 0.1
     print('ampeg_attack=%f' % attack, file=outfile)
-    print('ampeg_release=%f' % release, file=outfile)
+    if not isRelease:
+        print('ampeg_release=%f' % release, file=outfile)
     print(file=outfile)
     
     # Find the range of keys to use each note for.
@@ -254,7 +256,7 @@ def writeArticulation(articulation, outfile, isSustain, isRelease):
                 print('hikey=%d' % highkey[noteIndex], file=outfile)
                 if sample.offset > 0:
                     print('offset=%d' % sample.offset, file=outfile)
-                if sample.tuning != 0:
+                if sample.tuning != 0 and not args.notuning:
                     print('tune=%d' % sample.tuning, file=outfile)
                 if articulation.isRelease:
                     volume = args.releasevolume
@@ -284,6 +286,8 @@ for articulation in articulations:
             if a.isRelease and a.name == articulation.name:
                 release = a
         with open(os.path.join(outputDir, filename), 'w') as outfile:
+            print('// Generation Options:', ' '.join(sys.argv[1:-1]), file=outfile)
+            print(file=outfile)
             writeArticulation(articulation, outfile, release is not None, False)
             if release is not None:
                 writeArticulation(release, outfile, False, True)

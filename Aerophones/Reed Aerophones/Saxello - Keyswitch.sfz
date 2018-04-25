@@ -239,7 +239,7 @@ sw_hikey=51
 sw_last=50
 sw_label=Staccato
 ampeg_attack=0.004000
-ampeg_release=0.300000
+ampeg_release=1.300000
 
 <region>
 lovel=0

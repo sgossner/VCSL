@@ -1,3 +1,5 @@
+// Generation Options: --volume -3 --releasevolume -7
+
 <group>
 trigger=attack
 ampeg_attack=0.004000
@@ -5,313 +7,313 @@ ampeg_release=0.100000
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_C0_v1_rr1.wav
 pitch_keycenter=24
 lokey=24
 hikey=27
 tune=-3
-volume=-0.236125
+volume=-3.236125
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_C0_v2_rr1.wav
 pitch_keycenter=24
 lokey=24
 hikey=27
 tune=-1
-volume=0.836761
+volume=-2.163239
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_C0_v3_rr1.wav
 pitch_keycenter=24
 lokey=24
 hikey=27
 tune=-2
-volume=1.283584
+volume=-1.716416
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_C0_v4_rr1.wav
 pitch_keycenter=24
 lokey=24
 hikey=27
 tune=-6
-volume=3.364600
+volume=0.364600
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_G0_v1_rr1.wav
 pitch_keycenter=31
 lokey=28
 hikey=33
 tune=6
-volume=-1.553393
+volume=-4.553393
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_G0_v2_rr1.wav
 pitch_keycenter=31
 lokey=28
 hikey=33
 tune=5
-volume=0.054442
+volume=-2.945558
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_G0_v3_rr1.wav
 pitch_keycenter=31
 lokey=28
 hikey=33
 tune=9
-volume=0.683764
+volume=-2.316236
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_G0_v4_rr1.wav
 pitch_keycenter=31
 lokey=28
 hikey=33
 tune=10
-volume=1.423811
+volume=-1.576189
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_C1_v1_rr1.wav
 pitch_keycenter=36
 lokey=34
 hikey=39
-volume=-2.079691
+volume=-5.079691
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_C1_v2_rr1.wav
 pitch_keycenter=36
 lokey=34
 hikey=39
-volume=-1.296096
+volume=-4.296096
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_C1_v3_rr1.wav
 pitch_keycenter=36
 lokey=34
 hikey=39
 tune=-1
-volume=0.104759
+volume=-2.895241
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_C1_v4_rr1.wav
 pitch_keycenter=36
 lokey=34
 hikey=39
 tune=-5
-volume=1.788708
+volume=-1.211292
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_G1_v1_rr1.wav
 pitch_keycenter=43
 lokey=40
 hikey=45
 tune=1
-volume=-1.511986
+volume=-4.511986
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_G1_v2_rr1.wav
 pitch_keycenter=43
 lokey=40
 hikey=45
 tune=8
-volume=-2.912285
+volume=-5.912285
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_G1_v3_rr1.wav
 pitch_keycenter=43
 lokey=40
 hikey=45
 offset=150
 tune=6
-volume=-1.832874
+volume=-4.832874
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_G1_v4_rr1.wav
 pitch_keycenter=43
 lokey=40
 hikey=45
 tune=4
-volume=-1.104804
+volume=-4.104804
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_C2_v1_rr1.wav
 pitch_keycenter=48
 lokey=46
 hikey=50
 tune=12
-volume=6.082080
+volume=3.082080
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_C2_v2_rr1.wav
 pitch_keycenter=48
 lokey=46
 hikey=50
 tune=1
-volume=-0.530272
+volume=-3.530272
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_C2_v3_rr1.wav
 pitch_keycenter=48
 lokey=46
 hikey=50
 tune=4
-volume=-0.006952
+volume=-3.006952
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_C2_v4_rr1.wav
 pitch_keycenter=48
 lokey=46
 hikey=50
 tune=-1
-volume=3.458306
+volume=0.458306
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_F2_v1_rr1.wav
 pitch_keycenter=53
 lokey=51
 hikey=55
 tune=16
-volume=0.130920
+volume=-2.869080
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_F2_v2_rr1.wav
 pitch_keycenter=53
 lokey=51
 hikey=55
 tune=3
-volume=-1.752333
+volume=-4.752333
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_F2_v3_rr1.wav
 pitch_keycenter=53
 lokey=51
 hikey=55
 tune=-3
-volume=1.053297
+volume=-1.946703
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_F2_v4_rr1.wav
 pitch_keycenter=53
 lokey=51
 hikey=55
 tune=-6
-volume=1.705598
+volume=-1.294402
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_A2_v1_rr1.wav
 pitch_keycenter=57
 lokey=56
 hikey=58
 tune=2
-volume=0.214492
+volume=-2.785508
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_A2_v2_rr1.wav
 pitch_keycenter=57
 lokey=56
 hikey=58
 tune=3
-volume=0.937539
+volume=-2.062461
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_A2_v3_rr1.wav
 pitch_keycenter=57
 lokey=56
 hikey=58
-volume=0.997655
+volume=-2.002345
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_A2_v4_rr1.wav
 pitch_keycenter=57
 lokey=56
 hikey=58
 tune=-1
-volume=0.277556
+volume=-2.722444
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_C3_v1_rr1.wav
 pitch_keycenter=60
 lokey=59
 hikey=62
 tune=1
-volume=-3.745707
+volume=-6.745707
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_C3_v2_rr1.wav
 pitch_keycenter=60
 lokey=59
 hikey=62
 tune=1
-volume=1.298576
+volume=-1.701424
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_C3_v3_rr1.wav
 pitch_keycenter=60
 lokey=59
 hikey=62
-volume=2.052811
+volume=-0.947189
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_C3_v4_rr1.wav
 pitch_keycenter=60
@@ -319,82 +321,82 @@ lokey=59
 hikey=62
 offset=34
 tune=-3
-volume=1.023844
+volume=-1.976156
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_E3_v1_rr1.wav
 pitch_keycenter=64
 lokey=63
 hikey=65
 tune=3
-volume=-4.538346
+volume=-7.538346
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_E3_v2_rr1.wav
 pitch_keycenter=64
 lokey=63
 hikey=65
 tune=3
-volume=-1.675114
+volume=-4.675114
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_E3_v3_rr1.wav
 pitch_keycenter=64
 lokey=63
 hikey=65
 offset=27
 tune=-1
-volume=-1.354088
+volume=-4.354088
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_E3_v4_rr1.wav
 pitch_keycenter=64
 lokey=63
 hikey=65
 tune=-2
-volume=-0.732090
+volume=-3.732090
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_G3_v1_rr1.wav
 pitch_keycenter=67
 lokey=66
 hikey=69
 tune=-2
-volume=3.492672
+volume=0.492672
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_G3_v2_rr1.wav
 pitch_keycenter=67
 lokey=66
 hikey=69
 tune=-2
-volume=4.600440
+volume=1.600440
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_G3_v3_rr1.wav
 pitch_keycenter=67
 lokey=66
 hikey=69
 offset=35
 tune=-5
-volume=5.102745
+volume=2.102745
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_G3_v4_rr1.wav
 pitch_keycenter=67
@@ -402,356 +404,355 @@ lokey=66
 hikey=69
 offset=59
 tune=-8
-volume=5.380768
+volume=2.380768
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_B3_v1_rr1.wav
 pitch_keycenter=71
 lokey=70
 hikey=72
 tune=2
-volume=0.807400
+volume=-2.192600
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_B3_v2_rr1.wav
 pitch_keycenter=71
 lokey=70
 hikey=72
-volume=0.651768
+volume=-2.348232
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_B3_v3_rr1.wav
 pitch_keycenter=71
 lokey=70
 hikey=72
 offset=12
-volume=0.751604
+volume=-2.248396
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_B3_v4_rr1.wav
 pitch_keycenter=71
 lokey=70
 hikey=72
 tune=-6
-volume=-0.617830
+volume=-3.617830
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_D4_v1_rr1.wav
 pitch_keycenter=74
 lokey=73
 hikey=75
 tune=3
-volume=-6.232069
+volume=-9.232069
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_D4_v2_rr1.wav
 pitch_keycenter=74
 lokey=73
 hikey=75
 offset=40
 tune=2
-volume=-6.015021
+volume=-9.015021
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_D4_v3_rr1.wav
 pitch_keycenter=74
 lokey=73
 hikey=75
 offset=49
 tune=1
-volume=-5.606328
+volume=-8.606328
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_D4_v4_rr1.wav
 pitch_keycenter=74
 lokey=73
 hikey=75
 offset=38
-volume=-5.330492
+volume=-8.330492
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_F4_v1_rr1.wav
 pitch_keycenter=77
 lokey=76
 hikey=79
-volume=3.942347
+volume=0.942347
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_F4_v2_rr1.wav
 pitch_keycenter=77
 lokey=76
 hikey=79
-volume=2.735264
+volume=-0.264736
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_F4_v3_rr1.wav
 pitch_keycenter=77
 lokey=76
 hikey=79
 tune=-6
-volume=2.870527
+volume=-0.129473
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_F4_v4_rr1.wav
 pitch_keycenter=77
 lokey=76
 hikey=79
 tune=-10
-volume=2.365837
+volume=-0.634163
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_A4_v1_rr1.wav
 pitch_keycenter=81
 lokey=80
 hikey=82
 tune=6
-volume=3.836585
+volume=0.836585
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_A4_v2_rr1.wav
 pitch_keycenter=81
 lokey=80
 hikey=82
 offset=34
 tune=8
-volume=8.508248
+volume=5.508248
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_A4_v3_rr1.wav
 pitch_keycenter=81
 lokey=80
 hikey=82
 offset=23
 tune=1
-volume=7.580307
+volume=4.580307
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_A4_v4_rr1.wav
 pitch_keycenter=81
 lokey=80
 hikey=82
 tune=-8
-volume=8.043670
+volume=5.043670
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_C5_v1_rr1.wav
 pitch_keycenter=84
 lokey=83
 hikey=87
 tune=7
-volume=-3.853730
+volume=-6.853730
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_C5_v2_rr1.wav
 pitch_keycenter=84
 lokey=83
 hikey=87
 offset=9
 tune=7
-volume=-4.730082
+volume=-7.730082
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_C5_v3_rr1.wav
 pitch_keycenter=84
 lokey=83
 hikey=87
 tune=6
-volume=-3.527065
+volume=-6.527065
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_C5_v4_rr1.wav
 pitch_keycenter=84
 lokey=83
 hikey=87
 tune=-5
-volume=-2.276520
+volume=-5.276520
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_G5_v1_rr1.wav
 pitch_keycenter=91
 lokey=88
 hikey=93
 tune=-5
-volume=-4.486291
+volume=-7.486291
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_G5_v2_rr1.wav
 pitch_keycenter=91
 lokey=88
 hikey=93
 tune=5
-volume=-1.468662
+volume=-4.468662
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_G5_v3_rr1.wav
 pitch_keycenter=91
 lokey=88
 hikey=93
 offset=42
 tune=2
-volume=-0.842802
+volume=-3.842802
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_G5_v4_rr1.wav
 pitch_keycenter=91
 lokey=88
 hikey=93
 offset=43
-volume=1.359411
+volume=-1.640589
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_C6_v1_rr1.wav
 pitch_keycenter=96
 lokey=94
 hikey=99
-volume=16.577623
+volume=13.577623
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_C6_v2_rr1.wav
 pitch_keycenter=96
 lokey=94
 hikey=99
 tune=2
-volume=0.433828
+volume=-2.566172
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_C6_v3_rr1.wav
 pitch_keycenter=96
 lokey=94
 hikey=99
 offset=17
 tune=-3
-volume=3.837264
+volume=0.837264
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_C6_v4_rr1.wav
 pitch_keycenter=96
 lokey=94
 hikey=99
 tune=-2
-volume=5.419007
+volume=2.419007
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_G6_v1_rr1.wav
 pitch_keycenter=103
 lokey=100
 hikey=105
-volume=4.567226
+volume=1.567226
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_G6_v2_rr1.wav
 pitch_keycenter=103
 lokey=100
 hikey=105
 tune=-4
-volume=4.765756
+volume=1.765756
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_G6_v3_rr1.wav
 pitch_keycenter=103
 lokey=100
 hikey=105
 tune=-2
-volume=3.450982
+volume=0.450982
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_G6_v4_rr1.wav
 pitch_keycenter=103
 lokey=100
 hikey=105
-volume=4.504551
+volume=1.504551
 
 <region>
 lovel=0
-hivel=77
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_C7_v3_rr1.wav
 pitch_keycenter=108
 lokey=106
 hikey=109
-volume=-3.189752
+volume=-6.189752
 
 <region>
-lovel=78
+lovel=84
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_C7_v4_rr1.wav
 pitch_keycenter=108
 lokey=106
 hikey=109
-volume=1.658563
+volume=-1.341437
 
 <group>
 trigger=release
 ampeg_attack=0.100000
-ampeg_release=0.300000
 rt_decay=3
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C0_v1_rr1.wav
 pitch_keycenter=24
 lokey=24
@@ -759,8 +760,8 @@ hikey=27
 volume=11.084249
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C0_v2_rr1.wav
 pitch_keycenter=24
 lokey=24
@@ -769,8 +770,8 @@ tune=7
 volume=-0.694371
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C0_v3_rr1.wav
 pitch_keycenter=24
 lokey=24
@@ -779,7 +780,7 @@ tune=10
 volume=-9.702256
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C0_v4_rr1.wav
 pitch_keycenter=24
@@ -790,7 +791,7 @@ volume=-17.996013
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_G0_v1_rr1.wav
 pitch_keycenter=31
 lokey=28
@@ -798,8 +799,8 @@ hikey=33
 volume=16.910951
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_G0_v2_rr1.wav
 pitch_keycenter=31
 lokey=28
@@ -808,8 +809,8 @@ tune=1
 volume=-2.216892
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_G0_v3_rr1.wav
 pitch_keycenter=31
 lokey=28
@@ -818,7 +819,7 @@ tune=1
 volume=-8.159237
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_G0_v4_rr1.wav
 pitch_keycenter=31
@@ -829,7 +830,7 @@ volume=-16.253608
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C1_v1_rr1.wav
 pitch_keycenter=36
 lokey=34
@@ -837,8 +838,8 @@ hikey=39
 volume=16.747376
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C1_v2_rr1.wav
 pitch_keycenter=36
 lokey=34
@@ -846,8 +847,8 @@ hikey=39
 volume=9.576721
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C1_v3_rr1.wav
 pitch_keycenter=36
 lokey=34
@@ -856,7 +857,7 @@ tune=2
 volume=-2.090138
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C1_v4_rr1.wav
 pitch_keycenter=36
@@ -867,7 +868,7 @@ volume=-10.016729
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_G1_v1_rr1.wav
 pitch_keycenter=43
 lokey=40
@@ -875,8 +876,8 @@ hikey=45
 volume=21.573046
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_G1_v2_rr1.wav
 pitch_keycenter=43
 lokey=40
@@ -885,8 +886,8 @@ tune=1
 volume=-3.287715
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_G1_v3_rr1.wav
 pitch_keycenter=43
 lokey=40
@@ -894,7 +895,7 @@ hikey=45
 volume=-8.461557
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_G1_v4_rr1.wav
 pitch_keycenter=43
@@ -904,7 +905,7 @@ volume=-14.503399
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C2_v1_rr1.wav
 pitch_keycenter=48
 lokey=46
@@ -912,8 +913,8 @@ hikey=50
 volume=20.089246
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C2_v2_rr1.wav
 pitch_keycenter=48
 lokey=46
@@ -921,8 +922,8 @@ hikey=50
 volume=12.715732
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C2_v3_rr1.wav
 pitch_keycenter=48
 lokey=46
@@ -931,7 +932,7 @@ tune=3
 volume=-2.864176
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C2_v4_rr1.wav
 pitch_keycenter=48
@@ -941,7 +942,7 @@ volume=-11.499904
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_F2_v1_rr1.wav
 pitch_keycenter=53
 lokey=51
@@ -949,8 +950,8 @@ hikey=55
 volume=12.328716
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_F2_v2_rr1.wav
 pitch_keycenter=53
 lokey=51
@@ -958,8 +959,8 @@ hikey=55
 volume=-2.307115
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_F2_v3_rr1.wav
 pitch_keycenter=53
 lokey=51
@@ -968,7 +969,7 @@ tune=-2
 volume=-14.685472
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_F2_v4_rr1.wav
 pitch_keycenter=53
@@ -978,7 +979,7 @@ volume=-14.725590
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_A2_v1_rr1.wav
 pitch_keycenter=57
 lokey=56
@@ -987,8 +988,8 @@ tune=-5
 volume=9.744338
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_A2_v2_rr1.wav
 pitch_keycenter=57
 lokey=56
@@ -996,8 +997,8 @@ hikey=58
 volume=-4.889941
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_A2_v3_rr1.wav
 pitch_keycenter=57
 lokey=56
@@ -1005,7 +1006,7 @@ hikey=58
 volume=-13.258639
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_A2_v4_rr1.wav
 pitch_keycenter=57
@@ -1016,7 +1017,7 @@ volume=-17.431415
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C3_v1_rr1.wav
 pitch_keycenter=60
 lokey=59
@@ -1025,8 +1026,8 @@ tune=-15
 volume=15.810178
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C3_v2_rr1.wav
 pitch_keycenter=60
 lokey=59
@@ -1035,8 +1036,8 @@ tune=1
 volume=-0.161253
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C3_v3_rr1.wav
 pitch_keycenter=60
 lokey=59
@@ -1045,7 +1046,7 @@ tune=2
 volume=-7.695542
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C3_v4_rr1.wav
 pitch_keycenter=60
@@ -1056,7 +1057,7 @@ volume=-9.967869
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_E3_v1_rr1.wav
 pitch_keycenter=64
 lokey=63
@@ -1064,8 +1065,8 @@ hikey=65
 volume=20.258731
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_E3_v2_rr1.wav
 pitch_keycenter=64
 lokey=63
@@ -1074,8 +1075,8 @@ tune=-6
 volume=12.837042
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_E3_v3_rr1.wav
 pitch_keycenter=64
 lokey=63
@@ -1084,7 +1085,7 @@ tune=-7
 volume=4.159043
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_E3_v4_rr1.wav
 pitch_keycenter=64
@@ -1095,7 +1096,7 @@ volume=-2.800094
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_G3_v1_rr1.wav
 pitch_keycenter=67
 lokey=66
@@ -1104,8 +1105,8 @@ tune=-73
 volume=14.307974
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_G3_v2_rr1.wav
 pitch_keycenter=67
 lokey=66
@@ -1114,8 +1115,8 @@ tune=3
 volume=-1.818546
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_G3_v3_rr1.wav
 pitch_keycenter=67
 lokey=66
@@ -1124,7 +1125,7 @@ tune=1
 volume=-11.150441
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_G3_v4_rr1.wav
 pitch_keycenter=67
@@ -1134,7 +1135,7 @@ volume=-15.939732
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_B3_v1_rr1.wav
 pitch_keycenter=71
 lokey=70
@@ -1143,8 +1144,8 @@ tune=14
 volume=14.568873
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_B3_v2_rr1.wav
 pitch_keycenter=71
 lokey=70
@@ -1153,8 +1154,8 @@ tune=-5
 volume=9.270508
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_B3_v3_rr1.wav
 pitch_keycenter=71
 lokey=70
@@ -1163,7 +1164,7 @@ tune=-5
 volume=4.984548
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_B3_v4_rr1.wav
 pitch_keycenter=71
@@ -1173,7 +1174,7 @@ volume=-2.022800
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_D4_v1_rr1.wav
 pitch_keycenter=74
 lokey=73
@@ -1182,8 +1183,8 @@ tune=-4
 volume=1.254404
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_D4_v2_rr1.wav
 pitch_keycenter=74
 lokey=73
@@ -1192,8 +1193,8 @@ tune=-1
 volume=-2.471236
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_D4_v3_rr1.wav
 pitch_keycenter=74
 lokey=73
@@ -1202,7 +1203,7 @@ tune=3
 volume=-19.475311
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_D4_v4_rr1.wav
 pitch_keycenter=74
@@ -1213,7 +1214,7 @@ volume=-21.073579
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_F4_v1_rr1.wav
 pitch_keycenter=77
 lokey=76
@@ -1221,8 +1222,8 @@ hikey=79
 volume=15.975549
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_F4_v2_rr1.wav
 pitch_keycenter=77
 lokey=76
@@ -1231,8 +1232,8 @@ tune=-2
 volume=0.228129
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_F4_v3_rr1.wav
 pitch_keycenter=77
 lokey=76
@@ -1240,7 +1241,7 @@ hikey=79
 volume=-3.258727
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_F4_v4_rr1.wav
 pitch_keycenter=77
@@ -1250,7 +1251,7 @@ volume=-6.855221
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_A4_v1_rr1.wav
 pitch_keycenter=81
 lokey=80
@@ -1258,8 +1259,8 @@ hikey=82
 volume=14.143937
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_A4_v2_rr1.wav
 pitch_keycenter=81
 lokey=80
@@ -1268,8 +1269,8 @@ tune=-13
 volume=9.095098
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_A4_v3_rr1.wav
 pitch_keycenter=81
 lokey=80
@@ -1278,7 +1279,7 @@ tune=-8
 volume=3.893617
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_A4_v4_rr1.wav
 pitch_keycenter=81
@@ -1289,7 +1290,7 @@ volume=-8.161158
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C5_v1_rr1.wav
 pitch_keycenter=84
 lokey=83
@@ -1297,8 +1298,8 @@ hikey=85
 volume=9.043104
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C5_v2_rr1.wav
 pitch_keycenter=84
 lokey=83
@@ -1307,8 +1308,8 @@ tune=-14
 volume=1.912673
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C5_v3_rr1.wav
 pitch_keycenter=84
 lokey=83
@@ -1316,7 +1317,7 @@ hikey=85
 volume=-7.976442
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C5_v4_rr1.wav
 pitch_keycenter=84

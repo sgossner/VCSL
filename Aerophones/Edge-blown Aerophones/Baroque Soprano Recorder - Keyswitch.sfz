@@ -120,7 +120,7 @@ sw_hikey=50
 sw_last=49
 sw_label=Staccato
 ampeg_attack=0.004000
-ampeg_release=0.300000
+ampeg_release=1.300000
 
 <region>
 sample=Baroque Soprano Recorder/Staccato/SopRecorder_Stac_C4_rr1_Main.wav
