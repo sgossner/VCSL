@@ -1,3 +1,5 @@
+// Generation Options: --crossfade --release 15 --transpose 12
+
 <group>
 ampeg_attack=0.004000
 ampeg_release=15.000000
@@ -12,8 +14,8 @@ tune=22
 volume=-0.794483
 
 <region>
-xfout_lovel=0
-xfout_hivel=127
+xfout_lovel=70
+xfout_hivel=100
 sample=Concert Harp/KSHarp_G1_mp1.wav
 pitch_keycenter=31
 lokey=30
@@ -22,8 +24,8 @@ tune=22
 volume=21.799319
 
 <region>
-xfin_lovel=0
-xfin_hivel=127
+xfin_lovel=70
+xfin_hivel=100
 sample=Concert Harp/KSHarp_G1_f1.wav
 pitch_keycenter=31
 lokey=30
@@ -33,8 +35,8 @@ tune=20
 volume=1.816520
 
 <region>
-xfout_lovel=0
-xfout_hivel=127
+xfout_lovel=70
+xfout_hivel=100
 sample=Concert Harp/KSHarp_B1_mf1.wav
 pitch_keycenter=35
 lokey=34
@@ -44,8 +46,8 @@ tune=14
 volume=9.199185
 
 <region>
-xfin_lovel=0
-xfin_hivel=127
+xfin_lovel=70
+xfin_hivel=100
 sample=Concert Harp/KSHarp_B1_f1.wav
 pitch_keycenter=35
 lokey=34
@@ -55,8 +57,8 @@ tune=10
 volume=-3.122986
 
 <region>
-xfout_lovel=0
-xfout_hivel=127
+xfout_lovel=70
+xfout_hivel=100
 sample=Concert Harp/KSHarp_D2_mf1.wav
 pitch_keycenter=38
 lokey=37
@@ -66,8 +68,8 @@ tune=5
 volume=6.750459
 
 <region>
-xfin_lovel=0
-xfin_hivel=127
+xfin_lovel=70
+xfin_hivel=100
 sample=Concert Harp/KSHarp_D2_f1.wav
 pitch_keycenter=38
 lokey=37
@@ -77,8 +79,8 @@ tune=2
 volume=-8.110362
 
 <region>
-xfout_lovel=0
-xfout_hivel=127
+xfout_lovel=70
+xfout_hivel=100
 sample=Concert Harp/KSHarp_F2_mf1.wav
 pitch_keycenter=41
 lokey=40
@@ -88,8 +90,8 @@ tune=7
 volume=12.846014
 
 <region>
-xfin_lovel=0
-xfin_hivel=127
+xfin_lovel=70
+xfin_hivel=100
 sample=Concert Harp/KSHarp_F2_f1.wav
 pitch_keycenter=41
 lokey=40
@@ -99,8 +101,8 @@ tune=4
 volume=0.582499
 
 <region>
-xfout_lovel=0
-xfout_hivel=127
+xfout_lovel=70
+xfout_hivel=100
 sample=Concert Harp/KSHarp_A2_mf1.wav
 pitch_keycenter=45
 lokey=44
@@ -109,8 +111,8 @@ tune=2
 volume=4.505365
 
 <region>
-xfin_lovel=0
-xfin_hivel=127
+xfin_lovel=70
+xfin_hivel=100
 sample=Concert Harp/KSHarp_A2_f1.wav
 pitch_keycenter=45
 lokey=44
@@ -120,8 +122,8 @@ tune=-1
 volume=-5.886005
 
 <region>
-xfout_lovel=0
-xfout_hivel=127
+xfout_lovel=70
+xfout_hivel=100
 sample=Concert Harp/KSHarp_C3_mf3.wav
 pitch_keycenter=48
 lokey=47
@@ -130,8 +132,8 @@ tune=1
 volume=7.639021
 
 <region>
-xfin_lovel=0
-xfin_hivel=127
+xfin_lovel=70
+xfin_hivel=100
 sample=Concert Harp/KSHarp_C3_f2.wav
 pitch_keycenter=48
 lokey=47
@@ -140,8 +142,8 @@ offset=2298
 volume=-5.476224
 
 <region>
-xfout_lovel=0
-xfout_hivel=127
+xfout_lovel=70
+xfout_hivel=100
 sample=Concert Harp/KSHarp_E3_mf1.wav
 pitch_keycenter=52
 lokey=51
@@ -151,8 +153,8 @@ tune=2
 volume=7.761176
 
 <region>
-xfin_lovel=0
-xfin_hivel=127
+xfin_lovel=70
+xfin_hivel=100
 sample=Concert Harp/KSHarp_E3_f1.wav
 pitch_keycenter=52
 lokey=51
@@ -162,8 +164,8 @@ tune=-3
 volume=1.379737
 
 <region>
-xfout_lovel=0
-xfout_hivel=127
+xfout_lovel=70
+xfout_hivel=100
 sample=Concert Harp/KSHarp_G3_mf1.wav
 pitch_keycenter=55
 lokey=54
@@ -173,8 +175,8 @@ tune=1
 volume=2.065751
 
 <region>
-xfin_lovel=0
-xfin_hivel=127
+xfin_lovel=70
+xfin_hivel=100
 sample=Concert Harp/KSHarp_G3_f1.wav
 pitch_keycenter=55
 lokey=54
@@ -184,8 +186,8 @@ tune=-3
 volume=-3.705968
 
 <region>
-xfout_lovel=0
-xfout_hivel=127
+xfout_lovel=70
+xfout_hivel=100
 sample=Concert Harp/KSHarp_B3_mf1.wav
 pitch_keycenter=59
 lokey=58
@@ -195,8 +197,8 @@ tune=8
 volume=1.853713
 
 <region>
-xfin_lovel=0
-xfin_hivel=127
+xfin_lovel=70
+xfin_hivel=100
 sample=Concert Harp/KSHarp_B3_f1.wav
 pitch_keycenter=59
 lokey=58
@@ -206,8 +208,8 @@ tune=1
 volume=-1.216832
 
 <region>
-xfout_lovel=0
-xfout_hivel=127
+xfout_lovel=70
+xfout_hivel=100
 sample=Concert Harp/KSHarp_D4_mf1.wav
 pitch_keycenter=62
 lokey=61
@@ -217,8 +219,8 @@ tune=7
 volume=3.002996
 
 <region>
-xfin_lovel=0
-xfin_hivel=127
+xfin_lovel=70
+xfin_hivel=100
 sample=Concert Harp/KSHarp_D4_f1.wav
 pitch_keycenter=62
 lokey=61
@@ -228,8 +230,8 @@ tune=-4
 volume=-2.460145
 
 <region>
-xfout_lovel=0
-xfout_hivel=127
+xfout_lovel=70
+xfout_hivel=100
 sample=Concert Harp/KSHarp_F4_mf1.wav
 pitch_keycenter=65
 lokey=64
@@ -239,8 +241,8 @@ tune=1
 volume=-0.454987
 
 <region>
-xfin_lovel=0
-xfin_hivel=127
+xfin_lovel=70
+xfin_hivel=100
 sample=Concert Harp/KSHarp_F4_f1.wav
 pitch_keycenter=65
 lokey=64
@@ -249,8 +251,8 @@ offset=676
 volume=-4.574121
 
 <region>
-xfout_lovel=0
-xfout_hivel=127
+xfout_lovel=70
+xfout_hivel=100
 sample=Concert Harp/KSHarp_A4_mf1.wav
 pitch_keycenter=69
 lokey=68
@@ -260,8 +262,8 @@ tune=19
 volume=7.932846
 
 <region>
-xfin_lovel=0
-xfin_hivel=127
+xfin_lovel=70
+xfin_hivel=100
 sample=Concert Harp/KSHarp_A4_f1.wav
 pitch_keycenter=69
 lokey=68
@@ -271,8 +273,8 @@ tune=10
 volume=3.111107
 
 <region>
-xfout_lovel=0
-xfout_hivel=127
+xfout_lovel=70
+xfout_hivel=100
 sample=Concert Harp/KSHarp_C5_mf1.wav
 pitch_keycenter=72
 lokey=71
@@ -282,8 +284,8 @@ tune=12
 volume=1.282487
 
 <region>
-xfin_lovel=0
-xfin_hivel=127
+xfin_lovel=70
+xfin_hivel=100
 sample=Concert Harp/KSHarp_C5_f1.wav
 pitch_keycenter=72
 lokey=71
@@ -293,8 +295,8 @@ tune=3
 volume=-3.334617
 
 <region>
-xfout_lovel=0
-xfout_hivel=127
+xfout_lovel=70
+xfout_hivel=100
 sample=Concert Harp/KSHarp_E5_mf1.wav
 pitch_keycenter=76
 lokey=75
@@ -304,8 +306,8 @@ tune=11
 volume=-2.437895
 
 <region>
-xfin_lovel=0
-xfin_hivel=127
+xfin_lovel=70
+xfin_hivel=100
 sample=Concert Harp/KSHarp_E5_f1.wav
 pitch_keycenter=76
 lokey=75
@@ -315,8 +317,8 @@ tune=6
 volume=-5.708361
 
 <region>
-xfout_lovel=0
-xfout_hivel=127
+xfout_lovel=70
+xfout_hivel=100
 sample=Concert Harp/KSHarp_G5_mf1.wav
 pitch_keycenter=79
 lokey=78
@@ -326,8 +328,8 @@ tune=10
 volume=4.809883
 
 <region>
-xfin_lovel=0
-xfin_hivel=127
+xfin_lovel=70
+xfin_hivel=100
 sample=Concert Harp/KSHarp_G5_f1.wav
 pitch_keycenter=79
 lokey=78
@@ -337,8 +339,8 @@ tune=6
 volume=3.597898
 
 <region>
-xfout_lovel=0
-xfout_hivel=127
+xfout_lovel=70
+xfout_hivel=100
 sample=Concert Harp/KSHarp_B5_mf1.wav
 pitch_keycenter=83
 lokey=82
@@ -348,8 +350,8 @@ tune=5
 volume=1.839091
 
 <region>
-xfin_lovel=0
-xfin_hivel=127
+xfin_lovel=70
+xfin_hivel=100
 sample=Concert Harp/KSHarp_B5_f1.wav
 pitch_keycenter=83
 lokey=82
@@ -359,8 +361,8 @@ tune=3
 volume=6.437033
 
 <region>
-xfout_lovel=0
-xfout_hivel=127
+xfout_lovel=70
+xfout_hivel=100
 sample=Concert Harp/KSHarp_D6_mf1.wav
 pitch_keycenter=86
 lokey=85
@@ -370,8 +372,8 @@ tune=5
 volume=0.784993
 
 <region>
-xfin_lovel=0
-xfin_hivel=127
+xfin_lovel=70
+xfin_hivel=100
 sample=Concert Harp/KSHarp_D6_f1.wav
 pitch_keycenter=86
 lokey=85
@@ -381,8 +383,8 @@ tune=8
 volume=-4.946330
 
 <region>
-xfout_lovel=0
-xfout_hivel=127
+xfout_lovel=70
+xfout_hivel=100
 sample=Concert Harp/KSHarp_F6_mf1.wav
 pitch_keycenter=89
 lokey=88
@@ -392,8 +394,8 @@ tune=11
 volume=4.406056
 
 <region>
-xfin_lovel=0
-xfin_hivel=127
+xfin_lovel=70
+xfin_hivel=100
 sample=Concert Harp/KSHarp_F6_f1.wav
 pitch_keycenter=89
 lokey=88
@@ -402,8 +404,8 @@ offset=1059
 volume=-4.135791
 
 <region>
-xfout_lovel=0
-xfout_hivel=127
+xfout_lovel=70
+xfout_hivel=100
 sample=Concert Harp/KSHarp_A6_mf1.wav
 pitch_keycenter=93
 lokey=92
@@ -413,8 +415,8 @@ tune=17
 volume=4.756118
 
 <region>
-xfin_lovel=0
-xfin_hivel=127
+xfin_lovel=70
+xfin_hivel=100
 sample=Concert Harp/KSHarp_A6_f1.wav
 pitch_keycenter=93
 lokey=92
@@ -424,8 +426,8 @@ tune=8
 volume=-0.098126
 
 <region>
-xfout_lovel=0
-xfout_hivel=127
+xfout_lovel=70
+xfout_hivel=100
 sample=Concert Harp/KSHarp_B6_mf1.wav
 pitch_keycenter=95
 lokey=95
@@ -434,8 +436,8 @@ offset=659
 volume=5.981156
 
 <region>
-xfin_lovel=0
-xfin_hivel=127
+xfin_lovel=70
+xfin_hivel=100
 sample=Concert Harp/KSHarp_B6_f1.wav
 pitch_keycenter=95
 lokey=95
@@ -445,8 +447,8 @@ tune=8
 volume=-4.955837
 
 <region>
-xfout_lovel=0
-xfout_hivel=127
+xfout_lovel=70
+xfout_hivel=100
 sample=Concert Harp/KSHarp_D7_p1.wav
 pitch_keycenter=98
 lokey=97
@@ -456,8 +458,8 @@ tune=-4
 volume=21.261830
 
 <region>
-xfin_lovel=0
-xfin_hivel=127
+xfin_lovel=70
+xfin_hivel=100
 sample=Concert Harp/KSHarp_D7_f1.wav
 pitch_keycenter=98
 lokey=97
@@ -467,8 +469,8 @@ tune=9
 volume=-4.375686
 
 <region>
-xfout_lovel=0
-xfout_hivel=127
+xfout_lovel=70
+xfout_hivel=100
 sample=Concert Harp/KSHarp_F7_p1.wav
 pitch_keycenter=101
 lokey=100
@@ -478,8 +480,8 @@ tune=3
 volume=17.414672
 
 <region>
-xfin_lovel=0
-xfin_hivel=127
+xfin_lovel=70
+xfin_hivel=100
 sample=Concert Harp/KSHarp_F7_f1.wav
 pitch_keycenter=101
 lokey=100

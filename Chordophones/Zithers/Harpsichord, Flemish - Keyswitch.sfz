@@ -6,7 +6,8 @@ sw_last=100
 sw_label=Low
 trigger=attack
 ampeg_attack=0.004000
-ampeg_release=0.200000
+ampeg_release=0.400000
+amp_veltrack=0
 
 <region>
 sample=Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_F#0_rr1.wav
@@ -238,9 +239,10 @@ sw_hikey=102
 sw_last=100
 sw_label=Low
 trigger=release
-ampeg_attack=0.050000
+//ampeg_attack=0.050000
 ampeg_release=0.300000
-rt_decay=5
+//rt_decay=5
+amp_veltrack=0
 
 <region>
 sample=Harpsichord, Flemish/Releases/Low/HarpsiRH_LowRel_Far_F#0_rr1.wav
@@ -465,7 +467,8 @@ sw_last=101
 sw_label=High
 trigger=attack
 ampeg_attack=0.004000
-ampeg_release=0.200000
+ampeg_release=0.40000
+amp_veltrack=0
 
 <region>
 sample=Harpsichord, Flemish/Sustains/High/HarpsiRH_High_Far_F#1_rr1.wav
@@ -681,9 +684,10 @@ sw_hikey=102
 sw_last=101
 sw_label=High
 trigger=release
-ampeg_attack=0.050000
+//ampeg_attack=0.050000
 ampeg_release=0.300000
-rt_decay=5
+//rt_decay=5
+amp_veltrack=0
 
 <region>
 sample=Harpsichord, Flemish/Releases/High/HarpsiRH_HighRel_Far_F#1_rr1.wav

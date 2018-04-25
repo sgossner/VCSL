@@ -1,3 +1,5 @@
+// Generation Options: --volume 10
+
 <group>
 trigger=attack
 ampeg_attack=0.004000
@@ -5,107 +7,107 @@ ampeg_release=0.100000
 
 <region>
 lovel=0
-hivel=58
+hivel=65
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_A#-1_v2_rr1_Player.wav
 pitch_keycenter=22
 lokey=22
 hikey=23
 tune=81
-volume=11.839387
+volume=21.839387
 
 <region>
-lovel=59
-hivel=95
+lovel=66
+hivel=99
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_A#-1_v3_rr1_Player.wav
 pitch_keycenter=22
 lokey=22
 hikey=23
-volume=0.368743
+volume=10.368743
 
 <region>
-lovel=96
+lovel=100
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_A#-1_v4_rr1_Player.wav
 pitch_keycenter=22
 lokey=22
 hikey=23
-volume=-8.474001
+volume=1.525999
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C0_v1_rr1_Player.wav
 pitch_keycenter=24
 lokey=24
 hikey=25
 offset=122
 tune=-2
-volume=24.950782
+volume=34.950782
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C0_v2_rr1_Player.wav
 pitch_keycenter=24
 lokey=24
 hikey=25
 tune=-11
-volume=10.900335
+volume=20.900335
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C0_v3_rr1_Player.wav
 pitch_keycenter=24
 lokey=24
 hikey=25
 tune=-16
-volume=-0.420961
+volume=9.579039
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C0_v4_rr1_Player.wav
 pitch_keycenter=24
 lokey=24
 hikey=25
 tune=-19
-volume=-7.995111
+volume=2.004889
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_D#0_v1_rr1_Player.wav
 pitch_keycenter=27
 lokey=26
 hikey=28
 offset=12
 tune=15
-volume=21.828131
+volume=31.828131
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_D#0_v2_rr1_Player.wav
 pitch_keycenter=27
 lokey=26
 hikey=28
 tune=5
-volume=13.296689
+volume=23.296689
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_D#0_v3_rr1_Player.wav
 pitch_keycenter=27
 lokey=26
 hikey=28
 offset=41
 tune=-5
-volume=0.197922
+volume=10.197922
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_D#0_v4_rr1_Player.wav
 pitch_keycenter=27
@@ -113,1809 +115,1808 @@ lokey=26
 hikey=28
 offset=19
 tune=-11
-volume=-6.079581
+volume=3.920419
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_F#0_v1_rr1_Player.wav
 pitch_keycenter=30
 lokey=29
 hikey=31
 tune=2
-volume=15.268819
+volume=25.268819
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_F#0_v2_rr1_Player.wav
 pitch_keycenter=30
 lokey=29
 hikey=31
 tune=-2
-volume=8.664722
+volume=18.664722
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_F#0_v3_rr1_Player.wav
 pitch_keycenter=30
 lokey=29
 hikey=31
 tune=-1
-volume=-0.713365
+volume=9.286635
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_F#0_v4_rr1_Player.wav
 pitch_keycenter=30
 lokey=29
 hikey=31
 tune=-4
-volume=-7.195315
+volume=2.804685
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_A0_v1_rr1_Player.wav
 pitch_keycenter=33
 lokey=32
 hikey=34
 tune=6
-volume=19.558670
+volume=29.558670
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_A0_v2_rr1_Player.wav
 pitch_keycenter=33
 lokey=32
 hikey=34
 tune=1
-volume=7.284497
+volume=17.284497
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_A0_v3_rr1_Player.wav
 pitch_keycenter=33
 lokey=32
 hikey=34
 tune=-6
-volume=-2.926553
+volume=7.073447
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_A0_v4_rr1_Player.wav
 pitch_keycenter=33
 lokey=32
 hikey=34
 tune=-6
-volume=-9.621706
+volume=0.378294
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C1_v1_rr1_Player.wav
 pitch_keycenter=36
 lokey=35
 hikey=37
 tune=14
-volume=25.923731
+volume=35.923731
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C1_v2_rr1_Player.wav
 pitch_keycenter=36
 lokey=35
 hikey=37
 tune=3
-volume=13.510524
+volume=23.510524
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C1_v3_rr1_Player.wav
 pitch_keycenter=36
 lokey=35
 hikey=37
 tune=-1
-volume=-1.586317
+volume=8.413683
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C1_v4_rr1_Player.wav
 pitch_keycenter=36
 lokey=35
 hikey=37
 tune=-2
-volume=-4.857721
+volume=5.142279
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_D#1_v1_rr1_Player.wav
 pitch_keycenter=39
 lokey=38
 hikey=40
 tune=8
-volume=22.042952
+volume=32.042952
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_D#1_v2_rr1_Player.wav
 pitch_keycenter=39
 lokey=38
 hikey=40
 offset=29
 tune=6
-volume=13.740415
+volume=23.740415
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_D#1_v3_rr1_Player.wav
 pitch_keycenter=39
 lokey=38
 hikey=40
 tune=2
-volume=-0.323465
+volume=9.676535
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_D#1_v4_rr1_Player.wav
 pitch_keycenter=39
 lokey=38
 hikey=40
 tune=1
-volume=-5.332599
+volume=4.667401
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_F#1_v1_rr1_Player.wav
 pitch_keycenter=42
 lokey=41
 hikey=43
 tune=1
-volume=18.104141
+volume=28.104141
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_F#1_v2_rr1_Player.wav
 pitch_keycenter=42
 lokey=41
 hikey=43
-volume=7.866702
+volume=17.866702
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_F#1_v3_rr1_Player.wav
 pitch_keycenter=42
 lokey=41
 hikey=43
 tune=-4
-volume=-3.361448
+volume=6.638552
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_F#1_v4_rr1_Player.wav
 pitch_keycenter=42
 lokey=41
 hikey=43
 tune=-5
-volume=-7.889022
+volume=2.110978
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_A1_v1_rr1_Player.wav
 pitch_keycenter=45
 lokey=44
 hikey=46
 tune=5
-volume=19.975783
+volume=29.975783
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_A1_v2_rr1_Player.wav
 pitch_keycenter=45
 lokey=44
 hikey=46
 offset=8
 tune=3
-volume=7.146195
+volume=17.146195
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_A1_v3_rr1_Player.wav
 pitch_keycenter=45
 lokey=44
 hikey=46
-volume=-4.392756
+volume=5.607244
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_A1_v4_rr1_Player.wav
 pitch_keycenter=45
 lokey=44
 hikey=46
-volume=-8.750064
+volume=1.249936
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C2_v1_rr1_Player.wav
 pitch_keycenter=48
 lokey=47
 hikey=49
 offset=13
 tune=8
-volume=20.304520
+volume=30.304520
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C2_v2_rr1_Player.wav
 pitch_keycenter=48
 lokey=47
 hikey=49
 tune=1
-volume=9.134561
+volume=19.134561
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C2_v3_rr1_Player.wav
 pitch_keycenter=48
 lokey=47
 hikey=49
 tune=-12
-volume=-2.234940
+volume=7.765060
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C2_v4_rr1_Player.wav
 pitch_keycenter=48
 lokey=47
 hikey=49
 tune=-10
-volume=-3.736302
+volume=6.263698
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_D2_v1_rr1_Player.wav
 pitch_keycenter=50
 lokey=50
 hikey=51
 tune=5
-volume=24.680802
+volume=34.680802
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_D2_v2_rr1_Player.wav
 pitch_keycenter=50
 lokey=50
 hikey=51
 tune=3
-volume=9.862661
+volume=19.862661
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_D2_v3_rr1_Player.wav
 pitch_keycenter=50
 lokey=50
 hikey=51
 tune=-3
-volume=-3.157473
+volume=6.842527
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_D2_v4_rr1_Player.wav
 pitch_keycenter=50
 lokey=50
 hikey=51
 tune=-4
-volume=-6.638314
+volume=3.361686
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_E2_v1_rr1_Player.wav
 pitch_keycenter=52
 lokey=52
 hikey=53
 tune=5
-volume=18.524274
+volume=28.524274
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_E2_v2_rr1_Player.wav
 pitch_keycenter=52
 lokey=52
 hikey=53
 tune=5
-volume=8.878081
+volume=18.878081
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_E2_v3_rr1_Player.wav
 pitch_keycenter=52
 lokey=52
 hikey=53
-volume=-5.802414
+volume=4.197586
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_E2_v4_rr1_Player.wav
 pitch_keycenter=52
 lokey=52
 hikey=53
 tune=-2
-volume=-8.550022
+volume=1.449978
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_F#2_v1_rr1_Player.wav
 pitch_keycenter=54
 lokey=54
 hikey=55
 tune=1
-volume=25.038937
+volume=35.038937
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_F#2_v2_rr1_Player.wav
 pitch_keycenter=54
 lokey=54
 hikey=55
 tune=2
-volume=17.445576
+volume=27.445576
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_F#2_v3_rr1_Player.wav
 pitch_keycenter=54
 lokey=54
 hikey=55
 tune=-4
-volume=-4.348101
+volume=5.651899
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_F#2_v4_rr1_Player.wav
 pitch_keycenter=54
 lokey=54
 hikey=55
 tune=-5
-volume=-6.815036
+volume=3.184964
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_G#2_v1_rr1_Player.wav
 pitch_keycenter=56
 lokey=56
 hikey=57
-volume=31.453473
+volume=41.453473
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_G#2_v2_rr1_Player.wav
 pitch_keycenter=56
 lokey=56
 hikey=57
 tune=3
-volume=19.339402
+volume=29.339402
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_G#2_v3_rr1_Player.wav
 pitch_keycenter=56
 lokey=56
 hikey=57
 tune=-4
-volume=-1.074656
+volume=8.925344
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_G#2_v4_rr1_Player.wav
 pitch_keycenter=56
 lokey=56
 hikey=57
 tune=-5
-volume=-4.315239
+volume=5.684761
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_A#2_v1_rr1_Player.wav
 pitch_keycenter=58
 lokey=58
 hikey=59
 tune=4
-volume=19.621039
+volume=29.621039
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_A#2_v2_rr1_Player.wav
 pitch_keycenter=58
 lokey=58
 hikey=59
 offset=9
 tune=5
-volume=9.402015
+volume=19.402015
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_A#2_v3_rr1_Player.wav
 pitch_keycenter=58
 lokey=58
 hikey=59
 tune=-1
-volume=-4.182537
+volume=5.817463
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_A#2_v4_rr1_Player.wav
 pitch_keycenter=58
 lokey=58
 hikey=59
 tune=-7
-volume=-7.428273
+volume=2.571727
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C3_v1_rr1_Player.wav
 pitch_keycenter=60
 lokey=60
 hikey=61
 tune=4
-volume=23.589727
+volume=33.589727
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C3_v2_rr1_Player.wav
 pitch_keycenter=60
 lokey=60
 hikey=61
 tune=4
-volume=9.087673
+volume=19.087673
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C3_v3_rr1_Player.wav
 pitch_keycenter=60
 lokey=60
 hikey=61
-volume=-2.830348
+volume=7.169652
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C3_v4_rr1_Player.wav
 pitch_keycenter=60
 lokey=60
 hikey=61
 tune=-3
-volume=-7.366755
+volume=2.633245
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_D3_v1_rr1_Player.wav
 pitch_keycenter=62
 lokey=62
 hikey=63
 offset=31
 tune=7
-volume=33.216074
+volume=43.216074
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_D3_v2_rr1_Player.wav
 pitch_keycenter=62
 lokey=62
 hikey=63
 tune=7
-volume=17.301090
+volume=27.301090
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_D3_v3_rr1_Player.wav
 pitch_keycenter=62
 lokey=62
 hikey=63
-volume=1.104181
+volume=11.104181
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_D3_v4_rr1_Player.wav
 pitch_keycenter=62
 lokey=62
 hikey=63
 tune=-2
-volume=-2.204880
+volume=7.795120
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_E3_v1_rr1_Player.wav
 pitch_keycenter=64
 lokey=64
 hikey=65
 tune=-1
-volume=29.163587
+volume=39.163587
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_E3_v2_rr1_Player.wav
 pitch_keycenter=64
 lokey=64
 hikey=65
 tune=7
-volume=10.728454
+volume=20.728454
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_E3_v3_rr1_Player.wav
 pitch_keycenter=64
 lokey=64
 hikey=65
 tune=-3
-volume=-5.458867
+volume=4.541133
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_E3_v4_rr1_Player.wav
 pitch_keycenter=64
 lokey=64
 hikey=65
 tune=-3
-volume=-8.033220
+volume=1.966780
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_F#3_v1_rr1_Player.wav
 pitch_keycenter=66
 lokey=66
 hikey=67
 tune=4
-volume=30.668921
+volume=40.668921
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_F#3_v2_rr1_Player.wav
 pitch_keycenter=66
 lokey=66
 hikey=67
 tune=6
-volume=10.919230
+volume=20.919230
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_F#3_v3_rr1_Player.wav
 pitch_keycenter=66
 lokey=66
 hikey=67
 tune=1
-volume=-4.219471
+volume=5.780529
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_F#3_v4_rr1_Player.wav
 pitch_keycenter=66
 lokey=66
 hikey=67
 tune=-2
-volume=-9.906189
+volume=0.093811
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_G#3_v1_rr1_Player.wav
 pitch_keycenter=68
 lokey=68
 hikey=69
 offset=21
 tune=3
-volume=23.830173
+volume=33.830173
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_G#3_v2_rr1_Player.wav
 pitch_keycenter=68
 lokey=68
 hikey=69
 tune=3
-volume=13.402498
+volume=23.402498
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_G#3_v3_rr1_Player.wav
 pitch_keycenter=68
 lokey=68
 hikey=69
 tune=-2
-volume=-2.291016
+volume=7.708984
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_G#3_v4_rr1_Player.wav
 pitch_keycenter=68
 lokey=68
 hikey=69
 tune=-5
-volume=-7.505418
+volume=2.494582
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_A#3_v1_rr1_Player.wav
 pitch_keycenter=70
 lokey=70
 hikey=71
 tune=18
-volume=31.172068
+volume=41.172068
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_A#3_v2_rr1_Player.wav
 pitch_keycenter=70
 lokey=70
 hikey=71
 tune=8
-volume=20.115845
+volume=30.115845
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_A#3_v3_rr1_Player.wav
 pitch_keycenter=70
 lokey=70
 hikey=71
 tune=-8
-volume=1.869994
+volume=11.869994
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_A#3_v4_rr1_Player.wav
 pitch_keycenter=70
 lokey=70
 hikey=71
 tune=-13
-volume=-3.389662
+volume=6.610338
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C4_v1_rr1_Player.wav
 pitch_keycenter=72
 lokey=72
 hikey=73
 tune=4
-volume=26.000888
+volume=36.000888
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C4_v2_rr1_Player.wav
 pitch_keycenter=72
 lokey=72
 hikey=73
 tune=4
-volume=9.829627
+volume=19.829627
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C4_v3_rr1_Player.wav
 pitch_keycenter=72
 lokey=72
 hikey=73
 tune=1
-volume=-1.417021
+volume=8.582979
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C4_v4_rr1_Player.wav
 pitch_keycenter=72
 lokey=72
 hikey=73
 tune=-2
-volume=-8.474485
+volume=1.525515
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_D4_v1_rr1_Player.wav
 pitch_keycenter=74
 lokey=74
 hikey=75
 tune=1
-volume=32.493573
+volume=42.493573
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_D4_v2_rr1_Player.wav
 pitch_keycenter=74
 lokey=74
 hikey=75
 tune=1
-volume=6.545741
+volume=16.545741
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_D4_v3_rr1_Player.wav
 pitch_keycenter=74
 lokey=74
 hikey=75
 tune=-3
-volume=-3.884096
+volume=6.115904
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_D4_v4_rr1_Player.wav
 pitch_keycenter=74
 lokey=74
 hikey=75
 tune=-8
-volume=-13.131871
+volume=-3.131871
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_E4_v1_rr1_Player.wav
 pitch_keycenter=76
 lokey=76
 hikey=77
 tune=3
-volume=29.034138
+volume=39.034138
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_E4_v2_rr1_Player.wav
 pitch_keycenter=76
 lokey=76
 hikey=77
 tune=3
-volume=15.411220
+volume=25.411220
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_E4_v3_rr1_Player.wav
 pitch_keycenter=76
 lokey=76
 hikey=77
 tune=-1
-volume=-1.274662
+volume=8.725338
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_E4_v4_rr1_Player.wav
 pitch_keycenter=76
 lokey=76
 hikey=77
 tune=-6
-volume=-7.332981
+volume=2.667019
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_F#4_v1_rr1_Player.wav
 pitch_keycenter=78
 lokey=78
 hikey=79
 offset=15
 tune=13
-volume=31.583157
+volume=41.583157
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_F#4_v2_rr1_Player.wav
 pitch_keycenter=78
 lokey=78
 hikey=79
 tune=12
-volume=20.756354
+volume=30.756354
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_F#4_v3_rr1_Player.wav
 pitch_keycenter=78
 lokey=78
 hikey=79
 tune=-2
-volume=-1.772574
+volume=8.227426
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_F#4_v4_rr1_Player.wav
 pitch_keycenter=78
 lokey=78
 hikey=79
 tune=-5
-volume=-8.335224
+volume=1.664776
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_G#4_v1_rr1_Player.wav
 pitch_keycenter=80
 lokey=80
 hikey=81
 tune=38
-volume=35.801755
+volume=45.801755
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_G#4_v2_rr1_Player.wav
 pitch_keycenter=80
 lokey=80
 hikey=81
 tune=-1
-volume=27.365578
+volume=37.365578
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_G#4_v3_rr1_Player.wav
 pitch_keycenter=80
 lokey=80
 hikey=81
 tune=-13
-volume=3.501400
+volume=13.501400
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_G#4_v4_rr1_Player.wav
 pitch_keycenter=80
 lokey=80
 hikey=81
 tune=-18
-volume=-4.017180
+volume=5.982820
 
 <region>
 lovel=0
-hivel=58
+hivel=65
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_A#4_v1_rr1_Player.wav
 pitch_keycenter=82
 lokey=82
 hikey=82
 tune=-1
-volume=26.397443
+volume=36.397443
 
 <region>
-lovel=59
-hivel=95
+lovel=66
+hivel=99
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_A#4_v2_rr1_Player.wav
 pitch_keycenter=82
 lokey=82
 hikey=82
 tune=-1
-volume=16.459403
+volume=26.459403
 
 <region>
-lovel=96
+lovel=100
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_A#4_v3_rr1_Player.wav
 pitch_keycenter=82
 lokey=82
 hikey=82
 tune=-2
-volume=-1.592277
+volume=8.407723
 
 <region>
 lovel=0
-hivel=77
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_B4_v3_rr1_Player.wav
 pitch_keycenter=83
 lokey=83
 hikey=83
 tune=-10
-volume=1.281442
+volume=11.281442
 
 <region>
-lovel=78
+lovel=84
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_B4_v4_rr1_Player.wav
 pitch_keycenter=83
 lokey=83
 hikey=83
 tune=-34
-volume=-6.706184
+volume=3.293816
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C5_v1_rr1_Player.wav
 pitch_keycenter=84
 lokey=84
 hikey=85
-volume=21.884073
+volume=31.884073
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C5_v2_rr1_Player.wav
 pitch_keycenter=84
 lokey=84
 hikey=85
 tune=1
-volume=5.687743
+volume=15.687743
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C5_v3_rr1_Player.wav
 pitch_keycenter=84
 lokey=84
 hikey=85
 tune=-1
-volume=-7.137823
+volume=2.862177
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C5_v4_rr1_Player.wav
 pitch_keycenter=84
 lokey=84
 hikey=85
 tune=-2
-volume=-10.173042
+volume=-0.173042
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_D#5_v1_rr1_Player.wav
 pitch_keycenter=87
 lokey=86
 hikey=88
 tune=-45
-volume=43.338040
+volume=53.338040
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_D#5_v2_rr1_Player.wav
 pitch_keycenter=87
 lokey=86
 hikey=88
 tune=-9
-volume=13.993893
+volume=23.993893
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_D#5_v3_rr1_Player.wav
 pitch_keycenter=87
 lokey=86
 hikey=88
 tune=-12
-volume=2.184266
+volume=12.184266
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_D#5_v4_rr1_Player.wav
 pitch_keycenter=87
 lokey=86
 hikey=88
 tune=-19
-volume=-2.777583
+volume=7.222417
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_F#5_v1_rr1_Player.wav
 pitch_keycenter=90
 lokey=89
 hikey=91
 tune=15
-volume=40.830613
+volume=50.830613
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_F#5_v2_rr1_Player.wav
 pitch_keycenter=90
 lokey=89
 hikey=91
-volume=13.015977
+volume=23.015977
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_F#5_v3_rr1_Player.wav
 pitch_keycenter=90
 lokey=89
 hikey=91
 tune=-4
-volume=-2.931976
+volume=7.068024
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_F#5_v4_rr1_Player.wav
 pitch_keycenter=90
 lokey=89
 hikey=91
 tune=-7
-volume=-8.857964
+volume=1.142036
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_A5_v1_rr1_Player.wav
 pitch_keycenter=93
 lokey=92
 hikey=94
-volume=38.187364
+volume=48.187364
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_A5_v2_rr1_Player.wav
 pitch_keycenter=93
 lokey=92
 hikey=94
 tune=3
-volume=12.561737
+volume=22.561737
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_A5_v3_rr1_Player.wav
 pitch_keycenter=93
 lokey=92
 hikey=94
 tune=2
-volume=-0.783473
+volume=9.216527
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_A5_v4_rr1_Player.wav
 pitch_keycenter=93
 lokey=92
 hikey=94
 tune=-1
-volume=-3.190406
+volume=6.809594
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C6_v1_rr1_Player.wav
 pitch_keycenter=96
 lokey=95
 hikey=97
-volume=26.458918
+volume=36.458918
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C6_v2_rr1_Player.wav
 pitch_keycenter=96
 lokey=95
 hikey=97
 tune=1
-volume=4.403192
+volume=14.403192
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C6_v3_rr1_Player.wav
 pitch_keycenter=96
 lokey=95
 hikey=97
 tune=1
-volume=-7.024164
+volume=2.975836
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C6_v4_rr1_Player.wav
 pitch_keycenter=96
 lokey=95
 hikey=97
-volume=-8.343573
+volume=1.656427
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_D#6_v1_rr1_Player.wav
 pitch_keycenter=99
 lokey=98
 hikey=100
-volume=35.223984
+volume=45.223984
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_D#6_v2_rr1_Player.wav
 pitch_keycenter=99
 lokey=98
 hikey=100
 tune=-3
-volume=10.127586
+volume=20.127586
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_D#6_v3_rr1_Player.wav
 pitch_keycenter=99
 lokey=98
 hikey=100
 tune=2
-volume=-0.870521
+volume=9.129479
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_D#6_v4_rr1_Player.wav
 pitch_keycenter=99
 lokey=98
 hikey=100
 tune=2
-volume=-4.909437
+volume=5.090563
 
 <region>
 lovel=0
-hivel=77
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_F#6_v3_rr1_Player.wav
 pitch_keycenter=102
 lokey=101
 hikey=102
 tune=1
-volume=0.074102
+volume=10.074102
 
 <region>
-lovel=78
+lovel=84
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_F#6_v4_rr1_Player.wav
 pitch_keycenter=102
 lokey=101
 hikey=102
-volume=-3.556749
+volume=6.443251
 
 <region>
 lovel=0
-hivel=77
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_G6_v1_rr1_Player.wav
 pitch_keycenter=103
 lokey=103
 hikey=104
-volume=31.907929
+volume=41.907929
 
 <region>
-lovel=78
+lovel=84
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_G6_v2_rr1_Player.wav
 pitch_keycenter=103
 lokey=103
 hikey=104
-volume=8.516852
+volume=18.516852
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_A6_v1_rr1_Player.wav
 pitch_keycenter=105
 lokey=105
 hikey=106
-volume=30.569762
+volume=40.569762
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_A6_v2_rr1_Player.wav
 pitch_keycenter=105
 lokey=105
 hikey=106
-volume=7.243853
+volume=17.243853
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_A6_v3_rr1_Player.wav
 pitch_keycenter=105
 lokey=105
 hikey=106
-volume=-2.842839
+volume=7.157161
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_A6_v4_rr1_Player.wav
 pitch_keycenter=105
 lokey=105
 hikey=106
 tune=-1
-volume=-5.090327
+volume=4.909673
 
 <region>
 lovel=0
-hivel=47
+hivel=54
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C7_v1_rr1_Player.wav
 pitch_keycenter=108
 lokey=107
 hikey=109
-volume=18.696639
+volume=28.696639
 
 <region>
-lovel=48
-hivel=77
+lovel=55
+hivel=83
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C7_v2_rr1_Player.wav
 pitch_keycenter=108
 lokey=107
 hikey=109
-volume=11.385058
+volume=21.385058
 
 <region>
-lovel=78
-hivel=103
+lovel=84
+hivel=106
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C7_v3_rr1_Player.wav
 pitch_keycenter=108
 lokey=107
 hikey=109
-volume=-4.675030
+volume=5.324970
 
 <region>
-lovel=104
+lovel=107
 hivel=127
 sample=Grand Piano, Kawai/Sustains/GPiano_sus_C7_v4_rr1_Player.wav
 pitch_keycenter=108
 lokey=107
 hikey=109
 tune=6
-volume=-8.082964
+volume=1.917036
 
 <group>
 trigger=release
 ampeg_attack=0.100000
-ampeg_release=0.300000
 rt_decay=2
 
 <region>
 lovel=0
-hivel=58
+hivel=65
 sample=Grand Piano, Kawai/Releases/GPiano_rel_A#-1_v2_rr1_Player.wav
 pitch_keycenter=22
 lokey=22
 hikey=23
-volume=-4.210845
+volume=5.789155
 
 <region>
-lovel=59
-hivel=95
+lovel=66
+hivel=99
 sample=Grand Piano, Kawai/Releases/GPiano_rel_A#-1_v3_rr1_Player.wav
 pitch_keycenter=22
 lokey=22
 hikey=23
 tune=72
-volume=-14.585154
+volume=-4.585154
 
 <region>
-lovel=96
+lovel=100
 hivel=127
 sample=Grand Piano, Kawai/Releases/GPiano_rel_A#-1_v4_rr1_Player.wav
 pitch_keycenter=22
 lokey=22
 hikey=23
 tune=68
-volume=-9.119283
+volume=0.880717
 
 <region>
 lovel=0
-hivel=58
+hivel=65
 sample=Grand Piano, Kawai/Releases/GPiano_rel_C0_v2_rr1_Player.wav
 pitch_keycenter=24
 lokey=24
 hikey=25
 tune=-26
-volume=-0.610309
+volume=9.389691
 
 <region>
-lovel=59
-hivel=95
+lovel=66
+hivel=99
 sample=Grand Piano, Kawai/Releases/GPiano_rel_C0_v3_rr1_Player.wav
 pitch_keycenter=24
 lokey=24
 hikey=25
 tune=-13
-volume=-10.841294
+volume=-0.841294
 
 <region>
-lovel=96
+lovel=100
 hivel=127
 sample=Grand Piano, Kawai/Releases/GPiano_rel_C0_v4_rr1_Player.wav
 pitch_keycenter=24
 lokey=24
 hikey=25
 tune=-18
-volume=-7.402081
+volume=2.597919
 
 <region>
 lovel=0
-hivel=58
+hivel=65
 sample=Grand Piano, Kawai/Releases/GPiano_rel_D#0_v2_rr1_Player.wav
 pitch_keycenter=27
 lokey=26
 hikey=28
 tune=-77
-volume=-0.699981
+volume=9.300019
 
 <region>
-lovel=59
-hivel=95
+lovel=66
+hivel=99
 sample=Grand Piano, Kawai/Releases/GPiano_rel_D#0_v3_rr1_Player.wav
 pitch_keycenter=27
 lokey=26
 hikey=28
 tune=-22
-volume=-9.914964
+volume=0.085036
 
 <region>
-lovel=96
+lovel=100
 hivel=127
 sample=Grand Piano, Kawai/Releases/GPiano_rel_D#0_v4_rr1_Player.wav
 pitch_keycenter=27
 lokey=26
 hikey=28
 tune=-21
-volume=-16.080903
+volume=-6.080903
 
 <region>
 lovel=0
-hivel=58
+hivel=65
 sample=Grand Piano, Kawai/Releases/GPiano_rel_F#0_v2_rr1_Player.wav
 pitch_keycenter=30
 lokey=29
 hikey=31
 tune=-80
-volume=2.371708
+volume=12.371708
 
 <region>
-lovel=59
-hivel=95
+lovel=66
+hivel=99
 sample=Grand Piano, Kawai/Releases/GPiano_rel_F#0_v3_rr1_Player.wav
 pitch_keycenter=30
 lokey=29
 hikey=31
 tune=-11
-volume=-6.159026
+volume=3.840974
 
 <region>
-lovel=96
+lovel=100
 hivel=127
 sample=Grand Piano, Kawai/Releases/GPiano_rel_F#0_v4_rr1_Player.wav
 pitch_keycenter=30
 lokey=29
 hikey=31
 tune=-8
-volume=-16.481525
+volume=-6.481525
 
 <region>
 lovel=0
-hivel=58
+hivel=65
 sample=Grand Piano, Kawai/Releases/GPiano_rel_A0_v2_rr1_Player.wav
 pitch_keycenter=33
 lokey=32
 hikey=34
 tune=-23
-volume=2.592750
+volume=12.592750
 
 <region>
-lovel=59
-hivel=95
+lovel=66
+hivel=99
 sample=Grand Piano, Kawai/Releases/GPiano_rel_A0_v3_rr1_Player.wav
 pitch_keycenter=33
 lokey=32
 hikey=34
 tune=-21
-volume=-14.048890
+volume=-4.048890
 
 <region>
-lovel=96
+lovel=100
 hivel=127
 sample=Grand Piano, Kawai/Releases/GPiano_rel_A0_v4_rr1_Player.wav
 pitch_keycenter=33
 lokey=32
 hikey=34
 tune=-10
-volume=-16.872536
+volume=-6.872536
 
 <region>
 lovel=0
-hivel=58
+hivel=65
 sample=Grand Piano, Kawai/Releases/GPiano_rel_C1_v2_rr1_Player.wav
 pitch_keycenter=36
 lokey=35
 hikey=37
-volume=2.267070
+volume=12.267070
 
 <region>
-lovel=59
-hivel=95
+lovel=66
+hivel=99
 sample=Grand Piano, Kawai/Releases/GPiano_rel_C1_v3_rr1_Player.wav
 pitch_keycenter=36
 lokey=35
 hikey=37
 tune=-20
-volume=-5.445436
+volume=4.554564
 
 <region>
-lovel=96
+lovel=100
 hivel=127
 sample=Grand Piano, Kawai/Releases/GPiano_rel_C1_v4_rr1_Player.wav
 pitch_keycenter=36
 lokey=35
 hikey=37
 tune=-4
-volume=-13.909714
+volume=-3.909714
 
 <region>
 lovel=0
-hivel=58
+hivel=65
 sample=Grand Piano, Kawai/Releases/GPiano_rel_D#1_v2_rr1_Player.wav
 pitch_keycenter=39
 lokey=38
 hikey=40
 tune=-3
-volume=2.755435
+volume=12.755435
 
 <region>
-lovel=59
-hivel=95
+lovel=66
+hivel=99
 sample=Grand Piano, Kawai/Releases/GPiano_rel_D#1_v3_rr1_Player.wav
 pitch_keycenter=39
 lokey=38
 hikey=40
-volume=-5.667337
+volume=4.332663
 
 <region>
-lovel=96
+lovel=100
 hivel=127
 sample=Grand Piano, Kawai/Releases/GPiano_rel_D#1_v4_rr1_Player.wav
 pitch_keycenter=39
 lokey=38
 hikey=40
 tune=5
-volume=-15.799450
+volume=-5.799450
 
 <region>
 lovel=0
-hivel=58
+hivel=65
 sample=Grand Piano, Kawai/Releases/GPiano_rel_F#1_v2_rr1_Player.wav
 pitch_keycenter=42
 lokey=41
 hikey=43
 tune=-2
-volume=-1.747641
+volume=8.252359
 
 <region>
-lovel=59
-hivel=95
+lovel=66
+hivel=99
 sample=Grand Piano, Kawai/Releases/GPiano_rel_F#1_v3_rr1_Player.wav
 pitch_keycenter=42
 lokey=41
 hikey=43
 tune=-11
-volume=-9.664277
+volume=0.335723
 
 <region>
-lovel=96
+lovel=100
 hivel=127
 sample=Grand Piano, Kawai/Releases/GPiano_rel_F#1_v4_rr1_Player.wav
 pitch_keycenter=42
 lokey=41
 hikey=43
 tune=-6
-volume=-15.201443
+volume=-5.201443
 
 <region>
 lovel=0
-hivel=58
+hivel=65
 sample=Grand Piano, Kawai/Releases/GPiano_rel_A1_v2_rr1_Player.wav
 pitch_keycenter=45
 lokey=44
 hikey=46
 tune=-10
-volume=0.294896
+volume=10.294896
 
 <region>
-lovel=59
-hivel=95
+lovel=66
+hivel=99
 sample=Grand Piano, Kawai/Releases/GPiano_rel_A1_v3_rr1_Player.wav
 pitch_keycenter=45
 lokey=44
 hikey=46
 tune=-5
-volume=-11.324133
+volume=-1.324133
 
 <region>
-lovel=96
+lovel=100
 hivel=127
 sample=Grand Piano, Kawai/Releases/GPiano_rel_A1_v4_rr1_Player.wav
 pitch_keycenter=45
 lokey=44
 hikey=46
 tune=-5
-volume=-19.063860
+volume=-9.063860
 
 <region>
 lovel=0
-hivel=58
+hivel=65
 sample=Grand Piano, Kawai/Releases/GPiano_rel_C2_v2_rr1_Player.wav
 pitch_keycenter=48
 lokey=47
 hikey=49
 tune=-10
-volume=6.183509
+volume=16.183509
 
 <region>
-lovel=59
-hivel=95
+lovel=66
+hivel=99
 sample=Grand Piano, Kawai/Releases/GPiano_rel_C2_v3_rr1_Player.wav
 pitch_keycenter=48
 lokey=47
 hikey=49
 tune=-9
-volume=-3.128378
+volume=6.871622
 
 <region>
-lovel=96
+lovel=100
 hivel=127
 sample=Grand Piano, Kawai/Releases/GPiano_rel_C2_v4_rr1_Player.wav
 pitch_keycenter=48
 lokey=47
 hikey=49
 tune=-5
-volume=-11.398980
+volume=-1.398980
 
 <region>
 lovel=0
-hivel=77
+hivel=83
 sample=Grand Piano, Kawai/Releases/GPiano_rel_D2_v2_rr1_Player.wav
 pitch_keycenter=50
 lokey=50
 hikey=50
 tune=-8
-volume=3.810426
+volume=13.810426
 
 <region>
-lovel=78
+lovel=84
 hivel=127
 sample=Grand Piano, Kawai/Releases/GPiano_rel_D2_v3_rr1_Player.wav
 pitch_keycenter=50
 lokey=50
 hikey=50
 tune=-5
-volume=-8.796286
+volume=1.203714
 
 <region>
 lovel=0
-hivel=77
+hivel=83
 sample=Grand Piano, Kawai/Releases/GPiano_rel_D#2_v3_rr1_Player.wav
 pitch_keycenter=51
 lokey=51
 hikey=51
 tune=-14
-volume=-9.040433
+volume=0.959567
 
 <region>
-lovel=78
+lovel=84
 hivel=127
 sample=Grand Piano, Kawai/Releases/GPiano_rel_D#2_v4_rr1_Player.wav
 pitch_keycenter=51
 lokey=51
 hikey=51
 tune=-8
-volume=-15.358626
+volume=-5.358626
 
 <region>
 lovel=0
-hivel=77
+hivel=83
 sample=Grand Piano, Kawai/Releases/GPiano_rel_E2_v2_rr1_Player.wav
 pitch_keycenter=52
 lokey=52
 hikey=53
 tune=-6
-volume=-6.528977
+volume=3.471023
 
 <region>
-lovel=78
+lovel=84
 hivel=127
 sample=Grand Piano, Kawai/Releases/GPiano_rel_E2_v3_rr1_Player.wav
 pitch_keycenter=52
 lokey=52
 hikey=53
 tune=-5
-volume=-9.422469
+volume=0.577531
 
 <region>
 lovel=0
-hivel=58
+hivel=65
 sample=Grand Piano, Kawai/Releases/GPiano_rel_F#2_v2_rr1_Player.wav
 pitch_keycenter=54
 lokey=54
 hikey=55
 tune=-10
-volume=8.019375
+volume=18.019375
 
 <region>
-lovel=59
-hivel=95
+lovel=66
+hivel=99
 sample=Grand Piano, Kawai/Releases/GPiano_rel_F#2_v3_rr1_Player.wav
 pitch_keycenter=54
 lokey=54
 hikey=55
-volume=-1.192588
+volume=8.807412
 
 <region>
-lovel=96
+lovel=100
 hivel=127
 sample=Grand Piano, Kawai/Releases/GPiano_rel_F#2_v4_rr1_Player.wav
 pitch_keycenter=54
 lokey=54
 hikey=55
 tune=-1
-volume=-10.410740
+volume=-0.410740
 
 <region>
 lovel=0
-hivel=77
+hivel=83
 sample=Grand Piano, Kawai/Releases/GPiano_rel_G#2_v2_rr1_Player.wav
 pitch_keycenter=56
 lokey=56
 hikey=56
 tune=-7
-volume=10.106002
+volume=20.106002
 
 <region>
-lovel=78
+lovel=84
 hivel=127
 sample=Grand Piano, Kawai/Releases/GPiano_rel_G#2_v3_rr1_Player.wav
 pitch_keycenter=56
 lokey=56
 hikey=56
-volume=-8.087763
+volume=1.912237
 
 <region>
 sample=Grand Piano, Kawai/Releases/GPiano_rel_A2_v4_rr1_Player.wav
 pitch_keycenter=57
 lokey=57
 hikey=57
-volume=-18.493906
+volume=-8.493906
 
 <region>
 lovel=0
-hivel=77
+hivel=83
 sample=Grand Piano, Kawai/Releases/GPiano_rel_A#2_v2_rr1_Player.wav
 pitch_keycenter=58
 lokey=58
 hikey=59
 tune=-4
-volume=-2.998565
+volume=7.001435
 
 <region>
-lovel=78
+lovel=84
 hivel=127
 sample=Grand Piano, Kawai/Releases/GPiano_rel_A#2_v3_rr1_Player.wav
 pitch_keycenter=58
 lokey=58
 hikey=59
 tune=-4
-volume=-11.534394
+volume=-1.534394
 
 <region>
 lovel=0
-hivel=58
+hivel=65
 sample=Grand Piano, Kawai/Releases/GPiano_rel_C3_v2_rr1_Player.wav
 pitch_keycenter=60
 lokey=60
 hikey=61
 tune=-11
-volume=0.620343
+volume=10.620343
 
 <region>
-lovel=59
-hivel=95
+lovel=66
+hivel=99
 sample=Grand Piano, Kawai/Releases/GPiano_rel_C3_v3_rr1_Player.wav
 pitch_keycenter=60
 lokey=60
 hikey=61
 tune=-4
-volume=-7.725085
+volume=2.274915
 
 <region>
-lovel=96
+lovel=100
 hivel=127
 sample=Grand Piano, Kawai/Releases/GPiano_rel_C3_v4_rr1_Player.wav
 pitch_keycenter=60
 lokey=60
 hikey=61
 tune=-3
-volume=-10.217029
+volume=-0.217029
 
 <region>
 lovel=0
-hivel=77
+hivel=83
 sample=Grand Piano, Kawai/Releases/GPiano_rel_D3_v2_rr1_Player.wav
 pitch_keycenter=62
 lokey=62
 hikey=62
-volume=-4.108241
+volume=5.891759
 
 <region>
-lovel=78
+lovel=84
 hivel=127
 sample=Grand Piano, Kawai/Releases/GPiano_rel_D3_v3_rr1_Player.wav
 pitch_keycenter=62
 lokey=62
 hikey=62
 tune=-1
-volume=-5.198441
+volume=4.801559
 
 <region>
 sample=Grand Piano, Kawai/Releases/GPiano_rel_D#3_v4_rr1_Player.wav
@@ -1923,77 +1924,77 @@ pitch_keycenter=63
 lokey=63
 hikey=63
 tune=-2
-volume=-8.466422
+volume=1.533578
 
 <region>
 lovel=0
-hivel=77
+hivel=83
 sample=Grand Piano, Kawai/Releases/GPiano_rel_E3_v2_rr1_Player.wav
 pitch_keycenter=64
 lokey=64
 hikey=65
 tune=4
-volume=-1.354733
+volume=8.645267
 
 <region>
-lovel=78
+lovel=84
 hivel=127
 sample=Grand Piano, Kawai/Releases/GPiano_rel_E3_v3_rr1_Player.wav
 pitch_keycenter=64
 lokey=64
 hikey=65
 tune=1
-volume=-11.843863
+volume=-1.843863
 
 <region>
 lovel=0
-hivel=58
+hivel=65
 sample=Grand Piano, Kawai/Releases/GPiano_rel_F#3_v2_rr1_Player.wav
 pitch_keycenter=66
 lokey=66
 hikey=67
 tune=-7
-volume=-2.653971
+volume=7.346029
 
 <region>
-lovel=59
-hivel=95
+lovel=66
+hivel=99
 sample=Grand Piano, Kawai/Releases/GPiano_rel_F#3_v3_rr1_Player.wav
 pitch_keycenter=66
 lokey=66
 hikey=67
 tune=-3
-volume=-15.381328
+volume=-5.381328
 
 <region>
-lovel=96
+lovel=100
 hivel=127
 sample=Grand Piano, Kawai/Releases/GPiano_rel_F#3_v4_rr1_Player.wav
 pitch_keycenter=66
 lokey=66
 hikey=67
 tune=-11
-volume=-14.438571
+volume=-4.438571
 
 <region>
 lovel=0
-hivel=77
+hivel=83
 sample=Grand Piano, Kawai/Releases/GPiano_rel_G#3_v2_rr1_Player.wav
 pitch_keycenter=68
 lokey=68
 hikey=68
 tune=-7
-volume=-2.003699
+volume=7.996301
 
 <region>
-lovel=78
+lovel=84
 hivel=127
 sample=Grand Piano, Kawai/Releases/GPiano_rel_G#3_v3_rr1_Player.wav
 pitch_keycenter=68
 lokey=68
 hikey=68
 tune=-4
-volume=-12.589577
+volume=-2.589577
 
 <region>
 sample=Grand Piano, Kawai/Releases/GPiano_rel_A3_v4_rr1_Player.wav
@@ -2001,259 +2002,259 @@ pitch_keycenter=69
 lokey=69
 hikey=69
 tune=-9
-volume=-13.195032
+volume=-3.195032
 
 <region>
 lovel=0
-hivel=77
+hivel=83
 sample=Grand Piano, Kawai/Releases/GPiano_rel_A#3_v2_rr1_Player.wav
 pitch_keycenter=70
 lokey=70
 hikey=71
 tune=-7
-volume=-3.524427
+volume=6.475573
 
 <region>
-lovel=78
+lovel=84
 hivel=127
 sample=Grand Piano, Kawai/Releases/GPiano_rel_A#3_v3_rr1_Player.wav
 pitch_keycenter=70
 lokey=70
 hikey=71
 tune=-7
-volume=-6.908558
+volume=3.091442
 
 <region>
 lovel=0
-hivel=58
+hivel=65
 sample=Grand Piano, Kawai/Releases/GPiano_rel_C4_v2_rr1_Player.wav
 pitch_keycenter=72
 lokey=72
 hikey=73
 tune=-32
-volume=-0.120431
+volume=9.879569
 
 <region>
-lovel=59
-hivel=95
+lovel=66
+hivel=99
 sample=Grand Piano, Kawai/Releases/GPiano_rel_C4_v3_rr1_Player.wav
 pitch_keycenter=72
 lokey=72
 hikey=73
 tune=-24
-volume=-6.291355
+volume=3.708645
 
 <region>
-lovel=96
+lovel=100
 hivel=127
 sample=Grand Piano, Kawai/Releases/GPiano_rel_C4_v4_rr1_Player.wav
 pitch_keycenter=72
 lokey=72
 hikey=73
 tune=-19
-volume=-13.573204
+volume=-3.573204
 
 <region>
 lovel=0
-hivel=58
+hivel=65
 sample=Grand Piano, Kawai/Releases/GPiano_rel_D4_v2_rr1_Player.wav
 pitch_keycenter=74
 lokey=74
 hikey=75
-volume=-2.789704
+volume=7.210296
 
 <region>
-lovel=59
-hivel=95
+lovel=66
+hivel=99
 sample=Grand Piano, Kawai/Releases/GPiano_rel_D4_v3_rr1_Player.wav
 pitch_keycenter=74
 lokey=74
 hikey=75
 tune=-12
-volume=-6.009727
+volume=3.990273
 
 <region>
-lovel=96
+lovel=100
 hivel=127
 sample=Grand Piano, Kawai/Releases/GPiano_rel_D4_v4_rr1_Player.wav
 pitch_keycenter=74
 lokey=74
 hikey=75
 tune=-5
-volume=-21.089923
+volume=-11.089923
 
 <region>
 lovel=0
-hivel=58
+hivel=65
 sample=Grand Piano, Kawai/Releases/GPiano_rel_E4_v2_rr1_Player.wav
 pitch_keycenter=76
 lokey=76
 hikey=77
 tune=-14
-volume=1.164955
+volume=11.164955
 
 <region>
-lovel=59
-hivel=95
+lovel=66
+hivel=99
 sample=Grand Piano, Kawai/Releases/GPiano_rel_E4_v3_rr1_Player.wav
 pitch_keycenter=76
 lokey=76
 hikey=77
 tune=-17
-volume=-2.285521
+volume=7.714479
 
 <region>
-lovel=96
+lovel=100
 hivel=127
 sample=Grand Piano, Kawai/Releases/GPiano_rel_E4_v4_rr1_Player.wav
 pitch_keycenter=76
 lokey=76
 hikey=77
 tune=-5
-volume=-13.043460
+volume=-3.043460
 
 <region>
 lovel=0
-hivel=58
+hivel=65
 sample=Grand Piano, Kawai/Releases/GPiano_rel_F#4_v2_rr1_Player.wav
 pitch_keycenter=78
 lokey=78
 hikey=79
 offset=8
-volume=-5.292808
+volume=4.707192
 
 <region>
-lovel=59
-hivel=95
+lovel=66
+hivel=99
 sample=Grand Piano, Kawai/Releases/GPiano_rel_F#4_v3_rr1_Player.wav
 pitch_keycenter=78
 lokey=78
 hikey=79
 tune=-7
-volume=-11.552081
+volume=-1.552081
 
 <region>
-lovel=96
+lovel=100
 hivel=127
 sample=Grand Piano, Kawai/Releases/GPiano_rel_F#4_v4_rr1_Player.wav
 pitch_keycenter=78
 lokey=78
 hikey=79
 tune=-2
-volume=-14.669107
+volume=-4.669107
 
 <region>
 lovel=0
-hivel=58
+hivel=65
 sample=Grand Piano, Kawai/Releases/GPiano_rel_G#4_v2_rr1_Player.wav
 pitch_keycenter=80
 lokey=80
 hikey=81
 tune=-32
-volume=-3.607714
+volume=6.392286
 
 <region>
-lovel=59
-hivel=95
+lovel=66
+hivel=99
 sample=Grand Piano, Kawai/Releases/GPiano_rel_G#4_v3_rr1_Player.wav
 pitch_keycenter=80
 lokey=80
 hikey=81
 tune=-6
-volume=-9.012402
+volume=0.987598
 
 <region>
-lovel=96
+lovel=100
 hivel=127
 sample=Grand Piano, Kawai/Releases/GPiano_rel_G#4_v4_rr1_Player.wav
 pitch_keycenter=80
 lokey=80
 hikey=81
 tune=-25
-volume=-9.402516
+volume=0.597484
 
 <region>
 sample=Grand Piano, Kawai/Releases/GPiano_rel_A#4_v2_rr1_Player.wav
 pitch_keycenter=82
 lokey=82
 hikey=82
-volume=-3.960378
+volume=6.039622
 
 <region>
 lovel=0
-hivel=77
+hivel=83
 sample=Grand Piano, Kawai/Releases/GPiano_rel_B4_v3_rr1_Player.wav
 pitch_keycenter=83
 lokey=83
 hikey=83
 tune=-21
-volume=-15.651337
+volume=-5.651337
 
 <region>
-lovel=78
+lovel=84
 hivel=127
 sample=Grand Piano, Kawai/Releases/GPiano_rel_B4_v4_rr1_Player.wav
 pitch_keycenter=83
 lokey=83
 hikey=83
-volume=-16.944537
+volume=-6.944537
 
 <region>
 lovel=0
-hivel=58
+hivel=65
 sample=Grand Piano, Kawai/Releases/GPiano_rel_C5_v2_rr1_Player.wav
 pitch_keycenter=84
 lokey=84
 hikey=85
 tune=-6
-volume=-4.110081
+volume=5.889919
 
 <region>
-lovel=59
-hivel=95
+lovel=66
+hivel=99
 sample=Grand Piano, Kawai/Releases/GPiano_rel_C5_v3_rr1_Player.wav
 pitch_keycenter=84
 lokey=84
 hikey=85
 tune=-12
-volume=-0.797308
+volume=9.202692
 
 <region>
-lovel=96
+lovel=100
 hivel=127
 sample=Grand Piano, Kawai/Releases/GPiano_rel_C5_v4_rr1_Player.wav
 pitch_keycenter=84
 lokey=84
 hikey=85
 tune=-1
-volume=-11.867749
+volume=-1.867749
 
 <region>
 lovel=0
-hivel=58
+hivel=65
 sample=Grand Piano, Kawai/Releases/GPiano_rel_D#5_v2_rr1_Player.wav
 pitch_keycenter=87
 lokey=86
 hikey=88
-volume=-0.954223
+volume=9.045777
 
 <region>
-lovel=59
-hivel=95
+lovel=66
+hivel=99
 sample=Grand Piano, Kawai/Releases/GPiano_rel_D#5_v3_rr1_Player.wav
 pitch_keycenter=87
 lokey=86
 hikey=88
 tune=-15
-volume=-3.153099
+volume=6.846901
 
 <region>
-lovel=96
+lovel=100
 hivel=127
 sample=Grand Piano, Kawai/Releases/GPiano_rel_D#5_v4_rr1_Player.wav
 pitch_keycenter=87
 lokey=86
 hikey=88
 tune=-9
-volume=-10.354477
+volume=-0.354477
 
