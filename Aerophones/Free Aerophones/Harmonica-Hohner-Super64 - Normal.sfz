@@ -1,0 +1,209 @@
+<group>
+trigger=attack
+ampeg_attack=0.004000
+ampeg_release=0.100000
+
+<region>
+sample=Harmonica-Hohner-Super64/Sustains/Normal/Hohner-Super64_Normal _C2.wav
+pitch_keycenter=48
+lokey=48
+hikey=50
+volume=-2.945450
+
+<region>
+sample=Harmonica-Hohner-Super64/Sustains/Normal/Hohner-Super64_Normal _E2.wav
+pitch_keycenter=52
+lokey=51
+hikey=53
+tune=1
+volume=1.192994
+
+<region>
+sample=Harmonica-Hohner-Super64/Sustains/Normal/Hohner-Super64_Normal _G2.wav
+pitch_keycenter=55
+lokey=54
+hikey=57
+tune=3
+volume=1.435344
+
+<region>
+sample=Harmonica-Hohner-Super64/Sustains/Normal/Hohner-Super64_Normal _C3.wav
+pitch_keycenter=60
+lokey=58
+hikey=62
+tune=1
+volume=2.608488
+
+<region>
+sample=Harmonica-Hohner-Super64/Sustains/Normal/Hohner-Super64_Normal _E3.wav
+pitch_keycenter=64
+lokey=63
+hikey=65
+volume=-0.709166
+
+<region>
+sample=Harmonica-Hohner-Super64/Sustains/Normal/Hohner-Super64_Normal _G3.wav
+pitch_keycenter=67
+lokey=66
+hikey=69
+volume=0.303144
+
+<region>
+sample=Harmonica-Hohner-Super64/Sustains/Normal/Hohner-Super64_Normal _C4.wav
+pitch_keycenter=72
+lokey=70
+hikey=74
+volume=-1.911416
+
+<region>
+sample=Harmonica-Hohner-Super64/Sustains/Normal/Hohner-Super64_Normal _E4.wav
+pitch_keycenter=76
+lokey=75
+hikey=77
+tune=1
+volume=2.983352
+
+<region>
+sample=Harmonica-Hohner-Super64/Sustains/Normal/Hohner-Super64_Normal _G4.wav
+pitch_keycenter=79
+lokey=78
+hikey=81
+offset=167
+volume=-2.346742
+
+<region>
+sample=Harmonica-Hohner-Super64/Sustains/Normal/Hohner-Super64_Normal _C5.wav
+pitch_keycenter=84
+lokey=82
+hikey=86
+volume=0.396118
+
+<region>
+sample=Harmonica-Hohner-Super64/Sustains/Normal/Hohner-Super64_Normal _E5.wav
+pitch_keycenter=88
+lokey=87
+hikey=89
+volume=1.785430
+
+<region>
+sample=Harmonica-Hohner-Super64/Sustains/Normal/Hohner-Super64_Normal _G5.wav
+pitch_keycenter=91
+lokey=90
+hikey=93
+volume=2.347265
+
+<region>
+sample=Harmonica-Hohner-Super64/Sustains/Normal/Hohner-Super64_Normal _C6.wav
+pitch_keycenter=96
+lokey=94
+hikey=97
+volume=-3.348266
+
+<group>
+trigger=release
+ampeg_attack=0.100000
+ampeg_release=0.300000
+
+<region>
+sample=Harmonica-Hohner-Super64/Releases/Normal/Hohner-Super64_Normal _rel_C2.wav
+pitch_keycenter=48
+lokey=48
+hikey=50
+tune=-12
+volume=-8.745363
+
+<region>
+sample=Harmonica-Hohner-Super64/Releases/Normal/Hohner-Super64_Normal _rel_E2.wav
+pitch_keycenter=52
+lokey=51
+hikey=53
+tune=-23
+volume=-10.086424
+
+<region>
+sample=Harmonica-Hohner-Super64/Releases/Normal/Hohner-Super64_Normal _rel_G2.wav
+pitch_keycenter=55
+lokey=54
+hikey=57
+tune=-25
+volume=-7.198257
+
+<region>
+sample=Harmonica-Hohner-Super64/Releases/Normal/Hohner-Super64_Normal _rel_C3.wav
+pitch_keycenter=60
+lokey=58
+hikey=62
+tune=-14
+volume=-3.621373
+
+<region>
+sample=Harmonica-Hohner-Super64/Releases/Normal/Hohner-Super64_Normal _rel_E3.wav
+pitch_keycenter=64
+lokey=63
+hikey=65
+tune=-8
+volume=-11.026255
+
+<region>
+sample=Harmonica-Hohner-Super64/Releases/Normal/Hohner-Super64_Normal _rel_G3.wav
+pitch_keycenter=67
+lokey=66
+hikey=69
+tune=-3
+volume=-15.195632
+
+<region>
+sample=Harmonica-Hohner-Super64/Releases/Normal/Hohner-Super64_Normal _rel_C4.wav
+pitch_keycenter=72
+lokey=70
+hikey=74
+tune=-6
+volume=-7.418909
+
+<region>
+sample=Harmonica-Hohner-Super64/Releases/Normal/Hohner-Super64_Normal _rel_E4.wav
+pitch_keycenter=76
+lokey=75
+hikey=77
+tune=-4
+volume=-5.045847
+
+<region>
+sample=Harmonica-Hohner-Super64/Releases/Normal/Hohner-Super64_Normal _rel_G4.wav
+pitch_keycenter=79
+lokey=78
+hikey=81
+tune=-2
+volume=-10.801915
+
+<region>
+sample=Harmonica-Hohner-Super64/Releases/Normal/Hohner-Super64_Normal _rel_C5.wav
+pitch_keycenter=84
+lokey=82
+hikey=86
+tune=-5
+volume=-14.100892
+
+<region>
+sample=Harmonica-Hohner-Super64/Releases/Normal/Hohner-Super64_Normal _rel_E5.wav
+pitch_keycenter=88
+lokey=87
+hikey=89
+volume=-11.331924
+
+<region>
+sample=Harmonica-Hohner-Super64/Releases/Normal/Hohner-Super64_Normal _rel_G5.wav
+pitch_keycenter=91
+lokey=90
+hikey=93
+tune=-59
+volume=-5.321724
+
+<region>
+sample=Harmonica-Hohner-Super64/Releases/Normal/Hohner-Super64_Normal _rel_C6.wav
+pitch_keycenter=96
+lokey=94
+hikey=97
+tune=-3
+volume=-6.741646
+

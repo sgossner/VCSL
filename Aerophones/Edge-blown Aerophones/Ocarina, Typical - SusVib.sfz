@@ -1,0 +1,168 @@
+<group>
+trigger=attack
+ampeg_attack=0.004000
+ampeg_release=0.100000
+
+<region>
+sample=Ocarina, Typical/Sustains/SusVib/StdOcarina_SusVib_A3.wav
+pitch_keycenter=69
+lokey=69
+hikey=70
+tune=-10
+volume=2.421947
+
+<region>
+sample=Ocarina, Typical/Sustains/SusVib/StdOcarina_SusVib_C4.wav
+pitch_keycenter=72
+lokey=71
+hikey=72
+tune=-1
+volume=-1.137416
+
+<region>
+sample=Ocarina, Typical/Sustains/SusVib/StdOcarina_SusVib_C#4.wav
+pitch_keycenter=73
+lokey=73
+hikey=74
+tune=-5
+volume=-1.872448
+
+<region>
+sample=Ocarina, Typical/Sustains/SusVib/StdOcarina_SusVib_D#4.wav
+pitch_keycenter=75
+lokey=75
+hikey=75
+volume=2.520636
+
+<region>
+sample=Ocarina, Typical/Sustains/SusVib/StdOcarina_SusVib_E4.wav
+pitch_keycenter=76
+lokey=76
+hikey=77
+volume=4.915036
+
+<region>
+sample=Ocarina, Typical/Sustains/SusVib/StdOcarina_SusVib_F#4.wav
+pitch_keycenter=78
+lokey=78
+hikey=79
+tune=-4
+volume=-1.163715
+
+<region>
+sample=Ocarina, Typical/Sustains/SusVib/StdOcarina_SusVib_G#4.wav
+pitch_keycenter=80
+lokey=80
+hikey=80
+tune=-5
+volume=-3.957509
+
+<region>
+sample=Ocarina, Typical/Sustains/SusVib/StdOcarina_SusVib_A4.wav
+pitch_keycenter=81
+lokey=81
+hikey=81
+tune=-8
+volume=1.959666
+
+<region>
+sample=Ocarina, Typical/Sustains/SusVib/StdOcarina_SusVib_A#4.wav
+pitch_keycenter=82
+lokey=82
+hikey=83
+tune=-9
+volume=-0.147342
+
+<region>
+sample=Ocarina, Typical/Sustains/SusVib/StdOcarina_SusVib_C5.wav
+pitch_keycenter=84
+lokey=84
+hikey=85
+tune=-9
+volume=1.380054
+
+<group>
+trigger=release
+ampeg_attack=0.100000
+ampeg_release=0.300000
+
+<region>
+sample=Ocarina, Typical/Releases/SusVib/StdOcarina_SusVib_A3_rel.wav
+pitch_keycenter=69
+lokey=69
+hikey=70
+tune=58
+volume=3.779786
+
+<region>
+sample=Ocarina, Typical/Releases/SusVib/StdOcarina_SusVib_C4_rel.wav
+pitch_keycenter=72
+lokey=71
+hikey=72
+tune=43
+volume=0.996894
+
+<region>
+sample=Ocarina, Typical/Releases/SusVib/StdOcarina_SusVib_C#4_rel.wav
+pitch_keycenter=73
+lokey=73
+hikey=74
+tune=55
+volume=6.833511
+
+<region>
+sample=Ocarina, Typical/Releases/SusVib/StdOcarina_SusVib_D#4_rel.wav
+pitch_keycenter=75
+lokey=75
+hikey=75
+tune=18
+volume=-4.756748
+
+<region>
+sample=Ocarina, Typical/Releases/SusVib/StdOcarina_SusVib_E4_rel.wav
+pitch_keycenter=76
+lokey=76
+hikey=77
+tune=17
+volume=0.777329
+
+<region>
+sample=Ocarina, Typical/Releases/SusVib/StdOcarina_SusVib_F#4_rel.wav
+pitch_keycenter=78
+lokey=78
+hikey=79
+tune=35
+volume=0.842797
+
+<region>
+sample=Ocarina, Typical/Releases/SusVib/StdOcarina_SusVib_G#4_rel.wav
+pitch_keycenter=80
+lokey=80
+hikey=80
+tune=15
+volume=2.026878
+
+<region>
+sample=Ocarina, Typical/Releases/SusVib/StdOcarina_SusVib_A4_rel.wav
+pitch_keycenter=81
+lokey=81
+hikey=81
+tune=29
+volume=5.331087
+
+<region>
+sample=Ocarina, Typical/Releases/SusVib/StdOcarina_SusVib_A#4_rel.wav
+pitch_keycenter=82
+lokey=82
+hikey=83
+tune=26
+volume=-7.028720
+
+<region>
+sample=Ocarina, Typical/Releases/SusVib/StdOcarina_SusVib_C5_rel.wav
+pitch_keycenter=84
+lokey=84
+hikey=85
+tune=40
+volume=6.231957
+

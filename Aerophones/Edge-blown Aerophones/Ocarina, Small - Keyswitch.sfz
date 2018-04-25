@@ -1,0 +1,222 @@
+<group>
+sw_default=48
+sw_lokey=48
+sw_hikey=50
+sw_last=48
+sw_label=Sustain
+ampeg_attack=0.004000
+ampeg_release=0.300000
+
+<region>
+sample=Ocarina, Small/Sustain/ocarina_A#4_sustain0.wav
+pitch_keycenter=82
+lokey=82
+hikey=83
+tune=3
+volume=12.054970
+
+<region>
+sample=Ocarina, Small/Sustain/ocarina_C5_sustain0.wav
+pitch_keycenter=84
+lokey=84
+hikey=85
+tune=-1
+volume=7.823864
+
+<region>
+sample=Ocarina, Small/Sustain/ocarina_D5_sustain0.wav
+pitch_keycenter=86
+lokey=86
+hikey=87
+offset=43
+tune=1
+volume=1.340011
+
+<region>
+sample=Ocarina, Small/Sustain/ocarina_E5_sustain0.wav
+pitch_keycenter=88
+lokey=88
+hikey=88
+tune=-2
+volume=5.867691
+
+<region>
+sample=Ocarina, Small/Sustain/ocarina_F5_sustain0.wav
+pitch_keycenter=89
+lokey=89
+hikey=89
+offset=6
+volume=7.067927
+
+<region>
+sample=Ocarina, Small/Sustain/ocarina_F#5_sustain0.wav
+pitch_keycenter=90
+lokey=90
+hikey=90
+offset=148
+volume=4.089229
+
+<region>
+sample=Ocarina, Small/Sustain/ocarina_G5_sustain0.wav
+pitch_keycenter=91
+lokey=91
+hikey=91
+offset=10
+tune=-4
+volume=4.460259
+
+<region>
+sample=Ocarina, Small/Sustain/ocarina_G#5_sustain0.wav
+pitch_keycenter=92
+lokey=92
+hikey=92
+offset=61
+tune=-3
+volume=5.840059
+
+<region>
+sample=Ocarina, Small/Sustain/ocarina_A5_sustain0.wav
+pitch_keycenter=93
+lokey=93
+hikey=93
+offset=387
+tune=1
+volume=2.659332
+
+<region>
+sample=Ocarina, Small/Sustain/ocarina_A#5_sustain0.wav
+pitch_keycenter=94
+lokey=94
+hikey=94
+tune=1
+volume=6.342204
+
+<region>
+sample=Ocarina, Small/Sustain/ocarina_B5_sustain0.wav
+pitch_keycenter=95
+lokey=95
+hikey=96
+offset=408
+volume=5.713320
+
+
+
+<group>
+sw_default=48
+sw_lokey=48
+sw_hikey=50
+sw_last=49
+sw_label=Staccato
+ampeg_attack=0.004000
+ampeg_release=0.300000
+
+<region>
+sample=Ocarina, Small/Staccato/ocarina_A#4_staccato0.wav
+pitch_keycenter=82
+lokey=82
+hikey=83
+tune=88
+volume=14.522122
+
+<region>
+sample=Ocarina, Small/Staccato/ocarina_C5_staccato0.wav
+pitch_keycenter=84
+lokey=84
+hikey=85
+volume=7.036702
+
+<region>
+sample=Ocarina, Small/Staccato/ocarina_D5_staccato0.wav
+pitch_keycenter=86
+lokey=86
+hikey=86
+offset=77
+tune=3
+volume=0.746696
+
+<region>
+sample=Ocarina, Small/Staccato/ocarina_D#5_staccato0.wav
+pitch_keycenter=87
+lokey=87
+hikey=87
+volume=6.184085
+
+<region>
+sample=Ocarina, Small/Staccato/ocarina_E5_staccato0.wav
+pitch_keycenter=88
+lokey=88
+hikey=88
+offset=139
+tune=-4
+volume=6.445603
+
+<region>
+sample=Ocarina, Small/Staccato/ocarina_F5_staccato0.wav
+pitch_keycenter=89
+lokey=89
+hikey=89
+offset=178
+tune=13
+volume=8.134340
+
+<region>
+sample=Ocarina, Small/Staccato/ocarina_F#5_staccato0.wav
+pitch_keycenter=90
+lokey=90
+hikey=90
+offset=230
+tune=2
+volume=3.965101
+
+<region>
+sample=Ocarina, Small/Staccato/ocarina_G5_staccato0.wav
+pitch_keycenter=91
+lokey=91
+hikey=91
+volume=4.296807
+
+<region>
+sample=Ocarina, Small/Staccato/ocarina_G#5_staccato0.wav
+pitch_keycenter=92
+lokey=92
+hikey=92
+offset=101
+tune=-1
+volume=4.237915
+
+<region>
+sample=Ocarina, Small/Staccato/ocarina_A5_staccato0.wav
+pitch_keycenter=93
+lokey=93
+hikey=93
+tune=2
+volume=3.821297
+
+<region>
+sample=Ocarina, Small/Staccato/ocarina_A#5_staccato0.wav
+pitch_keycenter=94
+lokey=94
+hikey=94
+offset=226
+tune=1
+volume=5.322283
+
+<region>
+sample=Ocarina, Small/Staccato/ocarina_B5_staccato0.wav
+pitch_keycenter=95
+lokey=95
+hikey=95
+offset=64
+volume=4.026181
+
+<region>
+sample=Ocarina, Small/Staccato/ocarina_C6_staccato0.wav
+pitch_keycenter=96
+lokey=96
+hikey=97
+offset=36
+tune=4
+volume=9.355782
+
+
+

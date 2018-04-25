@@ -1,0 +1,94 @@
+<group>
+ampeg_attack=0.004000
+ampeg_release=15.000000
+
+<region>
+sample=Psaltery, Bowed and Plucked/Spiccato/BowedPsaltery_A#3_Main_Spic_rr1.wav
+pitch_keycenter=70
+lokey=70
+hikey=71
+offset=121
+volume=14.249479
+
+<region>
+sample=Psaltery, Bowed and Plucked/Spiccato/BowedPsaltery_C4_Main_Spic_rr1.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+offset=161
+tune=-4
+volume=4.254218
+
+<region>
+sample=Psaltery, Bowed and Plucked/Spiccato/BowedPsaltery_D4_Main_Spic_rr1.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+offset=230
+tune=-2
+volume=4.861972
+
+<region>
+sample=Psaltery, Bowed and Plucked/Spiccato/BowedPsaltery_E4_Main_Spic_rr3.wav
+pitch_keycenter=76
+lokey=76
+hikey=77
+volume=5.726772
+
+<region>
+sample=Psaltery, Bowed and Plucked/Spiccato/BowedPsaltery_F#4_Main_Spic_rr1.wav
+pitch_keycenter=78
+lokey=78
+hikey=79
+offset=181
+tune=16
+volume=11.893383
+
+<region>
+sample=Psaltery, Bowed and Plucked/Spiccato/BowedPsaltery_G#4_Main_Spic_rr3.wav
+pitch_keycenter=80
+lokey=80
+hikey=81
+volume=10.085267
+
+<region>
+sample=Psaltery, Bowed and Plucked/Spiccato/BowedPsaltery_A#4_Main_Spic_rr1.wav
+pitch_keycenter=82
+lokey=82
+hikey=83
+volume=3.554851
+
+<region>
+sample=Psaltery, Bowed and Plucked/Spiccato/BowedPsaltery_C5_Main_Spic_rr1.wav
+pitch_keycenter=84
+lokey=84
+hikey=85
+tune=3
+volume=6.926708
+
+<region>
+sample=Psaltery, Bowed and Plucked/Spiccato/BowedPsaltery_D5_Main_Spic_rr1.wav
+pitch_keycenter=86
+lokey=86
+hikey=87
+offset=81
+tune=-1
+volume=11.730918
+
+<region>
+sample=Psaltery, Bowed and Plucked/Spiccato/BowedPsaltery_E5_Main_Spic_rr2.wav
+pitch_keycenter=88
+lokey=88
+hikey=89
+tune=1
+volume=2.777122
+
+<region>
+sample=Psaltery, Bowed and Plucked/Spiccato/BowedPsaltery_F#5_Main_Spic_rr4.wav
+pitch_keycenter=90
+lokey=90
+hikey=91
+offset=177
+tune=20
+volume=10.223014
+

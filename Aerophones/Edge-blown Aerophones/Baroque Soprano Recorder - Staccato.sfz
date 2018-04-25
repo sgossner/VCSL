@@ -1,0 +1,110 @@
+<group>
+ampeg_attack=0.004000
+ampeg_release=0.300000
+
+<region>
+sample=Baroque Soprano Recorder/Staccato/SopRecorder_Stac_C4_rr1_Main.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+offset=658
+volume=10.960837
+
+<region>
+sample=Baroque Soprano Recorder/Staccato/SopRecorder_Stac_D4_rr1_Main.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+offset=605
+tune=-3
+volume=5.820980
+
+<region>
+sample=Baroque Soprano Recorder/Staccato/SopRecorder_Stac_E4_rr1_Main.wav
+pitch_keycenter=76
+lokey=76
+hikey=77
+offset=118
+tune=-6
+volume=4.499818
+
+<region>
+sample=Baroque Soprano Recorder/Staccato/SopRecorder_Stac_F#4_rr1_Main.wav
+pitch_keycenter=78
+lokey=78
+hikey=79
+offset=111
+tune=-3
+volume=8.872738
+
+<region>
+sample=Baroque Soprano Recorder/Staccato/SopRecorder_Stac_G#4_rr1_Main.wav
+pitch_keycenter=80
+lokey=80
+hikey=81
+offset=287
+tune=-9
+volume=5.682155
+
+<region>
+sample=Baroque Soprano Recorder/Staccato/SopRecorder_Stac_A#4_rr1_Main.wav
+pitch_keycenter=82
+lokey=82
+hikey=83
+offset=133
+tune=-9
+volume=6.863774
+
+<region>
+sample=Baroque Soprano Recorder/Staccato/SopRecorder_Stac_C5_rr1_Main.wav
+pitch_keycenter=84
+lokey=84
+hikey=85
+offset=135
+tune=-3
+volume=3.368891
+
+<region>
+sample=Baroque Soprano Recorder/Staccato/SopRecorder_Stac_D5_rr1_Main.wav
+pitch_keycenter=86
+lokey=86
+hikey=87
+offset=152
+tune=-3
+volume=1.572414
+
+<region>
+sample=Baroque Soprano Recorder/Staccato/SopRecorder_Stac_E5_rr1_Main.wav
+pitch_keycenter=88
+lokey=88
+hikey=89
+offset=273
+tune=1
+volume=8.428501
+
+<region>
+sample=Baroque Soprano Recorder/Staccato/SopRecorder_Stac_F#5_rr1_Main.wav
+pitch_keycenter=90
+lokey=90
+hikey=90
+offset=219
+tune=-6
+volume=5.382358
+
+<region>
+sample=Baroque Soprano Recorder/Staccato/SopRecorder_Stac_G5_rr1_Main.wav
+pitch_keycenter=91
+lokey=91
+hikey=92
+offset=131
+tune=-1
+volume=4.348169
+
+<region>
+sample=Baroque Soprano Recorder/Staccato/SopRecorder_Stac_A#5_rr1_Main.wav
+pitch_keycenter=94
+lokey=93
+hikey=95
+offset=78
+volume=4.421533
+

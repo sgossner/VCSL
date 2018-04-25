@@ -1,0 +1,461 @@
+<group>
+trigger=attack
+ampeg_attack=0.004000
+ampeg_release=0.100000
+
+<region>
+sample=Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_A#0_rr1.wav
+pitch_keycenter=34
+lokey=34
+hikey=35
+offset=199
+tune=-4
+volume=1.463223
+
+<region>
+sample=Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_C1_rr1.wav
+pitch_keycenter=36
+lokey=36
+hikey=37
+offset=74
+tune=-4
+volume=2.983084
+
+<region>
+sample=Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_D1_rr1.wav
+pitch_keycenter=38
+lokey=38
+hikey=39
+offset=44
+tune=-2
+volume=-0.380202
+
+<region>
+sample=Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_E1_rr1.wav
+pitch_keycenter=40
+lokey=40
+hikey=41
+offset=247
+tune=-1
+volume=-1.794991
+
+<region>
+sample=Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_F#1_rr1.wav
+pitch_keycenter=42
+lokey=42
+hikey=43
+offset=166
+tune=-2
+volume=0.237349
+
+<region>
+sample=Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_G#1_rr1.wav
+pitch_keycenter=44
+lokey=44
+hikey=45
+volume=1.375547
+
+<region>
+sample=Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_A#1_rr1.wav
+pitch_keycenter=46
+lokey=46
+hikey=47
+offset=118
+tune=2
+volume=-4.189330
+
+<region>
+sample=Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_C2_rr1.wav
+pitch_keycenter=48
+lokey=48
+hikey=49
+offset=132
+tune=-12
+volume=4.710172
+
+<region>
+sample=Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_D2_rr1.wav
+pitch_keycenter=50
+lokey=50
+hikey=51
+offset=32
+tune=-6
+volume=2.381832
+
+<region>
+sample=Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_E2_rr1.wav
+pitch_keycenter=52
+lokey=52
+hikey=53
+offset=272
+tune=-8
+volume=-0.434658
+
+<region>
+sample=Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_F#2_rr1.wav
+pitch_keycenter=54
+lokey=54
+hikey=55
+tune=-8
+volume=-3.782582
+
+<region>
+sample=Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_G#2_rr1.wav
+pitch_keycenter=56
+lokey=56
+hikey=57
+offset=119
+tune=-10
+volume=9.310829
+
+<region>
+sample=Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_A#2_rr1.wav
+pitch_keycenter=58
+lokey=58
+hikey=59
+offset=99
+tune=-11
+volume=-0.330946
+
+<region>
+sample=Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_C3_rr1.wav
+pitch_keycenter=60
+lokey=60
+hikey=61
+offset=171
+tune=-11
+volume=-2.336396
+
+<region>
+sample=Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_D3_rr1.wav
+pitch_keycenter=62
+lokey=62
+hikey=63
+tune=-10
+volume=-1.330219
+
+<region>
+sample=Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_E3_rr1.wav
+pitch_keycenter=64
+lokey=64
+hikey=65
+offset=3
+tune=-14
+volume=0.643452
+
+<region>
+sample=Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_F#3_rr1.wav
+pitch_keycenter=66
+lokey=66
+hikey=67
+tune=-8
+volume=2.831589
+
+<region>
+sample=Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_G#3_rr1.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+tune=-10
+volume=2.334975
+
+<region>
+sample=Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_A#3_rr1.wav
+pitch_keycenter=70
+lokey=70
+hikey=71
+tune=-6
+volume=-3.631293
+
+<region>
+sample=Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_C4_rr1.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+tune=-13
+volume=2.014088
+
+<region>
+sample=Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_D4_rr1.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+tune=-5
+volume=-1.028456
+
+<region>
+sample=Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_E4_rr1.wav
+pitch_keycenter=76
+lokey=76
+hikey=77
+tune=-12
+volume=-0.013350
+
+<region>
+sample=Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_F#4_rr1.wav
+pitch_keycenter=78
+lokey=78
+hikey=79
+tune=-10
+volume=-0.542239
+
+<region>
+sample=Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_G#4_rr1.wav
+pitch_keycenter=80
+lokey=80
+hikey=81
+tune=-9
+volume=1.370039
+
+<region>
+sample=Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_A#4_rr1.wav
+pitch_keycenter=82
+lokey=82
+hikey=83
+tune=-4
+volume=0.034822
+
+<region>
+sample=Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_C5_rr1.wav
+pitch_keycenter=84
+lokey=84
+hikey=85
+volume=-3.952900
+
+<region>
+sample=Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_D5_rr1.wav
+pitch_keycenter=86
+lokey=86
+hikey=87
+tune=-17
+volume=4.719180
+
+<region>
+sample=Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_E5_rr1.wav
+pitch_keycenter=88
+lokey=88
+hikey=89
+tune=3
+volume=6.511423
+
+<group>
+trigger=release
+ampeg_attack=0.100000
+ampeg_release=0.300000
+rt_decay=6
+
+<region>
+sample=Harpsichord, English/Releases/Normal/ZuckermannKitHarpsi_Normal_Rel_A#0_rr1.wav
+pitch_keycenter=34
+lokey=34
+hikey=35
+tune=-10
+volume=-6.315853
+
+<region>
+sample=Harpsichord, English/Releases/Normal/ZuckermannKitHarpsi_Normal_Rel_C1_rr1.wav
+pitch_keycenter=36
+lokey=36
+hikey=37
+tune=-26
+volume=-2.823697
+
+<region>
+sample=Harpsichord, English/Releases/Normal/ZuckermannKitHarpsi_Normal_Rel_D1_rr1.wav
+pitch_keycenter=38
+lokey=38
+hikey=39
+volume=-9.108998
+
+<region>
+sample=Harpsichord, English/Releases/Normal/ZuckermannKitHarpsi_Normal_Rel_E1_rr1.wav
+pitch_keycenter=40
+lokey=40
+hikey=41
+tune=-7
+volume=-10.706688
+
+<region>
+sample=Harpsichord, English/Releases/Normal/ZuckermannKitHarpsi_Normal_Rel_F#1_rr1.wav
+pitch_keycenter=42
+lokey=42
+hikey=43
+tune=-13
+volume=-4.453758
+
+<region>
+sample=Harpsichord, English/Releases/Normal/ZuckermannKitHarpsi_Normal_Rel_G#1_rr1.wav
+pitch_keycenter=44
+lokey=44
+hikey=45
+tune=-2
+volume=-8.518861
+
+<region>
+sample=Harpsichord, English/Releases/Normal/ZuckermannKitHarpsi_Normal_Rel_A#1_rr1.wav
+pitch_keycenter=46
+lokey=46
+hikey=47
+tune=-6
+volume=-8.745851
+
+<region>
+sample=Harpsichord, English/Releases/Normal/ZuckermannKitHarpsi_Normal_Rel_C2_rr1.wav
+pitch_keycenter=48
+lokey=48
+hikey=49
+volume=-9.469313
+
+<region>
+sample=Harpsichord, English/Releases/Normal/ZuckermannKitHarpsi_Normal_Rel_D2_rr1.wav
+pitch_keycenter=50
+lokey=50
+hikey=51
+offset=8
+volume=-8.868300
+
+<region>
+sample=Harpsichord, English/Releases/Normal/ZuckermannKitHarpsi_Normal_Rel_E2_rr1.wav
+pitch_keycenter=52
+lokey=52
+hikey=53
+tune=-12
+volume=-6.017288
+
+<region>
+sample=Harpsichord, English/Releases/Normal/ZuckermannKitHarpsi_Normal_Rel_F#2_rr1.wav
+pitch_keycenter=54
+lokey=54
+hikey=55
+volume=-9.288368
+
+<region>
+sample=Harpsichord, English/Releases/Normal/ZuckermannKitHarpsi_Normal_Rel_G#2_rr1.wav
+pitch_keycenter=56
+lokey=56
+hikey=57
+volume=-6.584172
+
+<region>
+sample=Harpsichord, English/Releases/Normal/ZuckermannKitHarpsi_Normal_Rel_B2_rr1.wav
+pitch_keycenter=59
+lokey=58
+hikey=59
+tune=-78
+volume=-6.058042
+
+<region>
+sample=Harpsichord, English/Releases/Normal/ZuckermannKitHarpsi_Normal_Rel_C3_rr1.wav
+pitch_keycenter=60
+lokey=60
+hikey=61
+volume=-9.480031
+
+<region>
+sample=Harpsichord, English/Releases/Normal/ZuckermannKitHarpsi_Normal_Rel_D3_rr1.wav
+pitch_keycenter=62
+lokey=62
+hikey=63
+volume=-4.422412
+
+<region>
+sample=Harpsichord, English/Releases/Normal/ZuckermannKitHarpsi_Normal_Rel_E3_rr1.wav
+pitch_keycenter=64
+lokey=64
+hikey=65
+tune=-18
+volume=-8.197762
+
+<region>
+sample=Harpsichord, English/Releases/Normal/ZuckermannKitHarpsi_Normal_Rel_F#3_rr1.wav
+pitch_keycenter=66
+lokey=66
+hikey=67
+tune=-5
+volume=-10.401613
+
+<region>
+sample=Harpsichord, English/Releases/Normal/ZuckermannKitHarpsi_Normal_Rel_G#3_rr1.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+tune=-11
+volume=-8.673377
+
+<region>
+sample=Harpsichord, English/Releases/Normal/ZuckermannKitHarpsi_Normal_Rel_A#3_rr1.wav
+pitch_keycenter=70
+lokey=70
+hikey=71
+tune=-10
+volume=-4.373783
+
+<region>
+sample=Harpsichord, English/Releases/Normal/ZuckermannKitHarpsi_Normal_Rel_C4_rr1.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+volume=-8.420052
+
+<region>
+sample=Harpsichord, English/Releases/Normal/ZuckermannKitHarpsi_Normal_Rel_D4_rr1.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+volume=-7.797656
+
+<region>
+sample=Harpsichord, English/Releases/Normal/ZuckermannKitHarpsi_Normal_Rel_E4_rr1.wav
+pitch_keycenter=76
+lokey=76
+hikey=77
+tune=-6
+volume=-9.860319
+
+<region>
+sample=Harpsichord, English/Releases/Normal/ZuckermannKitHarpsi_Normal_Rel_F#4_rr1.wav
+pitch_keycenter=78
+lokey=78
+hikey=79
+tune=-15
+volume=-8.533808
+
+<region>
+sample=Harpsichord, English/Releases/Normal/ZuckermannKitHarpsi_Normal_Rel_G#4_rr1.wav
+pitch_keycenter=80
+lokey=80
+hikey=81
+tune=-5
+volume=-3.348184
+
+<region>
+sample=Harpsichord, English/Releases/Normal/ZuckermannKitHarpsi_Normal_Rel_A#4_rr1.wav
+pitch_keycenter=82
+lokey=82
+hikey=83
+tune=-22
+volume=-1.369076
+
+<region>
+sample=Harpsichord, English/Releases/Normal/ZuckermannKitHarpsi_Normal_Rel_C5_rr1.wav
+pitch_keycenter=84
+lokey=84
+hikey=85
+tune=-4
+volume=-14.744937
+
+<region>
+sample=Harpsichord, English/Releases/Normal/ZuckermannKitHarpsi_Normal_Rel_D5_rr1.wav
+pitch_keycenter=86
+lokey=86
+hikey=87
+tune=-22
+volume=-8.169863
+
+<region>
+sample=Harpsichord, English/Releases/Normal/ZuckermannKitHarpsi_Normal_Rel_E5_rr1.wav
+pitch_keycenter=88
+lokey=88
+hikey=89
+volume=-2.140985
+

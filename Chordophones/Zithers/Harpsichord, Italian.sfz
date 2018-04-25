@@ -1,0 +1,514 @@
+<group>
+trigger=attack
+ampeg_attack=0.004000
+ampeg_release=0.200000
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_F#0_1.wav
+pitch_keycenter=30
+lokey=30
+hikey=31
+tune=-2
+volume=-2.183331
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_G#0_1.wav
+pitch_keycenter=32
+lokey=32
+hikey=33
+tune=-3
+volume=-0.765383
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_A#0_1.wav
+pitch_keycenter=34
+lokey=34
+hikey=34
+tune=-3
+volume=2.364178
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_B0_1.wav
+pitch_keycenter=35
+lokey=35
+hikey=36
+tune=-3
+volume=-0.235304
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_C#1_1.wav
+pitch_keycenter=37
+lokey=37
+hikey=38
+tune=-5
+volume=0.080562
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_D#1_1.wav
+pitch_keycenter=39
+lokey=39
+hikey=39
+tune=-3
+volume=1.442325
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_E1_1.wav
+pitch_keycenter=40
+lokey=40
+hikey=41
+tune=-1
+volume=1.680567
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_F#1_1.wav
+pitch_keycenter=42
+lokey=42
+hikey=43
+tune=-2
+volume=-4.290875
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_G#1_1.wav
+pitch_keycenter=44
+lokey=44
+hikey=45
+tune=-5
+volume=0.485404
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_A#1_1.wav
+pitch_keycenter=46
+lokey=46
+hikey=46
+tune=-7
+volume=4.273035
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_B1_1.wav
+pitch_keycenter=47
+lokey=47
+hikey=48
+tune=-9
+volume=1.449992
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_C#2_1.wav
+pitch_keycenter=49
+lokey=49
+hikey=50
+tune=-8
+volume=1.297853
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_D#2_1.wav
+pitch_keycenter=51
+lokey=51
+hikey=51
+tune=-16
+volume=-2.465111
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_E2_1.wav
+pitch_keycenter=52
+lokey=52
+hikey=53
+tune=-16
+volume=0.776047
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_F#2_1.wav
+pitch_keycenter=54
+lokey=54
+hikey=55
+tune=-7
+volume=-0.638076
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_G#2_1.wav
+pitch_keycenter=56
+lokey=56
+hikey=57
+tune=-13
+volume=0.211363
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_A#2_1.wav
+pitch_keycenter=58
+lokey=58
+hikey=58
+tune=-15
+volume=0.710134
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_B2_1.wav
+pitch_keycenter=59
+lokey=59
+hikey=60
+tune=-11
+volume=-0.141863
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_C#3_1.wav
+pitch_keycenter=61
+lokey=61
+hikey=62
+tune=-12
+volume=-3.850576
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_D#3_1.wav
+pitch_keycenter=63
+lokey=63
+hikey=63
+tune=-11
+volume=6.414295
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_E3_1.wav
+pitch_keycenter=64
+lokey=64
+hikey=65
+tune=-5
+volume=3.220549
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_F#3_1.wav
+pitch_keycenter=66
+lokey=66
+hikey=67
+tune=-11
+volume=-2.787488
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_G#3_1.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+tune=-20
+volume=-1.555624
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_A#3_1.wav
+pitch_keycenter=70
+lokey=70
+hikey=70
+tune=-15
+volume=0.625871
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_B3_1.wav
+pitch_keycenter=71
+lokey=71
+hikey=72
+tune=-9
+volume=1.475010
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_C#4_1.wav
+pitch_keycenter=73
+lokey=73
+hikey=74
+tune=-14
+volume=2.706051
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_D#4_1.wav
+pitch_keycenter=75
+lokey=75
+hikey=75
+tune=-17
+volume=-1.083115
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_E4_1.wav
+pitch_keycenter=76
+lokey=76
+hikey=77
+tune=-12
+volume=1.717492
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_F#4_1.wav
+pitch_keycenter=78
+lokey=78
+hikey=79
+tune=-9
+volume=-3.509136
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_G#4_1.wav
+pitch_keycenter=80
+lokey=80
+hikey=81
+tune=-10
+volume=-2.177641
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_A#4_1.wav
+pitch_keycenter=82
+lokey=82
+hikey=82
+tune=-16
+volume=6.354469
+
+<region>
+sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_B4_1.wav
+pitch_keycenter=83
+lokey=83
+hikey=84
+tune=-13
+volume=1.133087
+
+<group>
+trigger=release
+ampeg_attack=0.100000
+ampeg_release=0.300000
+rt_decay=5
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_F#0_1.wav
+pitch_keycenter=30
+lokey=30
+hikey=31
+tune=-9
+volume=-20.987394
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_G#0_1.wav
+pitch_keycenter=32
+lokey=32
+hikey=33
+tune=-6
+volume=-17.101633
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_A#0_1.wav
+pitch_keycenter=34
+lokey=34
+hikey=34
+tune=-6
+volume=-14.744804
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_B0_1.wav
+pitch_keycenter=35
+lokey=35
+hikey=36
+tune=-2
+volume=-20.509279
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_C#1_1.wav
+pitch_keycenter=37
+lokey=37
+hikey=38
+tune=-6
+volume=-16.713406
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_D#1_1.wav
+pitch_keycenter=39
+lokey=39
+hikey=39
+tune=-5
+volume=-17.984442
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_E1_1.wav
+pitch_keycenter=40
+lokey=40
+hikey=41
+tune=-11
+volume=-17.171984
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_F#1_1.wav
+pitch_keycenter=42
+lokey=42
+hikey=43
+tune=-3
+volume=-20.316579
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_G#1_1.wav
+pitch_keycenter=44
+lokey=44
+hikey=45
+tune=-4
+volume=-17.451839
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_A#1_1.wav
+pitch_keycenter=46
+lokey=46
+hikey=46
+volume=-14.736258
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_B1_1.wav
+pitch_keycenter=47
+lokey=47
+hikey=48
+tune=-4
+volume=-15.900217
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_C#2_1.wav
+pitch_keycenter=49
+lokey=49
+hikey=50
+tune=-20
+volume=-19.527324
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_D#2_1.wav
+pitch_keycenter=51
+lokey=51
+hikey=51
+tune=-11
+volume=-17.565103
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_E2_1.wav
+pitch_keycenter=52
+lokey=52
+hikey=53
+tune=-11
+volume=-17.329521
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_F#2_1.wav
+pitch_keycenter=54
+lokey=54
+hikey=55
+tune=-5
+volume=-19.897629
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_G#2_1.wav
+pitch_keycenter=56
+lokey=56
+hikey=57
+tune=-4
+volume=-18.553631
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_A#2_1.wav
+pitch_keycenter=58
+lokey=58
+hikey=58
+tune=-4
+volume=-15.935221
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_B2_1.wav
+pitch_keycenter=59
+lokey=59
+hikey=60
+tune=-7
+volume=-15.081086
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_C#3_1.wav
+pitch_keycenter=61
+lokey=61
+hikey=62
+tune=-11
+volume=-23.175191
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_D#3_1.wav
+pitch_keycenter=63
+lokey=63
+hikey=63
+tune=-3
+volume=-16.052545
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_E3_1.wav
+pitch_keycenter=64
+lokey=64
+hikey=65
+tune=-3
+volume=-14.323781
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_F#3_1.wav
+pitch_keycenter=66
+lokey=66
+hikey=67
+tune=-24
+volume=-20.683834
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_G#3_1.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+tune=-5
+volume=-17.070363
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_A#3_1.wav
+pitch_keycenter=70
+lokey=70
+hikey=70
+tune=-9
+volume=-15.786508
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_B3_1.wav
+pitch_keycenter=71
+lokey=71
+hikey=72
+tune=-2
+volume=-18.930998
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_C#4_1.wav
+pitch_keycenter=73
+lokey=73
+hikey=74
+tune=-7
+volume=-17.172730
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_D#4_1.wav
+pitch_keycenter=75
+lokey=75
+hikey=75
+tune=-12
+volume=-23.184828
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_E4_1.wav
+pitch_keycenter=76
+lokey=76
+hikey=77
+tune=-29
+volume=-7.182688
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_F#4_1.wav
+pitch_keycenter=78
+lokey=78
+hikey=79
+tune=-5
+volume=-18.202249
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_G#4_1.wav
+pitch_keycenter=80
+lokey=80
+hikey=81
+tune=-1
+volume=-17.892707
+
+<region>
+sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_B4_1.wav
+pitch_keycenter=83
+lokey=82
+hikey=84
+tune=-2
+volume=-15.927591
+

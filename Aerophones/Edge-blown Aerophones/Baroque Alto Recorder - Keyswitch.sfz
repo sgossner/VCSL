@@ -1,0 +1,341 @@
+<group>
+sw_default=48
+sw_lokey=48
+sw_hikey=51
+sw_last=48
+sw_label=Sustain
+ampeg_attack=0.004000
+ampeg_release=0.300000
+
+<region>
+sample=Baroque Alto Recorder/Sustain/AltRecorder_Sus_F3_rr1_Main.wav
+pitch_keycenter=65
+lokey=65
+hikey=66
+offset=1002
+tune=-2
+volume=10.328033
+
+<region>
+sample=Baroque Alto Recorder/Sustain/AltRecorder_Sus_G#3_rr1_Main.wav
+pitch_keycenter=68
+lokey=67
+hikey=69
+offset=879
+tune=-1
+volume=10.195551
+
+<region>
+sample=Baroque Alto Recorder/Sustain/AltRecorder_Sus_A#3_rr1_Main.wav
+pitch_keycenter=70
+lokey=70
+hikey=71
+offset=515
+volume=2.123615
+
+<region>
+sample=Baroque Alto Recorder/Sustain/AltRecorder_Sus_C4_rr1_Main.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+offset=749
+volume=4.493999
+
+<region>
+sample=Baroque Alto Recorder/Sustain/AltRecorder_Sus_D4_rr1_Main.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+offset=579
+volume=10.070692
+
+<region>
+sample=Baroque Alto Recorder/Sustain/AltRecorder_Sus_E4_rr1_Main.wav
+pitch_keycenter=76
+lokey=76
+hikey=77
+offset=413
+volume=2.613586
+
+<region>
+sample=Baroque Alto Recorder/Sustain/AltRecorder_Sus_F#4_rr1_Main.wav
+pitch_keycenter=78
+lokey=78
+hikey=79
+offset=289
+volume=1.872402
+
+<region>
+sample=Baroque Alto Recorder/Sustain/AltRecorder_Sus_G#4_rr1_Main.wav
+pitch_keycenter=80
+lokey=80
+hikey=81
+offset=666
+volume=7.613940
+
+<region>
+sample=Baroque Alto Recorder/Sustain/AltRecorder_Sus_A#4_rr1_Main.wav
+pitch_keycenter=82
+lokey=82
+hikey=83
+offset=354
+volume=7.193745
+
+<region>
+sample=Baroque Alto Recorder/Sustain/AltRecorder_Sus_C5_rr1_Main.wav
+pitch_keycenter=84
+lokey=84
+hikey=85
+offset=397
+tune=-1
+volume=4.707178
+
+<region>
+sample=Baroque Alto Recorder/Sustain/AltRecorder_Sus_D5_rr1_Main.wav
+pitch_keycenter=86
+lokey=86
+hikey=87
+offset=357
+volume=7.422890
+
+<region>
+sample=Baroque Alto Recorder/Sustain/AltRecorder_Sus_E5_rr1_Main.wav
+pitch_keycenter=88
+lokey=88
+hikey=89
+offset=81
+volume=1.459237
+
+
+
+<group>
+sw_default=48
+sw_lokey=48
+sw_hikey=51
+sw_last=49
+sw_label=SusVib
+ampeg_attack=0.004000
+ampeg_release=0.300000
+
+<region>
+sample=Baroque Alto Recorder/SusVib/AltRecorder_SusVib_F3_rr1_Main.wav
+pitch_keycenter=65
+lokey=65
+hikey=66
+offset=1109
+tune=-4
+volume=9.202355
+
+<region>
+sample=Baroque Alto Recorder/SusVib/AltRecorder_SusVib_G#3_rr1_Main.wav
+pitch_keycenter=68
+lokey=67
+hikey=69
+offset=1213
+volume=10.467137
+
+<region>
+sample=Baroque Alto Recorder/SusVib/AltRecorder_SusVib_A#3_rr1_Main.wav
+pitch_keycenter=70
+lokey=70
+hikey=71
+offset=303
+tune=-2
+volume=6.342269
+
+<region>
+sample=Baroque Alto Recorder/SusVib/AltRecorder_SusVib_C4_rr1_Main.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+offset=278
+tune=-1
+volume=7.459752
+
+<region>
+sample=Baroque Alto Recorder/SusVib/AltRecorder_SusVib_D4_rr1_Main.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+offset=592
+tune=-2
+volume=5.680772
+
+<region>
+sample=Baroque Alto Recorder/SusVib/AltRecorder_SusVib_E4_rr1_Main.wav
+pitch_keycenter=76
+lokey=76
+hikey=77
+offset=526
+tune=-2
+volume=-0.113635
+
+<region>
+sample=Baroque Alto Recorder/SusVib/AltRecorder_SusVib_F#4_rr1_Main.wav
+pitch_keycenter=78
+lokey=78
+hikey=79
+offset=358
+tune=-1
+volume=5.601894
+
+<region>
+sample=Baroque Alto Recorder/SusVib/AltRecorder_SusVib_G#4_rr1_Main.wav
+pitch_keycenter=80
+lokey=80
+hikey=81
+offset=507
+volume=11.858990
+
+<region>
+sample=Baroque Alto Recorder/SusVib/AltRecorder_SusVib_A#4_rr1_Main.wav
+pitch_keycenter=82
+lokey=82
+hikey=83
+offset=485
+tune=-1
+volume=3.899695
+
+<region>
+sample=Baroque Alto Recorder/SusVib/AltRecorder_SusVib_C5_rr1_Main.wav
+pitch_keycenter=84
+lokey=84
+hikey=85
+offset=348
+volume=3.480815
+
+<region>
+sample=Baroque Alto Recorder/SusVib/AltRecorder_SusVib_D5_rr1_Main.wav
+pitch_keycenter=86
+lokey=86
+hikey=87
+offset=512
+volume=5.156688
+
+<region>
+sample=Baroque Alto Recorder/SusVib/AltRecorder_SusVib_E5_rr1_Main.wav
+pitch_keycenter=88
+lokey=88
+hikey=89
+offset=460
+volume=4.513495
+
+
+
+<group>
+sw_default=48
+sw_lokey=48
+sw_hikey=51
+sw_last=50
+sw_label=Staccato
+ampeg_attack=0.004000
+ampeg_release=0.300000
+
+<region>
+sample=Baroque Alto Recorder/Staccato/AltRecorder_Stac_F#3_rr1_Main.wav
+pitch_keycenter=66
+lokey=66
+hikey=67
+offset=589
+tune=-18
+volume=9.696190
+
+<region>
+sample=Baroque Alto Recorder/Staccato/AltRecorder_Stac_G#3_rr1_Main.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+offset=561
+tune=-9
+volume=11.246724
+
+<region>
+sample=Baroque Alto Recorder/Staccato/AltRecorder_Stac_A#3_rr1_Main.wav
+pitch_keycenter=70
+lokey=70
+hikey=71
+offset=602
+tune=-2
+volume=7.152645
+
+<region>
+sample=Baroque Alto Recorder/Staccato/AltRecorder_Stac_C4_rr1_Main.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+offset=590
+tune=2
+volume=8.260920
+
+<region>
+sample=Baroque Alto Recorder/Staccato/AltRecorder_Stac_D4_rr1_Main.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+offset=113
+tune=-8
+volume=3.785405
+
+<region>
+sample=Baroque Alto Recorder/Staccato/AltRecorder_Stac_E4_rr1_Main.wav
+pitch_keycenter=76
+lokey=76
+hikey=77
+offset=106
+tune=-3
+volume=1.398430
+
+<region>
+sample=Baroque Alto Recorder/Staccato/AltRecorder_Stac_F#4_rr1_Main.wav
+pitch_keycenter=78
+lokey=78
+hikey=79
+offset=183
+tune=-3
+volume=6.126407
+
+<region>
+sample=Baroque Alto Recorder/Staccato/AltRecorder_Stac_G#4_rr1_Main.wav
+pitch_keycenter=80
+lokey=80
+hikey=81
+offset=362
+volume=8.141896
+
+<region>
+sample=Baroque Alto Recorder/Staccato/AltRecorder_Stac_A#4_rr1_Main.wav
+pitch_keycenter=82
+lokey=82
+hikey=83
+offset=432
+volume=1.930354
+
+<region>
+sample=Baroque Alto Recorder/Staccato/AltRecorder_Stac_C5_rr1_Main.wav
+pitch_keycenter=84
+lokey=84
+hikey=85
+offset=475
+tune=3
+volume=7.295029
+
+<region>
+sample=Baroque Alto Recorder/Staccato/AltRecorder_Stac_D5_rr1_Main.wav
+pitch_keycenter=86
+lokey=86
+hikey=87
+offset=404
+tune=-1
+volume=4.012229
+
+<region>
+sample=Baroque Alto Recorder/Staccato/AltRecorder_Stac_E5_rr1_Main.wav
+pitch_keycenter=88
+lokey=88
+hikey=89
+offset=343
+tune=1
+volume=5.304126
+
+
+
