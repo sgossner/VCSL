@@ -5,7 +5,7 @@ sw_hikey=50
 sw_last=48
 sw_label=Sus
 trigger=attack
-ampeg_attack=0.100000
+ampeg_attack=0.004000
 ampeg_release=0.100000
 
 <region>
@@ -198,7 +198,7 @@ sw_hikey=50
 sw_last=49
 sw_label=SusVib
 trigger=attack
-ampeg_attack=0.100000
+ampeg_attack=0.004000
 ampeg_release=0.100000
 
 <region>

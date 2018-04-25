@@ -56,7 +56,7 @@ def scanDirectory(directory):
             continue
 
         # Decide where on the keyboard to put the keyswitches.
-
+        
         if lowestKey >= 51+len(articulations):
             baseKey = 48
         elif lowestKey >= 39+len(articulations):
@@ -65,10 +65,12 @@ def scanDirectory(directory):
             baseKey = 72
         elif highestKey < 81:
             baseKey = 84
+        elif highestKey < 97-len(articulations):
+            baseKey = 97-len(articulations)
         else:
-            bestLow = lowestKey-len(articulations)+3
+            bestLow = lowestKey-len(articulations)-3
             bestHigh = highestKey+3
-            if abs(60-bestLow) < abs(bestHigh-60):
+            if abs(67-bestLow) < abs(bestHigh-67):
                 baseKey = bestLow
             else:
                 baseKey = bestHigh

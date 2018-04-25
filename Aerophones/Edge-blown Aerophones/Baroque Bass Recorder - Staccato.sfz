@@ -1,0 +1,135 @@
+<group>
+ampeg_attack=0.004000
+ampeg_release=0.300000
+
+<region>
+sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_F2_rr1_Main.wav
+pitch_keycenter=53
+lokey=53
+hikey=54
+offset=1
+volume=5.310139
+
+<region>
+sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_G2_rr1_Main.wav
+pitch_keycenter=55
+lokey=55
+hikey=56
+offset=197
+tune=-4
+volume=0.234135
+
+<region>
+sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_A2_rr1_Main.wav
+pitch_keycenter=57
+lokey=57
+hikey=57
+offset=5
+tune=45
+volume=15.678740
+
+<region>
+sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_A#2_rr1_Main.wav
+pitch_keycenter=58
+lokey=58
+hikey=59
+offset=498
+tune=-27
+volume=11.092132
+
+<region>
+sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_C3_rr1_Main.wav
+pitch_keycenter=60
+lokey=60
+hikey=61
+offset=230
+tune=-3
+volume=1.389151
+
+<region>
+sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_D3_rr1_Main.wav
+pitch_keycenter=62
+lokey=62
+hikey=63
+offset=541
+tune=-4
+volume=4.860783
+
+<region>
+sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_E3_rr1_Main.wav
+pitch_keycenter=64
+lokey=64
+hikey=64
+offset=214
+tune=1
+volume=6.981894
+
+<region>
+sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_F3_rr1_Main.wav
+pitch_keycenter=65
+lokey=65
+hikey=66
+offset=162
+volume=9.761887
+
+<region>
+sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_G3_rr1_Main.wav
+pitch_keycenter=67
+lokey=67
+hikey=68
+offset=329
+tune=-6
+volume=2.883942
+
+<region>
+sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_A3_rr1_Main.wav
+pitch_keycenter=69
+lokey=69
+hikey=70
+offset=379
+tune=4
+volume=2.607284
+
+<region>
+sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_B3_rr1_Main.wav
+pitch_keycenter=71
+lokey=71
+hikey=71
+offset=320
+tune=-11
+volume=6.557256
+
+<region>
+sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_C4_rr1_Main.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+tune=-4
+volume=1.774958
+
+<region>
+sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_D4_rr1_Main.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+offset=260
+volume=11.279119
+
+<region>
+sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_E4_rr1_Main.wav
+pitch_keycenter=76
+lokey=76
+hikey=76
+offset=303
+tune=28
+volume=5.986536
+
+<region>
+sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_F4_rr1_Main.wav
+pitch_keycenter=77
+lokey=77
+hikey=78
+offset=361
+tune=5
+volume=2.234773
+

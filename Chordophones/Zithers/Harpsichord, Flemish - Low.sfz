@@ -1,0 +1,447 @@
+<group>
+trigger=attack
+ampeg_attack=0.004000
+ampeg_release=0.200000
+
+<region>
+sample=Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_F#0_rr1.wav
+pitch_keycenter=30
+lokey=30
+hikey=31
+tune=-8
+volume=1.876025
+
+<region>
+sample=Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_G#0_rr1.wav
+pitch_keycenter=32
+lokey=32
+hikey=33
+tune=-5
+volume=0.442871
+
+<region>
+sample=Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_A#0_rr1.wav
+pitch_keycenter=34
+lokey=34
+hikey=35
+tune=-4
+volume=-0.833716
+
+<region>
+sample=Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_C1_rr1.wav
+pitch_keycenter=36
+lokey=36
+hikey=37
+tune=-7
+volume=-1.678825
+
+<region>
+sample=Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_D1_rr1.wav
+pitch_keycenter=38
+lokey=38
+hikey=39
+tune=-4
+volume=0.959243
+
+<region>
+sample=Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_E1_rr1.wav
+pitch_keycenter=40
+lokey=40
+hikey=41
+tune=-3
+volume=-0.377911
+
+<region>
+sample=Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_F#1_rr1.wav
+pitch_keycenter=42
+lokey=42
+hikey=43
+tune=-5
+volume=1.321421
+
+<region>
+sample=Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_G#1_rr1.wav
+pitch_keycenter=44
+lokey=44
+hikey=45
+tune=-4
+volume=-1.260208
+
+<region>
+sample=Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_A#1_rr1.wav
+pitch_keycenter=46
+lokey=46
+hikey=47
+tune=-4
+volume=2.192018
+
+<region>
+sample=Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_C2_rr1.wav
+pitch_keycenter=48
+lokey=48
+hikey=49
+tune=-5
+volume=-0.020009
+
+<region>
+sample=Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_D2_rr1.wav
+pitch_keycenter=50
+lokey=50
+hikey=51
+tune=-5
+volume=-0.005354
+
+<region>
+sample=Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_E2_rr1.wav
+pitch_keycenter=52
+lokey=52
+hikey=53
+tune=-5
+volume=-1.094769
+
+<region>
+sample=Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_F#2_rr1.wav
+pitch_keycenter=54
+lokey=54
+hikey=55
+tune=-5
+volume=3.914362
+
+<region>
+sample=Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_G#2_rr1.wav
+pitch_keycenter=56
+lokey=56
+hikey=57
+tune=-4
+volume=-3.449710
+
+<region>
+sample=Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_A#2_rr1.wav
+pitch_keycenter=58
+lokey=58
+hikey=59
+tune=-5
+volume=0.746479
+
+<region>
+sample=Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_C3_rr1.wav
+pitch_keycenter=60
+lokey=60
+hikey=61
+tune=-6
+volume=0.249869
+
+<region>
+sample=Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_D3_rr1.wav
+pitch_keycenter=62
+lokey=62
+hikey=63
+tune=-7
+volume=1.471717
+
+<region>
+sample=Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_E3_rr1.wav
+pitch_keycenter=64
+lokey=64
+hikey=65
+tune=-6
+volume=0.360810
+
+<region>
+sample=Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_F#3_rr1.wav
+pitch_keycenter=66
+lokey=66
+hikey=67
+tune=-3
+volume=-0.214264
+
+<region>
+sample=Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_G#3_rr1.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+tune=-5
+volume=3.045983
+
+<region>
+sample=Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_A#3_rr1.wav
+pitch_keycenter=70
+lokey=70
+hikey=71
+tune=-4
+volume=-3.525179
+
+<region>
+sample=Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_C4_rr1.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+tune=-3
+volume=-0.405517
+
+<region>
+sample=Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_D4_rr1.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+tune=-3
+volume=3.502650
+
+<region>
+sample=Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_E4_rr1.wav
+pitch_keycenter=76
+lokey=76
+hikey=77
+tune=-3
+volume=-2.214084
+
+<region>
+sample=Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_F#4_rr1.wav
+pitch_keycenter=78
+lokey=78
+hikey=79
+tune=-6
+volume=1.008326
+
+<region>
+sample=Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_G#4_rr1.wav
+pitch_keycenter=80
+lokey=80
+hikey=81
+tune=-7
+volume=-1.018973
+
+<region>
+sample=Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_A#4_rr1.wav
+pitch_keycenter=82
+lokey=82
+hikey=83
+tune=-4
+volume=1.399631
+
+<region>
+sample=Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_C5_rr1.wav
+pitch_keycenter=84
+lokey=84
+hikey=85
+volume=1.615040
+
+<group>
+trigger=release
+ampeg_attack=0.050000
+ampeg_release=0.300000
+rt_decay=5
+
+<region>
+sample=Harpsichord, Flemish/Releases/Low/HarpsiRH_LowRel_Far_F#0_rr1.wav
+pitch_keycenter=30
+lokey=30
+hikey=31
+tune=-4
+volume=-10.495188
+
+<region>
+sample=Harpsichord, Flemish/Releases/Low/HarpsiRH_LowRel_Far_G#0_rr1.wav
+pitch_keycenter=32
+lokey=32
+hikey=33
+volume=-8.751329
+
+<region>
+sample=Harpsichord, Flemish/Releases/Low/HarpsiRH_LowRel_Far_A#0_rr1.wav
+pitch_keycenter=34
+lokey=34
+hikey=35
+volume=-0.372917
+
+<region>
+sample=Harpsichord, Flemish/Releases/Low/HarpsiRH_LowRel_Far_C1_rr1.wav
+pitch_keycenter=36
+lokey=36
+hikey=37
+tune=-10
+volume=-9.463015
+
+<region>
+sample=Harpsichord, Flemish/Releases/Low/HarpsiRH_LowRel_Far_D1_rr1.wav
+pitch_keycenter=38
+lokey=38
+hikey=39
+volume=-12.130761
+
+<region>
+sample=Harpsichord, Flemish/Releases/Low/HarpsiRH_LowRel_Far_E1_rr1.wav
+pitch_keycenter=40
+lokey=40
+hikey=41
+tune=-14
+volume=-7.178192
+
+<region>
+sample=Harpsichord, Flemish/Releases/Low/HarpsiRH_LowRel_Far_F#1_rr1.wav
+pitch_keycenter=42
+lokey=42
+hikey=43
+volume=2.151990
+
+<region>
+sample=Harpsichord, Flemish/Releases/Low/HarpsiRH_LowRel_Far_G#1_rr1.wav
+pitch_keycenter=44
+lokey=44
+hikey=45
+volume=-13.913081
+
+<region>
+sample=Harpsichord, Flemish/Releases/Low/HarpsiRH_LowRel_Far_A#1_rr1.wav
+pitch_keycenter=46
+lokey=46
+hikey=47
+volume=-7.248428
+
+<region>
+sample=Harpsichord, Flemish/Releases/Low/HarpsiRH_LowRel_Far_C2_rr1.wav
+pitch_keycenter=48
+lokey=48
+hikey=49
+volume=0.773957
+
+<region>
+sample=Harpsichord, Flemish/Releases/Low/HarpsiRH_LowRel_Far_D2_rr1.wav
+pitch_keycenter=50
+lokey=50
+hikey=51
+volume=-7.830748
+
+<region>
+sample=Harpsichord, Flemish/Releases/Low/HarpsiRH_LowRel_Far_E2_rr1.wav
+pitch_keycenter=52
+lokey=52
+hikey=53
+tune=-41
+volume=-8.490645
+
+<region>
+sample=Harpsichord, Flemish/Releases/Low/HarpsiRH_LowRel_Far_F#2_rr1.wav
+pitch_keycenter=54
+lokey=54
+hikey=55
+offset=160
+tune=-63
+volume=-10.831394
+
+<region>
+sample=Harpsichord, Flemish/Releases/Low/HarpsiRH_LowRel_Far_G#2_rr1.wav
+pitch_keycenter=56
+lokey=56
+hikey=57
+tune=11
+volume=-10.667571
+
+<region>
+sample=Harpsichord, Flemish/Releases/Low/HarpsiRH_LowRel_Far_A#2_rr1.wav
+pitch_keycenter=58
+lokey=58
+hikey=59
+tune=-56
+volume=-2.283912
+
+<region>
+sample=Harpsichord, Flemish/Releases/Low/HarpsiRH_LowRel_Far_C3_rr1.wav
+pitch_keycenter=60
+lokey=60
+hikey=61
+volume=-8.602910
+
+<region>
+sample=Harpsichord, Flemish/Releases/Low/HarpsiRH_LowRel_Far_D3_rr1.wav
+pitch_keycenter=62
+lokey=62
+hikey=63
+tune=-40
+volume=0.193175
+
+<region>
+sample=Harpsichord, Flemish/Releases/Low/HarpsiRH_LowRel_Far_E3_rr1.wav
+pitch_keycenter=64
+lokey=64
+hikey=65
+volume=-7.697378
+
+<region>
+sample=Harpsichord, Flemish/Releases/Low/HarpsiRH_LowRel_Far_F#3_rr1.wav
+pitch_keycenter=66
+lokey=66
+hikey=67
+offset=223
+tune=-1
+volume=-12.084764
+
+<region>
+sample=Harpsichord, Flemish/Releases/Low/HarpsiRH_LowRel_Far_G#3_rr1.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+tune=-8
+volume=-7.110670
+
+<region>
+sample=Harpsichord, Flemish/Releases/Low/HarpsiRH_LowRel_Far_A#3_rr1.wav
+pitch_keycenter=70
+lokey=70
+hikey=71
+volume=-5.503689
+
+<region>
+sample=Harpsichord, Flemish/Releases/Low/HarpsiRH_LowRel_Far_C4_rr1.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+offset=284
+volume=-10.518631
+
+<region>
+sample=Harpsichord, Flemish/Releases/Low/HarpsiRH_LowRel_Far_D4_rr1.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+volume=-7.505142
+
+<region>
+sample=Harpsichord, Flemish/Releases/Low/HarpsiRH_LowRel_Far_E4_rr1.wav
+pitch_keycenter=76
+lokey=76
+hikey=77
+offset=383
+tune=-14
+volume=-8.270283
+
+<region>
+sample=Harpsichord, Flemish/Releases/Low/HarpsiRH_LowRel_Far_F#4_rr1.wav
+pitch_keycenter=78
+lokey=78
+hikey=79
+offset=272
+volume=-8.266328
+
+<region>
+sample=Harpsichord, Flemish/Releases/Low/HarpsiRH_LowRel_Far_G#4_rr1.wav
+pitch_keycenter=80
+lokey=80
+hikey=81
+volume=-3.594940
+
+<region>
+sample=Harpsichord, Flemish/Releases/Low/HarpsiRH_LowRel_Far_A#4_rr1.wav
+pitch_keycenter=82
+lokey=82
+hikey=83
+tune=-21
+volume=-8.502373
+
+<region>
+sample=Harpsichord, Flemish/Releases/Low/HarpsiRH_LowRel_Far_C5_rr1.wav
+pitch_keycenter=84
+lokey=84
+hikey=85
+volume=-10.551577
+

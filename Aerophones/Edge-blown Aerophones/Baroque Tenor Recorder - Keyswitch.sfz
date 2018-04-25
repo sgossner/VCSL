@@ -4,7 +4,7 @@ sw_lokey=48
 sw_hikey=51
 sw_last=48
 sw_label=Sustain
-ampeg_attack=0.100000
+ampeg_attack=0.004000
 ampeg_release=0.300000
 
 <region>
@@ -123,7 +123,7 @@ sw_lokey=48
 sw_hikey=51
 sw_last=49
 sw_label=SusVib
-ampeg_attack=0.100000
+ampeg_attack=0.004000
 ampeg_release=0.300000
 
 <region>
@@ -257,7 +257,7 @@ sw_lokey=48
 sw_hikey=51
 sw_last=50
 sw_label=Staccato
-ampeg_attack=0.100000
+ampeg_attack=0.004000
 ampeg_release=0.300000
 
 <region>

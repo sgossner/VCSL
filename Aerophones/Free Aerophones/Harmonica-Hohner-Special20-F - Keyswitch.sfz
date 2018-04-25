@@ -5,7 +5,7 @@ sw_hikey=53
 sw_last=48
 sw_label=Normal
 trigger=attack
-ampeg_attack=0.100000
+ampeg_attack=0.004000
 ampeg_release=0.100000
 
 <region>
@@ -148,7 +148,7 @@ sw_hikey=53
 sw_last=49
 sw_label=Vib
 trigger=attack
-ampeg_attack=0.100000
+ampeg_attack=0.004000
 ampeg_release=0.100000
 
 <region>
@@ -305,7 +305,7 @@ sw_hikey=53
 sw_last=50
 sw_label=HandVib
 trigger=attack
-ampeg_attack=0.100000
+ampeg_attack=0.004000
 ampeg_release=0.100000
 
 <region>
@@ -476,7 +476,7 @@ sw_lokey=48
 sw_hikey=53
 sw_last=51
 sw_label=Stac
-ampeg_attack=0.100000
+ampeg_attack=0.004000
 ampeg_release=0.300000
 
 <region>
@@ -684,7 +684,7 @@ sw_hikey=53
 sw_last=52
 sw_label=Accented
 trigger=attack
-ampeg_attack=0.100000
+ampeg_attack=0.004000
 ampeg_release=0.100000
 
 <region>

@@ -4,7 +4,7 @@ sw_lokey=36
 sw_hikey=39
 sw_last=36
 sw_label=Vibrato
-ampeg_attack=0.100000
+ampeg_attack=0.004000
 ampeg_release=0.300000
 
 <region>
@@ -169,7 +169,7 @@ sw_lokey=36
 sw_hikey=39
 sw_last=37
 sw_label=Non-Vibrato
-ampeg_attack=0.100000
+ampeg_attack=0.004000
 ampeg_release=0.300000
 
 <region>
@@ -604,7 +604,7 @@ sw_lokey=36
 sw_hikey=39
 sw_last=38
 sw_label=Staccato
-ampeg_attack=0.100000
+ampeg_attack=0.004000
 ampeg_release=0.300000
 
 <region>

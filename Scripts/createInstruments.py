@@ -16,17 +16,23 @@ import scipy.signal
 import wavio
 
 noteNames = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B']
-dynamicNames = ['ppp', 'pp', 'p', 'mp', 'mf', 'f', 'ff', 'fff', 'v11', 'vl2', 'vl3', 'vl4', 'vl5']
+dynamicNames = ['ppp', 'pp', 'p', 'mp', 'mf', 'f', 'ff', 'fff',
+                'v11', 'vl2', 'vl3', 'vl4', 'vl5',
+                'v1', 'v2', 'v3', 'v4', 'v5', 'v6', 'v7', 'v8', 'v9',
+                'soft', 'med', 'medium', 'loud']
 
 # Parse command line options.
 
 parser = argparse.ArgumentParser(description='Create SFZ instruments from samples.')
-parser.add_argument('--attack', type=float, default=0.1, help='Attack time in seconds (default=0.1)')
+parser.add_argument('--attack', type=float, default=0.004, help='Attack time in seconds (default=0.004)')
 parser.add_argument('--release', type=float, default=0.3, help='Release time in seconds (default=0.3)')
 parser.add_argument('--velocityexponent', type=float, default=0.7, help='Exponent shaping the curve assigning layers to velocities (default=0.7)')
 parser.add_argument('--transpose', type=int, default=0, help='Transposition that has been applied to the samples, in semitones (default=0)')
 parser.add_argument('--volume', type=float, default=0.0, help='Amplification to apply to all samples, in dB (default=0.0)')
+parser.add_argument('--releasevolume', type=float, default=0.0, help='Amplification to apply to release samples, in dB (default=0.0)')
 parser.add_argument('--crossfade', action='store_true', help='Perform crossfading between velocity layers')
+parser.add_argument('--noreleases', action='store_true', help='Ignore release samples')
+parser.add_argument('--articulation', type=str, default=None, help='Name of the articulation to create (default is to create all articulations)')
 parser.add_argument('instrumentdir', help="Top level directory containing the instrument's samples")
 args = parser.parse_args()
 outputDir = os.path.abspath(os.path.join(args.instrumentdir, os.pardir))
@@ -35,7 +41,7 @@ outputDir = os.path.abspath(os.path.join(args.instrumentdir, os.pardir))
 
 Note = collections.namedtuple('Note', ['index', 'name', 'frequency'])
 noteWithName = {}
-for octave in range(10):
+for octave in range(-1, 10):
     for i, name in enumerate(noteNames):
         index = i+(octave+2)*12-args.transpose
         name = name+str(octave)
@@ -64,7 +70,7 @@ class Sample(object):
             elif field.startswith('vl'):
                 self.layer = int(field[2:])
             elif field[-1].isdigit() and field[:-1] in dynamicNames:
-                self.layer = dynamicNames.index[field[:-1]]
+                self.layer = dynamicNames.index(field[:-1])
                 self.rr = int(field[-1])
 
 # Define a class to represent an articulation.
@@ -77,6 +83,9 @@ class Articulation(object):
         self.samples = []
         self.noteSamples = collections.defaultdict(list)
         self.name = os.path.split(directory)[-1]
+        if isRelease and self.name == 'Releases':
+            # This happens when there's a single articulation, with the samples directly in the "Sustains" and "Releases" folders.
+            self.name = 'Sustains'
 
     def addSample(self, sample):
         self.samples.append(sample);
@@ -123,6 +132,8 @@ def freq_from_autocorr(sig, fs):
 
 def scanDirectory(directory, instrument, isRelease):
     if os.path.split(directory)[-1].lower() == 'releases':
+        if args.noreleases:
+            return
         isRelease = True
     articulation = Articulation(instrument, directory, isRelease)
     for filename in os.listdir(directory):
@@ -132,7 +143,8 @@ def scanDirectory(directory, instrument, isRelease):
         elif filename.endswith('wav'):
             articulation.addSample(Sample(filename))
     if len(articulation.samples) > 0:
-        instrument.articulations.append(articulation)
+        if args.articulation is None or articulation.name == args.articulation:
+            instrument.articulations.append(articulation)
 
 instrument = Instrument(args.instrumentdir)
 scanDirectory(args.instrumentdir, instrument, False)
@@ -244,8 +256,12 @@ def writeArticulation(articulation, outfile, isSustain, isRelease):
                     print('offset=%d' % sample.offset, file=outfile)
                 if sample.tuning != 0:
                     print('tune=%d' % sample.tuning, file=outfile)
+                if articulation.isRelease:
+                    volume = args.releasevolume
+                else:
+                    volume = args.volume
                 amplification = targetLoudness[noteIndex]/sample.loudness
-                db = 20*np.log10(amplification) + args.volume
+                db = 20*np.log10(amplification) + volume
                 print('volume=%f' % db, file=outfile)
                 print(file=outfile)
     
@@ -254,10 +270,12 @@ def writeArticulation(articulation, outfile, isSustain, isRelease):
 articulations = [a for a in instrument.articulations if not a.isRelease]
 for articulation in articulations:
     if not articulation.isRelease:
-        if len(articulations) == 1:
-            filename = '%s.sfz' % instrument.name
-        else:
+        if len(articulations) > 1:
             filename = '%s - %s.sfz' % (instrument.name, articulation.name)
+        elif args.articulation is not None:
+            filename = '%s - %s.sfz' % (instrument.name, args.articulation)
+        else:
+            filename = '%s.sfz' % instrument.name
         
         # See if we have release samples for this articulation.
         

@@ -1,0 +1,390 @@
+<group>
+sw_default=36
+sw_lokey=36
+sw_hikey=39
+sw_last=36
+sw_label=Sustain
+ampeg_attack=0.004000
+ampeg_release=0.300000
+
+<region>
+sample=Baroque Bass Recorder/Sustain/BassRecorder_Sus_F#2_rr1_Main.wav
+pitch_keycenter=54
+lokey=54
+hikey=55
+offset=1001
+volume=0.067593
+
+<region>
+sample=Baroque Bass Recorder/Sustain/BassRecorder_Sus_G#2_rr1_Main.wav
+pitch_keycenter=56
+lokey=56
+hikey=57
+offset=1169
+tune=6
+volume=5.854692
+
+<region>
+sample=Baroque Bass Recorder/Sustain/BassRecorder_Sus_A#2_rr1_Main.wav
+pitch_keycenter=58
+lokey=58
+hikey=59
+offset=1058
+tune=-1
+volume=12.506099
+
+<region>
+sample=Baroque Bass Recorder/Sustain/BassRecorder_Sus_C3_rr1_Main.wav
+pitch_keycenter=60
+lokey=60
+hikey=61
+offset=709
+tune=-3
+volume=10.370554
+
+<region>
+sample=Baroque Bass Recorder/Sustain/BassRecorder_Sus_D3_rr1_Main.wav
+pitch_keycenter=62
+lokey=62
+hikey=63
+offset=222
+tune=-1
+volume=2.224712
+
+<region>
+sample=Baroque Bass Recorder/Sustain/BassRecorder_Sus_E3_rr1_Main.wav
+pitch_keycenter=64
+lokey=64
+hikey=65
+offset=346
+volume=5.943046
+
+<region>
+sample=Baroque Bass Recorder/Sustain/BassRecorder_Sus_F#3_rr1_Main.wav
+pitch_keycenter=66
+lokey=66
+hikey=67
+offset=360
+volume=9.390317
+
+<region>
+sample=Baroque Bass Recorder/Sustain/BassRecorder_Sus_G#3_rr1_Main.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+offset=507
+volume=4.098347
+
+<region>
+sample=Baroque Bass Recorder/Sustain/BassRecorder_Sus_A#3_rr1_Main.wav
+pitch_keycenter=70
+lokey=70
+hikey=71
+offset=235
+volume=1.293359
+
+<region>
+sample=Baroque Bass Recorder/Sustain/BassRecorder_Sus_C4_rr1_Main.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+offset=582
+volume=3.584709
+
+<region>
+sample=Baroque Bass Recorder/Sustain/BassRecorder_Sus_D4_rr1_Main.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+offset=424
+volume=11.373427
+
+<region>
+sample=Baroque Bass Recorder/Sustain/BassRecorder_Sus_E4_rr1_Main.wav
+pitch_keycenter=76
+lokey=76
+hikey=77
+offset=515
+tune=2
+volume=3.888477
+
+
+
+<group>
+sw_default=36
+sw_lokey=36
+sw_hikey=39
+sw_last=37
+sw_label=SusVib
+ampeg_attack=0.004000
+ampeg_release=0.300000
+
+<region>
+sample=Baroque Bass Recorder/SusVib/BassRecorder_SusVib_F2_rr1_Main.wav
+pitch_keycenter=53
+lokey=53
+hikey=54
+offset=1673
+tune=-7
+volume=13.156500
+
+<region>
+sample=Baroque Bass Recorder/SusVib/BassRecorder_SusVib_G2_rr1_Main.wav
+pitch_keycenter=55
+lokey=55
+hikey=56
+offset=689
+tune=-6
+volume=2.594758
+
+<region>
+sample=Baroque Bass Recorder/SusVib/BassRecorder_SusVib_A2_rr1_Main.wav
+pitch_keycenter=57
+lokey=57
+hikey=58
+offset=1061
+tune=-4
+volume=4.679549
+
+<region>
+sample=Baroque Bass Recorder/SusVib/BassRecorder_SusVib_B2_rr1_Main.wav
+pitch_keycenter=59
+lokey=59
+hikey=59
+offset=149
+volume=9.773062
+
+<region>
+sample=Baroque Bass Recorder/SusVib/BassRecorder_SusVib_C3_rr1_Main.wav
+pitch_keycenter=60
+lokey=60
+hikey=61
+offset=392
+tune=-2
+volume=3.922285
+
+<region>
+sample=Baroque Bass Recorder/SusVib/BassRecorder_SusVib_D3_rr1_Main.wav
+pitch_keycenter=62
+lokey=62
+hikey=63
+offset=1514
+tune=-5
+volume=3.157136
+
+<region>
+sample=Baroque Bass Recorder/SusVib/BassRecorder_SusVib_E3_rr1_Main.wav
+pitch_keycenter=64
+lokey=64
+hikey=64
+offset=426
+tune=-2
+volume=7.233974
+
+<region>
+sample=Baroque Bass Recorder/SusVib/BassRecorder_SusVib_F3_rr1_Main.wav
+pitch_keycenter=65
+lokey=65
+hikey=66
+offset=827
+tune=-5
+volume=9.279131
+
+<region>
+sample=Baroque Bass Recorder/SusVib/BassRecorder_SusVib_G3_rr1_Main.wav
+pitch_keycenter=67
+lokey=67
+hikey=68
+offset=582
+tune=-3
+volume=3.278873
+
+<region>
+sample=Baroque Bass Recorder/SusVib/BassRecorder_SusVib_A3_rr1_Main.wav
+pitch_keycenter=69
+lokey=69
+hikey=70
+offset=749
+tune=1
+volume=2.339734
+
+<region>
+sample=Baroque Bass Recorder/SusVib/BassRecorder_SusVib_B3_rr1_Main.wav
+pitch_keycenter=71
+lokey=71
+hikey=71
+offset=195
+tune=-3
+volume=7.483960
+
+<region>
+sample=Baroque Bass Recorder/SusVib/BassRecorder_SusVib_C4_rr1_Main.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+offset=370
+tune=-1
+volume=3.087805
+
+<region>
+sample=Baroque Bass Recorder/SusVib/BassRecorder_SusVib_D4_rr1_Main.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+offset=502
+tune=-4
+volume=9.553958
+
+<region>
+sample=Baroque Bass Recorder/SusVib/BassRecorder_SusVib_E4_rr1_Main.wav
+pitch_keycenter=76
+lokey=76
+hikey=77
+offset=688
+tune=-3
+volume=2.864687
+
+
+
+<group>
+sw_default=36
+sw_lokey=36
+sw_hikey=39
+sw_last=38
+sw_label=Staccato
+ampeg_attack=0.004000
+ampeg_release=0.300000
+
+<region>
+sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_F2_rr1_Main.wav
+pitch_keycenter=53
+lokey=53
+hikey=54
+offset=1
+volume=5.310139
+
+<region>
+sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_G2_rr1_Main.wav
+pitch_keycenter=55
+lokey=55
+hikey=56
+offset=197
+tune=-4
+volume=0.234135
+
+<region>
+sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_A2_rr1_Main.wav
+pitch_keycenter=57
+lokey=57
+hikey=57
+offset=5
+tune=45
+volume=15.678740
+
+<region>
+sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_A#2_rr1_Main.wav
+pitch_keycenter=58
+lokey=58
+hikey=59
+offset=498
+tune=-27
+volume=11.092132
+
+<region>
+sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_C3_rr1_Main.wav
+pitch_keycenter=60
+lokey=60
+hikey=61
+offset=230
+tune=-3
+volume=1.389151
+
+<region>
+sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_D3_rr1_Main.wav
+pitch_keycenter=62
+lokey=62
+hikey=63
+offset=541
+tune=-4
+volume=4.860783
+
+<region>
+sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_E3_rr1_Main.wav
+pitch_keycenter=64
+lokey=64
+hikey=64
+offset=214
+tune=1
+volume=6.981894
+
+<region>
+sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_F3_rr1_Main.wav
+pitch_keycenter=65
+lokey=65
+hikey=66
+offset=162
+volume=9.761887
+
+<region>
+sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_G3_rr1_Main.wav
+pitch_keycenter=67
+lokey=67
+hikey=68
+offset=329
+tune=-6
+volume=2.883942
+
+<region>
+sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_A3_rr1_Main.wav
+pitch_keycenter=69
+lokey=69
+hikey=70
+offset=379
+tune=4
+volume=2.607284
+
+<region>
+sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_B3_rr1_Main.wav
+pitch_keycenter=71
+lokey=71
+hikey=71
+offset=320
+tune=-11
+volume=6.557256
+
+<region>
+sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_C4_rr1_Main.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+tune=-4
+volume=1.774958
+
+<region>
+sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_D4_rr1_Main.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+offset=260
+volume=11.279119
+
+<region>
+sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_E4_rr1_Main.wav
+pitch_keycenter=76
+lokey=76
+hikey=76
+offset=303
+tune=28
+volume=5.986536
+
+<region>
+sample=Baroque Bass Recorder/Staccato/BassRecorder_Stac_F4_rr1_Main.wav
+pitch_keycenter=77
+lokey=77
+hikey=78
+offset=361
+tune=5
+volume=2.234773
+
+
+
