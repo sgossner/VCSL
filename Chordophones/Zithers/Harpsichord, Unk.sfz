@@ -1,7 +1,8 @@
 <group>
 trigger=attack
 ampeg_attack=0.004000
-ampeg_release=0.200000
+ampeg_release=0.400000
+amp_veltrack=0
 
 <region>
 sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_F0_rr1.wav
@@ -491,9 +492,10 @@ volume=-0.172685
 
 <group>
 trigger=release
-ampeg_attack=0.050000
+//ampeg_attack=0.050000
 ampeg_release=0.300000
-rt_decay=3
+//rt_decay=3
+amp_veltrack=0
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_F0_rr1.wav

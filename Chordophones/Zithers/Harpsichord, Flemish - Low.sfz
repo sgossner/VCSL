@@ -1,7 +1,8 @@
 <group>
 trigger=attack
 ampeg_attack=0.004000
-ampeg_release=0.200000
+ampeg_release=0.400000
+amp_veltrack=0
 
 <region>
 sample=Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_F#0_rr1.wav
@@ -228,9 +229,10 @@ volume=1.615040
 
 <group>
 trigger=release
-ampeg_attack=0.050000
+//ampeg_attack=0.050000
 ampeg_release=0.300000
-rt_decay=5
+//rt_decay=5
+amp_veltrack=0
 
 <region>
 sample=Harpsichord, Flemish/Releases/Low/HarpsiRH_LowRel_Far_F#0_rr1.wav

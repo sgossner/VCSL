@@ -6,7 +6,8 @@ sw_last=95
 sw_label=Normal
 trigger=attack
 ampeg_attack=0.004000
-ampeg_release=0.100000
+ampeg_release=0.350000
+amp_veltrack=0
 
 <region>
 sample=Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_A#0_rr1.wav
@@ -250,9 +251,10 @@ sw_hikey=97
 sw_last=95
 sw_label=Normal
 trigger=release
-ampeg_attack=0.100000
+//ampeg_attack=0.050000
 ampeg_release=0.300000
-rt_decay=6
+//rt_decay=6  - Removed by SG
+amp_veltrack=0
 
 <region>
 sample=Harpsichord, English/Releases/Normal/ZuckermannKitHarpsi_Normal_Rel_A#0_rr1.wav
@@ -720,7 +722,7 @@ sw_label=Lute
 trigger=release
 ampeg_attack=0.100000
 ampeg_release=0.300000
-rt_decay=8
+//rt_decay=8
 
 <region>
 sample=Harpsichord, English/Releases/Lute/ZuckermannKitHarpsi_Lute_Rel_A#0_rr1.wav

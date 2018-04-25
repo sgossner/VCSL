@@ -1,7 +1,8 @@
 <group>
 trigger=attack
 ampeg_attack=0.004000
-ampeg_release=0.200000
+ampeg_release=0.400000
+amp_veltrack=0
 
 <region>
 sample=Harpsichord, French/Sustains/Harpsi2_Normal_D0_rr1_Main.wav
@@ -251,9 +252,10 @@ volume=5.325038
 
 <group>
 trigger=release
-ampeg_attack=0.005000
+//ampeg_attack=0.005000
 ampeg_release=0.300000
-rt_decay=2
+//rt_decay=2
+amp_veltrack=0
 
 <region>
 sample=Harpsichord, French/Releases/Harpsi2_Rel_D0_rr1_Main.wav

@@ -1,6 +1,6 @@
 <group>
 ampeg_attack=0.004000
-ampeg_release=0.300000
+ampeg_release=1.300000
 
 <region>
 sample=Baroque Tenor Recorder/Staccato/TenRecorder_Stac_C3_rr1_Main.wav

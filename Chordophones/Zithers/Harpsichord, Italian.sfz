@@ -1,7 +1,8 @@
 <group>
 trigger=attack
 ampeg_attack=0.004000
-ampeg_release=0.200000
+ampeg_release=0.400000
+amp_veltrack=0
 
 <region>
 sample=Harpsichord, Italian/Sustains/stop1/Harpsichord_stop1_F#0_1.wav
@@ -263,7 +264,8 @@ volume=1.133087
 trigger=release
 ampeg_attack=0.100000
 ampeg_release=0.300000
-rt_decay=5
+//rt_decay=5
+amp_veltrack=0
 
 <region>
 sample=Harpsichord, Italian/Releases/stop1/Harpsichord_stop1-rel_F#0_1.wav

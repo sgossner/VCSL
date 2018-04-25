@@ -1,7 +1,8 @@
 <group>
 trigger=attack
 ampeg_attack=0.004000
-ampeg_release=0.100000
+ampeg_release=0.350000
+amp_veltrack=0
 
 <region>
 sample=Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_A#0_rr1.wav
@@ -235,9 +236,10 @@ volume=4.462697
 
 <group>
 trigger=release
-ampeg_attack=0.100000
+//ampeg_attack=0.100000
 ampeg_release=0.300000
-rt_decay=8
+//rt_decay=8
+amp_veltrack=0
 
 <region>
 sample=Harpsichord, English/Releases/Lute/ZuckermannKitHarpsi_Lute_Rel_A#0_rr1.wav
