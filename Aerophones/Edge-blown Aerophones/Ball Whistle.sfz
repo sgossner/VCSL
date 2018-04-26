@@ -1,0 +1,22 @@
+// Generation Options: --unpitched --release 30 --volume 8
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=30.000000
+
+<region>
+sample=Ball Whistle/Main_BallWhistle_Long-001.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=320
+volume=8.000000
+
+<region>
+sample=Ball Whistle/Main_BallWhistle_Short-001.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+offset=463
+volume=8.000000
+

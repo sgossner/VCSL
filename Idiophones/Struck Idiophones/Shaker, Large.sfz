@@ -1,0 +1,64 @@
+// Generation Options: --unpitched --volume 10 --release 30
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=30.000000
+
+<region>
+seq_length=2
+seq_position=1
+sample=Shaker, Large/LShaker_Hit_rr1_Mid.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=9.123735
+
+<region>
+seq_length=2
+seq_position=2
+sample=Shaker, Large/LShaker_Hit_rr2_Mid.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=10.974688
+
+<region>
+seq_length=2
+seq_position=1
+sample=Shaker, Large/LShaker_Shake1D_rr2_Mid.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+offset=1551
+volume=10.875816
+
+<region>
+seq_length=2
+seq_position=2
+sample=Shaker, Large/LShaker_Shake1D_rr3_Mid.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+offset=1073
+volume=9.204462
+
+<region>
+seq_length=2
+seq_position=1
+sample=Shaker, Large/LShaker_Shake1U_rr1_Mid.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+offset=786
+volume=10.942608
+
+<region>
+seq_length=2
+seq_position=2
+sample=Shaker, Large/LShaker_Shake1U_rr4_Mid.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+offset=780
+volume=9.149745
+

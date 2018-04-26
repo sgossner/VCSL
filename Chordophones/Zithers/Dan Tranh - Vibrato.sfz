@@ -1,0 +1,294 @@
+// Generation Options: --notuning --volume 7 --articulation Vibrato
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=0.300000
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/C#2_vib_mf_1.wav
+pitch_keycenter=49
+lokey=49
+hikey=50
+volume=12.673324
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/C#2_vib_ff_1.wav
+pitch_keycenter=49
+lokey=49
+hikey=50
+volume=1.981052
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/D#2_vib_mf_1.wav
+pitch_keycenter=51
+lokey=51
+hikey=52
+volume=11.302192
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/D#2_vib_ff_1.wav
+pitch_keycenter=51
+lokey=51
+hikey=52
+volume=5.891933
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/F#2_vib_mf_1.wav
+pitch_keycenter=54
+lokey=53
+hikey=55
+volume=10.485757
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/F#2_vib_ff_1.wav
+pitch_keycenter=54
+lokey=53
+hikey=55
+volume=5.940163
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/G#2_vib_mf_1.wav
+pitch_keycenter=56
+lokey=56
+hikey=57
+volume=12.036069
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/G#2_vib_ff_1.wav
+pitch_keycenter=56
+lokey=56
+hikey=57
+volume=5.320414
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/B2_vib_mf_1.wav
+pitch_keycenter=59
+lokey=58
+hikey=60
+volume=9.346988
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/B2_vib_ff_1.wav
+pitch_keycenter=59
+lokey=58
+hikey=60
+volume=2.639432
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/C#3_vib_mf_1.wav
+pitch_keycenter=61
+lokey=61
+hikey=62
+volume=10.193338
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/C#3_vib_ff_1.wav
+pitch_keycenter=61
+lokey=61
+hikey=62
+volume=3.082332
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/D#3_vib_mf_1.wav
+pitch_keycenter=63
+lokey=63
+hikey=64
+volume=8.629688
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/D#3_vib_ff_1.wav
+pitch_keycenter=63
+lokey=63
+hikey=64
+volume=8.180259
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/F#3_vib_mf_1.wav
+pitch_keycenter=66
+lokey=65
+hikey=67
+volume=8.012152
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/F#3_vib_ff_1.wav
+pitch_keycenter=66
+lokey=65
+hikey=67
+volume=3.683178
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/G#3_vib_mf_1.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+volume=16.977687
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/G#3_vib_ff_1.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+volume=7.469140
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/B3_vib_mf_1.wav
+pitch_keycenter=71
+lokey=70
+hikey=72
+volume=7.068712
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/B3_vib_ff_1.wav
+pitch_keycenter=71
+lokey=70
+hikey=72
+volume=3.456827
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/C#4_vib_mf_1.wav
+pitch_keycenter=73
+lokey=73
+hikey=74
+volume=7.915485
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/C#4_vib_ff_1.wav
+pitch_keycenter=73
+lokey=73
+hikey=74
+volume=1.576495
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/D#4_vib_mf_1.wav
+pitch_keycenter=75
+lokey=75
+hikey=76
+volume=11.790371
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/D#4_vib_ff_1.wav
+pitch_keycenter=75
+lokey=75
+hikey=76
+volume=6.625983
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/F#4_vib_mf_1.wav
+pitch_keycenter=78
+lokey=77
+hikey=79
+volume=10.481775
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/F#4_vib_ff_1.wav
+pitch_keycenter=78
+lokey=77
+hikey=79
+volume=12.119636
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/G#4_vib_mf_1.wav
+pitch_keycenter=80
+lokey=80
+hikey=81
+volume=10.893218
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/G#4_vib_ff_1.wav
+pitch_keycenter=80
+lokey=80
+hikey=81
+volume=7.397570
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/B4_vib_mf_1.wav
+pitch_keycenter=83
+lokey=82
+hikey=89
+volume=5.010086
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/B4_vib_ff_1.wav
+pitch_keycenter=83
+lokey=82
+hikey=89
+volume=0.693800
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/B5_vib_mf_1.wav
+pitch_keycenter=95
+lokey=90
+hikey=96
+volume=19.891120
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/B5_vib_ff_1.wav
+pitch_keycenter=95
+lokey=90
+hikey=96
+volume=5.030120
+

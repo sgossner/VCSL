@@ -1,0 +1,114 @@
+// Generation Options: --unpitched --volume 7 --articulation Gliss
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=0.300000
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Gliss/Gliss_Dwn_Med_mf_1.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=9.727670
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Gliss/Gliss_Dwn_Med_ff_1.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=4.927303
+
+<region>
+sample=Dan Tranh/Gliss/Gliss_Dwn_Slw_ff_1.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+volume=7.000000
+
+<region>
+sample=Dan Tranh/Gliss/Gliss_Dwn_Slw_mf_2.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+volume=7.000000
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Gliss/Gliss_Dwn_Swl_mf_1.wav
+pitch_keycenter=63
+lokey=63
+hikey=63
+offset=491
+volume=10.566689
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Gliss/Gliss_Dwn_Swl_ff_1.wav
+pitch_keycenter=63
+lokey=63
+hikey=63
+offset=462
+volume=4.478880
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Gliss/Gliss_Up_Med_mf_1.wav
+pitch_keycenter=64
+lokey=64
+hikey=64
+offset=2584
+volume=14.413352
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Gliss/Gliss_Up_Med_ff_1.wav
+pitch_keycenter=64
+lokey=64
+hikey=64
+offset=1642
+volume=3.059488
+
+<region>
+sample=Dan Tranh/Gliss/Gliss_Up_Slw_mf_1.wav
+pitch_keycenter=65
+lokey=65
+hikey=65
+offset=1353
+volume=7.000000
+
+<region>
+sample=Dan Tranh/Gliss/Gliss_Up_Slw_ff_2.wav
+pitch_keycenter=66
+lokey=66
+hikey=66
+offset=1071
+volume=7.000000
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Gliss/Gliss_Up_Swl_mf_1.wav
+pitch_keycenter=67
+lokey=67
+hikey=67
+offset=1367
+volume=13.899337
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Gliss/Gliss_Up_Swl_ff_1.wav
+pitch_keycenter=67
+lokey=67
+hikey=67
+offset=980
+volume=3.203966
+

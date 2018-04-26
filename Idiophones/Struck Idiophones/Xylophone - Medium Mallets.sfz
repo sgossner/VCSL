@@ -1,0 +1,150 @@
+// Generation Options: --notuning --volume 5 --release 15
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=15.000000
+
+<region>
+lovel=0
+hivel=83
+sample=Xylophone/Medium Mallets/Xylo_Medium_G3_pp_01_far.wav
+pitch_keycenter=67
+lokey=67
+hikey=69
+volume=25.810545
+
+<region>
+lovel=84
+hivel=127
+sample=Xylophone/Medium Mallets/Xylo_Medium_G3_ff_01_far.wav
+pitch_keycenter=67
+lokey=67
+hikey=69
+volume=7.425835
+
+<region>
+lovel=0
+hivel=83
+sample=Xylophone/Medium Mallets/Xylo_Medium_C4_pp_01_far.wav
+pitch_keycenter=72
+lokey=70
+hikey=75
+volume=12.381368
+
+<region>
+lovel=84
+hivel=127
+sample=Xylophone/Medium Mallets/Xylo_Medium_C4_ff_01_far.wav
+pitch_keycenter=72
+lokey=70
+hikey=75
+volume=1.863334
+
+<region>
+lovel=0
+hivel=83
+sample=Xylophone/Medium Mallets/Xylo_Medium_G4_pp_01_far.wav
+pitch_keycenter=79
+lokey=76
+hikey=81
+volume=10.140772
+
+<region>
+lovel=84
+hivel=127
+sample=Xylophone/Medium Mallets/Xylo_Medium_G4_ff_01_far.wav
+pitch_keycenter=79
+lokey=76
+hikey=81
+volume=-3.767685
+
+<region>
+lovel=0
+hivel=83
+sample=Xylophone/Medium Mallets/Xylo_Medium_C5_pp_01_far.wav
+pitch_keycenter=84
+lokey=82
+hikey=87
+volume=12.198534
+
+<region>
+lovel=84
+hivel=127
+sample=Xylophone/Medium Mallets/Xylo_Medium_C5_ff_01_far.wav
+pitch_keycenter=84
+lokey=82
+hikey=87
+volume=-1.259127
+
+<region>
+lovel=0
+hivel=83
+sample=Xylophone/Medium Mallets/Xylo_Medium_G5_pp_01_far.wav
+pitch_keycenter=91
+lokey=88
+hikey=93
+volume=15.197086
+
+<region>
+lovel=84
+hivel=127
+sample=Xylophone/Medium Mallets/Xylo_Medium_G5_ff_01_far.wav
+pitch_keycenter=91
+lokey=88
+hikey=93
+volume=4.039045
+
+<region>
+lovel=0
+hivel=83
+sample=Xylophone/Medium Mallets/Xylo_Medium_C6_pp_01_far.wav
+pitch_keycenter=96
+lokey=94
+hikey=99
+volume=15.817703
+
+<region>
+lovel=84
+hivel=127
+sample=Xylophone/Medium Mallets/Xylo_Medium_C6_ff_01_far.wav
+pitch_keycenter=96
+lokey=94
+hikey=99
+volume=1.136201
+
+<region>
+lovel=0
+hivel=83
+sample=Xylophone/Medium Mallets/Xylo_Medium_G6_pp_01_far.wav
+pitch_keycenter=103
+lokey=100
+hikey=105
+volume=21.807102
+
+<region>
+lovel=84
+hivel=127
+sample=Xylophone/Medium Mallets/Xylo_Medium_G6_ff_01_far.wav
+pitch_keycenter=103
+lokey=100
+hikey=105
+volume=3.679822
+
+<region>
+lovel=0
+hivel=83
+sample=Xylophone/Medium Mallets/Xylo_Medium_C7_pp_01_far.wav
+pitch_keycenter=108
+lokey=106
+hikey=109
+volume=16.578977
+
+<region>
+lovel=84
+hivel=127
+sample=Xylophone/Medium Mallets/Xylo_Medium_C7_ff_01_far.wav
+pitch_keycenter=108
+lokey=106
+hikey=109
+volume=4.621578
+

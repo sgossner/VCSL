@@ -1,0 +1,125 @@
+// Generation Options: --notuning --volume 7 --articulation Tremolo
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=0.300000
+
+<region>
+sample=Dan Tranh/Tremolo/C#2_Trem_1.wav
+pitch_keycenter=49
+lokey=49
+hikey=50
+volume=9.024685
+
+<region>
+sample=Dan Tranh/Tremolo/D#2_Trem_1.wav
+pitch_keycenter=51
+lokey=51
+hikey=52
+offset=250
+volume=6.583621
+
+<region>
+sample=Dan Tranh/Tremolo/F#2_Trem_1.wav
+pitch_keycenter=54
+lokey=53
+hikey=55
+volume=5.868721
+
+<region>
+sample=Dan Tranh/Tremolo/G#2_Trem_1.wav
+pitch_keycenter=56
+lokey=56
+hikey=57
+offset=1270
+volume=9.058409
+
+<region>
+sample=Dan Tranh/Tremolo/B2_Trem_1.wav
+pitch_keycenter=59
+lokey=58
+hikey=60
+offset=55
+volume=7.611775
+
+<region>
+sample=Dan Tranh/Tremolo/C#3_Trem_1.wav
+pitch_keycenter=61
+lokey=61
+hikey=62
+volume=4.800501
+
+<region>
+sample=Dan Tranh/Tremolo/D#3_Trem_1.wav
+pitch_keycenter=63
+lokey=63
+hikey=64
+offset=173
+volume=5.407900
+
+<region>
+sample=Dan Tranh/Tremolo/F#3_Trem_1.wav
+pitch_keycenter=66
+lokey=65
+hikey=67
+offset=3635
+volume=11.538128
+
+<region>
+sample=Dan Tranh/Tremolo/G#3_Trem_1.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+volume=5.723110
+
+<region>
+sample=Dan Tranh/Tremolo/B3_Trem_1.wav
+pitch_keycenter=71
+lokey=70
+hikey=72
+volume=6.113204
+
+<region>
+sample=Dan Tranh/Tremolo/C#4_Trem_1.wav
+pitch_keycenter=73
+lokey=73
+hikey=74
+offset=398
+volume=7.772793
+
+<region>
+sample=Dan Tranh/Tremolo/D#4_Trem_1.wav
+pitch_keycenter=75
+lokey=75
+hikey=76
+volume=8.153249
+
+<region>
+sample=Dan Tranh/Tremolo/F#4_Trem_1.wav
+pitch_keycenter=78
+lokey=77
+hikey=79
+volume=8.048392
+
+<region>
+sample=Dan Tranh/Tremolo/G#4_Trem_1.wav
+pitch_keycenter=80
+lokey=80
+hikey=81
+volume=4.157171
+
+<region>
+sample=Dan Tranh/Tremolo/B4_Trem_1.wav
+pitch_keycenter=83
+lokey=82
+hikey=89
+volume=8.013194
+
+<region>
+sample=Dan Tranh/Tremolo/B5_Trem_1.wav
+pitch_keycenter=95
+lokey=90
+hikey=96
+offset=933
+volume=8.001721
+

@@ -1,0 +1,54 @@
+// Generation Options: --unpitched --volume 15 --release 3
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=3.000000
+
+<region>
+sample=Mark Trees/Legacy/windchimes_asc1.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=891
+volume=15.000000
+
+<region>
+sample=Mark Trees/Legacy/windchimes_desc1.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+offset=233
+volume=15.000000
+
+<region>
+sample=Mark Trees/Legacy/windchimes_fastAsc1.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+offset=2248
+volume=15.000000
+
+<region>
+sample=Mark Trees/Legacy/windchimes_random.wav
+pitch_keycenter=63
+lokey=63
+hikey=63
+offset=3001
+volume=15.000000
+
+<region>
+sample=Mark Trees/Legacy/windchimes_slowAsc1.wav
+pitch_keycenter=64
+lokey=64
+hikey=64
+offset=1814
+volume=15.000000
+
+<region>
+sample=Mark Trees/Legacy/windchimes_slowDesc1.wav
+pitch_keycenter=65
+lokey=65
+hikey=65
+offset=1608
+volume=15.000000
+

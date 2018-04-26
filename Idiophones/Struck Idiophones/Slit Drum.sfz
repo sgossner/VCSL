@@ -1,0 +1,60 @@
+// Generation Options: --unpitched --volume 15 --release 30
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=30.000000
+
+<region>
+lovel=0
+hivel=65
+sample=Slit Drum/LogDrumHi_MedM_v1_rr1_Sum.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=20.656011
+
+<region>
+lovel=66
+hivel=99
+sample=Slit Drum/LogDrumHi_MedM_v2_rr1_Sum.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=16.276508
+
+<region>
+lovel=100
+hivel=127
+sample=Slit Drum/LogDrumHi_MedM_v3_rr1_Sum.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=10.835257
+
+<region>
+lovel=0
+hivel=65
+sample=Slit Drum/LogDrumLo_MedM_v1_rr1_Sum.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+volume=22.130410
+
+<region>
+lovel=66
+hivel=99
+sample=Slit Drum/LogDrumLo_MedM_v2_rr1_Sum.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+volume=14.020533
+
+<region>
+lovel=100
+hivel=127
+sample=Slit Drum/LogDrumLo_MedM_v3_rr1_Sum.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+volume=11.829110
+

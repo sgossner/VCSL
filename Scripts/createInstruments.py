@@ -19,7 +19,7 @@ noteNames = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B']
 dynamicNames = ['ppp', 'pp', 'p', 'mp', 'mf', 'f', 'ff', 'fff',
                 'v11', 'vl2', 'vl3', 'vl4', 'vl5',
                 'v1', 'v2', 'v3', 'v4', 'v5', 'v6', 'v7', 'v8', 'v9',
-                'soft', 'med', 'medium', 'loud']
+                'soft', 'quiet', 'med', 'medium', 'loud']
 
 # Parse command line options.
 
@@ -31,6 +31,7 @@ parser.add_argument('--transpose', type=int, default=0, help='Transposition that
 parser.add_argument('--volume', type=float, default=0.0, help='Amplification to apply to all samples, in dB (default=0.0)')
 parser.add_argument('--releasevolume', type=float, default=0.0, help='Amplification to apply to release samples, in dB (default=0.0)')
 parser.add_argument('--crossfade', action='store_true', help='Perform crossfading between velocity layers')
+parser.add_argument('--unpitched', action='store_true', help='Treat this as an unpitched instrument')
 parser.add_argument('--noreleases', action='store_true', help='Ignore release samples')
 parser.add_argument('--notuning', action='store_true', help='Do not apply tuning to correct pitches')
 parser.add_argument('--articulation', type=str, default=None, help='Name of the articulation to create (default is to create all articulations)')
@@ -60,9 +61,10 @@ class Sample(object):
         self.offset = 0
         self.tuning = 0
         self.loudness = 0
+        noteFields = []
         fields = filename[:filename.index('.')].split('_')
         for field in fields:
-            if field in noteWithName:
+            if field in noteWithName and not args.unpitched:
                 self.note = noteWithName[field]
             elif field in dynamicNames:
                 self.layer = dynamicNames.index(field)
@@ -73,6 +75,12 @@ class Sample(object):
             elif field[-1].isdigit() and field[:-1] in dynamicNames:
                 self.layer = dynamicNames.index(field[:-1])
                 self.rr = int(field[-1])
+            else:
+                noteFields.append(field)
+        if args.unpitched:
+            # For unpitched instrument, two samples are considered the same "note" if all parts of the filename
+            # match except layer and round robin.
+            self.note = tuple(noteFields)
 
 # Define a class to represent an articulation.
 
@@ -82,7 +90,6 @@ class Articulation(object):
         self.directory = directory
         self.isRelease = isRelease
         self.samples = []
-        self.noteSamples = collections.defaultdict(list)
         self.name = os.path.split(directory)[-1]
         if isRelease and self.name == 'Releases':
             # This happens when there's a single articulation, with the samples directly in the "Sustains" and "Releases" folders.
@@ -90,7 +97,6 @@ class Articulation(object):
 
     def addSample(self, sample):
         self.samples.append(sample);
-        self.noteSamples[sample.note].append(sample)
 
 # Define a class to represent an instrument.
 
@@ -167,12 +173,13 @@ for articulation in instrument.articulations:
         
         # Identify the tuning correction.
 
-        frequency = freq_from_autocorr(wav.data[:,0], wav.rate)
-        for mult in [3, 2, 1, 0.5, 1/3.0]:
-            f = frequency*mult
-            ratio = f/sample.note.frequency
-            if 0.95 < ratio < 1.05:
-                sample.tuning = int(-100*np.log(ratio)/np.log(2**(1/12.0)))
+        if not args.unpitched and not args.notuning:
+            frequency = freq_from_autocorr(wav.data[:,0], wav.rate)
+            for mult in [3, 2, 1, 0.5, 1/3.0]:
+                f = frequency*mult
+                ratio = f/sample.note.frequency
+                if 0.95 < ratio < 1.05:
+                    sample.tuning = int(-100*np.log(ratio)/np.log(2**(1/12.0)))
 
         # Estimate the loudness as the 90th percentile of amplitude during the first second.
 
@@ -198,13 +205,17 @@ def writeArticulation(articulation, outfile, isSustain, isRelease):
     # Find the range of keys to use each note for.
 
     notes = sorted(set([s.note for s in articulation.samples]))
-    lowkey = np.zeros(len(notes))
-    highkey = np.zeros(len(notes))
-    lowkey[0] = notes[0].index
-    for i in range(len(notes)-1):
-        highkey[i] = (notes[i].index+notes[i+1].index)//2
-        lowkey[i+1] = highkey[i]+1
-    highkey[-1] = notes[-1].index+1
+    if args.unpitched:
+        lowkey = np.arange(60, 60+len(notes))
+        highkey = lowkey
+    else:
+        lowkey = np.zeros(len(notes))
+        highkey = np.zeros(len(notes))
+        lowkey[0] = notes[0].index
+        for i in range(len(notes)-1):
+            highkey[i] = (notes[i].index+notes[i+1].index)//2
+            lowkey[i+1] = highkey[i]+1
+        highkey[-1] = notes[-1].index+1
 
     # Compute a target loudness for every note.
     
@@ -212,10 +223,13 @@ def writeArticulation(articulation, outfile, isSustain, isRelease):
     for noteIndex, note in enumerate(notes):
         samples = [s for s in articulation.samples if s.note == note]
         averageLoudness[noteIndex] = np.mean([s.loudness for s in samples])
-    targetLoudness = np.zeros(len(notes))
-    for i in range(len(notes)):
-        lower = np.max([0, i-2])
-        targetLoudness[i] = np.mean(averageLoudness[lower:i+3])
+    if args.unpitched:
+        targetLoudness = averageLoudness
+    else:
+        targetLoudness = np.zeros(len(notes))
+        for i in range(len(notes)):
+            lower = np.max([0, i-2])
+            targetLoudness[i] = np.mean(averageLoudness[lower:i+3])
 
     # Loop over notes.
 
@@ -251,7 +265,11 @@ def writeArticulation(articulation, outfile, isSustain, isRelease):
                         print('lovel=%d' % layer_lowvel(layerIndex, layers), file=outfile)
                         print('hivel=%d' % (layer_lowvel(layerIndex+1, layers)-1), file=outfile)
                 print('sample=%s' % os.path.relpath(os.path.join(articulation.directory, sample.filename), outputDir), file=outfile)
-                print('pitch_keycenter=%s' % note.index, file=outfile)
+                if args.unpitched:
+                    keycenter = lowkey[noteIndex]
+                else:
+                    keycenter = note.index
+                print('pitch_keycenter=%s' % keycenter, file=outfile)
                 print('lokey=%d' % lowkey[noteIndex], file=outfile)
                 print('hikey=%d' % highkey[noteIndex], file=outfile)
                 if sample.offset > 0:

@@ -1,0 +1,72 @@
+// Generation Options: --unpitched --volume 5 --release 2
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=2.000000
+
+<region>
+lovel=0
+hivel=54
+sample=Gong 1/gong_p.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=16.259536
+
+<region>
+lovel=55
+hivel=83
+sample=Gong 1/gong_mf.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=1082
+volume=6.612755
+
+<region>
+lovel=84
+hivel=106
+sample=Gong 1/gong_f.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=1502
+volume=3.076233
+
+<region>
+lovel=107
+hivel=127
+sample=Gong 1/gong_fff.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=1021
+volume=0.660906
+
+<region>
+lovel=0
+hivel=83
+sample=Gong 1/gong_2_mp.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+volume=8.546455
+
+<region>
+lovel=84
+hivel=127
+sample=Gong 1/gong_2_f.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+offset=647
+volume=2.488936
+
+<region>
+sample=Gong 1/gong_scrape_mf.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+offset=889
+volume=5.000000
+

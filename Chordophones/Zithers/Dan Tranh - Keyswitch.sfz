@@ -1,0 +1,1071 @@
+// Generation Options: --notuning --volume 7 --articulation Normal
+
+<group>
+sw_default=36
+sw_lokey=36
+sw_hikey=41
+sw_last=36
+sw_label=Normal
+ampeg_attack=0.004000
+ampeg_release=0.300000
+
+<region>
+lovel=0
+hivel=65
+sample=Dan Tranh/Normal/B1_mf_1.wav
+pitch_keycenter=47
+lokey=47
+hikey=48
+offset=57
+volume=12.783462
+
+<region>
+lovel=66
+hivel=99
+sample=Dan Tranh/Normal/B1_f_1.wav
+pitch_keycenter=47
+lokey=47
+hikey=48
+offset=36
+volume=8.726367
+
+<region>
+lovel=100
+hivel=127
+sample=Dan Tranh/Normal/B1_ff_1.wav
+pitch_keycenter=47
+lokey=47
+hikey=48
+volume=6.627402
+
+<region>
+lovel=0
+hivel=65
+sample=Dan Tranh/Normal/C#2_mf_1.wav
+pitch_keycenter=49
+lokey=49
+hikey=50
+volume=14.113073
+
+<region>
+lovel=66
+hivel=99
+sample=Dan Tranh/Normal/C#2_f_1.wav
+pitch_keycenter=49
+lokey=49
+hikey=50
+volume=3.632683
+
+<region>
+lovel=100
+hivel=127
+sample=Dan Tranh/Normal/C#2_ff_1.wav
+pitch_keycenter=49
+lokey=49
+hikey=50
+volume=6.134271
+
+<region>
+lovel=0
+hivel=65
+sample=Dan Tranh/Normal/D#2_mf_1.wav
+pitch_keycenter=51
+lokey=51
+hikey=52
+volume=14.582257
+
+<region>
+lovel=66
+hivel=99
+sample=Dan Tranh/Normal/D#2_f_1.wav
+pitch_keycenter=51
+lokey=51
+hikey=52
+volume=5.316299
+
+<region>
+lovel=100
+hivel=127
+sample=Dan Tranh/Normal/D#2_ff_1.wav
+pitch_keycenter=51
+lokey=51
+hikey=52
+volume=9.763545
+
+<region>
+lovel=0
+hivel=65
+sample=Dan Tranh/Normal/F#2_mf_1.wav
+pitch_keycenter=54
+lokey=53
+hikey=55
+volume=15.210251
+
+<region>
+lovel=66
+hivel=99
+sample=Dan Tranh/Normal/F#2_f_1.wav
+pitch_keycenter=54
+lokey=53
+hikey=55
+volume=5.620624
+
+<region>
+lovel=100
+hivel=127
+sample=Dan Tranh/Normal/F#2_ff_1.wav
+pitch_keycenter=54
+lokey=53
+hikey=55
+volume=1.926453
+
+<region>
+lovel=0
+hivel=65
+sample=Dan Tranh/Normal/G#2_mf_1.wav
+pitch_keycenter=56
+lokey=56
+hikey=57
+volume=17.780498
+
+<region>
+lovel=66
+hivel=99
+sample=Dan Tranh/Normal/G#2_f_1.wav
+pitch_keycenter=56
+lokey=56
+hikey=57
+volume=13.431067
+
+<region>
+lovel=100
+hivel=127
+sample=Dan Tranh/Normal/G#2_ff_1.wav
+pitch_keycenter=56
+lokey=56
+hikey=57
+volume=1.435711
+
+<region>
+lovel=0
+hivel=65
+sample=Dan Tranh/Normal/B2_mf_1.wav
+pitch_keycenter=59
+lokey=58
+hikey=60
+volume=14.217828
+
+<region>
+lovel=66
+hivel=99
+sample=Dan Tranh/Normal/B2_f_1.wav
+pitch_keycenter=59
+lokey=58
+hikey=60
+volume=4.811172
+
+<region>
+lovel=100
+hivel=127
+sample=Dan Tranh/Normal/B2_ff_1.wav
+pitch_keycenter=59
+lokey=58
+hikey=60
+volume=-0.284319
+
+<region>
+lovel=0
+hivel=65
+sample=Dan Tranh/Normal/C#3_mf_1.wav
+pitch_keycenter=61
+lokey=61
+hikey=62
+volume=16.373772
+
+<region>
+lovel=66
+hivel=99
+sample=Dan Tranh/Normal/C#3_f_1.wav
+pitch_keycenter=61
+lokey=61
+hikey=62
+offset=20
+volume=7.866961
+
+<region>
+lovel=100
+hivel=127
+sample=Dan Tranh/Normal/C#3_ff_1.wav
+pitch_keycenter=61
+lokey=61
+hikey=62
+volume=2.482393
+
+<region>
+lovel=0
+hivel=65
+sample=Dan Tranh/Normal/D#3_mf_1.wav
+pitch_keycenter=63
+lokey=63
+hikey=64
+volume=16.910632
+
+<region>
+lovel=66
+hivel=99
+sample=Dan Tranh/Normal/D#3_f_1.wav
+pitch_keycenter=63
+lokey=63
+hikey=64
+volume=7.931979
+
+<region>
+lovel=100
+hivel=127
+sample=Dan Tranh/Normal/D#3_ff_1.wav
+pitch_keycenter=63
+lokey=63
+hikey=64
+volume=3.371601
+
+<region>
+lovel=0
+hivel=65
+sample=Dan Tranh/Normal/F#3_mf_1.wav
+pitch_keycenter=66
+lokey=65
+hikey=67
+volume=11.534837
+
+<region>
+lovel=66
+hivel=99
+sample=Dan Tranh/Normal/F#3_f_1.wav
+pitch_keycenter=66
+lokey=65
+hikey=67
+offset=125
+volume=7.970867
+
+<region>
+lovel=100
+hivel=127
+sample=Dan Tranh/Normal/F#3_ff_1.wav
+pitch_keycenter=66
+lokey=65
+hikey=67
+volume=2.706688
+
+<region>
+lovel=0
+hivel=65
+sample=Dan Tranh/Normal/G#3_mf_1.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+volume=15.113542
+
+<region>
+lovel=66
+hivel=99
+sample=Dan Tranh/Normal/G#3_f_1.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+offset=305
+volume=7.417834
+
+<region>
+lovel=100
+hivel=127
+sample=Dan Tranh/Normal/G#3_ff_1.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+volume=2.211536
+
+<region>
+lovel=0
+hivel=65
+sample=Dan Tranh/Normal/B3_mf_1.wav
+pitch_keycenter=71
+lokey=70
+hikey=72
+volume=16.929678
+
+<region>
+lovel=66
+hivel=99
+sample=Dan Tranh/Normal/B3_f_1.wav
+pitch_keycenter=71
+lokey=70
+hikey=72
+offset=11
+volume=11.869125
+
+<region>
+lovel=100
+hivel=127
+sample=Dan Tranh/Normal/B3_ff_1.wav
+pitch_keycenter=71
+lokey=70
+hikey=72
+volume=5.056018
+
+<region>
+lovel=0
+hivel=65
+sample=Dan Tranh/Normal/C#4_mf_1.wav
+pitch_keycenter=73
+lokey=73
+hikey=74
+volume=13.109338
+
+<region>
+lovel=66
+hivel=99
+sample=Dan Tranh/Normal/C#4_f_1.wav
+pitch_keycenter=73
+lokey=73
+hikey=74
+volume=4.208110
+
+<region>
+lovel=100
+hivel=127
+sample=Dan Tranh/Normal/C#4_ff_1.wav
+pitch_keycenter=73
+lokey=73
+hikey=74
+volume=0.951614
+
+<region>
+lovel=0
+hivel=65
+sample=Dan Tranh/Normal/D#4_mf_1.wav
+pitch_keycenter=75
+lokey=75
+hikey=76
+volume=15.373498
+
+<region>
+lovel=66
+hivel=99
+sample=Dan Tranh/Normal/D#4_f_1.wav
+pitch_keycenter=75
+lokey=75
+hikey=76
+volume=10.655267
+
+<region>
+lovel=100
+hivel=127
+sample=Dan Tranh/Normal/D#4_ff_1.wav
+pitch_keycenter=75
+lokey=75
+hikey=76
+volume=-2.879946
+
+<region>
+lovel=0
+hivel=65
+sample=Dan Tranh/Normal/F#4_mf_1.wav
+pitch_keycenter=78
+lokey=77
+hikey=79
+volume=17.162218
+
+<region>
+lovel=66
+hivel=99
+sample=Dan Tranh/Normal/F#4_f_1.wav
+pitch_keycenter=78
+lokey=77
+hikey=79
+volume=9.024345
+
+<region>
+lovel=100
+hivel=127
+sample=Dan Tranh/Normal/F#4_ff_1.wav
+pitch_keycenter=78
+lokey=77
+hikey=79
+volume=8.937271
+
+<region>
+lovel=0
+hivel=65
+sample=Dan Tranh/Normal/G#4_mf_1.wav
+pitch_keycenter=80
+lokey=80
+hikey=87
+volume=10.929110
+
+<region>
+lovel=66
+hivel=99
+sample=Dan Tranh/Normal/G#4_f_1.wav
+pitch_keycenter=80
+lokey=80
+hikey=87
+volume=4.987312
+
+<region>
+lovel=100
+hivel=127
+sample=Dan Tranh/Normal/G#4_ff_1.wav
+pitch_keycenter=80
+lokey=80
+hikey=87
+volume=9.797802
+
+<region>
+lovel=0
+hivel=65
+sample=Dan Tranh/Normal/B5_mf_1.wav
+pitch_keycenter=95
+lokey=88
+hikey=96
+volume=19.152715
+
+<region>
+lovel=66
+hivel=99
+sample=Dan Tranh/Normal/B5_f_1.wav
+pitch_keycenter=95
+lokey=88
+hikey=96
+volume=7.415859
+
+<region>
+lovel=100
+hivel=127
+sample=Dan Tranh/Normal/B5_ff_1.wav
+pitch_keycenter=95
+lokey=88
+hikey=96
+volume=4.731953
+
+
+
+// Generation Options: --notuning --volume 7 --articulation Vibrato
+
+<group>
+sw_default=36
+sw_lokey=36
+sw_hikey=41
+sw_last=37
+sw_label=Vibrato
+ampeg_attack=0.004000
+ampeg_release=0.300000
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/C#2_vib_mf_1.wav
+pitch_keycenter=49
+lokey=49
+hikey=50
+volume=12.673324
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/C#2_vib_ff_1.wav
+pitch_keycenter=49
+lokey=49
+hikey=50
+volume=1.981052
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/D#2_vib_mf_1.wav
+pitch_keycenter=51
+lokey=51
+hikey=52
+volume=11.302192
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/D#2_vib_ff_1.wav
+pitch_keycenter=51
+lokey=51
+hikey=52
+volume=5.891933
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/F#2_vib_mf_1.wav
+pitch_keycenter=54
+lokey=53
+hikey=55
+volume=10.485757
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/F#2_vib_ff_1.wav
+pitch_keycenter=54
+lokey=53
+hikey=55
+volume=5.940163
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/G#2_vib_mf_1.wav
+pitch_keycenter=56
+lokey=56
+hikey=57
+volume=12.036069
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/G#2_vib_ff_1.wav
+pitch_keycenter=56
+lokey=56
+hikey=57
+volume=5.320414
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/B2_vib_mf_1.wav
+pitch_keycenter=59
+lokey=58
+hikey=60
+volume=9.346988
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/B2_vib_ff_1.wav
+pitch_keycenter=59
+lokey=58
+hikey=60
+volume=2.639432
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/C#3_vib_mf_1.wav
+pitch_keycenter=61
+lokey=61
+hikey=62
+volume=10.193338
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/C#3_vib_ff_1.wav
+pitch_keycenter=61
+lokey=61
+hikey=62
+volume=3.082332
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/D#3_vib_mf_1.wav
+pitch_keycenter=63
+lokey=63
+hikey=64
+volume=8.629688
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/D#3_vib_ff_1.wav
+pitch_keycenter=63
+lokey=63
+hikey=64
+volume=8.180259
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/F#3_vib_mf_1.wav
+pitch_keycenter=66
+lokey=65
+hikey=67
+volume=8.012152
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/F#3_vib_ff_1.wav
+pitch_keycenter=66
+lokey=65
+hikey=67
+volume=3.683178
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/G#3_vib_mf_1.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+volume=16.977687
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/G#3_vib_ff_1.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+volume=7.469140
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/B3_vib_mf_1.wav
+pitch_keycenter=71
+lokey=70
+hikey=72
+volume=7.068712
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/B3_vib_ff_1.wav
+pitch_keycenter=71
+lokey=70
+hikey=72
+volume=3.456827
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/C#4_vib_mf_1.wav
+pitch_keycenter=73
+lokey=73
+hikey=74
+volume=7.915485
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/C#4_vib_ff_1.wav
+pitch_keycenter=73
+lokey=73
+hikey=74
+volume=1.576495
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/D#4_vib_mf_1.wav
+pitch_keycenter=75
+lokey=75
+hikey=76
+volume=11.790371
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/D#4_vib_ff_1.wav
+pitch_keycenter=75
+lokey=75
+hikey=76
+volume=6.625983
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/F#4_vib_mf_1.wav
+pitch_keycenter=78
+lokey=77
+hikey=79
+volume=10.481775
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/F#4_vib_ff_1.wav
+pitch_keycenter=78
+lokey=77
+hikey=79
+volume=12.119636
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/G#4_vib_mf_1.wav
+pitch_keycenter=80
+lokey=80
+hikey=81
+volume=10.893218
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/G#4_vib_ff_1.wav
+pitch_keycenter=80
+lokey=80
+hikey=81
+volume=7.397570
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/B4_vib_mf_1.wav
+pitch_keycenter=83
+lokey=82
+hikey=89
+volume=5.010086
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/B4_vib_ff_1.wav
+pitch_keycenter=83
+lokey=82
+hikey=89
+volume=0.693800
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Vibrato/B5_vib_mf_1.wav
+pitch_keycenter=95
+lokey=90
+hikey=96
+volume=19.891120
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Vibrato/B5_vib_ff_1.wav
+pitch_keycenter=95
+lokey=90
+hikey=96
+volume=5.030120
+
+
+
+// Generation Options: --unpitched --volume 2 --articulation FX
+
+<group>
+sw_default=36
+sw_lokey=36
+sw_hikey=41
+sw_last=38
+sw_label=FX
+ampeg_attack=0.004000
+ampeg_release=0.300000
+
+<region>
+sample=Dan Tranh/FX/FX_01.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=278
+volume=2.000000
+
+<region>
+sample=Dan Tranh/FX/FX_03.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+offset=1888
+volume=2.000000
+
+<region>
+sample=Dan Tranh/FX/FX_05c.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+volume=2.000000
+
+<region>
+sample=Dan Tranh/FX/FX_07c.wav
+pitch_keycenter=63
+lokey=63
+hikey=63
+offset=71
+volume=2.000000
+
+<region>
+sample=Dan Tranh/FX/FX_18.wav
+pitch_keycenter=64
+lokey=64
+hikey=64
+volume=2.000000
+
+<region>
+sample=Dan Tranh/FX/FX_22.wav
+pitch_keycenter=65
+lokey=65
+hikey=65
+offset=5297
+volume=2.000000
+
+<region>
+sample=Dan Tranh/FX/FX_30.wav
+pitch_keycenter=66
+lokey=66
+hikey=66
+volume=2.000000
+
+
+
+// Generation Options: --unpitched --volume 7 --articulation Gliss
+
+<group>
+sw_default=36
+sw_lokey=36
+sw_hikey=41
+sw_last=39
+sw_label=Gliss
+ampeg_attack=0.004000
+ampeg_release=0.300000
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Gliss/Gliss_Dwn_Med_mf_1.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=9.727670
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Gliss/Gliss_Dwn_Med_ff_1.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=4.927303
+
+<region>
+sample=Dan Tranh/Gliss/Gliss_Dwn_Slw_ff_1.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+volume=7.000000
+
+<region>
+sample=Dan Tranh/Gliss/Gliss_Dwn_Slw_mf_2.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+volume=7.000000
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Gliss/Gliss_Dwn_Swl_mf_1.wav
+pitch_keycenter=63
+lokey=63
+hikey=63
+offset=491
+volume=10.566689
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Gliss/Gliss_Dwn_Swl_ff_1.wav
+pitch_keycenter=63
+lokey=63
+hikey=63
+offset=462
+volume=4.478880
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Gliss/Gliss_Up_Med_mf_1.wav
+pitch_keycenter=64
+lokey=64
+hikey=64
+offset=2584
+volume=14.413352
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Gliss/Gliss_Up_Med_ff_1.wav
+pitch_keycenter=64
+lokey=64
+hikey=64
+offset=1642
+volume=3.059488
+
+<region>
+sample=Dan Tranh/Gliss/Gliss_Up_Slw_mf_1.wav
+pitch_keycenter=65
+lokey=65
+hikey=65
+offset=1353
+volume=7.000000
+
+<region>
+sample=Dan Tranh/Gliss/Gliss_Up_Slw_ff_2.wav
+pitch_keycenter=66
+lokey=66
+hikey=66
+offset=1071
+volume=7.000000
+
+<region>
+lovel=0
+hivel=83
+sample=Dan Tranh/Gliss/Gliss_Up_Swl_mf_1.wav
+pitch_keycenter=67
+lokey=67
+hikey=67
+offset=1367
+volume=13.899337
+
+<region>
+lovel=84
+hivel=127
+sample=Dan Tranh/Gliss/Gliss_Up_Swl_ff_1.wav
+pitch_keycenter=67
+lokey=67
+hikey=67
+offset=980
+volume=3.203966
+
+
+
+// Generation Options: --notuning --volume 7 --articulation Tremolo
+
+<group>
+sw_default=36
+sw_lokey=36
+sw_hikey=41
+sw_last=40
+sw_label=Tremolo
+ampeg_attack=0.004000
+ampeg_release=0.300000
+
+<region>
+sample=Dan Tranh/Tremolo/C#2_Trem_1.wav
+pitch_keycenter=49
+lokey=49
+hikey=50
+volume=9.024685
+
+<region>
+sample=Dan Tranh/Tremolo/D#2_Trem_1.wav
+pitch_keycenter=51
+lokey=51
+hikey=52
+offset=250
+volume=6.583621
+
+<region>
+sample=Dan Tranh/Tremolo/F#2_Trem_1.wav
+pitch_keycenter=54
+lokey=53
+hikey=55
+volume=5.868721
+
+<region>
+sample=Dan Tranh/Tremolo/G#2_Trem_1.wav
+pitch_keycenter=56
+lokey=56
+hikey=57
+offset=1270
+volume=9.058409
+
+<region>
+sample=Dan Tranh/Tremolo/B2_Trem_1.wav
+pitch_keycenter=59
+lokey=58
+hikey=60
+offset=55
+volume=7.611775
+
+<region>
+sample=Dan Tranh/Tremolo/C#3_Trem_1.wav
+pitch_keycenter=61
+lokey=61
+hikey=62
+volume=4.800501
+
+<region>
+sample=Dan Tranh/Tremolo/D#3_Trem_1.wav
+pitch_keycenter=63
+lokey=63
+hikey=64
+offset=173
+volume=5.407900
+
+<region>
+sample=Dan Tranh/Tremolo/F#3_Trem_1.wav
+pitch_keycenter=66
+lokey=65
+hikey=67
+offset=3635
+volume=11.538128
+
+<region>
+sample=Dan Tranh/Tremolo/G#3_Trem_1.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+volume=5.723110
+
+<region>
+sample=Dan Tranh/Tremolo/B3_Trem_1.wav
+pitch_keycenter=71
+lokey=70
+hikey=72
+volume=6.113204
+
+<region>
+sample=Dan Tranh/Tremolo/C#4_Trem_1.wav
+pitch_keycenter=73
+lokey=73
+hikey=74
+offset=398
+volume=7.772793
+
+<region>
+sample=Dan Tranh/Tremolo/D#4_Trem_1.wav
+pitch_keycenter=75
+lokey=75
+hikey=76
+volume=8.153249
+
+<region>
+sample=Dan Tranh/Tremolo/F#4_Trem_1.wav
+pitch_keycenter=78
+lokey=77
+hikey=79
+volume=8.048392
+
+<region>
+sample=Dan Tranh/Tremolo/G#4_Trem_1.wav
+pitch_keycenter=80
+lokey=80
+hikey=81
+volume=4.157171
+
+<region>
+sample=Dan Tranh/Tremolo/B4_Trem_1.wav
+pitch_keycenter=83
+lokey=82
+hikey=89
+volume=8.013194
+
+<region>
+sample=Dan Tranh/Tremolo/B5_Trem_1.wav
+pitch_keycenter=95
+lokey=90
+hikey=96
+offset=933
+volume=8.001721
+
+
+

@@ -1,0 +1,59 @@
+// Generation Options: --unpitched --volume 2 --articulation FX
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=0.300000
+
+<region>
+sample=Dan Tranh/FX/FX_01.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=278
+volume=2.000000
+
+<region>
+sample=Dan Tranh/FX/FX_03.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+offset=1888
+volume=2.000000
+
+<region>
+sample=Dan Tranh/FX/FX_05c.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+volume=2.000000
+
+<region>
+sample=Dan Tranh/FX/FX_07c.wav
+pitch_keycenter=63
+lokey=63
+hikey=63
+offset=71
+volume=2.000000
+
+<region>
+sample=Dan Tranh/FX/FX_18.wav
+pitch_keycenter=64
+lokey=64
+hikey=64
+volume=2.000000
+
+<region>
+sample=Dan Tranh/FX/FX_22.wav
+pitch_keycenter=65
+lokey=65
+hikey=65
+offset=5297
+volume=2.000000
+
+<region>
+sample=Dan Tranh/FX/FX_30.wav
+pitch_keycenter=66
+lokey=66
+hikey=66
+volume=2.000000
+
