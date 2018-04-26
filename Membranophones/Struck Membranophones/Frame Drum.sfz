@@ -1,0 +1,197 @@
+// Generation Options: --release 15 --unpitched --volume 20
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=15.000000
+
+<region>
+sample=Frame Drum/HDrumL_Hand_rr1_Sum.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=30.000000
+
+<region>
+seq_length=2
+seq_position=1
+lovel=0
+hivel=83
+sample=Frame Drum/HDrumL_Hit_v2_rr1_Sum.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+volume=34.044099
+
+<region>
+seq_length=2
+seq_position=2
+lovel=0
+hivel=83
+sample=Frame Drum/HDrumL_Hit_v2_rr2_Sum.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+volume=29.462923
+
+<region>
+seq_length=2
+seq_position=1
+lovel=84
+hivel=127
+sample=Frame Drum/HDrumL_Hit_v3_rr1_Sum.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+volume=14.272388
+
+<region>
+seq_length=2
+seq_position=2
+lovel=84
+hivel=127
+sample=Frame Drum/HDrumL_Hit_v3_rr2_Sum.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+volume=16.298092
+
+<region>
+seq_length=2
+seq_position=1
+lovel=0
+hivel=83
+sample=Frame Drum/HDrumL_HitMuted_v2_rr1_Sum.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+volume=29.227229
+
+<region>
+seq_length=2
+seq_position=2
+lovel=0
+hivel=83
+sample=Frame Drum/HDrumL_HitMuted_v2_rr2_Sum.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+volume=28.632901
+
+<region>
+seq_length=2
+seq_position=1
+lovel=84
+hivel=127
+sample=Frame Drum/HDrumL_HitMuted_v3_rr1_Sum.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+volume=16.598735
+
+<region>
+seq_length=2
+seq_position=2
+lovel=84
+hivel=127
+sample=Frame Drum/HDrumL_HitMuted_v3_rr2_Sum.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+volume=14.870966
+
+<region>
+sample=Frame Drum/HDrumS_Hand_v1_rr1_Sum.wav
+pitch_keycenter=63
+lokey=63
+hikey=63
+volume=30.000000
+
+<region>
+seq_length=2
+seq_position=1
+lovel=0
+hivel=83
+sample=Frame Drum/HDrumS_Hit_v2_rr1_Sum.wav
+pitch_keycenter=64
+lokey=64
+hikey=64
+volume=26.649276
+
+<region>
+seq_length=2
+seq_position=2
+lovel=0
+hivel=83
+sample=Frame Drum/HDrumS_Hit_v2_rr2_Sum.wav
+pitch_keycenter=64
+lokey=64
+hikey=64
+volume=27.960777
+
+<region>
+seq_length=2
+seq_position=1
+lovel=84
+hivel=127
+sample=Frame Drum/HDrumS_Hit_v3_rr1_Sum.wav
+pitch_keycenter=64
+lokey=64
+hikey=64
+volume=16.893624
+
+<region>
+seq_length=2
+seq_position=2
+lovel=84
+hivel=127
+sample=Frame Drum/HDrumS_Hit_v3_rr2_Sum.wav
+pitch_keycenter=64
+lokey=64
+hikey=64
+volume=15.365214
+
+<region>
+seq_length=2
+seq_position=1
+lovel=0
+hivel=83
+sample=Frame Drum/HDrumS_HitMuted_v2_rr1_Sum.wav
+pitch_keycenter=65
+lokey=65
+hikey=65
+volume=34.616063
+
+<region>
+seq_length=2
+seq_position=2
+lovel=0
+hivel=83
+sample=Frame Drum/HDrumS_HitMuted_v2_rr2_Sum.wav
+pitch_keycenter=65
+lokey=65
+hikey=65
+volume=28.429733
+
+<region>
+seq_length=2
+seq_position=1
+lovel=84
+hivel=127
+sample=Frame Drum/HDrumS_HitMuted_v3_rr1_Sum.wav
+pitch_keycenter=65
+lokey=65
+hikey=65
+offset=2
+volume=14.308959
+
+<region>
+seq_length=2
+seq_position=2
+lovel=84
+hivel=127
+sample=Frame Drum/HDrumS_HitMuted_v3_rr2_Sum.wav
+pitch_keycenter=65
+lokey=65
+hikey=65
+volume=16.422145
+

@@ -1,0 +1,217 @@
+// Generation Options: --release 15 --unpitched --volume 15
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=15.000000
+
+<region>
+seq_length=2
+seq_position=1
+lovel=0
+hivel=65
+sample=Snare Drum, Modern 3/Snare4_HitSN_v2_rr1_Mid.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=27.356747
+
+<region>
+seq_length=2
+seq_position=2
+lovel=0
+hivel=65
+sample=Snare Drum, Modern 3/Snare4_HitSN_v2_rr2_Mid.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=195
+volume=29.336339
+
+<region>
+seq_length=2
+seq_position=1
+lovel=66
+hivel=99
+sample=Snare Drum, Modern 3/Snare4_HitSN_v4_rr1_Mid.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=204
+volume=16.157860
+
+<region>
+seq_length=2
+seq_position=2
+lovel=66
+hivel=99
+sample=Snare Drum, Modern 3/Snare4_HitSN_v4_rr2_Mid.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=123
+volume=16.289020
+
+<region>
+seq_length=2
+seq_position=1
+lovel=100
+hivel=127
+sample=Snare Drum, Modern 3/Snare4_HitSN_v5_rr1_Mid.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=202
+volume=9.743427
+
+<region>
+seq_length=2
+seq_position=2
+lovel=100
+hivel=127
+sample=Snare Drum, Modern 3/Snare4_HitSN_v5_rr2_Mid.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=203
+volume=8.987666
+
+<region>
+seq_length=2
+seq_position=1
+sample=Snare Drum, Modern 3/Snare4_Xstick_v2_rr1_Mid.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+volume=15.105406
+
+<region>
+seq_length=2
+seq_position=2
+sample=Snare Drum, Modern 3/Snare4_Xstick_v2_rr2_Mid.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+offset=270
+volume=14.895858
+
+<region>
+seq_length=2
+seq_position=1
+lovel=0
+hivel=83
+sample=Snare Drum, Modern 3/Snare4_rimshot_v2_rr1_Mid.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+offset=199
+volume=25.866675
+
+<region>
+seq_length=2
+seq_position=2
+lovel=0
+hivel=83
+sample=Snare Drum, Modern 3/Snare4_rimshot_v2_rr2_Mid.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+offset=212
+volume=20.810023
+
+<region>
+seq_length=2
+seq_position=1
+lovel=84
+hivel=127
+sample=Snare Drum, Modern 3/Snare4_rimshot_v4_rr1_Mid.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+offset=201
+volume=11.572337
+
+<region>
+seq_length=2
+seq_position=2
+lovel=84
+hivel=127
+sample=Snare Drum, Modern 3/Snare4_rimshot_v4_rr2_Mid.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+offset=206
+volume=10.301025
+
+<region>
+lovel=0
+hivel=65
+sample=Snare Drum, Modern 3/Snare4_rollSN_v3_rr1_Mid.wav
+pitch_keycenter=63
+lokey=63
+hikey=63
+offset=258
+volume=22.374982
+ampeg_release=0.3
+
+<region>
+lovel=66
+hivel=99
+sample=Snare Drum, Modern 3/Snare4_rollSN_v4_rr1_Mid.wav
+pitch_keycenter=63
+lokey=63
+hikey=63
+offset=243
+volume=15.444294
+ampeg_release=0.3
+
+<region>
+lovel=100
+hivel=127
+sample=Snare Drum, Modern 3/Snare4_rollSN_v5_rr1_Mid.wav
+pitch_keycenter=63
+lokey=63
+hikey=63
+offset=227
+volume=10.798688
+ampeg_release=0.3
+
+<region>
+seq_length=2
+seq_position=1
+sample=Snare Drum, Modern 3/Snare4_stick_v3_rr1_Mid.wav
+pitch_keycenter=64
+lokey=64
+hikey=64
+offset=182
+volume=16.377021
+
+<region>
+seq_length=2
+seq_position=2
+sample=Snare Drum, Modern 3/Snare4_stick_v3_rr2_Mid.wav
+pitch_keycenter=64
+lokey=64
+hikey=64
+offset=188
+volume=13.811706
+
+<region>
+seq_length=2
+seq_position=1
+sample=Snare Drum, Modern 3/Snare4_taps_v4_rr1_Mid.wav
+pitch_keycenter=65
+lokey=65
+hikey=65
+offset=168
+volume=14.521114
+
+<region>
+seq_length=2
+seq_position=2
+sample=Snare Drum, Modern 3/Snare4_taps_v4_rr2_Mid.wav
+pitch_keycenter=65
+lokey=65
+hikey=65
+offset=164
+volume=15.506837
+

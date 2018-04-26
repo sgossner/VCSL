@@ -1,0 +1,159 @@
+// Generation Options: --release 15 --notuning
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=15.000000
+
+<region>
+sample=Nyunga Nyunga, Mozambique, Low F/Mbira2_Normal_MainSpirit_F2_k11_vl3_rr2.wav
+pitch_keycenter=53
+lokey=53
+hikey=55
+volume=1.684702
+
+<region>
+sample=Nyunga Nyunga, Mozambique, Low F/Mbira2_Normal_MainSpirit_A2_k9_vl3_rr2.wav
+pitch_keycenter=57
+lokey=56
+hikey=57
+volume=-2.553915
+
+<region>
+sample=Nyunga Nyunga, Mozambique, Low F/Mbira2_Normal_MainSpirit_A#2_k13_vl3_rr2.wav
+pitch_keycenter=58
+lokey=58
+hikey=59
+volume=3.148071
+
+<region>
+sample=Nyunga Nyunga, Mozambique, Low F/Mbira2_Normal_MainSpirit_C3_k15_vl3_rr3.wav
+pitch_keycenter=60
+lokey=60
+hikey=61
+volume=-2.685799
+
+<region>
+sample=Nyunga Nyunga, Mozambique, Low F/Mbira2_Normal_MainSpirit_D3_k17_vl3_rr2.wav
+pitch_keycenter=62
+lokey=62
+hikey=63
+volume=1.024660
+
+<region>
+seq_length=2
+seq_position=1
+sample=Nyunga Nyunga, Mozambique, Low F/Mbira2_Normal_MainSpirit_E3_k19_vl3_rr2.wav
+pitch_keycenter=64
+lokey=64
+hikey=64
+volume=0.594728
+
+<region>
+seq_length=2
+seq_position=2
+sample=Nyunga Nyunga, Mozambique, Low F/Mbira2_Normal_MainSpirit_E3_k7_vl3_rr2.wav
+pitch_keycenter=64
+lokey=64
+hikey=64
+volume=-1.177646
+
+<region>
+sample=Nyunga Nyunga, Mozambique, Low F/Mbira2_Normal_MainSpirit_F3_k5_vl3_rr2.wav
+pitch_keycenter=65
+lokey=65
+hikey=66
+volume=4.166608
+
+<region>
+sample=Nyunga Nyunga, Mozambique, Low F/Mbira2_Normal_MainSpirit_G3_k3_vl3_rr2.wav
+pitch_keycenter=67
+lokey=67
+hikey=68
+volume=1.745562
+
+<region>
+sample=Nyunga Nyunga, Mozambique, Low F/Mbira2_Normal_MainSpirit_A3_k1_vl3_rr2.wav
+pitch_keycenter=69
+lokey=69
+hikey=69
+volume=6.655589
+
+<region>
+seq_length=2
+seq_position=1
+sample=Nyunga Nyunga, Mozambique, Low F/Mbira2_Normal_MainSpirit_A#3_k12_vl3_rr2.wav
+pitch_keycenter=70
+lokey=70
+hikey=71
+volume=-4.181776
+
+<region>
+seq_length=2
+seq_position=2
+sample=Nyunga Nyunga, Mozambique, Low F/Mbira2_Normal_MainSpirit_A#3_k8_vl3_rr2.wav
+pitch_keycenter=70
+lokey=70
+hikey=71
+volume=-6.146996
+
+<region>
+seq_length=2
+seq_position=1
+sample=Nyunga Nyunga, Mozambique, Low F/Mbira2_Normal_MainSpirit_C4_k14_vl3_rr2.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+volume=-2.681681
+
+<region>
+seq_length=2
+seq_position=2
+sample=Nyunga Nyunga, Mozambique, Low F/Mbira2_Normal_MainSpirit_C4_k6_vl3_rr2.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+volume=0.209763
+
+<region>
+seq_length=2
+seq_position=1
+sample=Nyunga Nyunga, Mozambique, Low F/Mbira2_Normal_MainSpirit_D4_k16_vl3_rr2.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+volume=5.425991
+
+<region>
+seq_length=2
+seq_position=2
+sample=Nyunga Nyunga, Mozambique, Low F/Mbira2_Normal_MainSpirit_D4_k4_vl3_rr2.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+volume=2.436396
+
+<region>
+seq_length=2
+seq_position=1
+sample=Nyunga Nyunga, Mozambique, Low F/Mbira2_Normal_MainSpirit_E4_k18_vl3_rr2.wav
+pitch_keycenter=76
+lokey=76
+hikey=76
+volume=0.437082
+
+<region>
+seq_length=2
+seq_position=2
+sample=Nyunga Nyunga, Mozambique, Low F/Mbira2_Normal_MainSpirit_E4_k2_vl3_rr2.wav
+pitch_keycenter=76
+lokey=76
+hikey=76
+volume=2.623343
+
+<region>
+sample=Nyunga Nyunga, Mozambique, Low F/Mbira2_Normal_MainSpirit_F4_k10_vl3_rr2.wav
+pitch_keycenter=77
+lokey=77
+hikey=78
+volume=-2.881408
+
