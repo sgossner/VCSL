@@ -1,0 +1,94 @@
+// Generation Options: --release 2 --unpitched --volume 15
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=2.000000
+
+<region>
+seq_length=2
+seq_position=1
+lovel=0
+hivel=54
+sample=Bass Drum 1/BDrumNew_hit_v2_rr1_Sum.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=26.890228
+
+<region>
+seq_length=2
+seq_position=2
+lovel=0
+hivel=54
+sample=Bass Drum 1/BDrumNew_hit_v2_rr2_Sum.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=28.387244
+
+<region>
+seq_length=2
+seq_position=1
+lovel=55
+hivel=83
+sample=Bass Drum 1/BDrumNew_hit_v3_rr1_Sum.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=22.206599
+
+<region>
+seq_length=2
+seq_position=2
+lovel=55
+hivel=83
+sample=Bass Drum 1/BDrumNew_hit_v3_rr2_Sum.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=23.787383
+
+<region>
+seq_length=2
+seq_position=1
+lovel=84
+hivel=106
+sample=Bass Drum 1/BDrumNew_hit_v5_rr1_Sum.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=13.754850
+
+<region>
+seq_length=2
+seq_position=2
+lovel=84
+hivel=106
+sample=Bass Drum 1/BDrumNew_hit_v5_rr2_Sum.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=14.652348
+
+<region>
+seq_length=2
+seq_position=1
+lovel=107
+hivel=127
+sample=Bass Drum 1/BDrumNew_hit_v7_rr1_Sum.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=8.122035
+
+<region>
+seq_length=2
+seq_position=2
+lovel=107
+hivel=127
+sample=Bass Drum 1/BDrumNew_hit_v7_rr2_Sum.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=7.655661
+

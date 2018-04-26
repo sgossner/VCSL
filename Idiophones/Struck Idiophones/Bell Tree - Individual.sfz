@@ -1,0 +1,55 @@
+// Generation Options: --volume 25 --release 15 --articulation Individual
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=15.000000
+
+<region>
+sample=Bell Tree/Individual/BellTree_Hit_C5_rr1_Mid.wav
+pitch_keycenter=84
+lokey=84
+hikey=85
+offset=278
+volume=22.960868
+
+<region>
+sample=Bell Tree/Individual/BellTree_Hit_D5_rr1_Mid.wav
+pitch_keycenter=86
+lokey=86
+hikey=87
+offset=277
+tune=33
+volume=22.500500
+
+<region>
+sample=Bell Tree/Individual/BellTree_Hit_E5_rr1_Mid.wav
+pitch_keycenter=88
+lokey=88
+hikey=89
+offset=242
+volume=32.098126
+
+<region>
+sample=Bell Tree/Individual/BellTree_Hit_F#5_rr1_Mid.wav
+pitch_keycenter=90
+lokey=90
+hikey=91
+offset=255
+volume=28.018752
+
+<region>
+sample=Bell Tree/Individual/BellTree_Hit_G#5_rr1_Mid.wav
+pitch_keycenter=92
+lokey=92
+hikey=93
+offset=256
+volume=21.099348
+
+<region>
+sample=Bell Tree/Individual/BellTree_Hit_A#5_rr1_Mid.wav
+pitch_keycenter=94
+lokey=94
+hikey=95
+offset=227
+volume=24.558300
+

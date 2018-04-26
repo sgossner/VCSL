@@ -1,0 +1,182 @@
+// Generation Options: --release 15 --notuning
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=15.000000
+
+<region>
+sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_A#1_k12_vl2_rr1.wav
+pitch_keycenter=46
+lokey=46
+hikey=47
+volume=0.515072
+
+<region>
+sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_C2_k10_vl2_rr1.wav
+pitch_keycenter=48
+lokey=48
+hikey=49
+volume=-3.260362
+
+<region>
+sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_D2_k8_vl2_rr1.wav
+pitch_keycenter=50
+lokey=50
+hikey=50
+volume=4.386862
+
+<region>
+sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_D#2_k6_vl2_rr1.wav
+pitch_keycenter=51
+lokey=51
+hikey=52
+volume=-1.190269
+
+<region>
+sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_F2_k4_vl2_rr1.wav
+pitch_keycenter=53
+lokey=53
+hikey=54
+volume=1.251037
+
+<region>
+sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_G2_k13_vl2_rr1.wav
+pitch_keycenter=55
+lokey=55
+hikey=55
+volume=-1.602227
+
+<region>
+sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_G#2_k2_vl2_rr1.wav
+pitch_keycenter=56
+lokey=56
+hikey=57
+volume=1.354421
+
+<region>
+sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_A#2_k15_vl2_rr1.wav
+pitch_keycenter=58
+lokey=58
+hikey=59
+volume=3.779195
+
+<region>
+sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_C3_k9_vl2_rr1.wav
+pitch_keycenter=60
+lokey=60
+hikey=61
+volume=1.386018
+
+<region>
+sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_D3_k11_vl2_rr1.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+volume=-1.345018
+
+<region>
+sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_D#3_k7_vl2_rr1.wav
+pitch_keycenter=63
+lokey=63
+hikey=64
+volume=0.072496
+
+<region>
+sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_F3_k5_vl2_rr1.wav
+pitch_keycenter=65
+lokey=65
+hikey=66
+volume=-3.294644
+
+<region>
+seq_length=2
+seq_position=1
+sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_G3_k16_vl2_rr1.wav
+pitch_keycenter=67
+lokey=67
+hikey=67
+volume=5.503410
+
+<region>
+seq_length=2
+seq_position=2
+sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_G3_k3_vl2_rr1.wav
+pitch_keycenter=67
+lokey=67
+hikey=67
+volume=2.358162
+
+<region>
+seq_length=2
+seq_position=1
+sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_G#3_k17_vl2_rr1.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+volume=3.413080
+
+<region>
+seq_length=2
+seq_position=2
+sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_G#3_k1_vl2_rr1.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+volume=-6.332559
+
+<region>
+sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_A#3_k18_vl2_rr1.wav
+pitch_keycenter=70
+lokey=70
+hikey=71
+volume=6.639345
+
+<region>
+sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_C4_k19_vl2_rr1.wav
+pitch_keycenter=72
+lokey=72
+hikey=72
+volume=1.469104
+
+<region>
+sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_C#4_k14_vl2_rr1.wav
+pitch_keycenter=73
+lokey=73
+hikey=73
+volume=1.386160
+
+<region>
+sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_D4_k20_vl2_rr1.wav
+pitch_keycenter=74
+lokey=74
+hikey=74
+volume=-3.305207
+
+<region>
+sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_D#4_k21_vl2_rr1.wav
+pitch_keycenter=75
+lokey=75
+hikey=76
+volume=-4.520796
+
+<region>
+sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_F4_k22_vl2_rr1.wav
+pitch_keycenter=77
+lokey=77
+hikey=78
+volume=9.859019
+
+<region>
+sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_G4_k23_vl2_rr1.wav
+pitch_keycenter=79
+lokey=79
+hikey=80
+volume=4.820332
+
+<region>
+sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_A4_k24_vl2_rr1.wav
+pitch_keycenter=81
+lokey=81
+hikey=82
+volume=0.669635
+

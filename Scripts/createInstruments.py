@@ -243,12 +243,8 @@ def writeArticulation(articulation, outfile, isSustain, isRelease):
             
             # Loop over round robins for each layer.
             
-            rrs = sorted(set([s.rr for s in samples if s.layer == layer]))
-            for rrIndex, rr in enumerate(rrs):
-                sample = [s for s in samples if s.layer == layer and s.rr == rr]
-                if len(sample) != 1:
-                    raise ValueError('Found duplicate samples:', [s.filename for s in sample])
-                sample = sample[0]
+            rrs = [s for s in samples if s.layer == layer]
+            for rrIndex, sample in enumerate(rrs):
                 print('<region>', file=outfile)
                 if len(rrs) > 1:
                     print('seq_length=%d' % len(rrs), file=outfile)

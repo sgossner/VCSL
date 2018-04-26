@@ -1,0 +1,230 @@
+// Generation Options: --release 15 --notuning
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=15.000000
+
+<region>
+sample=Kalimba, Tanzania/MBira3_pluck_Main_G1_k12_50_100_rr2.wav
+pitch_keycenter=43
+lokey=43
+hikey=43
+offset=3843
+volume=-3.065671
+
+<region>
+sample=Kalimba, Tanzania/MBira3_pluck_Main_G#1_k11_50_100_rr2.wav
+pitch_keycenter=44
+lokey=44
+hikey=45
+offset=2810
+volume=-0.775472
+
+<region>
+sample=Kalimba, Tanzania/MBira3_pluck_Main_B1_k13_50_100_rr2.wav
+pitch_keycenter=47
+lokey=46
+hikey=48
+offset=11
+volume=6.961577
+
+<region>
+sample=Kalimba, Tanzania/MBira3_pluck_Main_C#2_k10_50_100_rr2.wav
+pitch_keycenter=49
+lokey=49
+hikey=50
+offset=4561
+volume=-0.519795
+
+<region>
+sample=Kalimba, Tanzania/MBira3_pluck_Main_D#2_k14_50_100_rr2.wav
+pitch_keycenter=51
+lokey=51
+hikey=52
+offset=3229
+volume=0.283634
+
+<region>
+sample=Kalimba, Tanzania/MBira3_pluck_Main_F2_k9alt_50_100_rr2.wav
+pitch_keycenter=53
+lokey=53
+hikey=54
+offset=4561
+volume=2.599445
+
+<region>
+sample=Kalimba, Tanzania/MBira3_pluck_Main_G2_k15_50_100_rr2.wav
+pitch_keycenter=55
+lokey=55
+hikey=56
+offset=4666
+volume=4.060146
+
+<region>
+sample=Kalimba, Tanzania/MBira3_pluck_Main_A#2_k8_50_100_rr2.wav
+pitch_keycenter=58
+lokey=57
+hikey=59
+offset=4666
+volume=-1.640063
+
+<region>
+sample=Kalimba, Tanzania/MBira3_pluck_Main_C#3_k16_50_100_rr2.wav
+pitch_keycenter=61
+lokey=60
+hikey=62
+offset=3641
+volume=-2.701336
+
+<region>
+sample=Kalimba, Tanzania/MBira3_pluck_Main_D#3_k7_50_100_rr2.wav
+pitch_keycenter=63
+lokey=63
+hikey=64
+offset=4680
+volume=-1.423243
+
+<region>
+sample=Kalimba, Tanzania/MBira3_pluck_Main_F3_k17_50_100_rr2.wav
+pitch_keycenter=65
+lokey=65
+hikey=66
+offset=4667
+volume=3.670689
+
+<region>
+sample=Kalimba, Tanzania/MBira3_pluck_Main_G3_k6_50_100_rr2.wav
+pitch_keycenter=67
+lokey=67
+hikey=68
+offset=4686
+volume=-4.930473
+
+<region>
+sample=Kalimba, Tanzania/MBira3_pluck_Main_A#3_k18_50_100_rr2.wav
+pitch_keycenter=70
+lokey=69
+hikey=71
+offset=4650
+volume=9.913765
+
+<region>
+sample=Kalimba, Tanzania/MBira3_pluck_Main_C#4_k5_50_100_rr2.wav
+pitch_keycenter=73
+lokey=72
+hikey=73
+offset=4393
+volume=5.783757
+
+<region>
+sample=Kalimba, Tanzania/MBira3_pluck_Main_D4_k19_50_100_rr2.wav
+pitch_keycenter=74
+lokey=74
+hikey=74
+offset=4513
+volume=0.706556
+
+<region>
+seq_length=2
+seq_position=1
+sample=Kalimba, Tanzania/MBira3_pluck_Main_D#4_k20_50_100_rr2.wav
+pitch_keycenter=75
+lokey=75
+hikey=76
+offset=4650
+volume=-2.752871
+
+<region>
+seq_length=2
+seq_position=2
+sample=Kalimba, Tanzania/MBira3_pluck_Main_D#4_k4_50_100_rr2.wav
+pitch_keycenter=75
+lokey=75
+hikey=76
+offset=4567
+volume=-5.160262
+
+<region>
+seq_length=2
+seq_position=1
+sample=Kalimba, Tanzania/MBira3_pluck_Main_F4_k21_50_100_rr2.wav
+pitch_keycenter=77
+lokey=77
+hikey=78
+offset=4655
+volume=-0.477684
+
+<region>
+seq_length=2
+seq_position=2
+sample=Kalimba, Tanzania/MBira3_pluck_Main_F4_k3_50_100_rr2.wav
+pitch_keycenter=77
+lokey=77
+hikey=78
+offset=4457
+volume=-1.484838
+
+<region>
+sample=Kalimba, Tanzania/MBira3_pluck_Main_G4_k22_50_100_rr2.wav
+pitch_keycenter=79
+lokey=79
+hikey=80
+offset=4647
+volume=2.743160
+
+<region>
+sample=Kalimba, Tanzania/MBira3_pluck_Main_A#4_k2_50_100_rr2.wav
+pitch_keycenter=82
+lokey=81
+hikey=82
+offset=4654
+volume=4.505621
+
+<region>
+sample=Kalimba, Tanzania/MBira3_pluck_Main_B4_k23_50_100_rr2.wav
+pitch_keycenter=83
+lokey=83
+hikey=84
+offset=4637
+volume=-2.931288
+
+<region>
+sample=Kalimba, Tanzania/MBira3_pluck_Main_C#5_k24_50_100_rr2.wav
+pitch_keycenter=85
+lokey=85
+hikey=86
+offset=4636
+volume=-0.002467
+
+<region>
+sample=Kalimba, Tanzania/MBira3_pluck_Main_E5_k25_50_100_rr2.wav
+pitch_keycenter=88
+lokey=87
+hikey=89
+offset=4640
+volume=3.248826
+
+<region>
+sample=Kalimba, Tanzania/MBira3_pluck_Main_F#5_k1_50_100_rr2.wav
+pitch_keycenter=90
+lokey=90
+hikey=91
+offset=4573
+volume=0.736137
+
+<region>
+sample=Kalimba, Tanzania/MBira3_pluck_Main_G#5_k26_50_100_rr2.wav
+pitch_keycenter=92
+lokey=92
+hikey=94
+offset=4640
+volume=-3.155076
+
+<region>
+sample=Kalimba, Tanzania/MBira3_pluck_Main_C#6_k27_50_100_rr2.wav
+pitch_keycenter=97
+lokey=95
+hikey=98
+offset=4555
+volume=2.439337
+

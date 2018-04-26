@@ -1,0 +1,46 @@
+// Generation Options: --volume 25 --release 15 --unpitched --articulation Stroke
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=15.000000
+
+<region>
+sample=Bell Tree/Stroke/BellTree_Stroke_1_Mid.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=290
+volume=25.000000
+
+<region>
+sample=Bell Tree/Stroke/BellTree_Stroke_10_Mid.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+offset=330
+volume=25.000000
+
+<region>
+sample=Bell Tree/Stroke/BellTree_Stroke_3_Mid.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+offset=290
+volume=25.000000
+
+<region>
+sample=Bell Tree/Stroke/BellTree_Stroke_4_Mid.wav
+pitch_keycenter=63
+lokey=63
+hikey=63
+offset=307
+volume=25.000000
+
+<region>
+sample=Bell Tree/Stroke/BellTree_Stroke_6_Mid.wav
+pitch_keycenter=64
+lokey=64
+hikey=64
+offset=317
+volume=25.000000
+

@@ -1,0 +1,127 @@
+// Generation Options: --release 15 --notuning --volume 5
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=15.000000
+
+<region>
+sample=Kalimba, Kenya/Mbira6_Normal_MainSpirit_B2_k8_vl3_rr2.wav
+pitch_keycenter=59
+lokey=59
+hikey=60
+volume=8.057059
+
+<region>
+sample=Kalimba, Kenya/Mbira6_Normal_MainSpirit_C#3_k7_vl3_rr2.wav
+pitch_keycenter=61
+lokey=61
+hikey=62
+volume=4.773361
+
+<region>
+seq_length=2
+seq_position=1
+sample=Kalimba, Kenya/Mbira6_Normal_MainSpirit_D#3_k6_vl3_rr2.wav
+pitch_keycenter=63
+lokey=63
+hikey=64
+volume=9.083731
+
+<region>
+seq_length=2
+seq_position=2
+sample=Kalimba, Kenya/Mbira6_Normal_MainSpirit_D#3_k9_vl3_rr2.wav
+pitch_keycenter=63
+lokey=63
+hikey=64
+volume=0.989334
+
+<region>
+seq_length=2
+seq_position=1
+sample=Kalimba, Kenya/Mbira6_Normal_MainSpirit_F#3_k10_vl3_rr2.wav
+pitch_keycenter=66
+lokey=65
+hikey=67
+volume=10.554622
+
+<region>
+seq_length=2
+seq_position=2
+sample=Kalimba, Kenya/Mbira6_Normal_MainSpirit_F#3_k5_vl3_rr2.wav
+pitch_keycenter=66
+lokey=65
+hikey=67
+volume=8.274535
+
+<region>
+seq_length=2
+seq_position=1
+sample=Kalimba, Kenya/Mbira6_Normal_MainSpirit_G#3_k11_vl3_rr2.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+volume=5.528248
+
+<region>
+seq_length=2
+seq_position=2
+sample=Kalimba, Kenya/Mbira6_Normal_MainSpirit_G#3_k4_vl3_rr2.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+volume=-1.418293
+
+<region>
+seq_length=2
+seq_position=1
+sample=Kalimba, Kenya/Mbira6_Normal_MainSpirit_B3_k12_vl3_rr2.wav
+pitch_keycenter=71
+lokey=70
+hikey=72
+volume=6.591513
+
+<region>
+seq_length=2
+seq_position=2
+sample=Kalimba, Kenya/Mbira6_Normal_MainSpirit_B3_k3_vl3_rr2.wav
+pitch_keycenter=71
+lokey=70
+hikey=72
+volume=3.556468
+
+<region>
+sample=Kalimba, Kenya/Mbira6_Normal_MainSpirit_C#4_k2_vl3_rr2.wav
+pitch_keycenter=73
+lokey=73
+hikey=74
+volume=2.967380
+
+<region>
+sample=Kalimba, Kenya/Mbira6_Normal_MainSpirit_D#4_k13_vl3_rr2.wav
+pitch_keycenter=75
+lokey=75
+hikey=76
+volume=12.403903
+
+<region>
+sample=Kalimba, Kenya/Mbira6_Normal_MainSpirit_F#4_k14_vl3_rr2.wav
+pitch_keycenter=78
+lokey=77
+hikey=79
+volume=2.831477
+
+<region>
+sample=Kalimba, Kenya/Mbira6_Normal_MainSpirit_A4_k1_vl3_rr2.wav
+pitch_keycenter=81
+lokey=80
+hikey=82
+volume=4.280300
+
+<region>
+sample=Kalimba, Kenya/Mbira6_Normal_MainSpirit_B4_k15_vl3_rr2.wav
+pitch_keycenter=83
+lokey=83
+hikey=84
+volume=10
+
