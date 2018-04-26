@@ -1,0 +1,56 @@
+// Generation Options: --unpitched --volume 15 --release 15
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=15.000000
+
+<region>
+lovel=0
+hivel=65
+sample=Agogo Bells/Agogo_High_v1_rr1_Mid.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=186
+volume=26.922982
+
+<region>
+lovel=66
+hivel=99
+sample=Agogo Bells/Agogo_High_v2_rr1_Mid.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=187
+volume=15.434500
+
+<region>
+lovel=100
+hivel=127
+sample=Agogo Bells/Agogo_High_v3_rr1_Mid.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=189
+volume=9.916934
+
+<region>
+lovel=0
+hivel=83
+sample=Agogo Bells/Agogo_Low_v1_rr1_Mid.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+offset=200
+volume=21.735236
+
+<region>
+lovel=84
+hivel=127
+sample=Agogo Bells/Agogo_Low_v2_rr1_Mid.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+offset=200
+volume=11.252457
+

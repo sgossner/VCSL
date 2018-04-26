@@ -1,0 +1,240 @@
+// Generation Options: --volume 10 --release 15
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=15.000000
+
+<region>
+lovel=0
+hivel=83
+sample=Vibraphone/Hard Mallets/Vibes_hard_F2_v2_rr1_Main.wav
+pitch_keycenter=53
+lokey=53
+hikey=55
+offset=111
+volume=15.276129
+
+<region>
+lovel=84
+hivel=127
+sample=Vibraphone/Hard Mallets/Vibes_hard_F2_v3_rr1_Main.wav
+pitch_keycenter=53
+lokey=53
+hikey=55
+offset=100
+volume=6.834340
+
+<region>
+lovel=0
+hivel=83
+sample=Vibraphone/Hard Mallets/Vibes_hard_A2_v2_rr1_Main.wav
+pitch_keycenter=57
+lokey=56
+hikey=58
+offset=111
+tune=44
+volume=12.651582
+
+<region>
+lovel=84
+hivel=127
+sample=Vibraphone/Hard Mallets/Vibes_hard_A2_v3_rr1_Main.wav
+pitch_keycenter=57
+lokey=56
+hikey=58
+offset=111
+volume=4.208335
+
+<region>
+lovel=0
+hivel=83
+sample=Vibraphone/Hard Mallets/Vibes_hard_C3_v2_rr1_Main.wav
+pitch_keycenter=60
+lokey=59
+hikey=62
+offset=114
+tune=15
+volume=17.606842
+
+<region>
+lovel=84
+hivel=127
+sample=Vibraphone/Hard Mallets/Vibes_hard_C3_v3_rr1_Main.wav
+pitch_keycenter=60
+lokey=59
+hikey=62
+offset=114
+tune=-67
+volume=6.850434
+
+<region>
+lovel=0
+hivel=83
+sample=Vibraphone/Hard Mallets/Vibes_hard_E3_v2_rr1_Main.wav
+pitch_keycenter=64
+lokey=63
+hikey=65
+offset=115
+tune=6
+volume=13.662226
+
+<region>
+lovel=84
+hivel=127
+sample=Vibraphone/Hard Mallets/Vibes_hard_E3_v3_rr1_Main.wav
+pitch_keycenter=64
+lokey=63
+hikey=65
+offset=118
+tune=15
+volume=9.723325
+
+<region>
+lovel=0
+hivel=83
+sample=Vibraphone/Hard Mallets/Vibes_hard_G3_v2_rr1_Main.wav
+pitch_keycenter=67
+lokey=66
+hikey=69
+offset=115
+tune=-2
+volume=18.367152
+
+<region>
+lovel=84
+hivel=127
+sample=Vibraphone/Hard Mallets/Vibes_hard_G3_v3_rr1_Main.wav
+pitch_keycenter=67
+lokey=66
+hikey=69
+offset=110
+tune=-5
+volume=10.651992
+
+<region>
+lovel=0
+hivel=83
+sample=Vibraphone/Hard Mallets/Vibes_hard_B3_v2_rr1_Main.wav
+pitch_keycenter=71
+lokey=70
+hikey=72
+offset=115
+tune=1
+volume=14.935447
+
+<region>
+lovel=84
+hivel=127
+sample=Vibraphone/Hard Mallets/Vibes_hard_B3_v3_rr1_Main.wav
+pitch_keycenter=71
+lokey=70
+hikey=72
+offset=111
+tune=3
+volume=7.867626
+
+<region>
+lovel=0
+hivel=83
+sample=Vibraphone/Hard Mallets/Vibes_hard_D4_v2_rr1_Main.wav
+pitch_keycenter=74
+lokey=73
+hikey=75
+offset=115
+volume=11.749742
+
+<region>
+lovel=84
+hivel=127
+sample=Vibraphone/Hard Mallets/Vibes_hard_D4_v3_rr1_Main.wav
+pitch_keycenter=74
+lokey=73
+hikey=75
+offset=109
+tune=1
+volume=4.157508
+
+<region>
+lovel=0
+hivel=83
+sample=Vibraphone/Hard Mallets/Vibes_hard_F4_v2_rr1_Main.wav
+pitch_keycenter=77
+lokey=76
+hikey=79
+offset=105
+volume=18.131461
+
+<region>
+lovel=84
+hivel=127
+sample=Vibraphone/Hard Mallets/Vibes_hard_F4_v3_rr1_Main.wav
+pitch_keycenter=77
+lokey=76
+hikey=79
+offset=98
+tune=-15
+volume=6.181621
+
+<region>
+lovel=0
+hivel=83
+sample=Vibraphone/Hard Mallets/Vibes_hard_A4_v2_rr1_Main.wav
+pitch_keycenter=81
+lokey=80
+hikey=82
+offset=96
+volume=16.835732
+
+<region>
+lovel=84
+hivel=127
+sample=Vibraphone/Hard Mallets/Vibes_hard_A4_v3_rr1_Main.wav
+pitch_keycenter=81
+lokey=80
+hikey=82
+offset=93
+tune=1
+volume=9.804130
+
+<region>
+lovel=0
+hivel=83
+sample=Vibraphone/Hard Mallets/Vibes_hard_C5_v2_rr1_Main.wav
+pitch_keycenter=84
+lokey=83
+hikey=86
+offset=91
+volume=13.757376
+
+<region>
+lovel=84
+hivel=127
+sample=Vibraphone/Hard Mallets/Vibes_hard_C5_v3_rr1_Main.wav
+pitch_keycenter=84
+lokey=83
+hikey=86
+offset=88
+tune=1
+volume=6.301050
+
+<region>
+lovel=0
+hivel=83
+sample=Vibraphone/Hard Mallets/Vibes_hard_E5_v2_rr1_Main.wav
+pitch_keycenter=88
+lokey=87
+hikey=89
+offset=80
+volume=12.716727
+
+<region>
+lovel=84
+hivel=127
+sample=Vibraphone/Hard Mallets/Vibes_hard_E5_v3_rr1_Main.wav
+pitch_keycenter=88
+lokey=87
+hikey=89
+offset=82
+tune=-1
+volume=5.005945
+

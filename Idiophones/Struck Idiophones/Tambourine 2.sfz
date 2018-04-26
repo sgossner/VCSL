@@ -1,0 +1,79 @@
+// Generation Options: --unpitched --volume 20 --release 30
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=30.000000
+
+<region>
+lovel=0
+hivel=83
+sample=Tambourine 2/Tamb2_Hit_v1_rr1_Mid.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=248
+volume=22.894104
+
+<region>
+lovel=84
+hivel=127
+sample=Tambourine 2/Tamb2_Hit_v2_rr2_Mid.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=228
+volume=17.832960
+
+<region>
+lovel=0
+hivel=65
+sample=Tambourine 2/Tamb2_Roll_v1_rr1_Mid.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+offset=291
+volume=33.025317
+ampeg_release=1
+
+<region>
+lovel=66
+hivel=99
+sample=Tambourine 2/Tamb2_Roll_v2_rr1_Mid.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+offset=554
+volume=22.852296
+ampeg_release=1
+
+<region>
+lovel=100
+hivel=127
+sample=Tambourine 2/Tamb2_Roll_v3_rr1_Mid.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+offset=1774
+volume=13.736615
+ampeg_release=1
+
+<region>
+seq_length=2
+seq_position=1
+sample=Tambourine 2/Tamb2_Shake_rr3_Mid.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+offset=256
+volume=22.899820
+
+<region>
+seq_length=2
+seq_position=2
+sample=Tambourine 2/Tamb2_Shake_rr4_Mid.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+offset=2223
+volume=17.829770
+

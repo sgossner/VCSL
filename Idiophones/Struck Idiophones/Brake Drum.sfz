@@ -1,0 +1,174 @@
+// Generation Options: --unpitched --volume 10 --release 10
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=10.000000
+
+<region>
+sample=Brake Drum/BrakeDrum1_Bowed_rr2_Mid.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=14267
+volume=15.000000
+ampeg_release=1
+
+<region>
+lovel=0
+hivel=65
+sample=Brake Drum/BrakeDrum1_Hammer_v1_rr1_Mid.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+offset=264
+volume=16.845433
+
+<region>
+lovel=66
+hivel=99
+sample=Brake Drum/BrakeDrum1_Hammer_v2_rr1_Mid.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+offset=265
+volume=9.214820
+
+<region>
+lovel=100
+hivel=127
+sample=Brake Drum/BrakeDrum1_Hammer_v3_rr1_Mid.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+offset=262
+volume=6.768522
+
+<region>
+lovel=0
+hivel=83
+sample=Brake Drum/BrakeDrum1_Susp_v1_rr1_Mid.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+offset=261
+volume=12.875476
+
+<region>
+lovel=84
+hivel=127
+sample=Brake Drum/BrakeDrum1_Susp_v3_rr1_Mid.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+offset=262
+volume=7.843380
+
+<region>
+lovel=0
+hivel=65
+sample=Brake Drum/BrakeDrum1_YarnM_v1_rr1_Mid.wav
+pitch_keycenter=63
+lokey=63
+hikey=63
+offset=322
+volume=28.362513
+
+<region>
+lovel=66
+hivel=99
+sample=Brake Drum/BrakeDrum1_YarnM_v2_rr1_Mid.wav
+pitch_keycenter=63
+lokey=63
+hikey=63
+offset=281
+volume=16.931477
+
+<region>
+lovel=100
+hivel=127
+sample=Brake Drum/BrakeDrum1_YarnM_v3_rr1_Mid.wav
+pitch_keycenter=63
+lokey=63
+hikey=63
+offset=265
+volume=2.291335
+
+<region>
+sample=Brake Drum/BrakeDrum2_Bowed_rr1_Mid.wav
+pitch_keycenter=64
+lokey=64
+hikey=64
+offset=2510
+volume=15.000000
+ampeg_release=1
+
+<region>
+lovel=0
+hivel=83
+sample=Brake Drum/BrakeDrum2_Hammer1_v1_rr1_Mid.wav
+pitch_keycenter=65
+lokey=65
+hikey=65
+offset=260
+volume=15.213525
+
+<region>
+lovel=84
+hivel=127
+sample=Brake Drum/BrakeDrum2_Hammer1_v2_rr1_Mid.wav
+pitch_keycenter=65
+lokey=65
+hikey=65
+offset=266
+volume=6.764771
+
+<region>
+lovel=0
+hivel=65
+sample=Brake Drum/BrakeDrum2_Hammer3_v1_rr1_Mid.wav
+pitch_keycenter=66
+lokey=66
+hikey=66
+offset=262
+volume=20.044582
+
+<region>
+lovel=66
+hivel=99
+sample=Brake Drum/BrakeDrum2_Hammer3_v2_rr1_Mid.wav
+pitch_keycenter=66
+lokey=66
+hikey=66
+offset=263
+volume=11.953069
+
+<region>
+lovel=100
+hivel=127
+sample=Brake Drum/BrakeDrum2_Hammer3_v3_rr1_Mid.wav
+pitch_keycenter=66
+lokey=66
+hikey=66
+offset=257
+volume=4.485669
+
+<region>
+lovel=0
+hivel=83
+sample=Brake Drum/BrakeDrum2_Susp_v1_rr1_Mid.wav
+pitch_keycenter=67
+lokey=67
+hikey=67
+offset=267
+volume=15.947215
+
+<region>
+lovel=84
+hivel=127
+sample=Brake Drum/BrakeDrum2_Susp_v2_rr1_Mid.wav
+pitch_keycenter=67
+lokey=67
+hikey=67
+offset=258
+volume=6.502775
+

@@ -1,0 +1,48 @@
+// Generation Options: --unpitched --release 30 --volume 15
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=30.000000
+
+<region>
+sample=Train Whistle, Toy/Main_TrainLow_Double-001.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=15.000000
+
+<region>
+sample=Train Whistle, Toy/Main_TrainLow_Fall-001.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+volume=15.000000
+
+<region>
+sample=Train Whistle, Toy/Main_TrainLow_Med-001.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+volume=15.000000
+
+<region>
+sample=Train Whistle, Toy/Main_TrainLow_Short-001.wav
+pitch_keycenter=63
+lokey=63
+hikey=63
+volume=15.000000
+
+<region>
+sample=Train Whistle, Toy/Main_TrainLow_Sus-001.wav
+pitch_keycenter=64
+lokey=64
+hikey=64
+volume=15.000000
+
+<region>
+sample=Train Whistle, Toy/Main_TrainMed_Short-001.wav
+pitch_keycenter=65
+lokey=65
+hikey=65
+volume=15.000000
+

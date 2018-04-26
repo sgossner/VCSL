@@ -1,0 +1,53 @@
+// Generation Options: --unpitched --volume 15 --release 1
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=1.000000
+
+<region>
+seq_length=2
+seq_position=1
+sample=Sleigh Bells/Sleighbells_Hit_rr1_Mid.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=14.657267
+
+<region>
+seq_length=2
+seq_position=2
+sample=Sleigh Bells/Sleighbells_Hit_rr2_Mid.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=15.356814
+
+<region>
+sample=Sleigh Bells/sleighbell1_shake1.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+volume=15.000000
+
+<region>
+sample=Sleigh Bells/sleighbell2_hit_loud.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+offset=1856
+volume=15.000000
+
+<region>
+sample=Sleigh Bells/sleighbell2_hit_2.wav
+pitch_keycenter=63
+lokey=63
+hikey=63
+volume=15.000000
+
+<region>
+sample=Sleigh Bells/sleighbell2_shake1.wav
+pitch_keycenter=64
+lokey=64
+hikey=64
+volume=15.000000
+

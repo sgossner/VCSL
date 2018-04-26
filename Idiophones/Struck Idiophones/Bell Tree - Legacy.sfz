@@ -1,0 +1,44 @@
+// Generation Options: --unpitched --volume 15 --release 30
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=30.000000
+
+<region>
+sample=Bell Tree - Legacy/bell_tree_metalscrape1.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=1330
+volume=15.000000
+
+<region>
+sample=Bell Tree - Legacy/bell_tree_scrape1.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+offset=3030
+volume=15.000000
+
+<region>
+sample=Bell Tree - Legacy/bell_tree_scrape2.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+volume=15.000000
+
+<region>
+sample=Bell Tree - Legacy/bell_tree_scrape3.wav
+pitch_keycenter=63
+lokey=63
+hikey=63
+volume=15.000000
+
+<region>
+sample=Bell Tree - Legacy/bell_tree_woodscrape1.wav
+pitch_keycenter=64
+lokey=64
+hikey=64
+offset=856
+volume=15.000000
+

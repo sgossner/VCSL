@@ -1,0 +1,27 @@
+// Generation Options: --unpitched --volume 15 --release 30
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=30.000000
+
+<region>
+sample=Hand Bells, Nepalese/HB_1.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=15.000000
+
+<region>
+sample=Hand Bells, Nepalese/HB_2.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+volume=15.000000
+
+<region>
+sample=Hand Bells, Nepalese/HB_3.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+volume=15.000000
+

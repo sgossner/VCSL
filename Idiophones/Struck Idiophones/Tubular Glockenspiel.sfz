@@ -1,0 +1,262 @@
+// Generation Options: --volume 10 --release 30 --transpose -48
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=30.000000
+
+<region>
+lovel=0
+hivel=65
+sample=Tubular Glockenspiel/G0_quiet1.wav
+pitch_keycenter=79
+lokey=79
+hikey=80
+tune=-32
+volume=19.462233
+
+<region>
+lovel=66
+hivel=99
+sample=Tubular Glockenspiel/G0_medium1.wav
+pitch_keycenter=79
+lokey=79
+hikey=80
+tune=-32
+volume=15.112785
+
+<region>
+lovel=100
+hivel=127
+sample=Tubular Glockenspiel/G0_loud1.wav
+pitch_keycenter=79
+lokey=79
+hikey=80
+tune=-24
+volume=8.170370
+
+<region>
+lovel=0
+hivel=65
+sample=Tubular Glockenspiel/A0_quiet1.wav
+pitch_keycenter=81
+lokey=81
+hikey=82
+tune=34
+volume=30.042898
+
+<region>
+lovel=66
+hivel=99
+sample=Tubular Glockenspiel/A0_medium1.wav
+pitch_keycenter=81
+lokey=81
+hikey=82
+tune=21
+volume=17.925369
+
+<region>
+lovel=100
+hivel=127
+sample=Tubular Glockenspiel/A0_loud1.wav
+pitch_keycenter=81
+lokey=81
+hikey=82
+tune=-14
+volume=0.770523
+
+<region>
+lovel=0
+hivel=65
+sample=Tubular Glockenspiel/B0_quiet1.wav
+pitch_keycenter=83
+lokey=83
+hikey=83
+volume=34.290849
+
+<region>
+lovel=66
+hivel=99
+sample=Tubular Glockenspiel/B0_medium1.wav
+pitch_keycenter=83
+lokey=83
+hikey=83
+tune=-12
+volume=18.040228
+
+<region>
+lovel=100
+hivel=127
+sample=Tubular Glockenspiel/B0_loud1.wav
+pitch_keycenter=83
+lokey=83
+hikey=83
+volume=3.283632
+
+<region>
+lovel=0
+hivel=65
+sample=Tubular Glockenspiel/C1_quiet1.wav
+pitch_keycenter=84
+lokey=84
+hikey=85
+volume=22.757976
+
+<region>
+lovel=66
+hivel=99
+sample=Tubular Glockenspiel/C1_medium1.wav
+pitch_keycenter=84
+lokey=84
+hikey=85
+volume=11.139223
+
+<region>
+lovel=100
+hivel=127
+sample=Tubular Glockenspiel/C1_loud1.wav
+pitch_keycenter=84
+lokey=84
+hikey=85
+tune=-3
+volume=1.949318
+
+<region>
+lovel=0
+hivel=65
+sample=Tubular Glockenspiel/D1_quiet1.wav
+pitch_keycenter=86
+lokey=86
+hikey=87
+volume=33.737979
+
+<region>
+lovel=66
+hivel=99
+sample=Tubular Glockenspiel/D1_medium1.wav
+pitch_keycenter=86
+lokey=86
+hikey=87
+volume=10.949646
+
+<region>
+lovel=100
+hivel=127
+sample=Tubular Glockenspiel/D1_loud1.wav
+pitch_keycenter=86
+lokey=86
+hikey=87
+volume=1.057422
+
+<region>
+lovel=0
+hivel=65
+sample=Tubular Glockenspiel/E1_quiet1.wav
+pitch_keycenter=88
+lokey=88
+hikey=89
+volume=28.093809
+
+<region>
+lovel=66
+hivel=99
+sample=Tubular Glockenspiel/E1_medium1.wav
+pitch_keycenter=88
+lokey=88
+hikey=89
+volume=13.383984
+
+<region>
+lovel=100
+hivel=127
+sample=Tubular Glockenspiel/E1_loud1.wav
+pitch_keycenter=88
+lokey=88
+hikey=89
+volume=3.873597
+
+<region>
+lovel=0
+hivel=65
+sample=Tubular Glockenspiel/F#1_quiet1.wav
+pitch_keycenter=90
+lokey=90
+hikey=90
+volume=24.247834
+
+<region>
+lovel=66
+hivel=99
+sample=Tubular Glockenspiel/F#1_medium1.wav
+pitch_keycenter=90
+lokey=90
+hikey=90
+tune=-55
+volume=11.584981
+
+<region>
+lovel=100
+hivel=127
+sample=Tubular Glockenspiel/F#1_loud1.wav
+pitch_keycenter=90
+lokey=90
+hikey=90
+tune=-3
+volume=3.453590
+
+<region>
+lovel=0
+hivel=65
+sample=Tubular Glockenspiel/G1_quiet1.wav
+pitch_keycenter=91
+lokey=91
+hikey=92
+tune=-38
+volume=39.913600
+
+<region>
+lovel=66
+hivel=99
+sample=Tubular Glockenspiel/G1_medium1.wav
+pitch_keycenter=91
+lokey=91
+hikey=92
+volume=23.352821
+
+<region>
+lovel=100
+hivel=127
+sample=Tubular Glockenspiel/G1_loud1.wav
+pitch_keycenter=91
+lokey=91
+hikey=92
+tune=-19
+volume=12.410199
+
+<region>
+lovel=0
+hivel=65
+sample=Tubular Glockenspiel/A1_quiet1.wav
+pitch_keycenter=93
+lokey=93
+hikey=94
+volume=26.486083
+
+<region>
+lovel=66
+hivel=99
+sample=Tubular Glockenspiel/A1_medium1.wav
+pitch_keycenter=93
+lokey=93
+hikey=94
+tune=20
+volume=8.333417
+
+<region>
+lovel=100
+hivel=127
+sample=Tubular Glockenspiel/A1_loud1.wav
+pitch_keycenter=93
+lokey=93
+hikey=94
+volume=5.728749
+

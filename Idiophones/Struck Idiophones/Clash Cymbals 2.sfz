@@ -1,0 +1,59 @@
+// Generation Options: --unpitched --release 30
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=30.000000
+
+<region>
+seq_length=2
+seq_position=1
+lovel=0
+hivel=65
+sample=Clash Cymbals 2/cymbal_crash2_mp1.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=16.517859
+
+<region>
+seq_length=2
+seq_position=2
+lovel=0
+hivel=65
+sample=Clash Cymbals 2/cymbal_crash2_mp2.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=14.660137
+
+<region>
+lovel=66
+hivel=99
+sample=Clash Cymbals 2/cymbal_crash2_f1.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=5.024096
+
+<region>
+seq_length=2
+seq_position=1
+lovel=100
+hivel=127
+sample=Clash Cymbals 2/cymbal_crash2_fff1.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=-5.919755
+
+<region>
+seq_length=2
+seq_position=2
+lovel=100
+hivel=127
+sample=Clash Cymbals 2/cymbal_crash2_fff2.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=-6.559687
+

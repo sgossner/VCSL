@@ -1,0 +1,150 @@
+// Generation Options: --notuning --volume 5 --release 15
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=15.000000
+
+<region>
+lovel=0
+hivel=83
+sample=Xylophone/Hard Mallets/Xylo_Hard_G3_pp_01_far.wav
+pitch_keycenter=67
+lokey=67
+hikey=69
+volume=8.013224
+
+<region>
+lovel=84
+hivel=127
+sample=Xylophone/Hard Mallets/Xylo_Hard_G3_ff_01_far.wav
+pitch_keycenter=67
+lokey=67
+hikey=69
+volume=7.024612
+
+<region>
+lovel=0
+hivel=83
+sample=Xylophone/Hard Mallets/Xylo_Hard_C4_pp_01_far.wav
+pitch_keycenter=72
+lokey=70
+hikey=75
+volume=7.802567
+
+<region>
+lovel=84
+hivel=127
+sample=Xylophone/Hard Mallets/Xylo_Hard_C4_ff_01_far.wav
+pitch_keycenter=72
+lokey=70
+hikey=75
+volume=3.587269
+
+<region>
+lovel=0
+hivel=83
+sample=Xylophone/Hard Mallets/Xylo_Hard_G4_pp_01_far.wav
+pitch_keycenter=79
+lokey=76
+hikey=81
+volume=14.082654
+
+<region>
+lovel=84
+hivel=127
+sample=Xylophone/Hard Mallets/Xylo_Hard_G4_ff_01_far.wav
+pitch_keycenter=79
+lokey=76
+hikey=81
+volume=2.837808
+
+<region>
+lovel=0
+hivel=83
+sample=Xylophone/Hard Mallets/Xylo_Hard_C5_pp_01_far.wav
+pitch_keycenter=84
+lokey=82
+hikey=87
+volume=5.417107
+
+<region>
+lovel=84
+hivel=127
+sample=Xylophone/Hard Mallets/Xylo_Hard_C5_ff_01_far.wav
+pitch_keycenter=84
+lokey=82
+hikey=87
+volume=-1.580310
+
+<region>
+lovel=0
+hivel=83
+sample=Xylophone/Hard Mallets/Xylo_Hard_G5_pp_01_far.wav
+pitch_keycenter=91
+lokey=88
+hikey=93
+volume=6.652552
+
+<region>
+lovel=84
+hivel=127
+sample=Xylophone/Hard Mallets/Xylo_Hard_G5_ff_01_far.wav
+pitch_keycenter=91
+lokey=88
+hikey=93
+volume=3.385382
+
+<region>
+lovel=0
+hivel=83
+sample=Xylophone/Hard Mallets/Xylo_Hard_C6_pp_01_far.wav
+pitch_keycenter=96
+lokey=94
+hikey=99
+volume=9.663269
+
+<region>
+lovel=84
+hivel=127
+sample=Xylophone/Hard Mallets/Xylo_Hard_C6_ff_01_far.wav
+pitch_keycenter=96
+lokey=94
+hikey=99
+volume=2.663283
+
+<region>
+lovel=0
+hivel=83
+sample=Xylophone/Hard Mallets/Xylo_Hard_G6_pp_01_far.wav
+pitch_keycenter=103
+lokey=100
+hikey=105
+volume=16.305668
+
+<region>
+lovel=84
+hivel=127
+sample=Xylophone/Hard Mallets/Xylo_Hard_G6_ff_01_far.wav
+pitch_keycenter=103
+lokey=100
+hikey=105
+volume=1.258899
+
+<region>
+lovel=0
+hivel=83
+sample=Xylophone/Hard Mallets/Xylo_Hard_C7_pp_01_far.wav
+pitch_keycenter=108
+lokey=106
+hikey=109
+volume=11.737296
+
+<region>
+lovel=84
+hivel=127
+sample=Xylophone/Hard Mallets/Xylo_Hard_C7_ff_01_far.wav
+pitch_keycenter=108
+lokey=106
+hikey=109
+volume=6.870141
+

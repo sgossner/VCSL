@@ -1,0 +1,204 @@
+// Generation Options: --notuning --volume 10 --release 30
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=30.000000
+
+<region>
+lovel=0
+hivel=83
+sample=Tubular Bells 2/TB_hit_C4_v2_1.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+volume=25.057604
+
+<region>
+lovel=84
+hivel=127
+sample=Tubular Bells 2/TB_hit_C4_v4_1.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+volume=8.123357
+
+<region>
+lovel=0
+hivel=83
+sample=Tubular Bells 2/TB_hit_D4_v2_1.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+volume=21.632102
+
+<region>
+lovel=84
+hivel=127
+sample=Tubular Bells 2/TB_hit_D4_v4_2.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+volume=5.638059
+
+<region>
+lovel=0
+hivel=83
+sample=Tubular Bells 2/TB_hit_E4_v2_1.wav
+pitch_keycenter=76
+lokey=76
+hikey=76
+volume=15.018009
+
+<region>
+lovel=84
+hivel=127
+sample=Tubular Bells 2/TB_hit_E4_v4_1.wav
+pitch_keycenter=76
+lokey=76
+hikey=76
+volume=6.853851
+
+<region>
+lovel=0
+hivel=83
+sample=Tubular Bells 2/TB_hit_F4_v2_2.wav
+pitch_keycenter=77
+lokey=77
+hikey=78
+volume=18.447800
+
+<region>
+lovel=84
+hivel=127
+sample=Tubular Bells 2/TB_hit_F4_v4_1.wav
+pitch_keycenter=77
+lokey=77
+hikey=78
+volume=3.233612
+
+<region>
+lovel=0
+hivel=83
+sample=Tubular Bells 2/TB_hit_G4_v2_1.wav
+pitch_keycenter=79
+lokey=79
+hikey=80
+volume=16.013352
+
+<region>
+lovel=84
+hivel=127
+sample=Tubular Bells 2/TB_hit_G4_v4_1.wav
+pitch_keycenter=79
+lokey=79
+hikey=80
+volume=7.086978
+
+<region>
+lovel=0
+hivel=83
+sample=Tubular Bells 2/TB_hit_A4_v2_1.wav
+pitch_keycenter=81
+lokey=81
+hikey=82
+volume=18.051383
+
+<region>
+lovel=84
+hivel=127
+sample=Tubular Bells 2/TB_hit_A4_v4_1.wav
+pitch_keycenter=81
+lokey=81
+hikey=82
+volume=5.225776
+
+<region>
+lovel=0
+hivel=83
+sample=Tubular Bells 2/TB_hit_B4_v2_1.wav
+pitch_keycenter=83
+lokey=83
+hikey=83
+volume=21.724717
+
+<region>
+lovel=84
+hivel=127
+sample=Tubular Bells 2/TB_hit_B4_v4_1.wav
+pitch_keycenter=83
+lokey=83
+hikey=83
+volume=7.303920
+
+<region>
+lovel=0
+hivel=83
+sample=Tubular Bells 2/TB_hit_C5_v2_1.wav
+pitch_keycenter=84
+lokey=84
+hikey=85
+volume=32.636954
+
+<region>
+lovel=84
+hivel=127
+sample=Tubular Bells 2/TB_hit_C5_v4_1.wav
+pitch_keycenter=84
+lokey=84
+hikey=85
+volume=6.222510
+
+<region>
+lovel=0
+hivel=83
+sample=Tubular Bells 2/TB_hit_D5_v2_2.wav
+pitch_keycenter=86
+lokey=86
+hikey=87
+volume=19.874688
+
+<region>
+lovel=84
+hivel=127
+sample=Tubular Bells 2/TB_hit_D5_v4_1.wav
+pitch_keycenter=86
+lokey=86
+hikey=87
+volume=1.641430
+
+<region>
+lovel=0
+hivel=83
+sample=Tubular Bells 2/TB_hit_E5_v2_1.wav
+pitch_keycenter=88
+lokey=88
+hikey=88
+volume=20.352581
+
+<region>
+lovel=84
+hivel=127
+sample=Tubular Bells 2/TB_hit_E5_v4_2.wav
+pitch_keycenter=88
+lokey=88
+hikey=88
+volume=7.046540
+
+<region>
+lovel=0
+hivel=83
+sample=Tubular Bells 2/TB_hit_F5_v2_2.wav
+pitch_keycenter=89
+lokey=89
+hikey=90
+volume=20.739006
+
+<region>
+lovel=84
+hivel=127
+sample=Tubular Bells 2/TB_hit_F5_v4_1.wav
+pitch_keycenter=89
+lokey=89
+hikey=90
+volume=6.808567
+
