@@ -1,0 +1,3440 @@
+// Generation Options: --release 0.1
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=0.100000
+locc64=65
+hicc64=127
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A#0_vl2_rr1.wav
+pitch_keycenter=34
+lokey=34
+hikey=35
+tune=-10
+volume=0.157074
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A#0_vl3_rr1.wav
+pitch_keycenter=34
+lokey=34
+hikey=35
+tune=-12
+volume=0.065465
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A#0_vl4_rr1.wav
+pitch_keycenter=34
+lokey=34
+hikey=35
+tune=-22
+volume=-0.112712
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_C1_vl2_rr1.wav
+pitch_keycenter=36
+lokey=36
+hikey=37
+volume=0.931249
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_C1_vl3_rr1.wav
+pitch_keycenter=36
+lokey=36
+hikey=37
+tune=1
+volume=1.008710
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_C1_vl4_rr1.wav
+pitch_keycenter=36
+lokey=36
+hikey=37
+tune=1
+volume=1.151897
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_D1_vl2_rr1.wav
+pitch_keycenter=38
+lokey=38
+hikey=39
+tune=-17
+volume=-0.049155
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_D1_vl3_rr1.wav
+pitch_keycenter=38
+lokey=38
+hikey=39
+tune=-18
+volume=-0.248793
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_D1_vl4_rr1.wav
+pitch_keycenter=38
+lokey=38
+hikey=39
+tune=-18
+volume=-0.456457
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_E1_vl2_rr1.wav
+pitch_keycenter=40
+lokey=40
+hikey=41
+volume=-0.452946
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_E1_vl3_rr1.wav
+pitch_keycenter=40
+lokey=40
+hikey=41
+volume=-0.840573
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_E1_vl4_rr1.wav
+pitch_keycenter=40
+lokey=40
+hikey=41
+volume=-1.405652
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_F#1_vl2_rr1.wav
+pitch_keycenter=42
+lokey=42
+hikey=43
+volume=0.273407
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_F#1_vl3_rr1.wav
+pitch_keycenter=42
+lokey=42
+hikey=43
+volume=0.365271
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_F#1_vl4_rr1.wav
+pitch_keycenter=42
+lokey=42
+hikey=43
+volume=0.543377
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#1_vl2_rr1.wav
+pitch_keycenter=44
+lokey=44
+hikey=45
+tune=-17
+volume=-0.279228
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#1_vl3_rr1.wav
+pitch_keycenter=44
+lokey=44
+hikey=45
+tune=-18
+volume=-0.213363
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#1_vl4_rr1.wav
+pitch_keycenter=44
+lokey=44
+hikey=45
+tune=-19
+volume=0.207836
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A#1_vl2_rr1.wav
+pitch_keycenter=46
+lokey=46
+hikey=47
+tune=-13
+volume=-0.222080
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A#1_vl3_rr1.wav
+pitch_keycenter=46
+lokey=46
+hikey=47
+tune=-14
+volume=-0.211407
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A#1_vl4_rr1.wav
+pitch_keycenter=46
+lokey=46
+hikey=47
+tune=-10
+volume=-0.129156
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_C2_vl2_rr1.wav
+pitch_keycenter=48
+lokey=48
+hikey=49
+tune=-7
+volume=1.187884
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_C2_vl3_rr1.wav
+pitch_keycenter=48
+lokey=48
+hikey=49
+tune=-6
+volume=1.235836
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_C2_vl4_rr1.wav
+pitch_keycenter=48
+lokey=48
+hikey=49
+tune=-4
+volume=1.128374
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_D2_vl2_rr1.wav
+pitch_keycenter=50
+lokey=50
+hikey=51
+volume=0.144940
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_D2_vl3_rr1.wav
+pitch_keycenter=50
+lokey=50
+hikey=51
+tune=-1
+volume=0.259109
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_D2_vl4_rr1.wav
+pitch_keycenter=50
+lokey=50
+hikey=51
+tune=-4
+volume=-0.602574
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_E2_vl2_rr1.wav
+pitch_keycenter=52
+lokey=52
+hikey=53
+tune=-3
+volume=-0.798776
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_E2_vl3_rr1.wav
+pitch_keycenter=52
+lokey=52
+hikey=53
+tune=-6
+volume=-0.924387
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_E2_vl4_rr1.wav
+pitch_keycenter=52
+lokey=52
+hikey=53
+tune=-10
+volume=-1.318265
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_F#2_vl2_rr1.wav
+pitch_keycenter=54
+lokey=54
+hikey=55
+tune=-2
+volume=-1.539250
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_F#2_vl3_rr1.wav
+pitch_keycenter=54
+lokey=54
+hikey=55
+tune=-1
+volume=-1.284066
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_F#2_vl4_rr1.wav
+pitch_keycenter=54
+lokey=54
+hikey=55
+tune=-1
+volume=-0.613329
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#2_vl2_rr1.wav
+pitch_keycenter=56
+lokey=56
+hikey=57
+tune=-4
+volume=0.903780
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#2_vl3_rr1.wav
+pitch_keycenter=56
+lokey=56
+hikey=57
+tune=-6
+volume=1.424218
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#2_vl4_rr1.wav
+pitch_keycenter=56
+lokey=56
+hikey=57
+tune=-9
+volume=1.894462
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A#2_vl2_rr1.wav
+pitch_keycenter=58
+lokey=58
+hikey=59
+tune=2
+volume=0.993362
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A#2_vl3_rr1.wav
+pitch_keycenter=58
+lokey=58
+hikey=59
+volume=0.292002
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A#2_vl4_rr1.wav
+pitch_keycenter=58
+lokey=58
+hikey=59
+tune=-1
+volume=-0.175203
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_C3_vl2_rr1.wav
+pitch_keycenter=60
+lokey=60
+hikey=61
+tune=-1
+volume=-0.120522
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_C3_vl3_rr1.wav
+pitch_keycenter=60
+lokey=60
+hikey=61
+tune=-6
+volume=-0.352356
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_C3_vl4_rr1.wav
+pitch_keycenter=60
+lokey=60
+hikey=61
+tune=-8
+volume=-1.276517
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_D3_vl2_rr1.wav
+pitch_keycenter=62
+lokey=62
+hikey=63
+tune=-2
+volume=0.285933
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_D3_vl3_rr1.wav
+pitch_keycenter=62
+lokey=62
+hikey=63
+tune=-6
+volume=-0.276997
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_D3_vl4_rr1.wav
+pitch_keycenter=62
+lokey=62
+hikey=63
+tune=-8
+volume=0.529747
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_E3_vl2_rr1.wav
+pitch_keycenter=64
+lokey=64
+hikey=65
+tune=-1
+volume=0.561674
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_E3_vl3_rr1.wav
+pitch_keycenter=64
+lokey=64
+hikey=65
+tune=-4
+volume=0.651882
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_E3_vl4_rr1.wav
+pitch_keycenter=64
+lokey=64
+hikey=65
+tune=-7
+volume=0.514424
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_F#3_vl2_rr1.wav
+pitch_keycenter=66
+lokey=66
+hikey=67
+tune=-1
+volume=0.339593
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_F#3_vl3_rr1.wav
+pitch_keycenter=66
+lokey=66
+hikey=67
+tune=-5
+volume=0.215655
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_F#3_vl4_rr1.wav
+pitch_keycenter=66
+lokey=66
+hikey=67
+tune=-6
+volume=-0.084158
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#3_vl2_rr1.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+volume=1.438034
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#3_vl3_rr1.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+tune=-1
+volume=0.581765
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#3_vl4_rr1.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+tune=-3
+volume=0.956866
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A#3_vl2_rr1.wav
+pitch_keycenter=70
+lokey=70
+hikey=71
+tune=-1
+volume=0.738089
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A#3_vl3_rr1.wav
+pitch_keycenter=70
+lokey=70
+hikey=71
+tune=-4
+volume=0.064097
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A#3_vl4_rr1.wav
+pitch_keycenter=70
+lokey=70
+hikey=71
+tune=-9
+volume=-0.748672
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_C4_vl2_rr1.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+tune=-2
+volume=-0.388603
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_C4_vl3_rr1.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+tune=-4
+volume=-1.336692
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_C4_vl4_rr1.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+tune=-8
+volume=-0.859274
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_D4_vl2_rr1.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+tune=-1
+volume=0.701851
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_D4_vl3_rr1.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+tune=-6
+volume=-0.287386
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_D4_vl4_rr1.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+tune=-10
+volume=-0.811287
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_E4_vl2_rr1.wav
+pitch_keycenter=76
+lokey=76
+hikey=77
+tune=-2
+volume=-0.831648
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_E4_vl3_rr1.wav
+pitch_keycenter=76
+lokey=76
+hikey=77
+tune=-8
+volume=-1.617088
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_E4_vl4_rr1.wav
+pitch_keycenter=76
+lokey=76
+hikey=77
+tune=-11
+volume=-1.534933
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_F#4_vl2_rr1.wav
+pitch_keycenter=78
+lokey=78
+hikey=79
+tune=-1
+volume=2.264634
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_F#4_vl3_rr1.wav
+pitch_keycenter=78
+lokey=78
+hikey=79
+tune=-9
+volume=1.686524
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_F#4_vl4_rr1.wav
+pitch_keycenter=78
+lokey=78
+hikey=79
+tune=-10
+volume=1.511566
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#4_vl2_rr1.wav
+pitch_keycenter=80
+lokey=80
+hikey=81
+tune=-4
+volume=0.706117
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#4_vl3_rr1.wav
+pitch_keycenter=80
+lokey=80
+hikey=81
+tune=-11
+volume=0.058342
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#4_vl4_rr1.wav
+pitch_keycenter=80
+lokey=80
+hikey=81
+tune=-12
+volume=-0.266329
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A#4_vl2_rr1.wav
+pitch_keycenter=82
+lokey=82
+hikey=83
+tune=-6
+volume=-0.339963
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A#4_vl3_rr1.wav
+pitch_keycenter=82
+lokey=82
+hikey=83
+tune=-8
+volume=-1.434345
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A#4_vl4_rr1.wav
+pitch_keycenter=82
+lokey=82
+hikey=83
+tune=-10
+volume=-2.002490
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_C5_vl2_rr1.wav
+pitch_keycenter=84
+lokey=84
+hikey=85
+tune=-7
+volume=0.197136
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_C5_vl3_rr1.wav
+pitch_keycenter=84
+lokey=84
+hikey=85
+tune=-18
+volume=0.071571
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_C5_vl4_rr1.wav
+pitch_keycenter=84
+lokey=84
+hikey=85
+tune=-24
+volume=0.770358
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_D5_vl2_rr1.wav
+pitch_keycenter=86
+lokey=86
+hikey=87
+volume=0.289080
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_D5_vl3_rr1.wav
+pitch_keycenter=86
+lokey=86
+hikey=87
+tune=-2
+volume=0.203961
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_D5_vl4_rr1.wav
+pitch_keycenter=86
+lokey=86
+hikey=87
+tune=-11
+volume=0.922552
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_E5_vl2_rr1.wav
+pitch_keycenter=88
+lokey=88
+hikey=89
+tune=1
+volume=0.841648
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_E5_vl3_rr1.wav
+pitch_keycenter=88
+lokey=88
+hikey=89
+volume=-0.031626
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_E5_vl4_rr1.wav
+pitch_keycenter=88
+lokey=88
+hikey=89
+tune=-4
+volume=0.729087
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_F#5_vl2_rr1.wav
+pitch_keycenter=90
+lokey=90
+hikey=91
+tune=2
+volume=1.171149
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_F#5_vl3_rr1.wav
+pitch_keycenter=90
+lokey=90
+hikey=91
+volume=0.934510
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_F#5_vl4_rr1.wav
+pitch_keycenter=90
+lokey=90
+hikey=91
+tune=-6
+volume=2.095071
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#5_vl2_rr1.wav
+pitch_keycenter=92
+lokey=92
+hikey=93
+tune=-1
+volume=-1.980919
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#5_vl3_rr1.wav
+pitch_keycenter=92
+lokey=92
+hikey=93
+tune=-1
+volume=-2.410314
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#5_vl4_rr1.wav
+pitch_keycenter=92
+lokey=92
+hikey=93
+tune=-5
+volume=-2.534626
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A#5_vl2_rr1.wav
+pitch_keycenter=94
+lokey=94
+hikey=95
+volume=0.599064
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A#5_vl3_rr1.wav
+pitch_keycenter=94
+lokey=94
+hikey=95
+tune=-3
+volume=-0.285169
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A#5_vl4_rr1.wav
+pitch_keycenter=94
+lokey=94
+hikey=95
+tune=-6
+volume=-0.701287
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_C6_vl2_rr1.wav
+pitch_keycenter=96
+lokey=96
+hikey=97
+tune=-8
+volume=2.516734
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_C6_vl3_rr1.wav
+pitch_keycenter=96
+lokey=96
+hikey=97
+tune=-11
+volume=2.088102
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_C6_vl4_rr1.wav
+pitch_keycenter=96
+lokey=96
+hikey=97
+tune=-15
+volume=1.173913
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_D6_vl2_rr1.wav
+pitch_keycenter=98
+lokey=98
+hikey=99
+tune=-2
+volume=-2.183171
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_D6_vl3_rr1.wav
+pitch_keycenter=98
+lokey=98
+hikey=99
+tune=-3
+volume=-1.786868
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_D6_vl4_rr1.wav
+pitch_keycenter=98
+lokey=98
+hikey=99
+tune=-5
+volume=-0.628048
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_E6_vl2_rr1.wav
+pitch_keycenter=100
+lokey=100
+hikey=101
+volume=-0.451153
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_E6_vl3_rr1.wav
+pitch_keycenter=100
+lokey=100
+hikey=101
+tune=-1
+volume=-0.482965
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_E6_vl4_rr1.wav
+pitch_keycenter=100
+lokey=100
+hikey=101
+tune=-1
+volume=0.761337
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_F#6_vl2_rr1.wav
+pitch_keycenter=102
+lokey=102
+hikey=103
+volume=0.196902
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_F#6_vl3_rr1.wav
+pitch_keycenter=102
+lokey=102
+hikey=103
+volume=-0.264628
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_F#6_vl4_rr1.wav
+pitch_keycenter=102
+lokey=102
+hikey=103
+volume=-0.315914
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#6_vl2_rr1.wav
+pitch_keycenter=104
+lokey=104
+hikey=105
+volume=2.450249
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#6_vl3_rr1.wav
+pitch_keycenter=104
+lokey=104
+hikey=105
+volume=1.966052
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#6_vl4_rr1.wav
+pitch_keycenter=104
+lokey=104
+hikey=105
+tune=-1
+volume=-0.193002
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A#6_vl2_rr1.wav
+pitch_keycenter=106
+lokey=106
+hikey=107
+tune=5
+volume=1.393970
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A#6_vl3_rr1.wav
+pitch_keycenter=106
+lokey=106
+hikey=107
+tune=4
+volume=0.996393
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A#6_vl4_rr1.wav
+pitch_keycenter=106
+lokey=106
+hikey=107
+tune=2
+volume=1.538706
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_C7_vl2_rr1.wav
+pitch_keycenter=108
+lokey=108
+hikey=109
+tune=-7
+volume=-0.586320
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_C7_vl3_rr1.wav
+pitch_keycenter=108
+lokey=108
+hikey=109
+tune=-9
+volume=-0.856393
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_C7_vl4_rr1.wav
+pitch_keycenter=108
+lokey=108
+hikey=109
+tune=-11
+volume=-1.624940
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_D7_vl2_rr1.wav
+pitch_keycenter=110
+lokey=110
+hikey=111
+tune=-5
+volume=0.461470
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_D7_vl3_rr1.wav
+pitch_keycenter=110
+lokey=110
+hikey=111
+tune=-6
+volume=0.085506
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_D7_vl4_rr1.wav
+pitch_keycenter=110
+lokey=110
+hikey=111
+tune=-6
+volume=2.124038
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_E7_vl2_rr1.wav
+pitch_keycenter=112
+lokey=112
+hikey=113
+volume=1.791189
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_E7_vl3_rr1.wav
+pitch_keycenter=112
+lokey=112
+hikey=113
+tune=-7
+volume=0.196502
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_E7_vl4_rr1.wav
+pitch_keycenter=112
+lokey=112
+hikey=113
+tune=-7
+volume=0.223515
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_F#7_vl2_rr1.wav
+pitch_keycenter=114
+lokey=114
+hikey=115
+volume=-2.014605
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_F#7_vl3_rr1.wav
+pitch_keycenter=114
+lokey=114
+hikey=115
+tune=-5
+volume=-0.829648
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_F#7_vl4_rr1.wav
+pitch_keycenter=114
+lokey=114
+hikey=115
+tune=-5
+volume=-2.801302
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#7_vl2_rr1.wav
+pitch_keycenter=116
+lokey=116
+hikey=117
+volume=4.867380
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#7_vl3_rr1.wav
+pitch_keycenter=116
+lokey=116
+hikey=117
+tune=1
+volume=4.275654
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#7_vl4_rr1.wav
+pitch_keycenter=116
+lokey=116
+hikey=117
+volume=4.680145
+
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=0.100000
+locc64=0
+hicc64=64
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_A#0_vl2_rr1.wav
+pitch_keycenter=34
+lokey=34
+hikey=35
+tune=-14
+volume=-1.007117
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_A#0_vl3_rr1.wav
+pitch_keycenter=34
+lokey=34
+hikey=35
+tune=-13
+volume=-0.796795
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_A#0_vl4_rr1.wav
+pitch_keycenter=34
+lokey=34
+hikey=35
+tune=-14
+volume=-0.778387
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_C1_vl2_rr1.wav
+pitch_keycenter=36
+lokey=36
+hikey=37
+tune=-6
+volume=0.964148
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_C1_vl3_rr1.wav
+pitch_keycenter=36
+lokey=36
+hikey=37
+volume=1.712133
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_C1_vl4_rr1.wav
+pitch_keycenter=36
+lokey=36
+hikey=37
+volume=1.747589
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_D1_vl2_rr1.wav
+pitch_keycenter=38
+lokey=38
+hikey=39
+tune=-12
+volume=0.442377
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_D1_vl3_rr1.wav
+pitch_keycenter=38
+lokey=38
+hikey=39
+tune=-12
+volume=-0.104107
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_D1_vl4_rr1.wav
+pitch_keycenter=38
+lokey=38
+hikey=39
+tune=-13
+volume=-0.125294
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_E1_vl2_rr1.wav
+pitch_keycenter=40
+lokey=40
+hikey=41
+volume=0.027002
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_E1_vl3_rr1.wav
+pitch_keycenter=40
+lokey=40
+hikey=41
+tune=-4
+volume=-0.111318
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_E1_vl4_rr1.wav
+pitch_keycenter=40
+lokey=40
+hikey=41
+tune=-3
+volume=-0.337922
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_F#1_vl2_rr1.wav
+pitch_keycenter=42
+lokey=42
+hikey=43
+volume=-0.291371
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_F#1_vl3_rr1.wav
+pitch_keycenter=42
+lokey=42
+hikey=43
+volume=-0.870828
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_F#1_vl4_rr1.wav
+pitch_keycenter=42
+lokey=42
+hikey=43
+volume=-0.560368
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_G#1_vl2_rr1.wav
+pitch_keycenter=44
+lokey=44
+hikey=45
+tune=-2
+volume=0.641962
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_G#1_vl3_rr1.wav
+pitch_keycenter=44
+lokey=44
+hikey=45
+tune=-17
+volume=0.182145
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_G#1_vl4_rr1.wav
+pitch_keycenter=44
+lokey=44
+hikey=45
+tune=-20
+volume=-0.315219
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_A#1_vl2_rr1.wav
+pitch_keycenter=46
+lokey=46
+hikey=47
+tune=-3
+volume=-0.731590
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_A#1_vl3_rr1.wav
+pitch_keycenter=46
+lokey=46
+hikey=47
+tune=-10
+volume=-0.132867
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_A#1_vl4_rr1.wav
+pitch_keycenter=46
+lokey=46
+hikey=47
+tune=-11
+volume=0.271118
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_C2_vl2_rr1.wav
+pitch_keycenter=48
+lokey=48
+hikey=49
+tune=-3
+volume=0.971415
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_C2_vl3_rr1.wav
+pitch_keycenter=48
+lokey=48
+hikey=49
+tune=-7
+volume=1.620254
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_C2_vl4_rr1.wav
+pitch_keycenter=48
+lokey=48
+hikey=49
+tune=-7
+volume=1.258022
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_D2_vl2_rr1.wav
+pitch_keycenter=50
+lokey=50
+hikey=51
+volume=-0.597273
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_D2_vl3_rr1.wav
+pitch_keycenter=50
+lokey=50
+hikey=51
+volume=1.219137
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_D2_vl4_rr1.wav
+pitch_keycenter=50
+lokey=50
+hikey=51
+tune=-1
+volume=0.453838
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_E2_vl2_rr1.wav
+pitch_keycenter=52
+lokey=52
+hikey=53
+volume=-2.766019
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_E2_vl3_rr1.wav
+pitch_keycenter=52
+lokey=52
+hikey=53
+tune=-6
+volume=-2.874066
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_E2_vl4_rr1.wav
+pitch_keycenter=52
+lokey=52
+hikey=53
+tune=-10
+volume=-3.048803
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_F#2_vl2_rr1.wav
+pitch_keycenter=54
+lokey=54
+hikey=55
+volume=0.264019
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_F#2_vl3_rr1.wav
+pitch_keycenter=54
+lokey=54
+hikey=55
+tune=-3
+volume=0.131426
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_F#2_vl4_rr1.wav
+pitch_keycenter=54
+lokey=54
+hikey=55
+tune=-2
+volume=0.450571
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_G#2_vl2_rr1.wav
+pitch_keycenter=56
+lokey=56
+hikey=57
+volume=2.819027
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_G#2_vl3_rr1.wav
+pitch_keycenter=56
+lokey=56
+hikey=57
+tune=-5
+volume=2.168352
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_G#2_vl4_rr1.wav
+pitch_keycenter=56
+lokey=56
+hikey=57
+tune=-6
+volume=1.497896
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_A#2_vl2_rr1.wav
+pitch_keycenter=58
+lokey=58
+hikey=59
+tune=1
+volume=0.594127
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_A#2_vl3_rr1.wav
+pitch_keycenter=58
+lokey=58
+hikey=59
+tune=2
+volume=-0.595184
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_A#2_vl4_rr1.wav
+pitch_keycenter=58
+lokey=58
+hikey=59
+volume=-0.860930
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_C3_vl2_rr1.wav
+pitch_keycenter=60
+lokey=60
+hikey=61
+tune=1
+volume=1.713269
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_C3_vl3_rr1.wav
+pitch_keycenter=60
+lokey=60
+hikey=61
+volume=-0.124074
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_C3_vl4_rr1.wav
+pitch_keycenter=60
+lokey=60
+hikey=61
+tune=-4
+volume=-0.981885
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_D3_vl2_rr1.wav
+pitch_keycenter=62
+lokey=62
+hikey=63
+tune=-2
+volume=-0.540546
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_D3_vl3_rr1.wav
+pitch_keycenter=62
+lokey=62
+hikey=63
+tune=-2
+volume=-0.989361
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_D3_vl4_rr1.wav
+pitch_keycenter=62
+lokey=62
+hikey=63
+tune=-7
+volume=-0.742935
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_E3_vl2_rr1.wav
+pitch_keycenter=64
+lokey=64
+hikey=65
+volume=2.009550
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_E3_vl3_rr1.wav
+pitch_keycenter=64
+lokey=64
+hikey=65
+tune=-2
+volume=1.812446
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_E3_vl4_rr1.wav
+pitch_keycenter=64
+lokey=64
+hikey=65
+tune=-6
+volume=0.618644
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_F#3_vl2_rr1.wav
+pitch_keycenter=66
+lokey=66
+hikey=67
+tune=2
+volume=1.504319
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_F#3_vl3_rr1.wav
+pitch_keycenter=66
+lokey=66
+hikey=67
+tune=-2
+volume=0.501557
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_F#3_vl4_rr1.wav
+pitch_keycenter=66
+lokey=66
+hikey=67
+tune=-9
+volume=0.104483
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_G#3_vl2_rr1.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+tune=2
+volume=-1.974325
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_G#3_vl3_rr1.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+volume=-1.606863
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_G#3_vl4_rr1.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+tune=-1
+volume=-0.226538
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_A#3_vl2_rr1.wav
+pitch_keycenter=70
+lokey=70
+hikey=71
+tune=2
+volume=2.357730
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_A#3_vl3_rr1.wav
+pitch_keycenter=70
+lokey=70
+hikey=71
+tune=-3
+volume=0.617904
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_A#3_vl4_rr1.wav
+pitch_keycenter=70
+lokey=70
+hikey=71
+tune=-7
+volume=0.392344
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_C4_vl2_rr1.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+volume=0.018445
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_C4_vl3_rr1.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+tune=-2
+volume=-1.332355
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_C4_vl4_rr1.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+tune=-6
+volume=-1.667153
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_D4_vl2_rr1.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+volume=2.093701
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_D4_vl3_rr1.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+tune=-1
+volume=1.563285
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_D4_vl4_rr1.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+tune=-10
+volume=0.195863
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_E4_vl2_rr1.wav
+pitch_keycenter=76
+lokey=76
+hikey=77
+tune=-2
+volume=-2.352866
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_E4_vl3_rr1.wav
+pitch_keycenter=76
+lokey=76
+hikey=77
+tune=-2
+volume=-0.438797
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_E4_vl4_rr1.wav
+pitch_keycenter=76
+lokey=76
+hikey=77
+tune=-13
+volume=-1.323157
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_F#4_vl2_rr1.wav
+pitch_keycenter=78
+lokey=78
+hikey=79
+volume=3.828756
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_F#4_vl3_rr1.wav
+pitch_keycenter=78
+lokey=78
+hikey=79
+tune=-3
+volume=3.681726
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_F#4_vl4_rr1.wav
+pitch_keycenter=78
+lokey=78
+hikey=79
+tune=-9
+volume=3.706707
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_G#4_vl2_rr1.wav
+pitch_keycenter=80
+lokey=80
+hikey=81
+volume=-1.639306
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_G#4_vl3_rr1.wav
+pitch_keycenter=80
+lokey=80
+hikey=81
+tune=-4
+volume=-1.521288
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_G#4_vl4_rr1.wav
+pitch_keycenter=80
+lokey=80
+hikey=81
+tune=-12
+volume=-1.429495
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_A#4_vl2_rr1.wav
+pitch_keycenter=82
+lokey=82
+hikey=83
+tune=-2
+volume=-2.234402
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_A#4_vl3_rr1.wav
+pitch_keycenter=82
+lokey=82
+hikey=83
+tune=-5
+volume=-2.066330
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_A#4_vl4_rr1.wav
+pitch_keycenter=82
+lokey=82
+hikey=83
+tune=-7
+volume=-1.874262
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_C5_vl2_rr1.wav
+pitch_keycenter=84
+lokey=84
+hikey=85
+volume=1.190596
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_C5_vl3_rr1.wav
+pitch_keycenter=84
+lokey=84
+hikey=85
+tune=-13
+volume=1.877421
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_C5_vl4_rr1.wav
+pitch_keycenter=84
+lokey=84
+hikey=85
+tune=-18
+volume=3.099254
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_D5_vl2_rr1.wav
+pitch_keycenter=86
+lokey=86
+hikey=87
+volume=2.291518
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_D5_vl3_rr1.wav
+pitch_keycenter=86
+lokey=86
+hikey=87
+tune=-1
+volume=0.837116
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_D5_vl4_rr1.wav
+pitch_keycenter=86
+lokey=86
+hikey=87
+tune=-4
+volume=0.134947
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_E5_vl2_rr1.wav
+pitch_keycenter=88
+lokey=88
+hikey=89
+tune=1
+volume=-3.654306
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_E5_vl3_rr1.wav
+pitch_keycenter=88
+lokey=88
+hikey=89
+tune=1
+volume=-0.808203
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_E5_vl4_rr1.wav
+pitch_keycenter=88
+lokey=88
+hikey=89
+tune=-1
+volume=-0.784616
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_F#5_vl2_rr1.wav
+pitch_keycenter=90
+lokey=90
+hikey=91
+tune=1
+volume=-1.209752
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_F#5_vl3_rr1.wav
+pitch_keycenter=90
+lokey=90
+hikey=91
+tune=1
+volume=1.462642
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_F#5_vl4_rr1.wav
+pitch_keycenter=90
+lokey=90
+hikey=91
+volume=1.859533
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_G#5_vl2_rr1.wav
+pitch_keycenter=92
+lokey=92
+hikey=93
+tune=-2
+volume=1.960842
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_G#5_vl3_rr1.wav
+pitch_keycenter=92
+lokey=92
+hikey=93
+tune=-1
+volume=-1.077833
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_G#5_vl4_rr1.wav
+pitch_keycenter=92
+lokey=92
+hikey=93
+tune=-1
+volume=-0.579873
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_A#5_vl2_rr1.wav
+pitch_keycenter=94
+lokey=94
+hikey=95
+volume=-3.853729
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_A#5_vl3_rr1.wav
+pitch_keycenter=94
+lokey=94
+hikey=95
+tune=-2
+volume=-0.233153
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_A#5_vl4_rr1.wav
+pitch_keycenter=94
+lokey=94
+hikey=95
+tune=-5
+volume=-0.403745
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_C6_vl2_rr1.wav
+pitch_keycenter=96
+lokey=96
+hikey=97
+tune=-9
+volume=1.635825
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_C6_vl3_rr1.wav
+pitch_keycenter=96
+lokey=96
+hikey=97
+tune=-9
+volume=3.662811
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_C6_vl4_rr1.wav
+pitch_keycenter=96
+lokey=96
+hikey=97
+tune=-13
+volume=3.444454
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_D6_vl2_rr1.wav
+pitch_keycenter=98
+lokey=98
+hikey=99
+tune=-3
+volume=1.776365
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_D6_vl3_rr1.wav
+pitch_keycenter=98
+lokey=98
+hikey=99
+tune=-4
+volume=-0.629900
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_D6_vl4_rr1.wav
+pitch_keycenter=98
+lokey=98
+hikey=99
+tune=-5
+volume=-1.345986
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_E6_vl2_rr1.wav
+pitch_keycenter=100
+lokey=100
+hikey=101
+tune=-3
+volume=-2.826870
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_E6_vl3_rr1.wav
+pitch_keycenter=100
+lokey=100
+hikey=101
+volume=-0.175001
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_E6_vl4_rr1.wav
+pitch_keycenter=100
+lokey=100
+hikey=101
+tune=-1
+volume=0.093085
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_F#6_vl2_rr1.wav
+pitch_keycenter=102
+lokey=102
+hikey=103
+tune=-4
+volume=-0.388851
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_F#6_vl3_rr1.wav
+pitch_keycenter=102
+lokey=102
+hikey=103
+tune=1
+volume=-1.515971
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_F#6_vl4_rr1.wav
+pitch_keycenter=102
+lokey=102
+hikey=103
+volume=-1.575831
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_G#6_vl2_rr1.wav
+pitch_keycenter=104
+lokey=104
+hikey=105
+volume=-2.078876
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_G#6_vl3_rr1.wav
+pitch_keycenter=104
+lokey=104
+hikey=105
+tune=-1
+volume=1.149083
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_G#6_vl4_rr1.wav
+pitch_keycenter=104
+lokey=104
+hikey=105
+tune=-1
+volume=2.526346
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_A#6_vl2_rr1.wav
+pitch_keycenter=106
+lokey=106
+hikey=107
+volume=2.590982
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_A#6_vl3_rr1.wav
+pitch_keycenter=106
+lokey=106
+hikey=107
+tune=5
+volume=3.715086
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_A#6_vl4_rr1.wav
+pitch_keycenter=106
+lokey=106
+hikey=107
+tune=5
+volume=4.172813
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_C7_vl2_rr1.wav
+pitch_keycenter=108
+lokey=108
+hikey=109
+volume=4.585839
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_C7_vl3_rr1.wav
+pitch_keycenter=108
+lokey=108
+hikey=109
+tune=-2
+volume=0.321511
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_C7_vl4_rr1.wav
+pitch_keycenter=108
+lokey=108
+hikey=109
+tune=-7
+volume=0.524251
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_D7_vl2_rr1.wav
+pitch_keycenter=110
+lokey=110
+hikey=111
+volume=2.195279
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_D7_vl3_rr1.wav
+pitch_keycenter=110
+lokey=110
+hikey=111
+tune=-6
+volume=1.628720
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_D7_vl4_rr1.wav
+pitch_keycenter=110
+lokey=110
+hikey=111
+tune=-6
+volume=3.532002
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_E7_vl2_rr1.wav
+pitch_keycenter=112
+lokey=112
+hikey=113
+volume=4.371569
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_E7_vl3_rr1.wav
+pitch_keycenter=112
+lokey=112
+hikey=113
+tune=-5
+volume=-2.338480
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_E7_vl4_rr1.wav
+pitch_keycenter=112
+lokey=112
+hikey=113
+tune=-6
+volume=-3.964346
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_F#7_vl2_rr1.wav
+pitch_keycenter=114
+lokey=114
+hikey=115
+volume=5.158113
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_F#7_vl3_rr1.wav
+pitch_keycenter=114
+lokey=114
+hikey=115
+tune=-9
+volume=-3.415336
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_F#7_vl4_rr1.wav
+pitch_keycenter=114
+lokey=114
+hikey=115
+tune=-8
+volume=-3.895289
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_G#7_vl2_rr1.wav
+pitch_keycenter=116
+lokey=116
+hikey=117
+volume=-1.968885
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_G#7_vl3_rr1.wav
+pitch_keycenter=116
+lokey=116
+hikey=117
+tune=-3
+volume=7.296103
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_G#7_vl4_rr1.wav
+pitch_keycenter=116
+lokey=116
+hikey=117
+tune=-2
+volume=7.838073
+
+
+<group>
+ampeg_attack=0.1000
+trigger=release
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_A#0_vl2_rr1.wav
+pitch_keycenter=34
+lokey=34
+hikey=35
+volume=8.891696
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_A#0_vl3_rr1.wav
+pitch_keycenter=34
+lokey=34
+hikey=35
+volume=4.046884
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_A#0_vl4_rr1.wav
+pitch_keycenter=34
+lokey=34
+hikey=35
+volume=1.974433
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_C1_vl2_rr1.wav
+pitch_keycenter=36
+lokey=36
+hikey=37
+tune=34
+volume=12.276748
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_C1_vl3_rr1.wav
+pitch_keycenter=36
+lokey=36
+hikey=37
+volume=-3.023261
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_C1_vl4_rr1.wav
+pitch_keycenter=36
+lokey=36
+hikey=37
+volume=-4.518082
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_D1_vl2_rr1.wav
+pitch_keycenter=38
+lokey=38
+hikey=39
+tune=40
+volume=13.224989
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_D1_vl3_rr1.wav
+pitch_keycenter=38
+lokey=38
+hikey=39
+volume=2.650209
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_D1_vl4_rr1.wav
+pitch_keycenter=38
+lokey=38
+hikey=39
+tune=-15
+volume=-6.949507
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_E1_vl2_rr1.wav
+pitch_keycenter=40
+lokey=40
+hikey=41
+volume=11.598647
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_E1_vl3_rr1.wav
+pitch_keycenter=40
+lokey=40
+hikey=41
+volume=-2.078972
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_E1_vl4_rr1.wav
+pitch_keycenter=40
+lokey=40
+hikey=41
+tune=-9
+volume=-9.246335
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_F#1_vl2_rr1.wav
+pitch_keycenter=42
+lokey=42
+hikey=43
+volume=10.198335
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_F#1_vl3_rr1.wav
+pitch_keycenter=42
+lokey=42
+hikey=43
+tune=-15
+volume=2.865548
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_F#1_vl4_rr1.wav
+pitch_keycenter=42
+lokey=42
+hikey=43
+tune=-32
+volume=1.756967
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_G#1_vl2_rr1.wav
+pitch_keycenter=44
+lokey=44
+hikey=45
+tune=-8
+volume=7.823451
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_G#1_vl3_rr1.wav
+pitch_keycenter=44
+lokey=44
+hikey=45
+tune=-23
+volume=1.969408
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_G#1_vl4_rr1.wav
+pitch_keycenter=44
+lokey=44
+hikey=45
+tune=-21
+volume=-3.043465
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_A#1_vl2_rr1.wav
+pitch_keycenter=46
+lokey=46
+hikey=47
+volume=10.947064
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_A#1_vl3_rr1.wav
+pitch_keycenter=46
+lokey=46
+hikey=47
+tune=-25
+volume=1.125484
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_A#1_vl4_rr1.wav
+pitch_keycenter=46
+lokey=46
+hikey=47
+tune=-31
+volume=-5.470845
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_C2_vl2_rr1.wav
+pitch_keycenter=48
+lokey=48
+hikey=49
+volume=13.220248
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_C2_vl3_rr1.wav
+pitch_keycenter=48
+lokey=48
+hikey=49
+tune=13
+volume=2.946595
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_C2_vl4_rr1.wav
+pitch_keycenter=48
+lokey=48
+hikey=49
+tune=-16
+volume=-2.643797
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_D2_vl2_rr1.wav
+pitch_keycenter=50
+lokey=50
+hikey=51
+volume=13.431244
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_D2_vl3_rr1.wav
+pitch_keycenter=50
+lokey=50
+hikey=51
+tune=-14
+volume=4.012680
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_D2_vl4_rr1.wav
+pitch_keycenter=50
+lokey=50
+hikey=51
+tune=-4
+volume=-9.879736
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_E2_vl2_rr1.wav
+pitch_keycenter=52
+lokey=52
+hikey=53
+volume=12.000088
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_E2_vl3_rr1.wav
+pitch_keycenter=52
+lokey=52
+hikey=53
+tune=-20
+volume=-1.757083
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_E2_vl4_rr1.wav
+pitch_keycenter=52
+lokey=52
+hikey=53
+tune=-25
+volume=-7.028110
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_F#2_vl2_rr1.wav
+pitch_keycenter=54
+lokey=54
+hikey=55
+volume=6.049398
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_F#2_vl3_rr1.wav
+pitch_keycenter=54
+lokey=54
+hikey=55
+tune=-15
+volume=3.757940
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_F#2_vl4_rr1.wav
+pitch_keycenter=54
+lokey=54
+hikey=55
+tune=-16
+volume=-1.493999
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_G#2_vl2_rr1.wav
+pitch_keycenter=56
+lokey=56
+hikey=57
+tune=-17
+volume=5.513452
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_G#2_vl3_rr1.wav
+pitch_keycenter=56
+lokey=56
+hikey=57
+tune=-17
+volume=3.589274
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_G#2_vl4_rr1.wav
+pitch_keycenter=56
+lokey=56
+hikey=57
+tune=-14
+volume=-0.291747
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_A#2_vl2_rr1.wav
+pitch_keycenter=58
+lokey=58
+hikey=59
+tune=-13
+volume=8.811272
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_A#2_vl3_rr1.wav
+pitch_keycenter=58
+lokey=58
+hikey=59
+tune=-11
+volume=0.101361
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_A#2_vl4_rr1.wav
+pitch_keycenter=58
+lokey=58
+hikey=59
+tune=-13
+volume=-5.911919
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_C3_vl2_rr1.wav
+pitch_keycenter=60
+lokey=60
+hikey=61
+volume=9.704743
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_C3_vl3_rr1.wav
+pitch_keycenter=60
+lokey=60
+hikey=61
+tune=-4
+volume=-2.453072
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_C3_vl4_rr1.wav
+pitch_keycenter=60
+lokey=60
+hikey=61
+tune=-15
+volume=-9.372147
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_D3_vl2_rr1.wav
+pitch_keycenter=62
+lokey=62
+hikey=63
+volume=7.684134
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_D3_vl3_rr1.wav
+pitch_keycenter=62
+lokey=62
+hikey=63
+tune=-12
+volume=-1.905423
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_D3_vl4_rr1.wav
+pitch_keycenter=62
+lokey=62
+hikey=63
+tune=-13
+volume=-0.309445
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_E3_vl2_rr1.wav
+pitch_keycenter=64
+lokey=64
+hikey=65
+tune=-19
+volume=8.913129
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_E3_vl3_rr1.wav
+pitch_keycenter=64
+lokey=64
+hikey=65
+tune=-8
+volume=4.255170
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_E3_vl4_rr1.wav
+pitch_keycenter=64
+lokey=64
+hikey=65
+tune=-7
+volume=-4.060197
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_F#3_vl2_rr1.wav
+pitch_keycenter=66
+lokey=66
+hikey=67
+tune=4
+volume=4.747921
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_F#3_vl3_rr1.wav
+pitch_keycenter=66
+lokey=66
+hikey=67
+tune=4
+volume=6.129708
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_F#3_vl4_rr1.wav
+pitch_keycenter=66
+lokey=66
+hikey=67
+tune=-7
+volume=2.464581
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_G#3_vl2_rr1.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+tune=-12
+volume=1.642427
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_G#3_vl3_rr1.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+tune=-5
+volume=5.788563
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_G#3_vl4_rr1.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+volume=7.585646
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_A#3_vl2_rr1.wav
+pitch_keycenter=70
+lokey=70
+hikey=71
+tune=-25
+volume=9.091036
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_A#3_vl3_rr1.wav
+pitch_keycenter=70
+lokey=70
+hikey=71
+tune=-4
+volume=-2.678914
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_A#3_vl4_rr1.wav
+pitch_keycenter=70
+lokey=70
+hikey=71
+tune=-5
+volume=-9.019935
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_C4_vl2_rr1.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+tune=-41
+volume=7.538611
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_C4_vl3_rr1.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+volume=2.630428
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_C4_vl4_rr1.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+tune=-10
+volume=-9.061434
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_D4_vl2_rr1.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+tune=-17
+volume=9.958501
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_D4_vl3_rr1.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+tune=-9
+volume=2.240777
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_D4_vl4_rr1.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+volume=-0.982004
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_E4_vl2_rr1.wav
+pitch_keycenter=76
+lokey=76
+hikey=77
+volume=5.103895
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_E4_vl3_rr1.wav
+pitch_keycenter=76
+lokey=76
+hikey=77
+tune=-9
+volume=4.023691
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_E4_vl4_rr1.wav
+pitch_keycenter=76
+lokey=76
+hikey=77
+volume=-6.973427
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_F#4_vl2_rr1.wav
+pitch_keycenter=78
+lokey=78
+hikey=79
+volume=2.972742
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_F#4_vl3_rr1.wav
+pitch_keycenter=78
+lokey=78
+hikey=79
+volume=-3.587804
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_F#4_vl4_rr1.wav
+pitch_keycenter=78
+lokey=78
+hikey=79
+volume=3.109197
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_G#4_vl2_rr1.wav
+pitch_keycenter=80
+lokey=80
+hikey=81
+tune=-81
+volume=4.951390
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_G#4_vl3_rr1.wav
+pitch_keycenter=80
+lokey=80
+hikey=81
+tune=-20
+volume=2.446340
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_G#4_vl4_rr1.wav
+pitch_keycenter=80
+lokey=80
+hikey=81
+tune=-20
+volume=3.430710
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_A#4_vl2_rr1.wav
+pitch_keycenter=82
+lokey=82
+hikey=83
+volume=2.615504
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_A#4_vl3_rr1.wav
+pitch_keycenter=82
+lokey=82
+hikey=83
+tune=-26
+volume=-0.088618
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_A#4_vl4_rr1.wav
+pitch_keycenter=82
+lokey=82
+hikey=83
+tune=-12
+volume=-5.504927
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_C5_vl2_rr1.wav
+pitch_keycenter=84
+lokey=84
+hikey=85
+volume=1.379573
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_C5_vl3_rr1.wav
+pitch_keycenter=84
+lokey=84
+hikey=85
+tune=-42
+volume=3.946433
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_C5_vl4_rr1.wav
+pitch_keycenter=84
+lokey=84
+hikey=85
+tune=-12
+volume=-7.988936
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_D5_vl2_rr1.wav
+pitch_keycenter=86
+lokey=86
+hikey=87
+volume=1.774288
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_D5_vl3_rr1.wav
+pitch_keycenter=86
+lokey=86
+hikey=87
+tune=-53
+volume=7.737727
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_D5_vl4_rr1.wav
+pitch_keycenter=86
+lokey=86
+hikey=87
+tune=-48
+volume=5.138277
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_E5_vl2_rr1.wav
+pitch_keycenter=88
+lokey=88
+hikey=89
+tune=-63
+volume=3.559286
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_E5_vl3_rr1.wav
+pitch_keycenter=88
+lokey=88
+hikey=89
+tune=-5
+volume=2.519865
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_E5_vl4_rr1.wav
+pitch_keycenter=88
+lokey=88
+hikey=89
+tune=-2
+volume=-0.651063
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_F#5_vl2_rr1.wav
+pitch_keycenter=90
+lokey=90
+hikey=91
+volume=-2.873051
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_F#5_vl3_rr1.wav
+pitch_keycenter=90
+lokey=90
+hikey=91
+tune=-19
+volume=-3.199727
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_F#5_vl4_rr1.wav
+pitch_keycenter=90
+lokey=90
+hikey=91
+tune=-8
+volume=-3.908205
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_G#5_vl2_rr1.wav
+pitch_keycenter=92
+lokey=92
+hikey=93
+volume=-1.446601
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_G#5_vl3_rr1.wav
+pitch_keycenter=92
+lokey=92
+hikey=93
+tune=-69
+volume=5.078307
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_G#5_vl4_rr1.wav
+pitch_keycenter=92
+lokey=92
+hikey=93
+tune=-39
+volume=0.041253
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_A#5_vl2_rr1.wav
+pitch_keycenter=94
+lokey=94
+hikey=95
+volume=-1.361428
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_A#5_vl3_rr1.wav
+pitch_keycenter=94
+lokey=94
+hikey=95
+tune=-43
+volume=4.431058
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_A#5_vl4_rr1.wav
+pitch_keycenter=94
+lokey=94
+hikey=95
+volume=2.138509
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_C6_vl2_rr1.wav
+pitch_keycenter=96
+lokey=96
+hikey=97
+volume=1.175666
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_C6_vl3_rr1.wav
+pitch_keycenter=96
+lokey=96
+hikey=97
+tune=-78
+volume=3.119093
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_C6_vl4_rr1.wav
+pitch_keycenter=96
+lokey=96
+hikey=97
+tune=-65
+volume=0.655571
+
+<region>
+lovel=0
+hivel=65
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_D6_vl2_rr1.wav
+pitch_keycenter=98
+lokey=98
+hikey=99
+volume=-2.247410
+
+<region>
+lovel=66
+hivel=99
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_D6_vl3_rr1.wav
+pitch_keycenter=98
+lokey=98
+hikey=99
+volume=1.990883
+
+<region>
+lovel=100
+hivel=127
+sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_D6_vl4_rr1.wav
+pitch_keycenter=98
+lokey=98
+hikey=99
+tune=-26
+volume=-4.587132
+

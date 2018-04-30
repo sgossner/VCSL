@@ -3,6 +3,9 @@
 Written by Peter Eastman.  This file is in the public domain.  For usage instructions, run this script as
 
 python createInstruments.py --help
+
+This script use the PySoundFile library.  See https://pypi.org/project/PySoundFile/ for installation instructions.
+You can still use it without PySoundFile, but only wav files will be supported.
 """
 
 from __future__ import print_function
@@ -13,7 +16,21 @@ import os
 import sys
 import numpy as np
 import scipy.signal
-import wavio
+
+try:
+    # Use PySoundFile if possible.
+    import soundfile as sf
+    formats = ['.wav', '.ogg', '.flac']
+    def loadFile(path):
+        return sf.read(path)
+except:
+    # It isn't installed, so use wavio instead.
+    import wavio
+    formats = ['.wav']
+    def loadFile(path):
+        wav = wavio.read(path)
+        return wav.data, wav.rate
+
 
 noteNames = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B']
 dynamicNames = ['ppp', 'pp', 'p', 'mp', 'mf', 'f', 'ff', 'fff',
@@ -147,7 +164,7 @@ def scanDirectory(directory, instrument, isRelease):
         filepath = os.path.join(directory, filename)
         if os.path.isdir(filepath):
             scanDirectory(filepath, instrument, isRelease)
-        elif filename.endswith('wav'):
+        elif any(filename.endswith(e) for e in formats):
             articulation.addSample(Sample(filename))
     if len(articulation.samples) > 0:
         if args.articulation is None or articulation.name == args.articulation:
@@ -160,11 +177,11 @@ scanDirectory(args.instrumentdir, instrument, False)
 
 for articulation in instrument.articulations:
     for sample in articulation.samples:
-        wav = wavio.read(os.path.join(articulation.directory, sample.filename))
+        data, rate = loadFile(os.path.join(articulation.directory, sample.filename))
         
         # Identify silence at the start of the sample.
         
-        amplitude = np.abs(np.max(wav.data, axis=1))
+        amplitude = np.abs(np.max(data, axis=1))
         smoothedAmplitude = np.convolve(amplitude, np.ones((100,))/100, mode='valid')
         cutoff = np.max(smoothedAmplitude)/50
         offset = np.min(np.where(smoothedAmplitude > cutoff))
@@ -174,7 +191,7 @@ for articulation in instrument.articulations:
         # Identify the tuning correction.
 
         if not args.unpitched and not args.notuning:
-            frequency = freq_from_autocorr(wav.data[:,0], wav.rate)
+            frequency = freq_from_autocorr(data[:,0], rate)
             for mult in [3, 2, 1, 0.5, 1/3.0]:
                 f = frequency*mult
                 ratio = f/sample.note.frequency
@@ -183,7 +200,7 @@ for articulation in instrument.articulations:
 
         # Estimate the loudness as the 90th percentile of amplitude during the first second.
 
-        sample.loudness = np.percentile(smoothedAmplitude[offset:offset+wav.rate], 90)
+        sample.loudness = np.percentile(smoothedAmplitude[offset:offset+rate], 90)
 
 # Write an articulation to a SFZ file.
 

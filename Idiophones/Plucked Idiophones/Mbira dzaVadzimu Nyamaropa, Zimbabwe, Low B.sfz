@@ -1,0 +1,206 @@
+// Generation Options: --release 30 --volume 20 --notuning
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=30.000000
+
+<region>
+sample=Mbira dzaVadzimu Nyamaropa, Zimbabwe, Low B/MBira4_pluck_Main_A#1_14_50_100_rr1.wav
+pitch_keycenter=46
+lokey=46
+hikey=48
+offset=4644
+volume=22.012119
+
+<region>
+sample=Mbira dzaVadzimu Nyamaropa, Zimbabwe, Low B/MBira4_pluck_Main_D#2_12_50_100_rr2.wav
+pitch_keycenter=51
+lokey=49
+hikey=51
+offset=4653
+volume=17.968398
+
+<region>
+sample=Mbira dzaVadzimu Nyamaropa, Zimbabwe, Low B/MBira4_pluck_Main_E2_10_50_100_rr3.wav
+pitch_keycenter=52
+lokey=52
+hikey=53
+offset=4418
+volume=22.998987
+
+<region>
+sample=Mbira dzaVadzimu Nyamaropa, Zimbabwe, Low B/MBira4_pluck_Main_F#2_8_50_100_rr2.wav
+pitch_keycenter=54
+lokey=54
+hikey=55
+offset=4514
+volume=18.318496
+
+<region>
+sample=Mbira dzaVadzimu Nyamaropa, Zimbabwe, Low B/MBira4_pluck_Main_G#2_6_50_100_rr1.wav
+pitch_keycenter=56
+lokey=56
+hikey=56
+offset=4682
+volume=18.203218
+
+<region>
+sample=Mbira dzaVadzimu Nyamaropa, Zimbabwe, Low B/MBira4_pluck_Main_A2_4_50_100_rr2.wav
+pitch_keycenter=57
+lokey=57
+hikey=58
+offset=4396
+volume=22.513399
+
+<region>
+sample=Mbira dzaVadzimu Nyamaropa, Zimbabwe, Low B/MBira4_pluck_Main_B2_13_50_100_rr3.wav
+pitch_keycenter=59
+lokey=59
+hikey=60
+offset=4668
+volume=19.343076
+
+<region>
+sample=Mbira dzaVadzimu Nyamaropa, Zimbabwe, Low B/MBira4_pluck_Main_C#3_2_50_100_rr5.wav
+pitch_keycenter=61
+lokey=61
+hikey=62
+offset=4656
+volume=22.313300
+
+<region>
+sample=Mbira dzaVadzimu Nyamaropa, Zimbabwe, Low B/MBira4_pluck_Main_D#3_15_50_100_rr1.wav
+pitch_keycenter=63
+lokey=63
+hikey=63
+offset=4645
+volume=20.100759
+
+<region>
+sample=Mbira dzaVadzimu Nyamaropa, Zimbabwe, Low B/MBira4_pluck_Main_E3_9_50_100_rr4.wav
+pitch_keycenter=64
+lokey=64
+hikey=65
+offset=4654
+volume=17.205425
+
+<region>
+sample=Mbira dzaVadzimu Nyamaropa, Zimbabwe, Low B/MBira4_pluck_Main_F#3_11_50_100_rr2.wav
+pitch_keycenter=66
+lokey=66
+hikey=67
+offset=4617
+volume=22.218911
+
+<region>
+sample=Mbira dzaVadzimu Nyamaropa, Zimbabwe, Low B/MBira4_pluck_Main_G#3_7_50_100_rr2.wav
+pitch_keycenter=68
+lokey=68
+hikey=68
+offset=3790
+volume=20.530722
+
+<region>
+sample=Mbira dzaVadzimu Nyamaropa, Zimbabwe, Low B/MBira4_pluck_Main_A3_5_50_100_rr1.wav
+pitch_keycenter=69
+lokey=69
+hikey=70
+offset=4658
+volume=19.151527
+
+<region>
+seq_length=2
+seq_position=1
+sample=Mbira dzaVadzimu Nyamaropa, Zimbabwe, Low B/MBira4_pluck_Main_B3_3_50_100_rr2.wav
+pitch_keycenter=71
+lokey=71
+hikey=72
+offset=4662
+volume=24.575997
+
+<region>
+seq_length=2
+seq_position=2
+sample=Mbira dzaVadzimu Nyamaropa, Zimbabwe, Low B/MBira4_pluck_Main_B3_16_50_100_rr2.wav
+pitch_keycenter=71
+lokey=71
+hikey=72
+offset=4649
+volume=21.000816
+
+<region>
+seq_length=2
+seq_position=1
+sample=Mbira dzaVadzimu Nyamaropa, Zimbabwe, Low B/MBira4_pluck_Main_C#4_17_50_100_rr1.wav
+pitch_keycenter=73
+lokey=73
+hikey=74
+offset=4631
+volume=17.992516
+
+<region>
+seq_length=2
+seq_position=2
+sample=Mbira dzaVadzimu Nyamaropa, Zimbabwe, Low B/MBira4_pluck_Main_C#4_1_50_100_rr1.wav
+pitch_keycenter=73
+lokey=73
+hikey=74
+offset=4367
+volume=15.314652
+
+<region>
+sample=Mbira dzaVadzimu Nyamaropa, Zimbabwe, Low B/MBira4_pluck_Main_D#4_18_50_100_rr5.wav
+pitch_keycenter=75
+lokey=75
+hikey=75
+offset=4653
+volume=20.850015
+
+<region>
+sample=Mbira dzaVadzimu Nyamaropa, Zimbabwe, Low B/MBira4_pluck_Main_E4_19_50_100_rr2.wav
+pitch_keycenter=76
+lokey=76
+hikey=77
+offset=4642
+volume=22.594101
+
+<region>
+sample=Mbira dzaVadzimu Nyamaropa, Zimbabwe, Low B/MBira4_pluck_Main_F#4_20_50_100_rr3.wav
+pitch_keycenter=78
+lokey=78
+hikey=79
+offset=4641
+volume=16.562377
+
+<region>
+sample=Mbira dzaVadzimu Nyamaropa, Zimbabwe, Low B/MBira4_pluck_Main_G#4_21_50_100_rr3.wav
+pitch_keycenter=80
+lokey=80
+hikey=80
+offset=4648
+volume=22.553734
+
+<region>
+sample=Mbira dzaVadzimu Nyamaropa, Zimbabwe, Low B/MBira4_pluck_Main_A4_22_50_100_rr3.wav
+pitch_keycenter=81
+lokey=81
+hikey=82
+offset=4635
+volume=22.112469
+
+<region>
+sample=Mbira dzaVadzimu Nyamaropa, Zimbabwe, Low B/MBira4_pluck_Main_B4_23_50_100_rr3.wav
+pitch_keycenter=83
+lokey=83
+hikey=84
+offset=4508
+volume=18.160915
+
+<region>
+sample=Mbira dzaVadzimu Nyamaropa, Zimbabwe, Low B/MBira4_pluck_Main_C#5_24_50_100_rr5.wav
+pitch_keycenter=85
+lokey=85
+hikey=86
+offset=4665
+volume=20.793592
+
