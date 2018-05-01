@@ -1,0 +1,152 @@
+// Generation Options: --unpitched --release 30 --volume 20
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=30.000000
+
+<region>
+seq_length=2
+seq_position=1
+sample=Shaker, Small/Mid_Shaker_Roll_Fast_rr2.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=20.126577
+ampeg_release=0.5
+
+<region>
+seq_length=2
+seq_position=2
+sample=Shaker, Small/Mid_Shaker_Roll_Fast_rr1.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=19.875241
+ampeg_release=0.5
+
+<region>
+seq_length=2
+seq_position=1
+sample=Shaker, Small/Mid_Shaker_Slap_rr1.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+volume=19.259504
+
+<region>
+seq_length=2
+seq_position=2
+sample=Shaker, Small/Mid_Shaker_Slap_rr2.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+volume=20.809559
+
+<region>
+seq_length=2
+seq_position=1
+sample=Shaker, Small/Mid_ShakerDouble_Down_rr2.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+volume=19.707995
+
+<region>
+seq_length=2
+seq_position=2
+sample=Shaker, Small/Mid_ShakerDouble_Down_rr1.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+volume=20.302164
+
+<region>
+seq_length=2
+seq_position=1
+sample=Shaker, Small/Mid_ShakerDouble_Up_rr1.wav
+pitch_keycenter=63
+lokey=63
+hikey=63
+volume=19.229598
+
+<region>
+seq_length=2
+seq_position=2
+sample=Shaker, Small/Mid_ShakerDouble_Up_rr2.wav
+pitch_keycenter=63
+lokey=63
+hikey=63
+volume=20.845443
+
+<region>
+seq_length=2
+seq_position=1
+sample=Shaker, Small/Mid_ShakerHighFaster_Down_rr1.wav
+pitch_keycenter=64
+lokey=64
+hikey=64
+volume=19.995481
+
+<region>
+seq_length=2
+seq_position=2
+sample=Shaker, Small/Mid_ShakerHighFaster_Down_rr2.wav
+pitch_keycenter=64
+lokey=64
+hikey=64
+volume=20.004522
+
+<region>
+seq_length=2
+seq_position=1
+sample=Shaker, Small/Mid_ShakerHighFaster_Up_rr1.wav
+pitch_keycenter=65
+lokey=65
+hikey=65
+volume=18.985387
+
+<region>
+seq_length=2
+seq_position=2
+sample=Shaker, Small/Mid_ShakerHighFaster_Up_rr2.wav
+pitch_keycenter=65
+lokey=65
+hikey=65
+volume=21.149003
+
+<region>
+seq_length=2
+seq_position=1
+sample=Shaker, Small/Mid_ShakerLowFaster_Down_rr1.wav
+pitch_keycenter=66
+lokey=66
+hikey=66
+volume=20.050183
+
+<region>
+seq_length=2
+seq_position=2
+sample=Shaker, Small/Mid_ShakerLowFaster_Down_rr2.wav
+pitch_keycenter=66
+lokey=66
+hikey=66
+volume=19.950105
+
+<region>
+seq_length=2
+seq_position=1
+sample=Shaker, Small/Mid_ShakerLowFaster_Up_rr1.wav
+pitch_keycenter=67
+lokey=67
+hikey=67
+volume=21.484522
+
+<region>
+seq_length=2
+seq_position=2
+sample=Shaker, Small/Mid_ShakerLowFaster_Up_rr2.wav
+pitch_keycenter=67
+lokey=67
+hikey=67
+volume=18.732551
+

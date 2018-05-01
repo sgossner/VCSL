@@ -1,3 +1,5 @@
+// Generation Options: --volume 10
+
 <group>
 ampeg_attack=0.004000
 ampeg_release=0.300000
@@ -8,7 +10,7 @@ pitch_keycenter=36
 lokey=36
 hikey=37
 tune=3
-volume=7.765657
+volume=17.765657
 
 <region>
 sample=Renaissance Organ/8'/RenOrgan_8foot_Room_D1_rr1.wav
@@ -17,7 +19,7 @@ lokey=38
 hikey=39
 offset=1847
 tune=1
-volume=-3.928474
+volume=6.071526
 
 <region>
 sample=Renaissance Organ/8'/RenOrgan_8foot_Room_E1_rr1.wav
@@ -25,7 +27,7 @@ pitch_keycenter=40
 lokey=40
 hikey=41
 offset=461
-volume=-0.425950
+volume=9.574050
 
 <region>
 sample=Renaissance Organ/8'/RenOrgan_8foot_Room_F#1_rr1.wav
@@ -34,7 +36,7 @@ lokey=42
 hikey=43
 offset=598
 tune=1
-volume=8.411341
+volume=18.411341
 
 <region>
 sample=Renaissance Organ/8'/RenOrgan_8foot_Room_G#1_rr1.wav
@@ -42,7 +44,7 @@ pitch_keycenter=44
 lokey=44
 hikey=45
 tune=1
-volume=-1.896377
+volume=8.103623
 
 <region>
 sample=Renaissance Organ/8'/RenOrgan_8foot_Room_A#1_rr1.wav
@@ -50,7 +52,7 @@ pitch_keycenter=46
 lokey=46
 hikey=47
 tune=1
-volume=-5.873615
+volume=4.126385
 
 <region>
 sample=Renaissance Organ/8'/RenOrgan_8foot_Room_C2_rr1.wav
@@ -58,7 +60,7 @@ pitch_keycenter=48
 lokey=48
 hikey=49
 offset=449
-volume=4.625306
+volume=14.625306
 
 <region>
 sample=Renaissance Organ/8'/RenOrgan_8foot_Room_D2_rr1.wav
@@ -66,7 +68,7 @@ pitch_keycenter=50
 lokey=50
 hikey=51
 offset=135
-volume=2.204747
+volume=12.204747
 
 <region>
 sample=Renaissance Organ/8'/RenOrgan_8foot_Room_E2_rr1.wav
@@ -74,7 +76,7 @@ pitch_keycenter=52
 lokey=52
 hikey=53
 offset=286
-volume=-1.952494
+volume=8.047506
 
 <region>
 sample=Renaissance Organ/8'/RenOrgan_8foot_Room_F#2_rr1.wav
@@ -82,7 +84,7 @@ pitch_keycenter=54
 lokey=54
 hikey=55
 offset=261
-volume=-0.734683
+volume=9.265317
 
 <region>
 sample=Renaissance Organ/8'/RenOrgan_8foot_Room_G#2_rr1.wav
@@ -90,49 +92,49 @@ pitch_keycenter=56
 lokey=56
 hikey=57
 offset=119
-volume=2.681435
+volume=12.681435
 
 <region>
 sample=Renaissance Organ/8'/RenOrgan_8foot_Room_A#2_rr1.wav
 pitch_keycenter=58
 lokey=58
 hikey=59
-volume=6.939548
+volume=16.939548
 
 <region>
 sample=Renaissance Organ/8'/RenOrgan_8foot_Room_C3_rr1.wav
 pitch_keycenter=60
 lokey=60
 hikey=61
-volume=-6.914387
+volume=3.085613
 
 <region>
 sample=Renaissance Organ/8'/RenOrgan_8foot_Room_D3_rr1.wav
 pitch_keycenter=62
 lokey=62
 hikey=63
-volume=3.422019
+volume=13.422019
 
 <region>
 sample=Renaissance Organ/8'/RenOrgan_8foot_Room_E3_rr1.wav
 pitch_keycenter=64
 lokey=64
 hikey=65
-volume=4.696324
+volume=14.696324
 
 <region>
 sample=Renaissance Organ/8'/RenOrgan_8foot_Room_F#3_rr1.wav
 pitch_keycenter=66
 lokey=66
 hikey=67
-volume=-3.638721
+volume=6.361279
 
 <region>
 sample=Renaissance Organ/8'/RenOrgan_8foot_Room_G#3_rr1.wav
 pitch_keycenter=68
 lokey=68
 hikey=69
-volume=4.300565
+volume=14.300565
 
 <region>
 sample=Renaissance Organ/8'/RenOrgan_8foot_Room_A#3_rr1.wav
@@ -140,7 +142,7 @@ pitch_keycenter=70
 lokey=70
 hikey=71
 offset=11
-volume=5.684907
+volume=15.684907
 
 <region>
 sample=Renaissance Organ/8'/RenOrgan_8foot_Room_C4_rr1.wav
@@ -148,7 +150,7 @@ pitch_keycenter=72
 lokey=72
 hikey=73
 offset=206
-volume=0.006227
+volume=10.006227
 
 <region>
 sample=Renaissance Organ/8'/RenOrgan_8foot_Room_D4_rr1.wav
@@ -156,7 +158,7 @@ pitch_keycenter=74
 lokey=74
 hikey=75
 offset=83
-volume=-4.835554
+volume=5.164446
 
 <region>
 sample=Renaissance Organ/8'/RenOrgan_8foot_Room_E4_rr1.wav
@@ -164,7 +166,7 @@ pitch_keycenter=76
 lokey=76
 hikey=77
 offset=35
-volume=-1.596036
+volume=8.403964
 
 <region>
 sample=Renaissance Organ/8'/RenOrgan_8foot_Room_F#4_rr1.wav
@@ -172,14 +174,14 @@ pitch_keycenter=78
 lokey=78
 hikey=79
 tune=1
-volume=1.746951
+volume=11.746951
 
 <region>
 sample=Renaissance Organ/8'/RenOrgan_8foot_Room_G#4_rr1.wav
 pitch_keycenter=80
 lokey=80
 hikey=81
-volume=3.711655
+volume=13.711655
 
 <region>
 sample=Renaissance Organ/8'/RenOrgan_8foot_Room_A#4_rr1.wav
@@ -187,7 +189,7 @@ pitch_keycenter=82
 lokey=82
 hikey=83
 offset=36
-volume=0.096146
+volume=10.096146
 
 <region>
 sample=Renaissance Organ/8'/RenOrgan_8foot_Room_C5_rr1.wav
@@ -195,19 +197,19 @@ pitch_keycenter=84
 lokey=84
 hikey=85
 offset=36
-volume=3.392434
+volume=13.392434
 
 <region>
 sample=Renaissance Organ/8'/RenOrgan_8foot_Room_D5_rr1.wav
 pitch_keycenter=86
 lokey=86
 hikey=87
-volume=4.280878
+volume=14.280878
 
 <region>
 sample=Renaissance Organ/8'/RenOrgan_8foot_Room_E5_rr1.wav
 pitch_keycenter=88
 lokey=88
 hikey=89
-volume=-0.512144
+volume=9.487856
 

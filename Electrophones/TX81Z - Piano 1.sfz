@@ -1,0 +1,601 @@
+// Generation Options: --volume 12 --release 0.1
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=0.100000
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/Piano 1/Piano 1_C0_vl1.wav
+pitch_keycenter=24
+lokey=24
+hikey=26
+volume=15.786709
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/Piano 1/Piano 1_C0_vl2.wav
+pitch_keycenter=24
+lokey=24
+hikey=26
+tune=-1
+volume=12.587240
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/Piano 1/Piano 1_C0_vl3.wav
+pitch_keycenter=24
+lokey=24
+hikey=26
+volume=8.427439
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/Piano 1/Piano 1_E0_vl1.wav
+pitch_keycenter=28
+lokey=27
+hikey=30
+volume=21.416143
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/Piano 1/Piano 1_E0_vl2.wav
+pitch_keycenter=28
+lokey=27
+hikey=30
+volume=12.111476
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/Piano 1/Piano 1_E0_vl3.wav
+pitch_keycenter=28
+lokey=27
+hikey=30
+volume=7.948554
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/Piano 1/Piano 1_G#0_vl1.wav
+pitch_keycenter=32
+lokey=31
+hikey=34
+volume=21.017362
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/Piano 1/Piano 1_G#0_vl2.wav
+pitch_keycenter=32
+lokey=31
+hikey=34
+volume=11.805631
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/Piano 1/Piano 1_G#0_vl3.wav
+pitch_keycenter=32
+lokey=31
+hikey=34
+volume=7.686007
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/Piano 1/Piano 1_C1_vl1.wav
+pitch_keycenter=36
+lokey=35
+hikey=38
+volume=20.723099
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/Piano 1/Piano 1_C1_vl2.wav
+pitch_keycenter=36
+lokey=35
+hikey=38
+volume=11.546789
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/Piano 1/Piano 1_C1_vl3.wav
+pitch_keycenter=36
+lokey=35
+hikey=38
+volume=7.660734
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/Piano 1/Piano 1_E1_vl1.wav
+pitch_keycenter=40
+lokey=39
+hikey=42
+volume=21.065893
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/Piano 1/Piano 1_E1_vl2.wav
+pitch_keycenter=40
+lokey=39
+hikey=42
+volume=11.753143
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/Piano 1/Piano 1_E1_vl3.wav
+pitch_keycenter=40
+lokey=39
+hikey=42
+volume=8.000068
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/Piano 1/Piano 1_G#1_vl1.wav
+pitch_keycenter=44
+lokey=43
+hikey=46
+volume=21.093214
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/Piano 1/Piano 1_G#1_vl2.wav
+pitch_keycenter=44
+lokey=43
+hikey=46
+volume=11.793241
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/Piano 1/Piano 1_G#1_vl3.wav
+pitch_keycenter=44
+lokey=43
+hikey=46
+volume=7.749641
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/Piano 1/Piano 1_C2_vl1.wav
+pitch_keycenter=48
+lokey=47
+hikey=50
+volume=21.188789
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/Piano 1/Piano 1_C2_vl2.wav
+pitch_keycenter=48
+lokey=47
+hikey=50
+volume=11.797806
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/Piano 1/Piano 1_C2_vl3.wav
+pitch_keycenter=48
+lokey=47
+hikey=50
+volume=7.604191
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/Piano 1/Piano 1_E2_vl1.wav
+pitch_keycenter=52
+lokey=51
+hikey=54
+volume=21.289330
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/Piano 1/Piano 1_E2_vl2.wav
+pitch_keycenter=52
+lokey=51
+hikey=54
+volume=11.911789
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/Piano 1/Piano 1_E2_vl3.wav
+pitch_keycenter=52
+lokey=51
+hikey=54
+volume=7.683613
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/Piano 1/Piano 1_G#2_vl1.wav
+pitch_keycenter=56
+lokey=55
+hikey=58
+volume=21.358402
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/Piano 1/Piano 1_G#2_vl2.wav
+pitch_keycenter=56
+lokey=55
+hikey=58
+volume=12.047236
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/Piano 1/Piano 1_G#2_vl3.wav
+pitch_keycenter=56
+lokey=55
+hikey=58
+volume=7.853346
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/Piano 1/Piano 1_C3_vl1.wav
+pitch_keycenter=60
+lokey=59
+hikey=62
+volume=21.137998
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/Piano 1/Piano 1_C3_vl2.wav
+pitch_keycenter=60
+lokey=59
+hikey=62
+volume=11.982175
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/Piano 1/Piano 1_C3_vl3.wav
+pitch_keycenter=60
+lokey=59
+hikey=62
+volume=7.865318
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/Piano 1/Piano 1_E3_vl1.wav
+pitch_keycenter=64
+lokey=63
+hikey=66
+volume=21.231056
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/Piano 1/Piano 1_E3_vl2.wav
+pitch_keycenter=64
+lokey=63
+hikey=66
+volume=11.875164
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/Piano 1/Piano 1_E3_vl3.wav
+pitch_keycenter=64
+lokey=63
+hikey=66
+volume=7.788236
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/Piano 1/Piano 1_G#3_vl1.wav
+pitch_keycenter=68
+lokey=67
+hikey=70
+volume=21.160578
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/Piano 1/Piano 1_G#3_vl2.wav
+pitch_keycenter=68
+lokey=67
+hikey=70
+volume=11.799289
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/Piano 1/Piano 1_G#3_vl3.wav
+pitch_keycenter=68
+lokey=67
+hikey=70
+volume=7.676619
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/Piano 1/Piano 1_C4_vl1.wav
+pitch_keycenter=72
+lokey=71
+hikey=74
+volume=21.192038
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/Piano 1/Piano 1_C4_vl2.wav
+pitch_keycenter=72
+lokey=71
+hikey=74
+volume=11.830386
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/Piano 1/Piano 1_C4_vl3.wav
+pitch_keycenter=72
+lokey=71
+hikey=74
+volume=7.712675
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/Piano 1/Piano 1_E4_vl1.wav
+pitch_keycenter=76
+lokey=75
+hikey=78
+volume=21.205438
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/Piano 1/Piano 1_E4_vl2.wav
+pitch_keycenter=76
+lokey=75
+hikey=78
+volume=11.826228
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/Piano 1/Piano 1_E4_vl3.wav
+pitch_keycenter=76
+lokey=75
+hikey=78
+volume=7.816584
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/Piano 1/Piano 1_G#4_vl1.wav
+pitch_keycenter=80
+lokey=79
+hikey=82
+volume=21.135567
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/Piano 1/Piano 1_G#4_vl2.wav
+pitch_keycenter=80
+lokey=79
+hikey=82
+volume=11.738909
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/Piano 1/Piano 1_G#4_vl3.wav
+pitch_keycenter=80
+lokey=79
+hikey=82
+volume=7.628201
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/Piano 1/Piano 1_C5_vl1.wav
+pitch_keycenter=84
+lokey=83
+hikey=86
+volume=21.077786
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/Piano 1/Piano 1_C5_vl2.wav
+pitch_keycenter=84
+lokey=83
+hikey=86
+volume=11.679453
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/Piano 1/Piano 1_C5_vl3.wav
+pitch_keycenter=84
+lokey=83
+hikey=86
+volume=7.589001
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/Piano 1/Piano 1_E5_vl1.wav
+pitch_keycenter=88
+lokey=87
+hikey=90
+volume=21.355261
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/Piano 1/Piano 1_E5_vl2.wav
+pitch_keycenter=88
+lokey=87
+hikey=90
+volume=11.961302
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/Piano 1/Piano 1_E5_vl3.wav
+pitch_keycenter=88
+lokey=87
+hikey=90
+volume=7.801785
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/Piano 1/Piano 1_G#5_vl1.wav
+pitch_keycenter=92
+lokey=91
+hikey=94
+volume=21.299079
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/Piano 1/Piano 1_G#5_vl2.wav
+pitch_keycenter=92
+lokey=91
+hikey=94
+volume=11.898832
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/Piano 1/Piano 1_G#5_vl3.wav
+pitch_keycenter=92
+lokey=91
+hikey=94
+volume=7.773449
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/Piano 1/Piano 1_C6_vl1.wav
+pitch_keycenter=96
+lokey=95
+hikey=98
+volume=21.236198
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/Piano 1/Piano 1_C6_vl2.wav
+pitch_keycenter=96
+lokey=95
+hikey=98
+volume=11.815995
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/Piano 1/Piano 1_C6_vl3.wav
+pitch_keycenter=96
+lokey=95
+hikey=98
+volume=7.677068
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/Piano 1/Piano 1_E6_vl1.wav
+pitch_keycenter=100
+lokey=99
+hikey=102
+volume=21.164878
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/Piano 1/Piano 1_E6_vl2.wav
+pitch_keycenter=100
+lokey=99
+hikey=102
+volume=11.797531
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/Piano 1/Piano 1_E6_vl3.wav
+pitch_keycenter=100
+lokey=99
+hikey=102
+volume=7.669277
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/Piano 1/Piano 1_G#6_vl1.wav
+pitch_keycenter=104
+lokey=103
+hikey=106
+volume=21.245291
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/Piano 1/Piano 1_G#6_vl2.wav
+pitch_keycenter=104
+lokey=103
+hikey=106
+volume=11.873209
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/Piano 1/Piano 1_G#6_vl3.wav
+pitch_keycenter=104
+lokey=103
+hikey=106
+volume=7.771002
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/Piano 1/Piano 1_C7_vl1.wav
+pitch_keycenter=108
+lokey=107
+hikey=109
+volume=21.338213
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/Piano 1/Piano 1_C7_vl2.wav
+pitch_keycenter=108
+lokey=107
+hikey=109
+volume=11.999012
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/Piano 1/Piano 1_C7_vl3.wav
+pitch_keycenter=108
+lokey=107
+hikey=109
+volume=7.920190
+

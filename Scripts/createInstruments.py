@@ -33,7 +33,7 @@ except:
 
 
 noteNames = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B']
-dynamicNames = ['ppp', 'pp', 'p', 'mp', 'mf', 'f', 'ff', 'fff',
+dynamicNames = ['pppp', 'ppp', 'pp', 'p', 'mp', 'mf', 'f', 'ff', 'fff', 'ffff',
                 'v11', 'vl2', 'vl3', 'vl4', 'vl5',
                 'v1', 'v2', 'v3', 'v4', 'v5', 'v6', 'v7', 'v8', 'v9',
                 'soft', 'quiet', 'med', 'medium', 'loud']
