@@ -1,0 +1,171 @@
+// Generation Options: --release 30 --volume 4
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=30.000000
+
+<region>
+lovel=0
+hivel=83
+sample=Tubular Bells 1/chimes_C3_pp_rr2.wav
+pitch_keycenter=60
+lokey=60
+hikey=61
+volume=11.162765
+
+<region>
+lovel=84
+hivel=127
+sample=Tubular Bells 1/chimes_C3_f_rr1.wav
+pitch_keycenter=60
+lokey=60
+hikey=61
+volume=0.742311
+
+<region>
+lovel=0
+hivel=83
+sample=Tubular Bells 1/chimes_D3_pp_rr3.wav
+pitch_keycenter=62
+lokey=62
+hikey=63
+volume=21.025757
+
+<region>
+lovel=84
+hivel=127
+sample=Tubular Bells 1/chimes_D3_ff_rr1.wav
+pitch_keycenter=62
+lokey=62
+hikey=63
+volume=-0.566385
+
+<region>
+lovel=0
+hivel=83
+sample=Tubular Bells 1/chimes_E3_pp_rr1.wav
+pitch_keycenter=64
+lokey=64
+hikey=65
+volume=23.632320
+
+<region>
+lovel=84
+hivel=127
+sample=Tubular Bells 1/chimes_E3_ff_rr2.wav
+pitch_keycenter=64
+lokey=64
+hikey=65
+volume=2.281207
+
+<region>
+lovel=0
+hivel=83
+sample=Tubular Bells 1/chimes_F#3_p_rr1.wav
+pitch_keycenter=66
+lokey=66
+hikey=67
+tune=16
+volume=14.124176
+
+<region>
+lovel=84
+hivel=127
+sample=Tubular Bells 1/chimes_F#3_fff_rr1.wav
+pitch_keycenter=66
+lokey=66
+hikey=67
+volume=-4.305226
+
+<region>
+lovel=0
+hivel=83
+sample=Tubular Bells 1/chimes_G#3_p_rr2.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+tune=23
+volume=13.654877
+
+<region>
+lovel=84
+hivel=127
+sample=Tubular Bells 1/chimes_G#3_ff_rr1.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+volume=-0.750025
+
+<region>
+lovel=0
+hivel=83
+sample=Tubular Bells 1/chimes_A#3_pp_rr1.wav
+pitch_keycenter=70
+lokey=70
+hikey=71
+tune=-19
+volume=23.199458
+
+<region>
+lovel=84
+hivel=127
+sample=Tubular Bells 1/chimes_A#3_ff_rr1.wav
+pitch_keycenter=70
+lokey=70
+hikey=71
+volume=0.111465
+
+<region>
+lovel=0
+hivel=83
+sample=Tubular Bells 1/chimes_C4_p_rr1.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+volume=15.478304
+
+<region>
+lovel=84
+hivel=127
+sample=Tubular Bells 1/chimes_C4_ff_rr2.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+volume=-2.775858
+
+<region>
+lovel=0
+hivel=83
+sample=Tubular Bells 1/chimes_D4_p_rr1.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+volume=17.448292
+
+<region>
+lovel=84
+hivel=127
+sample=Tubular Bells 1/chimes_D4_ff_rr2.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+volume=-0.922908
+
+<region>
+lovel=0
+hivel=83
+sample=Tubular Bells 1/chimes_E4_pp_rr3.wav
+pitch_keycenter=76
+lokey=76
+hikey=77
+volume=25.822036
+
+<region>
+lovel=84
+hivel=127
+sample=Tubular Bells 1/chimes_E4_ff_rr2.wav
+pitch_keycenter=76
+lokey=76
+hikey=77
+volume=0.331229
+

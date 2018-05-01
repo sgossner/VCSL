@@ -1,0 +1,577 @@
+// Generation Options: --notuning --release 30 --volume 12
+
+<group>
+sw_default=48
+sw_lokey=48
+sw_hikey=51
+sw_last=48
+sw_label=Hard Mallet
+ampeg_attack=0.004000
+ampeg_release=30.000000
+
+<region>
+lovel=0
+hivel=65
+sample=Balafon/Hard Mallet/EthnicXylo_hardM_C#3_vl1_rr1_Mid.wav
+pitch_keycenter=61
+lokey=61
+hikey=63
+offset=198
+volume=21.067154
+
+<region>
+lovel=66
+hivel=99
+sample=Balafon/Hard Mallet/EthnicXylo_hardM_C#3_vl2_rr1_Mid.wav
+pitch_keycenter=61
+lokey=61
+hikey=63
+offset=197
+volume=12.248946
+
+<region>
+lovel=100
+hivel=127
+sample=Balafon/Hard Mallet/EthnicXylo_hardM_C#3_vl3_rr1_Mid.wav
+pitch_keycenter=61
+lokey=61
+hikey=63
+offset=200
+volume=3.203128
+
+<region>
+lovel=0
+hivel=65
+sample=Balafon/Hard Mallet/EthnicXylo_hardM_F3_vl1_rr1_Mid.wav
+pitch_keycenter=65
+lokey=64
+hikey=68
+offset=189
+volume=24.338365
+
+<region>
+lovel=66
+hivel=99
+sample=Balafon/Hard Mallet/EthnicXylo_hardM_F3_vl2_rr1_Mid.wav
+pitch_keycenter=65
+lokey=64
+hikey=68
+offset=189
+volume=14.426469
+
+<region>
+lovel=100
+hivel=127
+sample=Balafon/Hard Mallet/EthnicXylo_hardM_F3_vl3_rr1_Mid.wav
+pitch_keycenter=65
+lokey=64
+hikey=68
+offset=192
+volume=6.824585
+
+<region>
+lovel=0
+hivel=65
+sample=Balafon/Hard Mallet/EthnicXylo_hardM_C4_vl1_rr1_Mid.wav
+pitch_keycenter=72
+lokey=69
+hikey=74
+offset=185
+volume=27.040275
+
+<region>
+lovel=66
+hivel=99
+sample=Balafon/Hard Mallet/EthnicXylo_hardM_C4_vl2_rr1_Mid.wav
+pitch_keycenter=72
+lokey=69
+hikey=74
+offset=182
+volume=21.768622
+
+<region>
+lovel=100
+hivel=127
+sample=Balafon/Hard Mallet/EthnicXylo_hardM_C4_vl3_rr1_Mid.wav
+pitch_keycenter=72
+lokey=69
+hikey=74
+offset=183
+volume=9.278741
+
+<region>
+lovel=0
+hivel=65
+sample=Balafon/Hard Mallet/EthnicXylo_hardM_F4_vl1_rr1_Mid.wav
+pitch_keycenter=77
+lokey=75
+hikey=80
+offset=184
+volume=26.448957
+
+<region>
+lovel=66
+hivel=99
+sample=Balafon/Hard Mallet/EthnicXylo_hardM_F4_vl2_rr1_Mid.wav
+pitch_keycenter=77
+lokey=75
+hikey=80
+offset=190
+volume=19.322213
+
+<region>
+lovel=100
+hivel=127
+sample=Balafon/Hard Mallet/EthnicXylo_hardM_F4_vl3_rr1_Mid.wav
+pitch_keycenter=77
+lokey=75
+hikey=80
+offset=185
+volume=10.504588
+
+<region>
+lovel=0
+hivel=65
+sample=Balafon/Hard Mallet/EthnicXylo_hardM_C5_vl1_rr1_Mid.wav
+pitch_keycenter=84
+lokey=81
+hikey=86
+offset=196
+volume=16.547392
+
+<region>
+lovel=66
+hivel=99
+sample=Balafon/Hard Mallet/EthnicXylo_hardM_C5_vl2_rr1_Mid.wav
+pitch_keycenter=84
+lokey=81
+hikey=86
+offset=195
+volume=12.563947
+
+<region>
+lovel=100
+hivel=127
+sample=Balafon/Hard Mallet/EthnicXylo_hardM_C5_vl3_rr1_Mid.wav
+pitch_keycenter=84
+lokey=81
+hikey=86
+offset=189
+volume=2.975057
+
+<region>
+lovel=0
+hivel=65
+sample=Balafon/Hard Mallet/EthnicXylo_hardM_F5_vl1_rr1_Mid.wav
+pitch_keycenter=89
+lokey=87
+hikey=90
+offset=177
+volume=19.810595
+
+<region>
+lovel=66
+hivel=99
+sample=Balafon/Hard Mallet/EthnicXylo_hardM_F5_vl2_rr1_Mid.wav
+pitch_keycenter=89
+lokey=87
+hikey=90
+offset=176
+volume=10.276161
+
+<region>
+lovel=100
+hivel=127
+sample=Balafon/Hard Mallet/EthnicXylo_hardM_F5_vl3_rr1_Mid.wav
+pitch_keycenter=89
+lokey=87
+hikey=90
+offset=176
+volume=5.113356
+
+
+
+// Generation Options: --notuning --release 30 --volume 12
+
+<group>
+sw_default=48
+sw_lokey=48
+sw_hikey=51
+sw_last=49
+sw_label=Soft Mallet
+ampeg_attack=0.004000
+ampeg_release=30.000000
+
+<region>
+lovel=0
+hivel=65
+sample=Balafon/Soft Mallet/EthnicXylo_softM_C#3_vl1_rr1_Mid.wav
+pitch_keycenter=61
+lokey=61
+hikey=63
+offset=209
+volume=21.378594
+
+<region>
+lovel=66
+hivel=99
+sample=Balafon/Soft Mallet/EthnicXylo_softM_C#3_vl2_rr1_Mid.wav
+pitch_keycenter=61
+lokey=61
+hikey=63
+offset=208
+volume=16.533998
+
+<region>
+lovel=100
+hivel=127
+sample=Balafon/Soft Mallet/EthnicXylo_softM_C#3_vl3_rr1_Mid.wav
+pitch_keycenter=61
+lokey=61
+hikey=63
+offset=202
+volume=7.137622
+
+<region>
+lovel=0
+hivel=65
+sample=Balafon/Soft Mallet/EthnicXylo_softM_F3_vl1_rr1_Mid.wav
+pitch_keycenter=65
+lokey=64
+hikey=68
+offset=205
+volume=22.765673
+
+<region>
+lovel=66
+hivel=99
+sample=Balafon/Soft Mallet/EthnicXylo_softM_F3_vl2_rr1_Mid.wav
+pitch_keycenter=65
+lokey=64
+hikey=68
+offset=177
+volume=15.610385
+
+<region>
+lovel=100
+hivel=127
+sample=Balafon/Soft Mallet/EthnicXylo_softM_F3_vl3_rr1_Mid.wav
+pitch_keycenter=65
+lokey=64
+hikey=68
+offset=194
+volume=9.724815
+
+<region>
+lovel=0
+hivel=65
+sample=Balafon/Soft Mallet/EthnicXylo_softM_C4_vl1_rr1_Mid.wav
+pitch_keycenter=72
+lokey=69
+hikey=74
+offset=157
+volume=21.638243
+
+<region>
+lovel=66
+hivel=99
+sample=Balafon/Soft Mallet/EthnicXylo_softM_C4_vl2_rr1_Mid.wav
+pitch_keycenter=72
+lokey=69
+hikey=74
+offset=186
+volume=12.194576
+
+<region>
+lovel=100
+hivel=127
+sample=Balafon/Soft Mallet/EthnicXylo_softM_C4_vl3_rr2_Mid.wav
+pitch_keycenter=72
+lokey=69
+hikey=74
+offset=185
+volume=9.385638
+
+<region>
+lovel=0
+hivel=65
+sample=Balafon/Soft Mallet/EthnicXylo_softM_F4_vl1_rr2_Mid.wav
+pitch_keycenter=77
+lokey=75
+hikey=80
+offset=261
+volume=19.946860
+
+<region>
+lovel=66
+hivel=99
+sample=Balafon/Soft Mallet/EthnicXylo_softM_F4_vl2_rr1_Mid.wav
+pitch_keycenter=77
+lokey=75
+hikey=80
+offset=206
+volume=14.333741
+
+<region>
+lovel=100
+hivel=127
+sample=Balafon/Soft Mallet/EthnicXylo_softM_F4_vl3_rr1_Mid.wav
+pitch_keycenter=77
+lokey=75
+hikey=80
+offset=198
+volume=12.579817
+
+<region>
+lovel=0
+hivel=65
+sample=Balafon/Soft Mallet/EthnicXylo_softM_C5_vl1_rr1_Mid.wav
+pitch_keycenter=84
+lokey=81
+hikey=86
+offset=203
+volume=13.128335
+
+<region>
+lovel=66
+hivel=99
+sample=Balafon/Soft Mallet/EthnicXylo_softM_C5_vl2_rr1_Mid.wav
+pitch_keycenter=84
+lokey=81
+hikey=86
+offset=207
+volume=7.116084
+
+<region>
+lovel=100
+hivel=127
+sample=Balafon/Soft Mallet/EthnicXylo_softM_C5_vl3_rr1_Mid.wav
+pitch_keycenter=84
+lokey=81
+hikey=86
+offset=197
+volume=4.061173
+
+<region>
+lovel=0
+hivel=65
+sample=Balafon/Soft Mallet/EthnicXylo_softM_F5_vl1_rr1_Mid.wav
+pitch_keycenter=89
+lokey=87
+hikey=90
+volume=33.844059
+
+<region>
+lovel=66
+hivel=99
+sample=Balafon/Soft Mallet/EthnicXylo_softM_F5_vl2_rr2_Mid.wav
+pitch_keycenter=89
+lokey=87
+hikey=90
+offset=186
+volume=13.241202
+
+<region>
+lovel=100
+hivel=127
+sample=Balafon/Soft Mallet/EthnicXylo_softM_F5_vl3_rr1_Mid.wav
+pitch_keycenter=89
+lokey=87
+hikey=90
+offset=177
+volume=7.255272
+
+
+
+// Generation Options: --notuning --release 30 --volume 12
+
+<group>
+sw_default=48
+sw_lokey=48
+sw_hikey=51
+sw_last=50
+sw_label=Traditional Mallet
+ampeg_attack=0.004000
+ampeg_release=30.000000
+
+<region>
+lovel=0
+hivel=65
+sample=Balafon/Traditional Mallet/EthnicXylo_tradM_C#3_vl1_rr1_Mid.wav
+pitch_keycenter=61
+lokey=61
+hikey=63
+offset=209
+volume=23.072175
+
+<region>
+lovel=66
+hivel=99
+sample=Balafon/Traditional Mallet/EthnicXylo_tradM_C#3_vl2_rr1_Mid.wav
+pitch_keycenter=61
+lokey=61
+hikey=63
+offset=208
+volume=15.656270
+
+<region>
+lovel=100
+hivel=127
+sample=Balafon/Traditional Mallet/EthnicXylo_tradM_C#3_vl3_rr1_Mid.wav
+pitch_keycenter=61
+lokey=61
+hikey=63
+offset=200
+volume=2.215604
+
+<region>
+lovel=0
+hivel=65
+sample=Balafon/Traditional Mallet/EthnicXylo_tradM_F3_vl1_rr1_Mid.wav
+pitch_keycenter=65
+lokey=64
+hikey=68
+offset=123
+volume=23.342414
+
+<region>
+lovel=66
+hivel=99
+sample=Balafon/Traditional Mallet/EthnicXylo_tradM_F3_vl2_rr1_Mid.wav
+pitch_keycenter=65
+lokey=64
+hikey=68
+offset=187
+volume=19.146550
+
+<region>
+lovel=100
+hivel=127
+sample=Balafon/Traditional Mallet/EthnicXylo_tradM_F3_vl3_rr1_Mid.wav
+pitch_keycenter=65
+lokey=64
+hikey=68
+offset=187
+volume=6.829677
+
+<region>
+lovel=0
+hivel=65
+sample=Balafon/Traditional Mallet/EthnicXylo_tradM_C4_vl1_rr1_Mid.wav
+pitch_keycenter=72
+lokey=69
+hikey=74
+volume=18.595925
+
+<region>
+lovel=66
+hivel=99
+sample=Balafon/Traditional Mallet/EthnicXylo_tradM_C4_vl2_rr1_Mid.wav
+pitch_keycenter=72
+lokey=69
+hikey=74
+offset=184
+volume=19.702447
+
+<region>
+lovel=100
+hivel=127
+sample=Balafon/Traditional Mallet/EthnicXylo_tradM_C4_vl3_rr1_Mid.wav
+pitch_keycenter=72
+lokey=69
+hikey=74
+offset=185
+volume=10.996945
+
+<region>
+lovel=0
+hivel=65
+sample=Balafon/Traditional Mallet/EthnicXylo_tradM_F4_vl1_rr1_Mid.wav
+pitch_keycenter=77
+lokey=75
+hikey=80
+offset=217
+volume=21.644827
+
+<region>
+lovel=66
+hivel=99
+sample=Balafon/Traditional Mallet/EthnicXylo_tradM_F4_vl2_rr1_Mid.wav
+pitch_keycenter=77
+lokey=75
+hikey=80
+offset=193
+volume=16.336435
+
+<region>
+lovel=100
+hivel=127
+sample=Balafon/Traditional Mallet/EthnicXylo_tradM_F4_vl3_rr1_Mid.wav
+pitch_keycenter=77
+lokey=75
+hikey=80
+offset=187
+volume=7.357234
+
+<region>
+lovel=0
+hivel=65
+sample=Balafon/Traditional Mallet/EthnicXylo_tradM_C5_vl1_rr1_Mid.wav
+pitch_keycenter=84
+lokey=81
+hikey=86
+offset=203
+volume=20.113708
+
+<region>
+lovel=66
+hivel=99
+sample=Balafon/Traditional Mallet/EthnicXylo_tradM_C5_vl2_rr1_Mid.wav
+pitch_keycenter=84
+lokey=81
+hikey=86
+offset=190
+volume=7.038600
+
+<region>
+lovel=100
+hivel=127
+sample=Balafon/Traditional Mallet/EthnicXylo_tradM_C5_vl3_rr1_Mid.wav
+pitch_keycenter=84
+lokey=81
+hikey=86
+offset=197
+volume=6.031491
+
+<region>
+lovel=0
+hivel=65
+sample=Balafon/Traditional Mallet/EthnicXylo_tradM_F5_vl1_rr1_Mid.wav
+pitch_keycenter=89
+lokey=87
+hikey=90
+offset=195
+volume=16.573806
+
+<region>
+lovel=66
+hivel=99
+sample=Balafon/Traditional Mallet/EthnicXylo_tradM_F5_vl2_rr1_Mid.wav
+pitch_keycenter=89
+lokey=87
+hikey=90
+offset=174
+volume=11.171672
+
+<region>
+lovel=100
+hivel=127
+sample=Balafon/Traditional Mallet/EthnicXylo_tradM_F5_vl3_rr1_Mid.wav
+pitch_keycenter=89
+lokey=87
+hikey=90
+offset=168
+volume=8.488096
+
+
+

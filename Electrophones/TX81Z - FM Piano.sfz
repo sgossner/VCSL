@@ -1,0 +1,624 @@
+// Generation Options: --volume 12 --release 0.1
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=0.100000
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/FM Piano/FMPiano_C0_vl1.wav
+pitch_keycenter=24
+lokey=24
+hikey=26
+tune=-3
+volume=17.082769
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/FM Piano/FMPiano_C0_vl2.wav
+pitch_keycenter=24
+lokey=24
+hikey=26
+tune=-2
+volume=11.650327
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/FM Piano/FMPiano_C0_vl3.wav
+pitch_keycenter=24
+lokey=24
+hikey=26
+tune=-2
+volume=9.147053
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/FM Piano/FMPiano_E0_vl1.wav
+pitch_keycenter=28
+lokey=27
+hikey=30
+tune=-2
+volume=16.489965
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/FM Piano/FMPiano_E0_vl2.wav
+pitch_keycenter=28
+lokey=27
+hikey=30
+tune=-2
+volume=11.356475
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/FM Piano/FMPiano_E0_vl3.wav
+pitch_keycenter=28
+lokey=27
+hikey=30
+tune=-2
+volume=9.531458
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/FM Piano/FMPiano_G#0_vl1.wav
+pitch_keycenter=32
+lokey=31
+hikey=34
+tune=-2
+volume=15.940271
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/FM Piano/FMPiano_G#0_vl2.wav
+pitch_keycenter=32
+lokey=31
+hikey=34
+tune=-2
+volume=10.866365
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/FM Piano/FMPiano_G#0_vl3.wav
+pitch_keycenter=32
+lokey=31
+hikey=34
+tune=-1
+volume=9.896581
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/FM Piano/FMPiano_C1_vl1.wav
+pitch_keycenter=36
+lokey=35
+hikey=38
+tune=-1
+volume=15.478407
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/FM Piano/FMPiano_C1_vl2.wav
+pitch_keycenter=36
+lokey=35
+hikey=38
+tune=-1
+volume=10.723395
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/FM Piano/FMPiano_C1_vl3.wav
+pitch_keycenter=36
+lokey=35
+hikey=38
+tune=-1
+volume=10.142278
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/FM Piano/FMPiano_E1_vl1.wav
+pitch_keycenter=40
+lokey=39
+hikey=42
+tune=-2
+volume=15.874225
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/FM Piano/FMPiano_E1_vl2.wav
+pitch_keycenter=40
+lokey=39
+hikey=42
+tune=-2
+volume=11.118674
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/FM Piano/FMPiano_E1_vl3.wav
+pitch_keycenter=40
+lokey=39
+hikey=42
+tune=-1
+volume=10.051945
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/FM Piano/FMPiano_G#1_vl1.wav
+pitch_keycenter=44
+lokey=43
+hikey=46
+tune=-1
+volume=15.826448
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/FM Piano/FMPiano_G#1_vl2.wav
+pitch_keycenter=44
+lokey=43
+hikey=46
+tune=-1
+volume=11.302980
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/FM Piano/FMPiano_G#1_vl3.wav
+pitch_keycenter=44
+lokey=43
+hikey=46
+volume=9.974647
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/FM Piano/FMPiano_C2_vl1.wav
+pitch_keycenter=48
+lokey=47
+hikey=50
+tune=-1
+volume=15.791001
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/FM Piano/FMPiano_C2_vl2.wav
+pitch_keycenter=48
+lokey=47
+hikey=50
+tune=-1
+volume=11.189994
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/FM Piano/FMPiano_C2_vl3.wav
+pitch_keycenter=48
+lokey=47
+hikey=50
+volume=9.770660
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/FM Piano/FMPiano_E2_vl1.wav
+pitch_keycenter=52
+lokey=51
+hikey=54
+tune=-1
+volume=16.071093
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/FM Piano/FMPiano_E2_vl2.wav
+pitch_keycenter=52
+lokey=51
+hikey=54
+tune=-1
+volume=11.472224
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/FM Piano/FMPiano_E2_vl3.wav
+pitch_keycenter=52
+lokey=51
+hikey=54
+tune=-1
+volume=10.035073
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/FM Piano/FMPiano_G#2_vl1.wav
+pitch_keycenter=56
+lokey=55
+hikey=58
+volume=15.930704
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/FM Piano/FMPiano_G#2_vl2.wav
+pitch_keycenter=56
+lokey=55
+hikey=58
+volume=11.411470
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/FM Piano/FMPiano_G#2_vl3.wav
+pitch_keycenter=56
+lokey=55
+hikey=58
+volume=10.077203
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/FM Piano/FMPiano_C3_vl1.wav
+pitch_keycenter=60
+lokey=59
+hikey=62
+volume=15.647831
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/FM Piano/FMPiano_C3_vl2.wav
+pitch_keycenter=60
+lokey=59
+hikey=62
+volume=11.243786
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/FM Piano/FMPiano_C3_vl3.wav
+pitch_keycenter=60
+lokey=59
+hikey=62
+volume=9.784588
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/FM Piano/FMPiano_E3_vl1.wav
+pitch_keycenter=64
+lokey=63
+hikey=66
+volume=15.464305
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/FM Piano/FMPiano_E3_vl2.wav
+pitch_keycenter=64
+lokey=63
+hikey=66
+volume=11.574627
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/FM Piano/FMPiano_E3_vl3.wav
+pitch_keycenter=64
+lokey=63
+hikey=66
+volume=9.768987
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/FM Piano/FMPiano_G#3_vl1.wav
+pitch_keycenter=68
+lokey=67
+hikey=70
+volume=15.585369
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/FM Piano/FMPiano_G#3_vl2.wav
+pitch_keycenter=68
+lokey=67
+hikey=70
+volume=11.692829
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/FM Piano/FMPiano_G#3_vl3.wav
+pitch_keycenter=68
+lokey=67
+hikey=70
+volume=9.819742
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/FM Piano/FMPiano_C4_vl1.wav
+pitch_keycenter=72
+lokey=71
+hikey=74
+volume=15.345743
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/FM Piano/FMPiano_C4_vl2.wav
+pitch_keycenter=72
+lokey=71
+hikey=74
+volume=11.521152
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/FM Piano/FMPiano_C4_vl3.wav
+pitch_keycenter=72
+lokey=71
+hikey=74
+volume=9.797519
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/FM Piano/FMPiano_E4_vl1.wav
+pitch_keycenter=76
+lokey=75
+hikey=78
+volume=15.496122
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/FM Piano/FMPiano_E4_vl2.wav
+pitch_keycenter=76
+lokey=75
+hikey=78
+volume=11.717426
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/FM Piano/FMPiano_E4_vl3.wav
+pitch_keycenter=76
+lokey=75
+hikey=78
+volume=10.022505
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/FM Piano/FMPiano_G#4_vl1.wav
+pitch_keycenter=80
+lokey=79
+hikey=82
+volume=15.380249
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/FM Piano/FMPiano_G#4_vl2.wav
+pitch_keycenter=80
+lokey=79
+hikey=82
+volume=11.682552
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/FM Piano/FMPiano_G#4_vl3.wav
+pitch_keycenter=80
+lokey=79
+hikey=82
+volume=10.151198
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/FM Piano/FMPiano_C5_vl1.wav
+pitch_keycenter=84
+lokey=83
+hikey=86
+volume=15.107601
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/FM Piano/FMPiano_C5_vl2.wav
+pitch_keycenter=84
+lokey=83
+hikey=86
+volume=11.485041
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/FM Piano/FMPiano_C5_vl3.wav
+pitch_keycenter=84
+lokey=83
+hikey=86
+volume=9.916465
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/FM Piano/FMPiano_E5_vl1.wav
+pitch_keycenter=88
+lokey=87
+hikey=90
+volume=15.110246
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/FM Piano/FMPiano_E5_vl2.wav
+pitch_keycenter=88
+lokey=87
+hikey=90
+volume=11.539914
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/FM Piano/FMPiano_E5_vl3.wav
+pitch_keycenter=88
+lokey=87
+hikey=90
+volume=9.946430
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/FM Piano/FMPiano_G#5_vl1.wav
+pitch_keycenter=92
+lokey=91
+hikey=94
+volume=15.075159
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/FM Piano/FMPiano_G#5_vl2.wav
+pitch_keycenter=92
+lokey=91
+hikey=94
+volume=11.616261
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/FM Piano/FMPiano_G#5_vl3.wav
+pitch_keycenter=92
+lokey=91
+hikey=94
+volume=10.191886
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/FM Piano/FMPiano_C6_vl1.wav
+pitch_keycenter=96
+lokey=95
+hikey=98
+volume=14.842270
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/FM Piano/FMPiano_C6_vl2.wav
+pitch_keycenter=96
+lokey=95
+hikey=98
+volume=11.380627
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/FM Piano/FMPiano_C6_vl3.wav
+pitch_keycenter=96
+lokey=95
+hikey=98
+volume=10.015639
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/FM Piano/FMPiano_E6_vl1.wav
+pitch_keycenter=100
+lokey=99
+hikey=102
+volume=14.874242
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/FM Piano/FMPiano_E6_vl2.wav
+pitch_keycenter=100
+lokey=99
+hikey=102
+volume=11.452857
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/FM Piano/FMPiano_E6_vl3.wav
+pitch_keycenter=100
+lokey=99
+hikey=102
+volume=10.139753
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/FM Piano/FMPiano_G#6_vl1.wav
+pitch_keycenter=104
+lokey=103
+hikey=106
+volume=15.121671
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/FM Piano/FMPiano_G#6_vl2.wav
+pitch_keycenter=104
+lokey=103
+hikey=106
+volume=11.748554
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/FM Piano/FMPiano_G#6_vl3.wav
+pitch_keycenter=104
+lokey=103
+hikey=106
+volume=10.654192
+
+<region>
+lovel=0
+hivel=65
+sample=TX81Z/FM Piano/FMPiano_C7_vl1.wav
+pitch_keycenter=108
+lokey=107
+hikey=109
+volume=14.978827
+
+<region>
+lovel=66
+hivel=99
+sample=TX81Z/FM Piano/FMPiano_C7_vl2.wav
+pitch_keycenter=108
+lokey=107
+hikey=109
+tune=-1
+volume=11.759496
+
+<region>
+lovel=100
+hivel=127
+sample=TX81Z/FM Piano/FMPiano_C7_vl3.wav
+pitch_keycenter=108
+lokey=107
+hikey=109
+tune=-1
+volume=10.876666
+

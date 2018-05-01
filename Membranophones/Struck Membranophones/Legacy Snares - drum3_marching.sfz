@@ -1,0 +1,197 @@
+// Generation Options: --unpitched --release 30 --volume 7
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=30.000000
+
+<region>
+seq_length=3
+seq_position=1
+lovel=0
+hivel=42
+sample=Legacy Snares/drum3_marching/snare3_ppp_rr1.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=908
+volume=15.636815
+
+<region>
+seq_length=3
+seq_position=2
+lovel=0
+hivel=42
+sample=Legacy Snares/drum3_marching/snare3_ppp_rr2.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=846
+volume=16.693376
+
+<region>
+seq_length=3
+seq_position=3
+lovel=0
+hivel=42
+sample=Legacy Snares/drum3_marching/snare3_ppp_rr3.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=1393
+volume=25.997693
+
+<region>
+seq_length=2
+seq_position=1
+lovel=43
+hivel=65
+sample=Legacy Snares/drum3_marching/snare3_pp_rr2.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=727
+volume=19.660750
+
+<region>
+seq_length=2
+seq_position=2
+lovel=43
+hivel=65
+sample=Legacy Snares/drum3_marching/snare3_pp_rr1.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=885
+volume=16.157703
+
+<region>
+seq_length=4
+seq_position=1
+lovel=66
+hivel=83
+sample=Legacy Snares/drum3_marching/snare3_p_rr1.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=274
+volume=13.163744
+
+<region>
+seq_length=4
+seq_position=2
+lovel=66
+hivel=83
+sample=Legacy Snares/drum3_marching/snare3_p_rr2.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=437
+volume=14.725369
+
+<region>
+seq_length=4
+seq_position=3
+lovel=66
+hivel=83
+sample=Legacy Snares/drum3_marching/snare3_p_rr3.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=154
+volume=14.442671
+
+<region>
+seq_length=4
+seq_position=4
+lovel=66
+hivel=83
+sample=Legacy Snares/drum3_marching/snare3_p_rr4.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=782
+volume=14.478050
+
+<region>
+lovel=84
+hivel=99
+sample=Legacy Snares/drum3_marching/snare3_mp_rr1.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=598
+volume=6.001559
+
+<region>
+seq_length=2
+seq_position=1
+lovel=100
+hivel=113
+sample=Legacy Snares/drum3_marching/snare3_f_rr2.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=996
+volume=1.169627
+
+<region>
+seq_length=2
+seq_position=2
+lovel=100
+hivel=113
+sample=Legacy Snares/drum3_marching/snare3_f_rr1.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=1433
+volume=-2.316143
+
+<region>
+lovel=114
+hivel=127
+sample=Legacy Snares/drum3_marching/snare3_fff_rr1.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=-4.726510
+
+<region>
+seq_length=2
+seq_position=1
+sample=Legacy Snares/drum3_marching/snare3_click_rr2.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+offset=859
+volume=4.759786
+
+<region>
+seq_length=2
+seq_position=2
+sample=Legacy Snares/drum3_marching/snare3_click_rr1.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+offset=986
+volume=10.026708
+
+<region>
+lovel=0
+hivel=83
+sample=Legacy Snares/drum3_marching/snare3_rimshot_f_rr1.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+offset=873
+volume=10.603377
+
+<region>
+lovel=84
+hivel=127
+sample=Legacy Snares/drum3_marching/snare3_rimshot_ff_rr1.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+offset=515
+volume=4.460735
+

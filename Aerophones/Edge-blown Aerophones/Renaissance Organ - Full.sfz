@@ -1,3 +1,5 @@
+// Generation Options: --volume 10
+
 <group>
 ampeg_attack=0.004000
 ampeg_release=0.300000
@@ -8,7 +10,7 @@ pitch_keycenter=36
 lokey=36
 hikey=37
 tune=-1
-volume=0.507564
+volume=10.507564
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_D1_rr1.wav
@@ -16,14 +18,14 @@ pitch_keycenter=38
 lokey=38
 hikey=39
 tune=9
-volume=0.469370
+volume=10.469370
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_E1_rr1.wav
 pitch_keycenter=40
 lokey=40
 hikey=41
-volume=-0.730936
+volume=9.269064
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_F#1_rr1.wav
@@ -31,14 +33,14 @@ pitch_keycenter=42
 lokey=42
 hikey=43
 offset=74
-volume=1.876962
+volume=11.876962
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_G#1_rr1.wav
 pitch_keycenter=44
 lokey=44
 hikey=45
-volume=0.253375
+volume=10.253375
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_A#1_rr1.wav
@@ -46,21 +48,21 @@ pitch_keycenter=46
 lokey=46
 hikey=47
 offset=110
-volume=-3.823662
+volume=6.176338
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_C2_rr1.wav
 pitch_keycenter=48
 lokey=48
 hikey=49
-volume=1.208600
+volume=11.208600
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_D2_rr1.wav
 pitch_keycenter=50
 lokey=50
 hikey=51
-volume=2.393714
+volume=12.393714
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_E2_rr1.wav
@@ -68,7 +70,7 @@ pitch_keycenter=52
 lokey=52
 hikey=53
 offset=113
-volume=-1.425137
+volume=8.574863
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_F#2_rr1.wav
@@ -76,14 +78,14 @@ pitch_keycenter=54
 lokey=54
 hikey=55
 offset=31
-volume=-0.855466
+volume=9.144534
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_G#2_rr1.wav
 pitch_keycenter=56
 lokey=56
 hikey=57
-volume=3.815986
+volume=13.815986
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_A#2_rr1.wav
@@ -91,28 +93,28 @@ pitch_keycenter=58
 lokey=58
 hikey=59
 offset=7
-volume=2.574263
+volume=12.574263
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_C3_rr1.wav
 pitch_keycenter=60
 lokey=60
 hikey=61
-volume=-3.846732
+volume=6.153268
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_D3_rr1.wav
 pitch_keycenter=62
 lokey=62
 hikey=63
-volume=-0.798295
+volume=9.201705
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_E3_rr1.wav
 pitch_keycenter=64
 lokey=64
 hikey=65
-volume=1.601673
+volume=11.601673
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_F#3_rr1.wav
@@ -120,21 +122,21 @@ pitch_keycenter=66
 lokey=66
 hikey=67
 tune=1
-volume=-0.211843
+volume=9.788157
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_G#3_rr1.wav
 pitch_keycenter=68
 lokey=68
 hikey=69
-volume=1.749759
+volume=11.749759
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_A#3_rr1.wav
 pitch_keycenter=70
 lokey=70
 hikey=71
-volume=2.233512
+volume=12.233512
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_C4_rr1.wav
@@ -142,28 +144,28 @@ pitch_keycenter=72
 lokey=72
 hikey=73
 tune=2
-volume=1.091627
+volume=11.091627
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_D4_rr1.wav
 pitch_keycenter=74
 lokey=74
 hikey=75
-volume=-4.160970
+volume=5.839030
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_E4_rr1.wav
 pitch_keycenter=76
 lokey=76
 hikey=77
-volume=-0.480872
+volume=9.519128
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_F#4_rr1.wav
 pitch_keycenter=78
 lokey=78
 hikey=79
-volume=2.466648
+volume=12.466648
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_G#4_rr1.wav
@@ -171,7 +173,7 @@ pitch_keycenter=80
 lokey=80
 hikey=81
 tune=-2
-volume=0.196929
+volume=10.196929
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_A#4_rr1.wav
@@ -179,21 +181,21 @@ pitch_keycenter=82
 lokey=82
 hikey=83
 tune=-5
-volume=-0.740583
+volume=9.259417
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_C5_rr1.wav
 pitch_keycenter=84
 lokey=84
 hikey=85
-volume=0.167979
+volume=10.167979
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_D5_rr1.wav
 pitch_keycenter=86
 lokey=86
 hikey=87
-volume=4.184464
+volume=14.184464
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_E5_rr1.wav
@@ -201,5 +203,5 @@ pitch_keycenter=88
 lokey=88
 hikey=89
 tune=4
-volume=-1.682779
+volume=8.317221
 
