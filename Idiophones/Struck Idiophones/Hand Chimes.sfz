@@ -1,0 +1,158 @@
+// Generation Options: --release 30 --volume 10
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=30.000000
+
+<region>
+sample=Hand Chimes/sus_C3_r01_main.wav
+pitch_keycenter=60
+lokey=60
+hikey=61
+tune=-14
+volume=10.770345
+
+<region>
+sample=Hand Chimes/sus_D3_r01_main.wav
+pitch_keycenter=62
+lokey=62
+hikey=63
+tune=-11
+volume=5.941053
+
+<region>
+sample=Hand Chimes/sus_E3_r01_main.wav
+pitch_keycenter=64
+lokey=64
+hikey=65
+tune=6
+volume=11.973366
+
+<region>
+sample=Hand Chimes/sus_F#3_r01_main.wav
+pitch_keycenter=66
+lokey=66
+hikey=67
+tune=-2
+volume=14.311850
+
+<region>
+sample=Hand Chimes/sus_G#3_r01_main.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+volume=15.051161
+
+<region>
+sample=Hand Chimes/sus_A#3_r01_main.wav
+pitch_keycenter=70
+lokey=70
+hikey=71
+tune=-3
+volume=6.526468
+
+<region>
+sample=Hand Chimes/sus_C4_r01_main.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+volume=7.171051
+
+<region>
+sample=Hand Chimes/sus_D4_r01_main.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+volume=12.535551
+
+<region>
+sample=Hand Chimes/sus_E4_r01_main.wav
+pitch_keycenter=76
+lokey=76
+hikey=77
+tune=-2
+volume=11.247642
+
+<region>
+sample=Hand Chimes/sus_F#4_r01_main.wav
+pitch_keycenter=78
+lokey=78
+hikey=79
+offset=135
+tune=-4
+volume=5.779198
+
+<region>
+sample=Hand Chimes/sus_G#4_r01_main.wav
+pitch_keycenter=80
+lokey=80
+hikey=80
+tune=-1
+volume=10.418110
+
+<region>
+sample=Hand Chimes/sus_A4_r01_main.wav
+pitch_keycenter=81
+lokey=81
+hikey=82
+volume=21.711023
+
+<region>
+sample=Hand Chimes/sus_C5_r01_main.wav
+pitch_keycenter=84
+lokey=83
+hikey=85
+offset=119
+tune=-3
+volume=6.284980
+
+<region>
+sample=Hand Chimes/sus_D5_r01_main.wav
+pitch_keycenter=86
+lokey=86
+hikey=87
+tune=-5
+volume=15.569592
+
+<region>
+sample=Hand Chimes/sus_E5_r01_main.wav
+pitch_keycenter=88
+lokey=88
+hikey=89
+tune=-3
+volume=12.711201
+
+<region>
+sample=Hand Chimes/sus_F#5_r01_main.wav
+pitch_keycenter=90
+lokey=90
+hikey=91
+offset=116
+tune=-6
+volume=6.663557
+
+<region>
+sample=Hand Chimes/sus_G#5_r01_main.wav
+pitch_keycenter=92
+lokey=92
+hikey=93
+tune=-4
+volume=6.244542
+
+<region>
+sample=Hand Chimes/sus_A#5_r01_main.wav
+pitch_keycenter=94
+lokey=94
+hikey=95
+offset=129
+tune=-6
+volume=14.627701
+
+<region>
+sample=Hand Chimes/sus_C6_r01_main.wav
+pitch_keycenter=96
+lokey=96
+hikey=97
+tune=-4
+volume=13.064001
+

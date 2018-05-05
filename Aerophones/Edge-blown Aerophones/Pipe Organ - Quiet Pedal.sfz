@@ -1,0 +1,104 @@
+// Generation Options: --volume 20 --release 0.5 --articulation Quiet Pedal
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=0.500000
+amp_veltrack=0
+
+<region>
+sample=Pipe Organ/Quiet Pedal/NT5_PedalQuiet_C1_rr1.wav
+pitch_keycenter=36
+lokey=36
+hikey=37
+offset=4130
+tune=-4
+volume=20.541636
+
+<region>
+sample=Pipe Organ/Quiet Pedal/NT5_PedalQuiet_D#1_rr1.wav
+pitch_keycenter=39
+lokey=38
+hikey=40
+offset=1055
+tune=-7
+volume=22.724474
+
+<region>
+sample=Pipe Organ/Quiet Pedal/NT5_PedalQuiet_F#1_rr1.wav
+pitch_keycenter=42
+lokey=41
+hikey=43
+offset=3513
+tune=3
+volume=16.660325
+
+<region>
+sample=Pipe Organ/Quiet Pedal/NT5_PedalQuiet_A1_rr1.wav
+pitch_keycenter=45
+lokey=44
+hikey=46
+offset=2252
+tune=1
+volume=22.504928
+
+<region>
+sample=Pipe Organ/Quiet Pedal/NT5_PedalQuiet_C2_rr1.wav
+pitch_keycenter=48
+lokey=47
+hikey=49
+offset=2494
+tune=1
+volume=18.409594
+
+<region>
+sample=Pipe Organ/Quiet Pedal/NT5_PedalQuiet_D#2_rr1.wav
+pitch_keycenter=51
+lokey=50
+hikey=52
+offset=2806
+tune=1
+volume=21.468793
+
+<region>
+sample=Pipe Organ/Quiet Pedal/NT5_PedalQuiet_F#2_rr1.wav
+pitch_keycenter=54
+lokey=53
+hikey=55
+offset=2303
+volume=21.340178
+
+<region>
+sample=Pipe Organ/Quiet Pedal/NT5_PedalQuiet_A2_rr1.wav
+pitch_keycenter=57
+lokey=56
+hikey=58
+offset=2340
+tune=1
+volume=21.720253
+
+<region>
+sample=Pipe Organ/Quiet Pedal/NT5_PedalQuiet_C3_rr1.wav
+pitch_keycenter=60
+lokey=59
+hikey=61
+offset=2318
+tune=1
+volume=17.193041
+
+<region>
+sample=Pipe Organ/Quiet Pedal/NT5_PedalQuiet_D#3_rr1.wav
+pitch_keycenter=63
+lokey=62
+hikey=64
+offset=2342
+tune=-2
+volume=18.320441
+
+<region>
+sample=Pipe Organ/Quiet Pedal/NT5_PedalQuiet_F#3_rr1.wav
+pitch_keycenter=66
+lokey=65
+hikey=67
+offset=2217
+volume=25.002938
+

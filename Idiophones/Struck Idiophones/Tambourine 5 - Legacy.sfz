@@ -1,0 +1,92 @@
+// Generation Options: --unpitched --volume 5
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=10
+
+<region>
+seq_length=8
+seq_position=1
+sample=Tambourine 5 - Legacy/tamb3_rr8.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=56
+volume=4.887137
+
+<region>
+seq_length=8
+seq_position=2
+sample=Tambourine 5 - Legacy/tamb3_rr1.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=99
+volume=6.234086
+
+<region>
+seq_length=8
+seq_position=3
+sample=Tambourine 5 - Legacy/tamb3_rr2.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=9
+volume=5.689044
+
+<region>
+seq_length=8
+seq_position=4
+sample=Tambourine 5 - Legacy/tamb3_rr3.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=185
+volume=4.549460
+
+<region>
+seq_length=8
+seq_position=5
+sample=Tambourine 5 - Legacy/tamb3_rr7.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=231
+volume=4.621940
+
+<region>
+seq_length=8
+seq_position=6
+sample=Tambourine 5 - Legacy/tamb3_rr6.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=4.056704
+
+<region>
+seq_length=8
+seq_position=7
+sample=Tambourine 5 - Legacy/tamb3_rr4.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=4.346784
+
+<region>
+seq_length=8
+seq_position=8
+sample=Tambourine 5 - Legacy/tamb3_rr5.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=5.866210
+
+<region>
+sample=Tambourine 5 - Legacy/tamb3_roll.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+offset=88
+volume=5.000000
+ampeg_release=0.3
+

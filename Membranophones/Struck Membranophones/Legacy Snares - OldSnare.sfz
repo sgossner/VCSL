@@ -1,4 +1,4 @@
-// Generation Options: --unpitched --release 30 --volume 7
+// Generation Options: --unpitched --release 30 --volume 10 --articulation OldSnare
 
 <group>
 ampeg_attack=0.004000
@@ -9,16 +9,28 @@ seq_length=3
 seq_position=1
 lovel=0
 hivel=47
+sample=Legacy Snares/OldSnare/snare_pp1.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=399
+volume=31.180308
+
+<region>
+seq_length=3
+seq_position=2
+lovel=0
+hivel=47
 sample=Legacy Snares/OldSnare/snare_pp2.wav
 pitch_keycenter=60
 lokey=60
 hikey=60
 offset=188
-volume=21.705181
+volume=24.705181
 
 <region>
 seq_length=3
-seq_position=2
+seq_position=3
 lovel=0
 hivel=47
 sample=Legacy Snares/OldSnare/snare_pp3.wav
@@ -26,31 +38,19 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=167
-volume=20.668115
-
-<region>
-seq_length=3
-seq_position=3
-lovel=0
-hivel=47
-sample=Legacy Snares/OldSnare/snare_pp.wav
-pitch_keycenter=60
-lokey=60
-hikey=60
-offset=399
-volume=28.180308
+volume=23.668115
 
 <region>
 seq_length=2
 seq_position=1
 lovel=48
 hivel=72
-sample=Legacy Snares/OldSnare/snare_p.wav
+sample=Legacy Snares/OldSnare/snare_p1.wav
 pitch_keycenter=60
 lokey=60
 hikey=60
 offset=135
-volume=20.249182
+volume=23.249182
 
 <region>
 seq_length=2
@@ -62,31 +62,31 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=121
-volume=17.631159
+volume=20.631159
 
 <region>
 seq_length=4
 seq_position=1
 lovel=73
 hivel=93
-sample=Legacy Snares/OldSnare/snare_mf.wav
+sample=Legacy Snares/OldSnare/snare_mf1.wav
 pitch_keycenter=60
 lokey=60
 hikey=60
 offset=183
-volume=13.750074
+volume=16.750074
 
 <region>
 seq_length=4
 seq_position=2
 lovel=73
 hivel=93
-sample=Legacy Snares/OldSnare/snare_mf4.wav
+sample=Legacy Snares/OldSnare/snare_mf2.wav
 pitch_keycenter=60
 lokey=60
 hikey=60
-offset=220
-volume=13.768307
+offset=408
+volume=7.789593
 
 <region>
 seq_length=4
@@ -98,23 +98,35 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=124
-volume=12.296823
+volume=15.296823
 
 <region>
 seq_length=4
 seq_position=4
 lovel=73
 hivel=93
-sample=Legacy Snares/OldSnare/snare_mf2.wav
+sample=Legacy Snares/OldSnare/snare_mf4.wav
 pitch_keycenter=60
 lokey=60
 hikey=60
-offset=408
-volume=4.789593
+offset=220
+volume=16.768307
 
 <region>
 seq_length=3
 seq_position=1
+lovel=94
+hivel=110
+sample=Legacy Snares/OldSnare/snare_f1.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=234
+volume=5.218773
+
+<region>
+seq_length=3
+seq_position=2
 lovel=94
 hivel=110
 sample=Legacy Snares/OldSnare/snare_f2.wav
@@ -122,11 +134,11 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=87
-volume=3.910241
+volume=6.910241
 
 <region>
 seq_length=3
-seq_position=2
+seq_position=3
 lovel=94
 hivel=110
 sample=Legacy Snares/OldSnare/snare_f3.wav
@@ -134,31 +146,19 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=112
-volume=3.284653
-
-<region>
-seq_length=3
-seq_position=3
-lovel=94
-hivel=110
-sample=Legacy Snares/OldSnare/snare_f.wav
-pitch_keycenter=60
-lokey=60
-hikey=60
-offset=234
-volume=2.218773
+volume=6.284653
 
 <region>
 seq_length=2
 seq_position=1
 lovel=111
 hivel=127
-sample=Legacy Snares/OldSnare/snare_ff.wav
+sample=Legacy Snares/OldSnare/snare_ff1.wav
 pitch_keycenter=60
 lokey=60
 hikey=60
 offset=127
-volume=-2.894139
+volume=0.105861
 
 <region>
 seq_length=2
@@ -170,7 +170,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=190
-volume=-0.744541
+volume=2.255459
 
 <region>
 sample=Legacy Snares/OldSnare/snare_rim.wav
@@ -178,5 +178,5 @@ pitch_keycenter=61
 lokey=61
 hikey=61
 offset=248
-volume=7.000000
+volume=10.000000
 

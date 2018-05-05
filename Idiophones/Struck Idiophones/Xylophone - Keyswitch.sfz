@@ -5,163 +5,6 @@ sw_default=48
 sw_lokey=48
 sw_hikey=51
 sw_last=48
-sw_label=Soft Mallets
-ampeg_attack=0.004000
-ampeg_release=15.000000
-
-<region>
-lovel=0
-hivel=83
-sample=Xylophone/Soft Mallets/Xylo_Soft_G3_pp_01_far.wav
-pitch_keycenter=67
-lokey=67
-hikey=69
-volume=10.260413
-
-<region>
-lovel=84
-hivel=127
-sample=Xylophone/Soft Mallets/Xylo_Soft_G3_ff_01_far.wav
-pitch_keycenter=67
-lokey=67
-hikey=69
-volume=3.962981
-
-<region>
-lovel=0
-hivel=83
-sample=Xylophone/Soft Mallets/Xylo_Soft_C4_pp_01_far.wav
-pitch_keycenter=72
-lokey=70
-hikey=75
-volume=9.101473
-
-<region>
-lovel=84
-hivel=127
-sample=Xylophone/Soft Mallets/Xylo_Soft_C4_ff_01_far.wav
-pitch_keycenter=72
-lokey=70
-hikey=75
-volume=-0.313184
-
-<region>
-lovel=0
-hivel=83
-sample=Xylophone/Soft Mallets/Xylo_Soft_G4_pp_01_far.wav
-pitch_keycenter=79
-lokey=76
-hikey=81
-volume=9.933678
-
-<region>
-lovel=84
-hivel=127
-sample=Xylophone/Soft Mallets/Xylo_Soft_G4_ff_01_far.wav
-pitch_keycenter=79
-lokey=76
-hikey=81
-volume=0.327126
-
-<region>
-lovel=0
-hivel=83
-sample=Xylophone/Soft Mallets/Xylo_Soft_C5_pp_01_far.wav
-pitch_keycenter=84
-lokey=82
-hikey=87
-volume=10.450987
-
-<region>
-lovel=84
-hivel=127
-sample=Xylophone/Soft Mallets/Xylo_Soft_C5_ff_01_far.wav
-pitch_keycenter=84
-lokey=82
-hikey=87
-volume=1.570330
-
-<region>
-lovel=0
-hivel=83
-sample=Xylophone/Soft Mallets/Xylo_Soft_G5_pp_01_far.wav
-pitch_keycenter=91
-lokey=88
-hikey=93
-volume=12.426577
-
-<region>
-lovel=84
-hivel=127
-sample=Xylophone/Soft Mallets/Xylo_Soft_G5_ff_01_far.wav
-pitch_keycenter=91
-lokey=88
-hikey=93
-volume=1.225775
-
-<region>
-lovel=0
-hivel=83
-sample=Xylophone/Soft Mallets/Xylo_Soft_C6_pp_01_far.wav
-pitch_keycenter=96
-lokey=94
-hikey=99
-volume=12.180884
-
-<region>
-lovel=84
-hivel=127
-sample=Xylophone/Soft Mallets/Xylo_Soft_C6_ff_01_far.wav
-pitch_keycenter=96
-lokey=94
-hikey=99
-volume=0.954947
-
-<region>
-lovel=0
-hivel=83
-sample=Xylophone/Soft Mallets/Xylo_Soft_G6_pp_01_far.wav
-pitch_keycenter=103
-lokey=100
-hikey=105
-volume=19.502175
-
-<region>
-lovel=84
-hivel=127
-sample=Xylophone/Soft Mallets/Xylo_Soft_G6_ff_01_far.wav
-pitch_keycenter=103
-lokey=100
-hikey=105
-volume=9.608295
-
-<region>
-lovel=0
-hivel=83
-sample=Xylophone/Soft Mallets/Xylo_Soft_C7_pp_01_far.wav
-pitch_keycenter=108
-lokey=106
-hikey=109
-volume=16.788563
-
-<region>
-lovel=84
-hivel=127
-sample=Xylophone/Soft Mallets/Xylo_Soft_C7_ff_01_far.wav
-pitch_keycenter=108
-lokey=106
-hikey=109
-volume=6.295984
-
-
-
-// Generation Options: --notuning --volume 5 --release 15
-
-<group>
-sw_default=48
-sw_lokey=48
-sw_hikey=51
-sw_last=49
 sw_label=Hard Mallets
 ampeg_attack=0.004000
 ampeg_release=15.000000
@@ -309,6 +152,163 @@ pitch_keycenter=108
 lokey=106
 hikey=109
 volume=6.870141
+
+
+
+// Generation Options: --notuning --volume 5 --release 15
+
+<group>
+sw_default=48
+sw_lokey=48
+sw_hikey=51
+sw_last=49
+sw_label=Soft Mallets
+ampeg_attack=0.004000
+ampeg_release=15.000000
+
+<region>
+lovel=0
+hivel=83
+sample=Xylophone/Soft Mallets/Xylo_Soft_G3_pp_01_far.wav
+pitch_keycenter=67
+lokey=67
+hikey=69
+volume=10.260413
+
+<region>
+lovel=84
+hivel=127
+sample=Xylophone/Soft Mallets/Xylo_Soft_G3_ff_01_far.wav
+pitch_keycenter=67
+lokey=67
+hikey=69
+volume=3.962981
+
+<region>
+lovel=0
+hivel=83
+sample=Xylophone/Soft Mallets/Xylo_Soft_C4_pp_01_far.wav
+pitch_keycenter=72
+lokey=70
+hikey=75
+volume=9.101473
+
+<region>
+lovel=84
+hivel=127
+sample=Xylophone/Soft Mallets/Xylo_Soft_C4_ff_01_far.wav
+pitch_keycenter=72
+lokey=70
+hikey=75
+volume=-0.313184
+
+<region>
+lovel=0
+hivel=83
+sample=Xylophone/Soft Mallets/Xylo_Soft_G4_pp_01_far.wav
+pitch_keycenter=79
+lokey=76
+hikey=81
+volume=9.933678
+
+<region>
+lovel=84
+hivel=127
+sample=Xylophone/Soft Mallets/Xylo_Soft_G4_ff_01_far.wav
+pitch_keycenter=79
+lokey=76
+hikey=81
+volume=0.327126
+
+<region>
+lovel=0
+hivel=83
+sample=Xylophone/Soft Mallets/Xylo_Soft_C5_pp_01_far.wav
+pitch_keycenter=84
+lokey=82
+hikey=87
+volume=10.450987
+
+<region>
+lovel=84
+hivel=127
+sample=Xylophone/Soft Mallets/Xylo_Soft_C5_ff_01_far.wav
+pitch_keycenter=84
+lokey=82
+hikey=87
+volume=1.570330
+
+<region>
+lovel=0
+hivel=83
+sample=Xylophone/Soft Mallets/Xylo_Soft_G5_pp_01_far.wav
+pitch_keycenter=91
+lokey=88
+hikey=93
+volume=12.426577
+
+<region>
+lovel=84
+hivel=127
+sample=Xylophone/Soft Mallets/Xylo_Soft_G5_ff_01_far.wav
+pitch_keycenter=91
+lokey=88
+hikey=93
+volume=1.225775
+
+<region>
+lovel=0
+hivel=83
+sample=Xylophone/Soft Mallets/Xylo_Soft_C6_pp_01_far.wav
+pitch_keycenter=96
+lokey=94
+hikey=99
+volume=12.180884
+
+<region>
+lovel=84
+hivel=127
+sample=Xylophone/Soft Mallets/Xylo_Soft_C6_ff_01_far.wav
+pitch_keycenter=96
+lokey=94
+hikey=99
+volume=0.954947
+
+<region>
+lovel=0
+hivel=83
+sample=Xylophone/Soft Mallets/Xylo_Soft_G6_pp_01_far.wav
+pitch_keycenter=103
+lokey=100
+hikey=105
+volume=19.502175
+
+<region>
+lovel=84
+hivel=127
+sample=Xylophone/Soft Mallets/Xylo_Soft_G6_ff_01_far.wav
+pitch_keycenter=103
+lokey=100
+hikey=105
+volume=9.608295
+
+<region>
+lovel=0
+hivel=83
+sample=Xylophone/Soft Mallets/Xylo_Soft_C7_pp_01_far.wav
+pitch_keycenter=108
+lokey=106
+hikey=109
+volume=16.788563
+
+<region>
+lovel=84
+hivel=127
+sample=Xylophone/Soft Mallets/Xylo_Soft_C7_ff_01_far.wav
+pitch_keycenter=108
+lokey=106
+hikey=109
+volume=6.295984
 
 
 

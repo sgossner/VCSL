@@ -91,7 +91,7 @@ def scanDirectory(directory):
                 groups[1].append(articulation)
             else:
                 groups[4].append(articulation)
-        articulations = sum((sorted(g, key=len) for g in groups), [])
+        articulations = sum((sorted(g, key=lambda x: (len(x), x)) for g in groups), [])
 
         # Generate the keyswitch file by merging the individual articulations.
         

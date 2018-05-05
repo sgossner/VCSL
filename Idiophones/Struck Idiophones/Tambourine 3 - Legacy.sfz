@@ -1,0 +1,44 @@
+// Generation Options: --unpitched --volume 15
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=10
+
+<region>
+seq_length=2
+seq_position=1
+sample=Tambourine 3 - Legacy/tambourine_down_rr2.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=14.669640
+
+<region>
+seq_length=2
+seq_position=2
+sample=Tambourine 3 - Legacy/tambourine_down_rr1.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=544
+volume=15.343424
+
+<region>
+seq_length=2
+seq_position=1
+sample=Tambourine 3 - Legacy/tambourine_up_rr1.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+offset=581
+volume=14.192003
+
+<region>
+seq_length=2
+seq_position=2
+sample=Tambourine 3 - Legacy/tambourine_up_rr2.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+volume=15.890942
+

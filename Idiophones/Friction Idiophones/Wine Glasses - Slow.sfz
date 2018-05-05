@@ -1,0 +1,74 @@
+// Generation Options: --volume 24
+
+<group>
+trigger=attack
+ampeg_attack=0.004000
+ampeg_release=0.500000
+
+<region>
+sample=Wine Glasses/Sustains/Slow/glass1_D#4_Slow_1_Main.wav
+pitch_keycenter=75
+lokey=75
+hikey=76
+tune=-28
+volume=25.221411
+
+<region>
+sample=Wine Glasses/Sustains/Slow/glass2_F#4_Slow_1_Main.wav
+pitch_keycenter=78
+lokey=77
+hikey=80
+tune=10
+volume=26.071659
+
+<region>
+sample=Wine Glasses/Sustains/Slow/glass3_A#4_Slow_1_Main.wav
+pitch_keycenter=82
+lokey=81
+hikey=84
+tune=-53
+volume=21.662424
+
+<region>
+sample=Wine Glasses/Sustains/Slow/glass4_D5_Slow_2_Main.wav
+pitch_keycenter=86
+lokey=85
+hikey=87
+tune=-5
+volume=23.998107
+
+<group>
+trigger=release
+ampeg_attack=0.100000
+
+<region>
+sample=Wine Glasses/Releases/Slow/glass1_D#4_Slow_1_Decay.wav
+pitch_keycenter=75
+lokey=75
+hikey=76
+tune=-33
+volume=-6.346390
+
+<region>
+sample=Wine Glasses/Releases/Slow/glass2_F#4_Slow_1_Decay.wav
+pitch_keycenter=78
+lokey=77
+hikey=80
+tune=19
+volume=4.307952
+
+<region>
+sample=Wine Glasses/Releases/Slow/glass3_A#4_Slow_1_Decay.wav
+pitch_keycenter=82
+lokey=81
+hikey=84
+tune=-55
+volume=10.226574
+
+<region>
+sample=Wine Glasses/Releases/Slow/glass4_D5_Slow_2_Decay.wav
+pitch_keycenter=86
+lokey=85
+hikey=87
+volume=-3.975967
+

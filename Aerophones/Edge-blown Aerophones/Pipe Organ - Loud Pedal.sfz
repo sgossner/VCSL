@@ -1,0 +1,97 @@
+// Generation Options: --volume 10 --release 0.5 --articulation Loud Pedal
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=0.500000
+amp_veltrack=0
+
+<region>
+sample=Pipe Organ/Loud Pedal/Rode_Pedal_C1.wav
+pitch_keycenter=36
+lokey=36
+hikey=37
+offset=2663
+volume=9.912506
+
+<region>
+sample=Pipe Organ/Loud Pedal/Rode_Pedal_D#1.wav
+pitch_keycenter=39
+lokey=38
+hikey=40
+offset=2961
+volume=9.577327
+
+<region>
+sample=Pipe Organ/Loud Pedal/Rode_Pedal_F#1.wav
+pitch_keycenter=42
+lokey=41
+hikey=43
+offset=2806
+volume=8.849503
+
+<region>
+sample=Pipe Organ/Loud Pedal/Rode_Pedal_A1.wav
+pitch_keycenter=45
+lokey=44
+hikey=46
+offset=2177
+tune=3
+volume=10.569999
+
+<region>
+sample=Pipe Organ/Loud Pedal/Rode_Pedal_C2.wav
+pitch_keycenter=48
+lokey=47
+hikey=49
+offset=2231
+volume=10.934211
+
+<region>
+sample=Pipe Organ/Loud Pedal/Rode_Pedal_D#2.wav
+pitch_keycenter=51
+lokey=50
+hikey=52
+offset=1925
+volume=9.609162
+
+<region>
+sample=Pipe Organ/Loud Pedal/Rode_Pedal_F#2.wav
+pitch_keycenter=54
+lokey=53
+hikey=55
+offset=2169
+volume=11.134386
+
+<region>
+sample=Pipe Organ/Loud Pedal/Rode_Pedal_A2.wav
+pitch_keycenter=57
+lokey=56
+hikey=58
+offset=2093
+volume=8.833623
+
+<region>
+sample=Pipe Organ/Loud Pedal/Rode_Pedal_C3.wav
+pitch_keycenter=60
+lokey=59
+hikey=61
+offset=1851
+tune=3
+volume=11.568898
+
+<region>
+sample=Pipe Organ/Loud Pedal/Rode_Pedal_D#3.wav
+pitch_keycenter=63
+lokey=62
+hikey=64
+offset=1937
+volume=10.394812
+
+<region>
+sample=Pipe Organ/Loud Pedal/Rode_Pedal_F#3.wav
+pitch_keycenter=66
+lokey=65
+hikey=67
+offset=1982
+volume=9.422045
+
