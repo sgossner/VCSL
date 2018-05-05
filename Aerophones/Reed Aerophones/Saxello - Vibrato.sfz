@@ -1,13 +1,15 @@
+// Generation Options: --volume 10 --release 0.5
+
 <group>
 ampeg_attack=0.004000
-ampeg_release=0.300000
+ampeg_release=0.500000
 
 <region>
 sample=Saxello/Vibrato/BrettSaxello_SusVB_MainSpirit_A#2_vl2_rr1.wav
 pitch_keycenter=58
 lokey=58
 hikey=60
-volume=-0.866785
+volume=9.133215
 
 <region>
 sample=Saxello/Vibrato/BrettSaxello_SusVB_MainSpirit_D3_vl2_rr1.wav
@@ -15,7 +17,7 @@ pitch_keycenter=62
 lokey=61
 hikey=64
 tune=1
-volume=-0.674977
+volume=9.325023
 
 <region>
 sample=Saxello/Vibrato/BrettSaxello_SusVB_MainSpirit_F#3_vl2_rr1.wav
@@ -23,14 +25,14 @@ pitch_keycenter=66
 lokey=65
 hikey=68
 tune=1
-volume=1.116350
+volume=11.116350
 
 <region>
 sample=Saxello/Vibrato/BrettSaxello_SusVB_MainSpirit_A#3_vl2_rr1.wav
 pitch_keycenter=70
 lokey=69
 hikey=72
-volume=5.558017
+volume=15.558017
 
 <region>
 sample=Saxello/Vibrato/BrettSaxello_SusVB_MainSpirit_D4_vl2_rr1.wav
@@ -38,14 +40,14 @@ pitch_keycenter=74
 lokey=73
 hikey=76
 tune=2
-volume=-2.715693
+volume=7.284307
 
 <region>
 sample=Saxello/Vibrato/BrettSaxello_SusVB_MainSpirit_F#4_vl2_rr1.wav
 pitch_keycenter=78
 lokey=77
 hikey=80
-volume=-2.304819
+volume=7.695181
 
 <region>
 sample=Saxello/Vibrato/BrettSaxello_SusVB_MainSpirit_A#4_vl2_rr1.wav
@@ -53,7 +55,7 @@ pitch_keycenter=82
 lokey=81
 hikey=84
 tune=2
-volume=1.351061
+volume=11.351061
 
 <region>
 sample=Saxello/Vibrato/BrettSaxello_SusVB_MainSpirit_D#5_vl2_rr1.wav
@@ -61,5 +63,5 @@ pitch_keycenter=87
 lokey=85
 hikey=88
 tune=5
-volume=1.237326
+volume=11.237326
 

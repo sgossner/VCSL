@@ -1,4 +1,4 @@
-// Generation Options: --volume 24
+// Generation Options: --volume 30 --articulation Slow
 
 <group>
 trigger=attack
@@ -8,10 +8,10 @@ ampeg_release=0.500000
 <region>
 sample=Wine Glasses/Sustains/Slow/glass1_D#4_Slow_1_Main.wav
 pitch_keycenter=75
-lokey=75
+lokey=74
 hikey=76
 tune=-28
-volume=25.221411
+volume=31.221411
 
 <region>
 sample=Wine Glasses/Sustains/Slow/glass2_F#4_Slow_1_Main.wav
@@ -19,7 +19,7 @@ pitch_keycenter=78
 lokey=77
 hikey=80
 tune=10
-volume=26.071659
+volume=32.071659
 
 <region>
 sample=Wine Glasses/Sustains/Slow/glass3_A#4_Slow_1_Main.wav
@@ -27,7 +27,7 @@ pitch_keycenter=82
 lokey=81
 hikey=84
 tune=-53
-volume=21.662424
+volume=27.662424
 
 <region>
 sample=Wine Glasses/Sustains/Slow/glass4_D5_Slow_2_Main.wav
@@ -35,7 +35,7 @@ pitch_keycenter=86
 lokey=85
 hikey=87
 tune=-5
-volume=23.998107
+volume=29.998107
 
 <group>
 trigger=release
@@ -44,7 +44,7 @@ ampeg_attack=0.100000
 <region>
 sample=Wine Glasses/Releases/Slow/glass1_D#4_Slow_1_Decay.wav
 pitch_keycenter=75
-lokey=75
+lokey=74
 hikey=76
 tune=-33
 volume=-6.346390

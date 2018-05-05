@@ -1,10 +1,10 @@
-// Generation Options: --unpitched --release 30 --volume 18 --articulation Hit
+// Generation Options: --release 30 --volume 18 --articulation Hit
 
 <group>
-sw_default=48
-sw_lokey=48
-sw_hikey=50
-sw_last=48
+sw_default=72
+sw_lokey=72
+sw_hikey=74
+sw_last=72
 sw_label=Hit
 ampeg_attack=0.004000
 ampeg_release=30.000000
@@ -15,10 +15,11 @@ seq_position=1
 lovel=0
 hivel=65
 sample=Timpani 1/Hit/Timpani1_Hit_v2_rr1_Sum.wav
-pitch_keycenter=60
-lokey=60
-hikey=60
-volume=35.080764
+pitch_keycenter=30
+lokey=30
+hikey=32
+tune=-20
+volume=34.654064
 
 <region>
 seq_length=2
@@ -26,10 +27,11 @@ seq_position=2
 lovel=0
 hivel=65
 sample=Timpani 1/Hit/Timpani1_Hit_v2_rr2_Sum.wav
-pitch_keycenter=60
-lokey=60
-hikey=60
-volume=34.842151
+pitch_keycenter=30
+lokey=30
+hikey=32
+tune=-28
+volume=34.415451
 
 <region>
 seq_length=2
@@ -37,10 +39,11 @@ seq_position=1
 lovel=66
 hivel=99
 sample=Timpani 1/Hit/Timpani1_Hit_v3_rr3_Sum.wav
-pitch_keycenter=60
-lokey=60
-hikey=60
-volume=21.553441
+pitch_keycenter=30
+lokey=30
+hikey=32
+tune=-32
+volume=21.126741
 
 <region>
 seq_length=2
@@ -48,10 +51,11 @@ seq_position=2
 lovel=66
 hivel=99
 sample=Timpani 1/Hit/Timpani1_Hit_v3_rr4_Sum.wav
-pitch_keycenter=60
-lokey=60
-hikey=60
-volume=20.908695
+pitch_keycenter=30
+lokey=30
+hikey=32
+tune=10
+volume=20.481995
 
 <region>
 seq_length=2
@@ -59,10 +63,11 @@ seq_position=1
 lovel=100
 hivel=127
 sample=Timpani 1/Hit/Timpani1_Hit_v4_rr1_Sum.wav
-pitch_keycenter=60
-lokey=60
-hikey=60
-volume=11.820567
+pitch_keycenter=30
+lokey=30
+hikey=32
+tune=-66
+volume=11.393867
 
 <region>
 seq_length=2
@@ -70,10 +75,10 @@ seq_position=2
 lovel=100
 hivel=127
 sample=Timpani 1/Hit/Timpani1_Hit_v4_rr2_Sum.wav
-pitch_keycenter=60
-lokey=60
-hikey=60
-volume=10.766845
+pitch_keycenter=30
+lokey=30
+hikey=32
+volume=10.340144
 
 <region>
 seq_length=2
@@ -81,10 +86,11 @@ seq_position=1
 lovel=0
 hivel=65
 sample=Timpani 1/Hit/Timpani2_Hit_v2_rr1_Sum.wav
-pitch_keycenter=61
-lokey=61
-hikey=61
-volume=25.449668
+pitch_keycenter=34
+lokey=33
+hikey=35
+tune=-65
+volume=25.481604
 
 <region>
 seq_length=2
@@ -92,10 +98,10 @@ seq_position=2
 lovel=0
 hivel=65
 sample=Timpani 1/Hit/Timpani2_Hit_v2_rr2_Sum.wav
-pitch_keycenter=61
-lokey=61
-hikey=61
-volume=28.465205
+pitch_keycenter=34
+lokey=33
+hikey=35
+volume=28.497141
 
 <region>
 seq_length=2
@@ -103,10 +109,11 @@ seq_position=1
 lovel=66
 hivel=99
 sample=Timpani 1/Hit/Timpani2_Hit_v3_rr1_Sum.wav
-pitch_keycenter=61
-lokey=61
-hikey=61
-volume=20.706459
+pitch_keycenter=34
+lokey=33
+hikey=35
+tune=-78
+volume=20.738395
 
 <region>
 seq_length=2
@@ -114,10 +121,11 @@ seq_position=2
 lovel=66
 hivel=99
 sample=Timpani 1/Hit/Timpani2_Hit_v3_rr2_Sum.wav
-pitch_keycenter=61
-lokey=61
-hikey=61
-volume=19.206652
+pitch_keycenter=34
+lokey=33
+hikey=35
+tune=-34
+volume=19.238587
 
 <region>
 seq_length=2
@@ -125,10 +133,11 @@ seq_position=1
 lovel=100
 hivel=127
 sample=Timpani 1/Hit/Timpani2_Hit_v4_rr1_Sum.wav
-pitch_keycenter=61
-lokey=61
-hikey=61
-volume=13.700190
+pitch_keycenter=34
+lokey=33
+hikey=35
+tune=-22
+volume=13.732126
 
 <region>
 seq_length=2
@@ -136,10 +145,11 @@ seq_position=2
 lovel=100
 hivel=127
 sample=Timpani 1/Hit/Timpani2_Hit_v4_rr2_Sum.wav
-pitch_keycenter=61
-lokey=61
-hikey=61
-volume=11.837313
+pitch_keycenter=34
+lokey=33
+hikey=35
+tune=12
+volume=11.869249
 
 <region>
 seq_length=2
@@ -147,10 +157,11 @@ seq_position=1
 lovel=0
 hivel=65
 sample=Timpani 1/Hit/Timpani3_Hit_v2_rr1_Sum.wav
-pitch_keycenter=62
-lokey=62
-hikey=62
-volume=27.400680
+pitch_keycenter=37
+lokey=36
+hikey=38
+tune=4
+volume=27.426830
 
 <region>
 seq_length=2
@@ -158,10 +169,11 @@ seq_position=2
 lovel=0
 hivel=65
 sample=Timpani 1/Hit/Timpani3_Hit_v2_rr2_Sum.wav
-pitch_keycenter=62
-lokey=62
-hikey=62
-volume=25.415971
+pitch_keycenter=37
+lokey=36
+hikey=38
+tune=-7
+volume=25.442121
 
 <region>
 seq_length=2
@@ -169,10 +181,11 @@ seq_position=1
 lovel=66
 hivel=99
 sample=Timpani 1/Hit/Timpani3_Hit_v3_rr1_Sum.wav
-pitch_keycenter=62
-lokey=62
-hikey=62
-volume=19.934881
+pitch_keycenter=37
+lokey=36
+hikey=38
+tune=-15
+volume=19.961031
 
 <region>
 seq_length=2
@@ -180,10 +193,11 @@ seq_position=2
 lovel=66
 hivel=99
 sample=Timpani 1/Hit/Timpani3_Hit_v3_rr2_Sum.wav
-pitch_keycenter=62
-lokey=62
-hikey=62
-volume=20.665813
+pitch_keycenter=37
+lokey=36
+hikey=38
+tune=-6
+volume=20.691964
 
 <region>
 seq_length=2
@@ -191,10 +205,11 @@ seq_position=1
 lovel=100
 hivel=127
 sample=Timpani 1/Hit/Timpani3_Hit_v4_rr1_Sum.wav
-pitch_keycenter=62
-lokey=62
-hikey=62
-volume=12.750674
+pitch_keycenter=37
+lokey=36
+hikey=38
+tune=-35
+volume=12.776824
 
 <region>
 seq_length=2
@@ -202,10 +217,11 @@ seq_position=2
 lovel=100
 hivel=127
 sample=Timpani 1/Hit/Timpani3_Hit_v4_rr2_Sum.wav
-pitch_keycenter=62
-lokey=62
-hikey=62
-volume=12.566410
+pitch_keycenter=37
+lokey=36
+hikey=38
+tune=4
+volume=12.592560
 
 <region>
 seq_length=2
@@ -213,10 +229,11 @@ seq_position=1
 lovel=0
 hivel=65
 sample=Timpani 1/Hit/Timpani4_Hit_v2_rr1_Sum.wav
-pitch_keycenter=63
-lokey=63
-hikey=63
-volume=27.282699
+pitch_keycenter=40
+lokey=39
+hikey=41
+tune=18
+volume=26.120529
 
 <region>
 seq_length=2
@@ -224,10 +241,11 @@ seq_position=2
 lovel=0
 hivel=65
 sample=Timpani 1/Hit/Timpani4_Hit_v2_rr2_Sum.wav
-pitch_keycenter=63
-lokey=63
-hikey=63
-volume=28.180218
+pitch_keycenter=40
+lokey=39
+hikey=41
+tune=16
+volume=27.018048
 
 <region>
 seq_length=2
@@ -235,10 +253,11 @@ seq_position=1
 lovel=66
 hivel=99
 sample=Timpani 1/Hit/Timpani4_Hit_v3_rr1_Sum.wav
-pitch_keycenter=63
-lokey=63
-hikey=63
-volume=20.918795
+pitch_keycenter=40
+lokey=39
+hikey=41
+tune=-8
+volume=19.756626
 
 <region>
 seq_length=2
@@ -246,10 +265,11 @@ seq_position=2
 lovel=66
 hivel=99
 sample=Timpani 1/Hit/Timpani4_Hit_v3_rr2_Sum.wav
-pitch_keycenter=63
-lokey=63
-hikey=63
-volume=21.021060
+pitch_keycenter=40
+lokey=39
+hikey=41
+tune=-1
+volume=19.858891
 
 <region>
 seq_length=2
@@ -257,10 +277,11 @@ seq_position=1
 lovel=100
 hivel=127
 sample=Timpani 1/Hit/Timpani4_Hit_v4_rr1_Sum.wav
-pitch_keycenter=63
-lokey=63
-hikey=63
-volume=12.099987
+pitch_keycenter=40
+lokey=39
+hikey=41
+tune=-34
+volume=10.937817
 
 <region>
 seq_length=2
@@ -268,10 +289,11 @@ seq_position=2
 lovel=100
 hivel=127
 sample=Timpani 1/Hit/Timpani4_Hit_v4_rr2_Sum.wav
-pitch_keycenter=63
-lokey=63
-hikey=63
-volume=12.183456
+pitch_keycenter=40
+lokey=39
+hikey=41
+tune=-39
+volume=11.021286
 
 <region>
 seq_length=2
@@ -279,10 +301,11 @@ seq_position=1
 lovel=0
 hivel=65
 sample=Timpani 1/Hit/Timpani5_Hit_v2_rr1_Sum.wav
-pitch_keycenter=64
-lokey=64
-hikey=64
-volume=37.701357
+pitch_keycenter=42
+lokey=42
+hikey=43
+tune=-38
+volume=40.122462
 
 <region>
 seq_length=2
@@ -290,10 +313,11 @@ seq_position=2
 lovel=0
 hivel=65
 sample=Timpani 1/Hit/Timpani5_Hit_v2_rr2_Sum.wav
-pitch_keycenter=64
-lokey=64
-hikey=64
-volume=31.823344
+pitch_keycenter=42
+lokey=42
+hikey=43
+tune=-48
+volume=34.244449
 
 <region>
 seq_length=2
@@ -301,10 +325,11 @@ seq_position=1
 lovel=66
 hivel=99
 sample=Timpani 1/Hit/Timpani5_Hit_v3_rr1_Sum.wav
-pitch_keycenter=64
-lokey=64
-hikey=64
-volume=19.289120
+pitch_keycenter=42
+lokey=42
+hikey=43
+tune=-39
+volume=21.710224
 
 <region>
 seq_length=2
@@ -312,10 +337,11 @@ seq_position=2
 lovel=66
 hivel=99
 sample=Timpani 1/Hit/Timpani5_Hit_v3_rr2_Sum.wav
-pitch_keycenter=64
-lokey=64
-hikey=64
-volume=18.080279
+pitch_keycenter=42
+lokey=42
+hikey=43
+tune=-38
+volume=20.501384
 
 <region>
 seq_length=2
@@ -323,10 +349,11 @@ seq_position=1
 lovel=100
 hivel=127
 sample=Timpani 1/Hit/Timpani5_Hit_v4_rr1_Sum.wav
-pitch_keycenter=64
-lokey=64
-hikey=64
-volume=13.177638
+pitch_keycenter=42
+lokey=42
+hikey=43
+tune=-52
+volume=15.598743
 
 <region>
 seq_length=2
@@ -334,20 +361,20 @@ seq_position=2
 lovel=100
 hivel=127
 sample=Timpani 1/Hit/Timpani5_Hit_v4_rr2_Sum.wav
-pitch_keycenter=64
-lokey=64
-hikey=64
-volume=11.565039
+pitch_keycenter=42
+lokey=42
+hikey=43
+volume=13.986144
 
 
 
-// Generation Options: --unpitched --release 1 --volume 20 --articulation Roll
+// Generation Options: --release 1 --volume 20 --articulation Roll
 
 <group>
-sw_default=48
-sw_lokey=48
-sw_hikey=50
-sw_last=49
+sw_default=72
+sw_lokey=72
+sw_hikey=74
+sw_last=73
 sw_label=Roll
 ampeg_attack=0.004000
 ampeg_release=1.000000
@@ -356,91 +383,95 @@ ampeg_release=1.000000
 lovel=0
 hivel=83
 sample=Timpani 1/Roll/Timpani1_Roll_v3_rr1_Sum.wav
-pitch_keycenter=60
-lokey=60
-hikey=60
-volume=26.309163
+pitch_keycenter=30
+lokey=30
+hikey=32
+tune=-11
+volume=28.303283
 
 <region>
 lovel=84
 hivel=127
 sample=Timpani 1/Roll/Timpani1_Roll_v5_rr1_Sum.wav
-pitch_keycenter=60
-lokey=60
-hikey=60
-volume=17.728887
+pitch_keycenter=30
+lokey=30
+hikey=32
+tune=-38
+volume=19.723007
 
 <region>
 lovel=0
 hivel=83
 sample=Timpani 1/Roll/Timpani2_Roll_v3_rr1_Sum.wav
-pitch_keycenter=61
-lokey=61
-hikey=61
-volume=26.821985
+pitch_keycenter=34
+lokey=33
+hikey=35
+volume=26.549093
 
 <region>
 lovel=84
 hivel=127
 sample=Timpani 1/Roll/Timpani2_Roll_v5_rr1_Sum.wav
-pitch_keycenter=61
-lokey=61
-hikey=61
-volume=16.226676
+pitch_keycenter=34
+lokey=33
+hikey=35
+volume=15.953784
 
 <region>
 lovel=0
 hivel=83
 sample=Timpani 1/Roll/Timpani3_Roll_v3_rr1_Sum.wav
-pitch_keycenter=62
-lokey=62
-hikey=62
-volume=25.020969
+pitch_keycenter=37
+lokey=36
+hikey=38
+tune=-4
+volume=22.313780
 
 <region>
 lovel=84
 hivel=127
 sample=Timpani 1/Roll/Timpani3_Roll_v5_rr1_Sum.wav
-pitch_keycenter=62
-lokey=62
-hikey=62
-volume=16.838696
+pitch_keycenter=37
+lokey=36
+hikey=38
+tune=-24
+volume=14.131507
 
 <region>
 lovel=0
 hivel=83
 sample=Timpani 1/Roll/Timpani4_Roll_v3_rr1_Sum.wav
-pitch_keycenter=63
-lokey=63
-hikey=63
-volume=25.281908
+pitch_keycenter=40
+lokey=39
+hikey=41
+volume=24.221979
 
 <region>
 lovel=84
 hivel=127
 sample=Timpani 1/Roll/Timpani4_Roll_v5_rr1_Sum.wav
-pitch_keycenter=63
-lokey=63
-hikey=63
-volume=16.739058
+pitch_keycenter=40
+lokey=39
+hikey=41
+volume=15.679130
 
 <region>
 lovel=0
 hivel=83
 sample=Timpani 1/Roll/Timpani5_Roll_v2_rr1_Sum.wav
-pitch_keycenter=64
-lokey=64
-hikey=64
-volume=35.391600
+pitch_keycenter=42
+lokey=42
+hikey=43
+volume=37.562368
 
 <region>
 lovel=84
 hivel=127
 sample=Timpani 1/Roll/Timpani5_Roll_v4_rr1_Sum.wav
-pitch_keycenter=64
-lokey=64
-hikey=64
-volume=19.236136
+pitch_keycenter=42
+lokey=42
+hikey=43
+volume=21.406904
 
 
 

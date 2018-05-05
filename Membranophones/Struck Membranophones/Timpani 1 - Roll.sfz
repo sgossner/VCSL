@@ -1,4 +1,4 @@
-// Generation Options: --unpitched --release 1 --volume 20 --articulation Roll
+// Generation Options: --release 1 --volume 20 --articulation Roll
 
 <group>
 ampeg_attack=0.004000
@@ -8,89 +8,93 @@ ampeg_release=1.000000
 lovel=0
 hivel=83
 sample=Timpani 1/Roll/Timpani1_Roll_v3_rr1_Sum.wav
-pitch_keycenter=60
-lokey=60
-hikey=60
-volume=26.309163
+pitch_keycenter=30
+lokey=30
+hikey=32
+tune=-11
+volume=28.303283
 
 <region>
 lovel=84
 hivel=127
 sample=Timpani 1/Roll/Timpani1_Roll_v5_rr1_Sum.wav
-pitch_keycenter=60
-lokey=60
-hikey=60
-volume=17.728887
+pitch_keycenter=30
+lokey=30
+hikey=32
+tune=-38
+volume=19.723007
 
 <region>
 lovel=0
 hivel=83
 sample=Timpani 1/Roll/Timpani2_Roll_v3_rr1_Sum.wav
-pitch_keycenter=61
-lokey=61
-hikey=61
-volume=26.821985
+pitch_keycenter=34
+lokey=33
+hikey=35
+volume=26.549093
 
 <region>
 lovel=84
 hivel=127
 sample=Timpani 1/Roll/Timpani2_Roll_v5_rr1_Sum.wav
-pitch_keycenter=61
-lokey=61
-hikey=61
-volume=16.226676
+pitch_keycenter=34
+lokey=33
+hikey=35
+volume=15.953784
 
 <region>
 lovel=0
 hivel=83
 sample=Timpani 1/Roll/Timpani3_Roll_v3_rr1_Sum.wav
-pitch_keycenter=62
-lokey=62
-hikey=62
-volume=25.020969
+pitch_keycenter=37
+lokey=36
+hikey=38
+tune=-4
+volume=22.313780
 
 <region>
 lovel=84
 hivel=127
 sample=Timpani 1/Roll/Timpani3_Roll_v5_rr1_Sum.wav
-pitch_keycenter=62
-lokey=62
-hikey=62
-volume=16.838696
+pitch_keycenter=37
+lokey=36
+hikey=38
+tune=-24
+volume=14.131507
 
 <region>
 lovel=0
 hivel=83
 sample=Timpani 1/Roll/Timpani4_Roll_v3_rr1_Sum.wav
-pitch_keycenter=63
-lokey=63
-hikey=63
-volume=25.281908
+pitch_keycenter=40
+lokey=39
+hikey=41
+volume=24.221979
 
 <region>
 lovel=84
 hivel=127
 sample=Timpani 1/Roll/Timpani4_Roll_v5_rr1_Sum.wav
-pitch_keycenter=63
-lokey=63
-hikey=63
-volume=16.739058
+pitch_keycenter=40
+lokey=39
+hikey=41
+volume=15.679130
 
 <region>
 lovel=0
 hivel=83
 sample=Timpani 1/Roll/Timpani5_Roll_v2_rr1_Sum.wav
-pitch_keycenter=64
-lokey=64
-hikey=64
-volume=35.391600
+pitch_keycenter=42
+lokey=42
+hikey=43
+volume=37.562368
 
 <region>
 lovel=84
 hivel=127
 sample=Timpani 1/Roll/Timpani5_Roll_v4_rr1_Sum.wav
-pitch_keycenter=64
-lokey=64
-hikey=64
-volume=19.236136
+pitch_keycenter=42
+lokey=42
+hikey=43
+volume=21.406904
 

@@ -1,155 +1,157 @@
+// Generation Options: --volume 10 --release 0.5
+
 <group>
 ampeg_attack=0.004000
-ampeg_release=0.300000
+ampeg_release=0.500000
 
 <region>
 lovel=0
-hivel=77
+hivel=83
 sample=Saxello/Non-Vibrato/BrettSaxello_SusNV_MainSpirit_A#2_vl2_rr2.wav
 pitch_keycenter=58
 lokey=58
 hikey=60
 tune=-1
-volume=0.326551
+volume=10.326551
 
 <region>
-lovel=78
+lovel=84
 hivel=127
 sample=Saxello/Non-Vibrato/BrettSaxello_SusNV_MainSpirit_A#2_vl3_rr1.wav
 pitch_keycenter=58
 lokey=58
 hikey=60
 tune=1
-volume=-2.645885
+volume=7.354115
 
 <region>
 lovel=0
-hivel=77
+hivel=83
 sample=Saxello/Non-Vibrato/BrettSaxello_SusNV_MainSpirit_D3_vl2_rr2.wav
 pitch_keycenter=62
 lokey=61
 hikey=64
 tune=1
-volume=-0.242337
+volume=9.757663
 
 <region>
-lovel=78
+lovel=84
 hivel=127
 sample=Saxello/Non-Vibrato/BrettSaxello_SusNV_MainSpirit_D3_vl3_rr1.wav
 pitch_keycenter=62
 lokey=61
 hikey=64
 tune=3
-volume=0.346102
+volume=10.346102
 
 <region>
 lovel=0
-hivel=77
+hivel=83
 sample=Saxello/Non-Vibrato/BrettSaxello_SusNV_MainSpirit_F#3_vl2_rr2.wav
 pitch_keycenter=66
 lokey=65
 hikey=68
-volume=0.992029
+volume=10.992029
 
 <region>
-lovel=78
+lovel=84
 hivel=127
 sample=Saxello/Non-Vibrato/BrettSaxello_SusNV_MainSpirit_F#3_vl3_rr1.wav
 pitch_keycenter=66
 lokey=65
 hikey=68
 tune=1
-volume=0.099201
+volume=10.099201
 
 <region>
 lovel=0
-hivel=77
+hivel=83
 sample=Saxello/Non-Vibrato/BrettSaxello_SusNV_MainSpirit_A#3_vl2_rr2.wav
 pitch_keycenter=70
 lokey=69
 hikey=72
-volume=8.051705
+volume=18.051705
 
 <region>
-lovel=78
+lovel=84
 hivel=127
 sample=Saxello/Non-Vibrato/BrettSaxello_SusNV_MainSpirit_A#3_vl3_rr1.wav
 pitch_keycenter=70
 lokey=69
 hikey=72
 tune=1
-volume=-1.156345
+volume=8.843655
 
 <region>
 lovel=0
-hivel=77
+hivel=83
 sample=Saxello/Non-Vibrato/BrettSaxello_SusNV_MainSpirit_D4_vl2_rr2.wav
 pitch_keycenter=74
 lokey=73
 hikey=76
-volume=1.968981
+volume=11.968981
 
 <region>
-lovel=78
+lovel=84
 hivel=127
 sample=Saxello/Non-Vibrato/BrettSaxello_SusNV_MainSpirit_D4_vl3_rr1.wav
 pitch_keycenter=74
 lokey=73
 hikey=76
-volume=-5.423233
+volume=4.576767
 
 <region>
 lovel=0
-hivel=77
+hivel=83
 sample=Saxello/Non-Vibrato/BrettSaxello_SusNV_MainSpirit_F#4_vl2_rr2.wav
 pitch_keycenter=78
 lokey=77
 hikey=80
-volume=6.983600
+volume=16.983600
 
 <region>
-lovel=78
+lovel=84
 hivel=127
 sample=Saxello/Non-Vibrato/BrettSaxello_SusNV_MainSpirit_F#4_vl3_rr1.wav
 pitch_keycenter=78
 lokey=77
 hikey=80
-volume=-1.310712
+volume=8.689288
 
 <region>
 lovel=0
-hivel=77
+hivel=83
 sample=Saxello/Non-Vibrato/BrettSaxello_SusNV_MainSpirit_A#4_vl2_rr2.wav
 pitch_keycenter=82
 lokey=81
 hikey=85
-volume=9.137697
+volume=19.137697
 
 <region>
-lovel=78
+lovel=84
 hivel=127
 sample=Saxello/Non-Vibrato/BrettSaxello_SusNV_MainSpirit_A#4_vl3_rr1.wav
 pitch_keycenter=82
 lokey=81
 hikey=85
-volume=-3.175948
+volume=6.824052
 
 <region>
 lovel=0
-hivel=77
+hivel=83
 sample=Saxello/Non-Vibrato/BrettSaxello_SusNV_MainSpirit_E5_vl2_rr2.wav
 pitch_keycenter=88
 lokey=86
 hikey=89
 tune=1
-volume=0.851855
+volume=10.851855
 
 <region>
-lovel=78
+lovel=84
 hivel=127
 sample=Saxello/Non-Vibrato/BrettSaxello_SusNV_MainSpirit_E5_vl3_rr1.wav
 pitch_keycenter=88
 lokey=86
 hikey=89
-volume=-4.102987
+volume=5.897013
 

@@ -1,142 +1,144 @@
+// Generation Options: --volume 10 --release 0.5
+
 <group>
 ampeg_attack=0.004000
-ampeg_release=1.300000
+ampeg_release=0.500000
 
 <region>
 lovel=0
-hivel=77
+hivel=83
 sample=Saxello/Staccato/BrettSaxello_Stcts_MainSpirit_A#2_vl1_rr2.wav
 pitch_keycenter=58
 lokey=58
 hikey=60
 tune=3
-volume=0.473090
+volume=10.473090
 
 <region>
-lovel=78
+lovel=84
 hivel=127
 sample=Saxello/Staccato/BrettSaxello_Stcts_MainSpirit_A#2_vl2_rr3.wav
 pitch_keycenter=58
 lokey=58
 hikey=60
 offset=10
-volume=-0.688157
+volume=9.311843
 
 <region>
 lovel=0
-hivel=77
+hivel=83
 sample=Saxello/Staccato/BrettSaxello_Stcts_MainSpirit_D3_vl1_rr5.wav
 pitch_keycenter=62
 lokey=61
 hikey=64
 tune=7
-volume=1.314422
+volume=11.314422
 
 <region>
-lovel=78
+lovel=84
 hivel=127
 sample=Saxello/Staccato/BrettSaxello_Stcts_MainSpirit_D3_vl2_rr4.wav
 pitch_keycenter=62
 lokey=61
 hikey=64
 offset=101
-volume=-0.414573
+volume=9.585427
 
 <region>
 lovel=0
-hivel=77
+hivel=83
 sample=Saxello/Staccato/BrettSaxello_Stcts_MainSpirit_F#3_vl1_rr6.wav
 pitch_keycenter=66
 lokey=65
 hikey=68
 tune=2
-volume=0.000982
+volume=10.000982
 
 <region>
-lovel=78
+lovel=84
 hivel=127
 sample=Saxello/Staccato/BrettSaxello_Stcts_MainSpirit_F#3_vl2_rr4.wav
 pitch_keycenter=66
 lokey=65
 hikey=68
-volume=-1.933694
+volume=8.066306
 
 <region>
 lovel=0
-hivel=77
+hivel=83
 sample=Saxello/Staccato/BrettSaxello_Stcts_MainSpirit_A#3_vl1_rr1.wav
 pitch_keycenter=70
 lokey=69
 hikey=72
 tune=7
-volume=4.373950
+volume=14.373950
 
 <region>
-lovel=78
+lovel=84
 hivel=127
 sample=Saxello/Staccato/BrettSaxello_Stcts_MainSpirit_A#3_vl2_rr2.wav
 pitch_keycenter=70
 lokey=69
 hikey=72
 tune=9
-volume=-0.758971
+volume=9.241029
 
 <region>
 lovel=0
-hivel=77
+hivel=83
 sample=Saxello/Staccato/BrettSaxello_Stcts_MainSpirit_D4_vl1_rr3.wav
 pitch_keycenter=74
 lokey=73
 hikey=76
 tune=2
-volume=2.828063
+volume=12.828063
 
 <region>
-lovel=78
+lovel=84
 hivel=127
 sample=Saxello/Staccato/BrettSaxello_Stcts_MainSpirit_D4_vl2_rr5.wav
 pitch_keycenter=74
 lokey=73
 hikey=76
-volume=-3.223531
+volume=6.776469
 
 <region>
 lovel=0
-hivel=77
+hivel=83
 sample=Saxello/Staccato/BrettSaxello_Stcts_MainSpirit_F#4_vl1_rr5.wav
 pitch_keycenter=78
 lokey=77
 hikey=80
-volume=10.820444
+volume=20.820444
 
 <region>
-lovel=78
+lovel=84
 hivel=127
 sample=Saxello/Staccato/BrettSaxello_Stcts_MainSpirit_F#4_vl2_rr4.wav
 pitch_keycenter=78
 lokey=77
 hikey=80
-volume=-2.784507
+volume=7.215493
 
 <region>
 lovel=0
-hivel=77
+hivel=83
 sample=Saxello/Staccato/BrettSaxello_Stcts_MainSpirit_A#4_vl1_rr3.wav
 pitch_keycenter=82
 lokey=81
 hikey=84
 tune=1
-volume=0.766055
+volume=10.766055
 
 <region>
-lovel=78
+lovel=84
 hivel=127
 sample=Saxello/Staccato/BrettSaxello_Stcts_MainSpirit_A#4_vl2_rr5.wav
 pitch_keycenter=82
 lokey=81
 hikey=84
 tune=5
-volume=-4.106425
+volume=5.893575
 
 <region>
 sample=Saxello/Staccato/BrettSaxello_Stcts_MainSpirit_D5_vl1_rr6.wav
@@ -144,5 +146,5 @@ pitch_keycenter=86
 lokey=85
 hikey=87
 tune=3
-volume=1.441933
+volume=11.441933
 
