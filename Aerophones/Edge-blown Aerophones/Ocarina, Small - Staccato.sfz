@@ -1,37 +1,40 @@
+// Generation Options: --volume 12
+
 <group>
 ampeg_attack=0.004000
-ampeg_release=1.300000
+ampeg_release=0.300000
 
 <region>
-sample=Ocarina, Small/Staccato/ocarina_A#4_staccato0.wav
-pitch_keycenter=82
-lokey=82
-hikey=83
-tune=88
-volume=14.522122
+sample=Ocarina, Small/Staccato/ocarina_A4_staccato0.wav
+pitch_keycenter=81
+lokey=81
+hikey=82
+tune=-11
+volume=21.522122
 
 <region>
-sample=Ocarina, Small/Staccato/ocarina_C5_staccato0.wav
-pitch_keycenter=84
-lokey=84
-hikey=85
-volume=7.036702
+sample=Ocarina, Small/Staccato/ocarina_B4_staccato0.wav
+pitch_keycenter=83
+lokey=83
+hikey=84
+tune=-6
+volume=14.036702
 
 <region>
 sample=Ocarina, Small/Staccato/ocarina_D5_staccato0.wav
 pitch_keycenter=86
-lokey=86
+lokey=85
 hikey=86
 offset=77
 tune=3
-volume=0.746696
+volume=7.746696
 
 <region>
 sample=Ocarina, Small/Staccato/ocarina_D#5_staccato0.wav
 pitch_keycenter=87
 lokey=87
 hikey=87
-volume=6.184085
+volume=13.184085
 
 <region>
 sample=Ocarina, Small/Staccato/ocarina_E5_staccato0.wav
@@ -40,7 +43,7 @@ lokey=88
 hikey=88
 offset=139
 tune=-4
-volume=6.445603
+volume=13.445603
 
 <region>
 sample=Ocarina, Small/Staccato/ocarina_F5_staccato0.wav
@@ -49,7 +52,7 @@ lokey=89
 hikey=89
 offset=178
 tune=13
-volume=8.134340
+volume=15.134340
 
 <region>
 sample=Ocarina, Small/Staccato/ocarina_F#5_staccato0.wav
@@ -58,14 +61,14 @@ lokey=90
 hikey=90
 offset=230
 tune=2
-volume=3.965101
+volume=10.965101
 
 <region>
 sample=Ocarina, Small/Staccato/ocarina_G5_staccato0.wav
 pitch_keycenter=91
 lokey=91
 hikey=91
-volume=4.296807
+volume=11.296807
 
 <region>
 sample=Ocarina, Small/Staccato/ocarina_G#5_staccato0.wav
@@ -74,7 +77,7 @@ lokey=92
 hikey=92
 offset=101
 tune=-1
-volume=4.237915
+volume=11.237915
 
 <region>
 sample=Ocarina, Small/Staccato/ocarina_A5_staccato0.wav
@@ -82,7 +85,7 @@ pitch_keycenter=93
 lokey=93
 hikey=93
 tune=2
-volume=3.821297
+volume=10.821297
 
 <region>
 sample=Ocarina, Small/Staccato/ocarina_A#5_staccato0.wav
@@ -91,7 +94,7 @@ lokey=94
 hikey=94
 offset=226
 tune=1
-volume=5.322283
+volume=12.322283
 
 <region>
 sample=Ocarina, Small/Staccato/ocarina_B5_staccato0.wav
@@ -99,7 +102,7 @@ pitch_keycenter=95
 lokey=95
 hikey=95
 offset=64
-volume=4.026181
+volume=11.026181
 
 <region>
 sample=Ocarina, Small/Staccato/ocarina_C6_staccato0.wav
@@ -108,5 +111,5 @@ lokey=96
 hikey=97
 offset=36
 tune=4
-volume=9.355782
+volume=16.355782
 
