@@ -1,0 +1,298 @@
+// Generation Options: --unpitched --release 2 --volume 15
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=2.000000
+
+<region>
+sample=Bass Drum 2/bassdrum_cresc_med.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=37876
+volume=9.000000
+
+<region>
+sample=Bass Drum 2/bassdrum_cresc_short.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+offset=45785
+volume=10.000000
+
+<region>
+seq_length=2
+seq_position=1
+lovel=0
+hivel=47
+sample=Bass Drum 2/bassdrum_hit_pp1.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+offset=2477
+volume=20.701792
+ampeg_release=30
+
+<region>
+seq_length=2
+seq_position=2
+lovel=0
+hivel=47
+sample=Bass Drum 2/bassdrum_hit_pp2.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+offset=1825
+volume=20.922248
+ampeg_release=30
+
+<region>
+seq_length=2
+seq_position=1
+lovel=48
+hivel=72
+sample=Bass Drum 2/bassdrum_hit_mp1.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+offset=1930
+volume=17.628073
+ampeg_release=30
+
+<region>
+seq_length=2
+seq_position=2
+lovel=48
+hivel=72
+sample=Bass Drum 2/bassdrum_hit_mp2.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+offset=3653
+volume=17.880009
+ampeg_release=30
+
+<region>
+seq_length=2
+seq_position=1
+lovel=73
+hivel=93
+sample=Bass Drum 2/bassdrum_hit_mf1.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+offset=2180
+volume=13.218842
+ampeg_release=30
+
+<region>
+seq_length=2
+seq_position=2
+lovel=73
+hivel=93
+sample=Bass Drum 2/bassdrum_hit_mf2.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+offset=2060
+volume=14.496991
+ampeg_release=30
+
+<region>
+lovel=94
+hivel=110
+sample=Bass Drum 2/bassdrum_hit_f.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+offset=1011
+volume=11.533501
+ampeg_release=30
+
+<region>
+lovel=111
+hivel=127
+sample=Bass Drum 2/bassdrum_hit_ff.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+volume=10.183017
+ampeg_release=30
+
+<region>
+lovel=0
+hivel=54
+sample=Bass Drum 2/bassdrum_roll_pp.wav
+pitch_keycenter=63
+lokey=63
+hikey=63
+offset=1563
+volume=30.144799
+
+<region>
+lovel=55
+hivel=83
+sample=Bass Drum 2/bassdrum_roll_mp.wav
+pitch_keycenter=63
+lokey=63
+hikey=63
+volume=18.674417
+
+<region>
+lovel=84
+hivel=106
+sample=Bass Drum 2/bassdrum_roll_mf.wav
+pitch_keycenter=63
+lokey=63
+hikey=63
+volume=12.196516
+
+<region>
+lovel=107
+hivel=127
+sample=Bass Drum 2/bassdrum_roll_ff.wav
+pitch_keycenter=63
+lokey=63
+hikey=63
+volume=9.947226
+
+<region>
+lovel=0
+hivel=54
+sample=Bass Drum 2/bassdrum_roll_fast_pp.wav
+pitch_keycenter=64
+lokey=64
+hikey=64
+volume=17.599351
+
+<region>
+lovel=55
+hivel=83
+sample=Bass Drum 2/bassdrum_roll_fast_mp.wav
+pitch_keycenter=64
+lokey=64
+hikey=64
+volume=17.357367
+
+<region>
+lovel=84
+hivel=106
+sample=Bass Drum 2/bassdrum_roll_fast_mf.wav
+pitch_keycenter=64
+lokey=64
+hikey=64
+volume=15.925822
+
+<region>
+lovel=107
+hivel=127
+sample=Bass Drum 2/bassdrum_roll_fast_f.wav
+pitch_keycenter=64
+lokey=64
+hikey=64
+volume=10.931566
+
+<region>
+lovel=0
+hivel=54
+sample=Bass Drum 2/bassdrum_roll_fast_pp_rel.wav
+pitch_keycenter=65
+lokey=65
+hikey=65
+volume=24.150140
+
+<region>
+lovel=55
+hivel=83
+sample=Bass Drum 2/bassdrum_roll_fast_mp_rel.wav
+pitch_keycenter=65
+lokey=65
+hikey=65
+volume=23.189661
+
+<region>
+lovel=84
+hivel=106
+sample=Bass Drum 2/bassdrum_roll_fast_mf_rel.wav
+pitch_keycenter=65
+lokey=65
+hikey=65
+volume=19.421612
+
+<region>
+lovel=107
+hivel=127
+sample=Bass Drum 2/bassdrum_roll_fast_f_rel.wav
+pitch_keycenter=65
+lokey=65
+hikey=65
+volume=16.284471
+
+<region>
+lovel=0
+hivel=54
+sample=Bass Drum 2/bassdrum_roll_pp_rel.wav
+pitch_keycenter=66
+lokey=66
+hikey=66
+volume=32.312748
+
+<region>
+lovel=55
+hivel=83
+sample=Bass Drum 2/bassdrum_roll_mp_rel.wav
+pitch_keycenter=66
+lokey=66
+hikey=66
+volume=23.181842
+
+<region>
+lovel=84
+hivel=106
+sample=Bass Drum 2/bassdrum_roll_mf_rel.wav
+pitch_keycenter=66
+lokey=66
+hikey=66
+volume=18.685909
+
+<region>
+lovel=107
+hivel=127
+sample=Bass Drum 2/bassdrum_roll_ff_rel.wav
+pitch_keycenter=66
+lokey=66
+hikey=66
+volume=14.419984
+
+<region>
+sample=Bass Drum 2/bassdrum_rub10.wav
+pitch_keycenter=67
+lokey=67
+hikey=67
+offset=2659
+volume=19.000000
+
+<region>
+sample=Bass Drum 2/bassdrum_rub12.wav
+pitch_keycenter=68
+lokey=68
+hikey=68
+offset=1187
+volume=15.000000
+
+<region>
+sample=Bass Drum 2/bassdrum_rub2.wav
+pitch_keycenter=69
+lokey=69
+hikey=69
+offset=19
+volume=30.000000
+
+<region>
+sample=Bass Drum 2/bassdrum_rub7.wav
+pitch_keycenter=70
+lokey=70
+hikey=70
+offset=28
+volume=25.000000
+

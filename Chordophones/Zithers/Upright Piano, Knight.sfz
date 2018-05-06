@@ -1,0 +1,1363 @@
+// Generation Options: --volume 12 --releasevolume -5
+
+<group>
+trigger=attack
+ampeg_attack=0.004000
+ampeg_release=0.100000
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_A-1.wav
+pitch_keycenter=21
+lokey=21
+hikey=22
+offset=27
+tune=-7
+volume=13.726113
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_A-1.wav
+pitch_keycenter=21
+lokey=21
+hikey=22
+offset=84
+tune=-6
+volume=8.125745
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_B-1.wav
+pitch_keycenter=23
+lokey=23
+hikey=24
+tune=-47
+volume=16.309018
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_B-1.wav
+pitch_keycenter=23
+lokey=23
+hikey=24
+offset=43
+tune=-52
+volume=12.915818
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_C#0.wav
+pitch_keycenter=25
+lokey=25
+hikey=26
+offset=23
+tune=8
+volume=14.079200
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_C#0.wav
+pitch_keycenter=25
+lokey=25
+hikey=26
+offset=107
+tune=-33
+volume=9.440931
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_D#0.wav
+pitch_keycenter=27
+lokey=27
+hikey=28
+offset=11
+tune=-14
+volume=18.635969
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_D#0.wav
+pitch_keycenter=27
+lokey=27
+hikey=28
+offset=119
+tune=-22
+volume=9.555793
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_F0.wav
+pitch_keycenter=29
+lokey=29
+hikey=30
+tune=-9
+volume=15.514986
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_F0.wav
+pitch_keycenter=29
+lokey=29
+hikey=30
+offset=112
+tune=-7
+volume=9.333895
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_G0.wav
+pitch_keycenter=31
+lokey=31
+hikey=32
+tune=-6
+volume=16.623097
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_G0.wav
+pitch_keycenter=31
+lokey=31
+hikey=32
+offset=88
+tune=-2
+volume=8.855169
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_A0.wav
+pitch_keycenter=33
+lokey=33
+hikey=34
+offset=49
+tune=5
+volume=15.442128
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_A0.wav
+pitch_keycenter=33
+lokey=33
+hikey=34
+offset=64
+tune=5
+volume=9.590246
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_B0.wav
+pitch_keycenter=35
+lokey=35
+hikey=36
+offset=34
+tune=2
+volume=15.702747
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_B0.wav
+pitch_keycenter=35
+lokey=35
+hikey=36
+offset=196
+tune=-4
+volume=9.082596
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_C#1.wav
+pitch_keycenter=37
+lokey=37
+hikey=38
+offset=113
+tune=5
+volume=12.432254
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_C#1.wav
+pitch_keycenter=37
+lokey=37
+hikey=38
+offset=137
+tune=-4
+volume=7.820678
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_D#1.wav
+pitch_keycenter=39
+lokey=39
+hikey=40
+offset=94
+volume=19.102931
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_D#1.wav
+pitch_keycenter=39
+lokey=39
+hikey=40
+tune=-13
+volume=12.927714
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_F1.wav
+pitch_keycenter=41
+lokey=41
+hikey=42
+tune=-8
+volume=14.624667
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_F1.wav
+pitch_keycenter=41
+lokey=41
+hikey=42
+offset=55
+tune=-10
+volume=9.562680
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_G1.wav
+pitch_keycenter=43
+lokey=43
+hikey=44
+offset=39
+tune=-6
+volume=14.426242
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_G1.wav
+pitch_keycenter=43
+lokey=43
+hikey=44
+offset=63
+tune=-13
+volume=9.489090
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_A1.wav
+pitch_keycenter=45
+lokey=45
+hikey=46
+offset=142
+tune=5
+volume=16.193994
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_A1.wav
+pitch_keycenter=45
+lokey=45
+hikey=46
+offset=62
+tune=2
+volume=8.154194
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_B1.wav
+pitch_keycenter=47
+lokey=47
+hikey=48
+offset=97
+tune=1
+volume=17.836626
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_B1.wav
+pitch_keycenter=47
+lokey=47
+hikey=48
+offset=45
+volume=9.967591
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_C#2.wav
+pitch_keycenter=49
+lokey=49
+hikey=50
+offset=106
+tune=-1
+volume=16.524831
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_C#2.wav
+pitch_keycenter=49
+lokey=49
+hikey=50
+offset=84
+tune=-4
+volume=8.492202
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_D#2.wav
+pitch_keycenter=51
+lokey=51
+hikey=52
+offset=99
+tune=-3
+volume=16.123188
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_D#2.wav
+pitch_keycenter=51
+lokey=51
+hikey=52
+offset=186
+tune=-4
+volume=7.043593
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_F2.wav
+pitch_keycenter=53
+lokey=53
+hikey=54
+tune=2
+volume=20.454959
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_F2.wav
+pitch_keycenter=53
+lokey=53
+hikey=54
+offset=41
+tune=-3
+volume=10.636086
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_G2.wav
+pitch_keycenter=55
+lokey=55
+hikey=56
+tune=-1
+volume=15.716778
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_G2.wav
+pitch_keycenter=55
+lokey=55
+hikey=56
+offset=38
+tune=-4
+volume=8.320363
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_A2.wav
+pitch_keycenter=57
+lokey=57
+hikey=58
+tune=-3
+volume=19.889051
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_A2.wav
+pitch_keycenter=57
+lokey=57
+hikey=58
+offset=39
+tune=-7
+volume=9.877372
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_B2.wav
+pitch_keycenter=59
+lokey=59
+hikey=60
+volume=19.249281
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_B2.wav
+pitch_keycenter=59
+lokey=59
+hikey=60
+offset=61
+tune=-2
+volume=4.615042
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_C#3.wav
+pitch_keycenter=61
+lokey=61
+hikey=62
+volume=21.768869
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_C#3.wav
+pitch_keycenter=61
+lokey=61
+hikey=62
+offset=7
+tune=-4
+volume=11.311949
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_D#3.wav
+pitch_keycenter=63
+lokey=63
+hikey=64
+tune=-6
+volume=20.818264
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_D#3.wav
+pitch_keycenter=63
+lokey=63
+hikey=64
+offset=5
+tune=-8
+volume=14.179975
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_F3.wav
+pitch_keycenter=65
+lokey=65
+hikey=66
+offset=2
+tune=-4
+volume=16.960739
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_F3.wav
+pitch_keycenter=65
+lokey=65
+hikey=66
+offset=48
+tune=-8
+volume=6.193389
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_G3.wav
+pitch_keycenter=67
+lokey=67
+hikey=68
+tune=-1
+volume=15.978057
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_G3.wav
+pitch_keycenter=67
+lokey=67
+hikey=68
+offset=20
+tune=-3
+volume=5.422894
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_A3.wav
+pitch_keycenter=69
+lokey=69
+hikey=70
+volume=17.853996
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_A3.wav
+pitch_keycenter=69
+lokey=69
+hikey=70
+offset=35
+tune=-7
+volume=7.772190
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_B3.wav
+pitch_keycenter=71
+lokey=71
+hikey=72
+tune=-5
+volume=19.395696
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_B3.wav
+pitch_keycenter=71
+lokey=71
+hikey=72
+offset=31
+tune=-8
+volume=10.463143
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_C#4.wav
+pitch_keycenter=73
+lokey=73
+hikey=74
+tune=-4
+volume=18.092940
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_C#4.wav
+pitch_keycenter=73
+lokey=73
+hikey=74
+offset=31
+tune=-6
+volume=10.303608
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_D#4.wav
+pitch_keycenter=75
+lokey=75
+hikey=76
+volume=19.498282
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_D#4.wav
+pitch_keycenter=75
+lokey=75
+hikey=76
+offset=73
+tune=-3
+volume=4.601272
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_F4.wav
+pitch_keycenter=77
+lokey=77
+hikey=78
+tune=-1
+volume=19.559319
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_F4.wav
+pitch_keycenter=77
+lokey=77
+hikey=78
+offset=36
+tune=-6
+volume=10.510053
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_G4.wav
+pitch_keycenter=79
+lokey=79
+hikey=80
+volume=25.206148
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_G4.wav
+pitch_keycenter=79
+lokey=79
+hikey=80
+offset=31
+tune=-6
+volume=12.096729
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_A4.wav
+pitch_keycenter=81
+lokey=81
+hikey=82
+volume=22.409118
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_A4.wav
+pitch_keycenter=81
+lokey=81
+hikey=82
+offset=36
+tune=-11
+volume=7.382234
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_B4.wav
+pitch_keycenter=83
+lokey=83
+hikey=84
+volume=21.244157
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_B4.wav
+pitch_keycenter=83
+lokey=83
+hikey=84
+offset=16
+tune=-9
+volume=3.970966
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_C#5.wav
+pitch_keycenter=85
+lokey=85
+hikey=86
+volume=21.254304
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_C#5.wav
+pitch_keycenter=85
+lokey=85
+hikey=86
+offset=45
+tune=-14
+volume=8.571677
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_D#5.wav
+pitch_keycenter=87
+lokey=87
+hikey=88
+volume=21.711327
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_D#5.wav
+pitch_keycenter=87
+lokey=87
+hikey=88
+offset=36
+tune=-6
+volume=10.341835
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_F5.wav
+pitch_keycenter=89
+lokey=89
+hikey=90
+volume=22.093996
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_F5.wav
+pitch_keycenter=89
+lokey=89
+hikey=90
+offset=36
+tune=-13
+volume=7.257663
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_G5.wav
+pitch_keycenter=91
+lokey=91
+hikey=92
+tune=-15
+volume=16.698551
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_G5.wav
+pitch_keycenter=91
+lokey=91
+hikey=92
+offset=30
+tune=-12
+volume=3.659914
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_A5.wav
+pitch_keycenter=93
+lokey=93
+hikey=94
+tune=-11
+volume=20.195385
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_A5.wav
+pitch_keycenter=93
+lokey=93
+hikey=94
+offset=33
+tune=-11
+volume=11.246929
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_B5.wav
+pitch_keycenter=95
+lokey=95
+hikey=96
+offset=2
+volume=21.167293
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_B5.wav
+pitch_keycenter=95
+lokey=95
+hikey=96
+offset=20
+tune=-13
+volume=10.755345
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_C#6.wav
+pitch_keycenter=97
+lokey=97
+hikey=98
+offset=5
+tune=-11
+volume=11.679822
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_C#6.wav
+pitch_keycenter=97
+lokey=97
+hikey=98
+offset=30
+tune=-15
+volume=8.270212
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_D#6.wav
+pitch_keycenter=99
+lokey=99
+hikey=100
+volume=19.764448
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_D#6.wav
+pitch_keycenter=99
+lokey=99
+hikey=100
+offset=29
+tune=-29
+volume=12.580966
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_F6.wav
+pitch_keycenter=101
+lokey=101
+hikey=102
+tune=-72
+volume=18.726492
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_F6.wav
+pitch_keycenter=101
+lokey=101
+hikey=102
+offset=26
+tune=-45
+volume=13.832113
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_G6.wav
+pitch_keycenter=103
+lokey=103
+hikey=104
+volume=17.618270
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_G6.wav
+pitch_keycenter=103
+lokey=103
+hikey=104
+offset=27
+tune=-37
+volume=11.197131
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_A6.wav
+pitch_keycenter=105
+lokey=105
+hikey=106
+offset=16
+tune=-45
+volume=16.143244
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_A6.wav
+pitch_keycenter=105
+lokey=105
+hikey=106
+offset=25
+tune=-37
+volume=9.861760
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_B6.wav
+pitch_keycenter=107
+lokey=107
+hikey=107
+offset=24
+volume=10.745283
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_B6.wav
+pitch_keycenter=107
+lokey=107
+hikey=107
+offset=28
+tune=-43
+volume=10.159665
+
+<region>
+lovel=0
+hivel=83
+sample=Upright Piano, Knight/Sustains/Player_vl1_rr1_C7.wav
+pitch_keycenter=108
+lokey=108
+hikey=109
+offset=34
+volume=13.721507
+
+<region>
+lovel=84
+hivel=127
+sample=Upright Piano, Knight/Sustains/Player_vl2_rr1_C7.wav
+pitch_keycenter=108
+lokey=108
+hikey=109
+offset=27
+volume=10.355329
+
+<group>
+trigger=release
+ampeg_attack=0.100000
+rt_decay=2
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_A-1.wav
+pitch_keycenter=21
+lokey=21
+hikey=22
+tune=-3
+volume=-8.389517
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_B-1.wav
+pitch_keycenter=23
+lokey=23
+hikey=24
+tune=-39
+volume=-3.826186
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_C#0.wav
+pitch_keycenter=25
+lokey=25
+hikey=26
+tune=11
+volume=-3.780470
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_D#0.wav
+pitch_keycenter=27
+lokey=27
+hikey=28
+tune=8
+volume=-5.347043
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_F0.wav
+pitch_keycenter=29
+lokey=29
+hikey=30
+tune=-4
+volume=-4.438419
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_G0.wav
+pitch_keycenter=31
+lokey=31
+hikey=32
+tune=2
+volume=-2.659154
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_A0.wav
+pitch_keycenter=33
+lokey=33
+hikey=34
+tune=6
+volume=-7.258629
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_B0.wav
+pitch_keycenter=35
+lokey=35
+hikey=36
+tune=3
+volume=-3.315393
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_C#1.wav
+pitch_keycenter=37
+lokey=37
+hikey=38
+tune=8
+volume=-4.055729
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_D#1.wav
+pitch_keycenter=39
+lokey=39
+hikey=40
+tune=-3
+volume=-5.249149
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_F1.wav
+pitch_keycenter=41
+lokey=41
+hikey=42
+tune=-11
+volume=-0.517805
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_G1.wav
+pitch_keycenter=43
+lokey=43
+hikey=44
+tune=-12
+volume=-8.845829
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_A1.wav
+pitch_keycenter=45
+lokey=45
+hikey=46
+tune=6
+volume=-7.976634
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_B1.wav
+pitch_keycenter=47
+lokey=47
+hikey=48
+tune=-2
+volume=2.058051
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_C#2.wav
+pitch_keycenter=49
+lokey=49
+hikey=50
+tune=-2
+volume=-1.580702
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_D#2.wav
+pitch_keycenter=51
+lokey=51
+hikey=52
+tune=-5
+volume=-11.008915
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_F2.wav
+pitch_keycenter=53
+lokey=53
+hikey=54
+tune=-8
+volume=-1.367930
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_G2.wav
+pitch_keycenter=55
+lokey=55
+hikey=56
+tune=-3
+volume=-5.564089
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_A2.wav
+pitch_keycenter=57
+lokey=57
+hikey=58
+tune=-7
+volume=-4.251276
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_B2.wav
+pitch_keycenter=59
+lokey=59
+hikey=60
+tune=-5
+volume=-4.469175
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_C#3.wav
+pitch_keycenter=61
+lokey=61
+hikey=62
+tune=-5
+volume=-3.106311
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_D#3.wav
+pitch_keycenter=63
+lokey=63
+hikey=64
+tune=-6
+volume=-5.984240
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_F3.wav
+pitch_keycenter=65
+lokey=65
+hikey=66
+tune=-9
+volume=-2.033088
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_G3.wav
+pitch_keycenter=67
+lokey=67
+hikey=68
+tune=-3
+volume=-8.728796
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_A3.wav
+pitch_keycenter=69
+lokey=69
+hikey=70
+tune=-6
+volume=0.213490
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_B3.wav
+pitch_keycenter=71
+lokey=71
+hikey=72
+tune=-9
+volume=-6.610518
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_C#4.wav
+pitch_keycenter=73
+lokey=73
+hikey=74
+volume=-5.579862
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_D#4.wav
+pitch_keycenter=75
+lokey=75
+hikey=76
+volume=-4.620701
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_F4.wav
+pitch_keycenter=77
+lokey=77
+hikey=78
+tune=-43
+volume=2.231201
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_G4.wav
+pitch_keycenter=79
+lokey=79
+hikey=80
+tune=-10
+volume=-6.168557
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_A4.wav
+pitch_keycenter=81
+lokey=81
+hikey=82
+tune=-43
+volume=-4.446248
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_B4.wav
+pitch_keycenter=83
+lokey=83
+hikey=84
+tune=-11
+volume=-8.160571
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_C#5.wav
+pitch_keycenter=85
+lokey=85
+hikey=86
+tune=-20
+volume=-5.722443
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_D#5.wav
+pitch_keycenter=87
+lokey=87
+hikey=88
+tune=-14
+volume=-2.062333
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_F5.wav
+pitch_keycenter=89
+lokey=89
+hikey=90
+tune=-19
+volume=-3.259175
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_G5.wav
+pitch_keycenter=91
+lokey=91
+hikey=92
+tune=-19
+volume=-8.956888
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_A5.wav
+pitch_keycenter=93
+lokey=93
+hikey=94
+tune=-39
+volume=-1.179475
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_B5.wav
+pitch_keycenter=95
+lokey=95
+hikey=96
+volume=-2.487765
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_C#6.wav
+pitch_keycenter=97
+lokey=97
+hikey=98
+tune=-73
+volume=-4.211358
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_D#6.wav
+pitch_keycenter=99
+lokey=99
+hikey=100
+volume=-2.843893
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_F6.wav
+pitch_keycenter=101
+lokey=101
+hikey=102
+offset=25
+volume=-7.520187
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_G6.wav
+pitch_keycenter=103
+lokey=103
+hikey=104
+offset=1320
+volume=-7.525712
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_A6.wav
+pitch_keycenter=105
+lokey=105
+hikey=106
+volume=1.116547
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_B6.wav
+pitch_keycenter=107
+lokey=107
+hikey=107
+volume=-5.831956
+
+<region>
+sample=Upright Piano, Knight/Releases/Player_rel_rr1_C7.wav
+pitch_keycenter=108
+lokey=108
+hikey=109
+offset=95
+volume=-6.134833
+
+
+<group>
+on_locc64=65
+on_hicc64=127
+pitch_keytrack=0
+amp_veltrack=0
+seq_length=4
+
+<region>
+sample=Upright Piano, Knight/Pedal/On/Player_PedOn_000.wav
+seq_position=1
+
+<region>
+sample=Upright Piano, Knight/Pedal/On/Player_PedOn_001.wav
+seq_position=2
+
+<region>
+sample=Upright Piano, Knight/Pedal/On/Player_PedOn_002.wav
+seq_position=3
+
+<region>
+sample=Upright Piano, Knight/Pedal/On/Player_PedOn_003.wav
+seq_position=4
+
+
+<group>
+on_locc64=0
+on_hicc64=64
+pitch_keytrack=0
+amp_veltrack=0
+seq_length=4
+
+<region>
+sample=Upright Piano, Knight/Pedal/Off/Player_PedOff_000.wav
+seq_position=1
+volume=-4
+
+<region>
+sample=Upright Piano, Knight/Pedal/Off/Player_PedOff_001.wav
+seq_position=2
+offset=15228
+
+<region>
+sample=Upright Piano, Knight/Pedal/Off/Player_PedOff_002.wav
+seq_position=3
+volume=-4
+
+<region>
+sample=Upright Piano, Knight/Pedal/Off/Player_PedOff_003.wav
+seq_position=4
+offset=12973
+volume=-4
+

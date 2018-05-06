@@ -1,0 +1,211 @@
+// Generation Options: --unpitched --release 2 --volume 15
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=2.000000
+
+<region>
+sample=Suspended Cymbal 2/susCymb2_bowed_2.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=20.000000
+
+<region>
+sample=Suspended Cymbal 2/susCymb2_bowed_4.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+volume=20.000000
+
+<region>
+sample=Suspended Cymbal 2/susCymb2_bowed_6.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+volume=20.000000
+
+<region>
+sample=Suspended Cymbal 2/susCymb2_cresc_2.5s2.wav
+pitch_keycenter=63
+lokey=63
+hikey=63
+offset=12247
+volume=15.000000
+
+<region>
+sample=Suspended Cymbal 2/susCymb2_cresc_4s.wav
+pitch_keycenter=64
+lokey=64
+hikey=64
+offset=33407
+volume=15.000000
+
+<region>
+sample=Suspended Cymbal 2/susCymb2_cresc_7s.wav
+pitch_keycenter=65
+lokey=65
+hikey=65
+offset=19202
+volume=15.000000
+
+<region>
+lovel=0
+hivel=47
+sample=Suspended Cymbal 2/susCymb2_hit_pp1.wav
+pitch_keycenter=66
+lokey=66
+hikey=66
+volume=41.274410
+
+<region>
+lovel=48
+hivel=72
+sample=Suspended Cymbal 2/susCymb2_hit_mp1.wav
+pitch_keycenter=66
+lokey=66
+hikey=66
+volume=27.147215
+
+<region>
+lovel=73
+hivel=93
+sample=Suspended Cymbal 2/susCymb2_hit_mf1.wav
+pitch_keycenter=66
+lokey=66
+hikey=66
+volume=21.874874
+
+<region>
+lovel=94
+hivel=110
+sample=Suspended Cymbal 2/susCymb2_hit_f1.wav
+pitch_keycenter=66
+lokey=66
+hikey=66
+volume=15.008093
+
+<region>
+lovel=111
+hivel=127
+sample=Suspended Cymbal 2/susCymb2_hit_fff1.wav
+pitch_keycenter=66
+lokey=66
+hikey=66
+volume=4.756351
+
+<region>
+lovel=0
+hivel=83
+sample=Suspended Cymbal 2/susCymb2_hit_bell_p1.wav
+pitch_keycenter=67
+lokey=67
+hikey=67
+volume=23.955377
+
+<region>
+lovel=84
+hivel=127
+sample=Suspended Cymbal 2/susCymb2_hit_bell_f1.wav
+pitch_keycenter=67
+lokey=67
+hikey=67
+volume=10.685351
+
+<region>
+lovel=0
+hivel=65
+sample=Suspended Cymbal 2/susCymb2_hit_stick_pp1.wav
+pitch_keycenter=68
+lokey=68
+hikey=68
+volume=29.019110
+
+<region>
+lovel=66
+hivel=99
+sample=Suspended Cymbal 2/susCymb2_hit_stick_mp1.wav
+pitch_keycenter=68
+lokey=68
+hikey=68
+volume=17.485957
+
+<region>
+lovel=100
+hivel=127
+sample=Suspended Cymbal 2/susCymb2_hit_stick_mf1.wav
+pitch_keycenter=68
+lokey=68
+hikey=68
+volume=8.765750
+
+<region>
+lovel=0
+hivel=65
+sample=Suspended Cymbal 2/susCymb2_roll_pp1_nloop.wav
+pitch_keycenter=69
+lokey=69
+hikey=69
+offset=341
+volume=32.192760
+
+<region>
+lovel=66
+hivel=99
+sample=Suspended Cymbal 2/susCymb2_roll_f1_nloop.wav
+pitch_keycenter=69
+lokey=69
+hikey=69
+offset=2057
+volume=16.513914
+
+<region>
+lovel=100
+hivel=127
+sample=Suspended Cymbal 2/susCymb2_roll_fff1_nloop.wav
+pitch_keycenter=69
+lokey=69
+hikey=69
+offset=651
+volume=8.885244
+
+<region>
+lovel=0
+hivel=65
+sample=Suspended Cymbal 2/susCymb2_roll_pp1_rel.wav
+pitch_keycenter=69
+lokey=69
+hikey=69
+volume=32.399395
+trigger=release
+ampeg_attack=0.2
+
+<region>
+lovel=66
+hivel=99
+sample=Suspended Cymbal 2/susCymb2_roll_f1_rel.wav
+pitch_keycenter=69
+lokey=69
+hikey=69
+volume=17.622480
+trigger=release
+ampeg_attack=0.2
+
+<region>
+lovel=100
+hivel=127
+sample=Suspended Cymbal 2/susCymb2_roll_fff1_rel.wav
+pitch_keycenter=69
+lokey=69
+hikey=69
+volume=8.449960
+trigger=release
+ampeg_attack=0.2
+
+<region>
+sample=Suspended Cymbal 2/susCymb2_scrape_2.wav
+pitch_keycenter=70
+lokey=70
+hikey=70
+volume=15.000000
+

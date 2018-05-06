@@ -260,7 +260,7 @@ def writeArticulation(articulation, outfile, isSustain, isRelease):
             
             # Loop over round robins for each layer.
             
-            rrs = [s for s in samples if s.layer == layer]
+            rrs = sorted([s for s in samples if s.layer == layer], key=lambda x: x.rr)
             for rrIndex, sample in enumerate(rrs):
                 print('<region>', file=outfile)
                 if len(rrs) > 1:

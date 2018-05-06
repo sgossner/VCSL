@@ -1,8 +1,8 @@
-// Generation Options: --crossfade --release 15
+// Generation Options: --crossfade --release 30 --volume 10
 
 <group>
 ampeg_attack=0.004000
-ampeg_release=15.000000
+ampeg_release=30.000000
 
 <region>
 xfout_lovel=70
@@ -12,7 +12,7 @@ pitch_keycenter=36
 lokey=36
 hikey=37
 tune=-7
-volume=14.926296
+volume=24.926296
 
 <region>
 xfin_lovel=70
@@ -22,7 +22,7 @@ pitch_keycenter=36
 lokey=36
 hikey=37
 tune=-41
-volume=-0.112356
+volume=9.887644
 
 <region>
 xfout_lovel=70
@@ -32,7 +32,7 @@ pitch_keycenter=38
 lokey=38
 hikey=39
 tune=-4
-volume=5.839160
+volume=15.839160
 
 <region>
 xfin_lovel=70
@@ -42,7 +42,7 @@ pitch_keycenter=38
 lokey=38
 hikey=39
 tune=-11
-volume=-2.752146
+volume=7.247854
 
 <region>
 xfout_lovel=70
@@ -52,7 +52,7 @@ pitch_keycenter=40
 lokey=40
 hikey=41
 tune=-8
-volume=2.926927
+volume=12.926927
 
 <region>
 xfin_lovel=70
@@ -62,7 +62,7 @@ pitch_keycenter=40
 lokey=40
 hikey=41
 tune=-19
-volume=-8.299527
+volume=1.700473
 
 <region>
 xfout_lovel=70
@@ -72,7 +72,7 @@ pitch_keycenter=42
 lokey=42
 hikey=43
 tune=-2
-volume=6.339891
+volume=16.339891
 
 <region>
 xfin_lovel=70
@@ -82,7 +82,7 @@ pitch_keycenter=42
 lokey=42
 hikey=43
 tune=-9
-volume=0.181566
+volume=10.181566
 
 <region>
 xfout_lovel=70
@@ -92,7 +92,7 @@ pitch_keycenter=44
 lokey=44
 hikey=45
 tune=-1
-volume=14.189832
+volume=24.189832
 
 <region>
 xfin_lovel=70
@@ -102,7 +102,7 @@ pitch_keycenter=44
 lokey=44
 hikey=45
 tune=-11
-volume=-0.684726
+volume=7.315274
 
 <region>
 xfout_lovel=70
@@ -111,7 +111,7 @@ sample=Folk Harp/EWHarp_Normal_A#1_v2_RR1.wav
 pitch_keycenter=46
 lokey=46
 hikey=47
-volume=14.521607
+volume=24.521607
 
 <region>
 xfin_lovel=70
@@ -121,7 +121,7 @@ pitch_keycenter=46
 lokey=46
 hikey=47
 tune=-5
-volume=-2.054873
+volume=7.945127
 
 <region>
 xfout_lovel=70
@@ -130,7 +130,7 @@ sample=Folk Harp/EWHarp_Normal_C2_v2_RR1.wav
 pitch_keycenter=48
 lokey=48
 hikey=49
-volume=7.221299
+volume=17.221299
 
 <region>
 xfin_lovel=70
@@ -140,7 +140,7 @@ pitch_keycenter=48
 lokey=48
 hikey=49
 tune=-9
-volume=-12.857059
+volume=-2.857059
 
 <region>
 xfout_lovel=70
@@ -149,7 +149,7 @@ sample=Folk Harp/EWHarp_Normal_D2_v2_RR1.wav
 pitch_keycenter=50
 lokey=50
 hikey=51
-volume=13.936936
+volume=23.936936
 
 <region>
 xfin_lovel=70
@@ -159,7 +159,7 @@ pitch_keycenter=50
 lokey=50
 hikey=51
 tune=-1
-volume=-0.041518
+volume=9.958482
 
 <region>
 xfout_lovel=70
@@ -168,7 +168,7 @@ sample=Folk Harp/EWHarp_Normal_E2_v2_RR1.wav
 pitch_keycenter=52
 lokey=52
 hikey=53
-volume=12.477942
+volume=22.477942
 
 <region>
 xfin_lovel=70
@@ -178,7 +178,7 @@ pitch_keycenter=52
 lokey=52
 hikey=53
 tune=-8
-volume=1.671092
+volume=7.671092
 
 <region>
 xfout_lovel=70
@@ -187,7 +187,7 @@ sample=Folk Harp/EWHarp_Normal_F#2_v2_RR1.wav
 pitch_keycenter=54
 lokey=54
 hikey=55
-volume=7.777567
+volume=17.777567
 
 <region>
 xfin_lovel=70
@@ -197,7 +197,7 @@ pitch_keycenter=54
 lokey=54
 hikey=55
 tune=-5
-volume=-4.058035
+volume=4.941965
 
 <region>
 xfout_lovel=70
@@ -207,7 +207,7 @@ pitch_keycenter=56
 lokey=56
 hikey=57
 tune=-2
-volume=6.518966
+volume=16.518966
 
 <region>
 xfin_lovel=70
@@ -217,7 +217,7 @@ pitch_keycenter=56
 lokey=56
 hikey=57
 tune=-7
-volume=-3.519720
+volume=6.480280
 
 <region>
 xfout_lovel=70
@@ -226,7 +226,7 @@ sample=Folk Harp/EWHarp_Normal_A#2_v2_RR1.wav
 pitch_keycenter=58
 lokey=58
 hikey=59
-volume=6.099628
+volume=16.099628
 
 <region>
 xfin_lovel=70
@@ -236,7 +236,7 @@ pitch_keycenter=58
 lokey=58
 hikey=59
 tune=-6
-volume=-2.500378
+volume=7.499622
 
 <region>
 xfout_lovel=70
@@ -246,7 +246,7 @@ pitch_keycenter=60
 lokey=60
 hikey=61
 tune=-2
-volume=13.294183
+volume=23.294183
 
 <region>
 xfin_lovel=70
@@ -256,7 +256,7 @@ pitch_keycenter=60
 lokey=60
 hikey=61
 tune=-4
-volume=-5.377577
+volume=1.622423
 
 <region>
 xfout_lovel=70
@@ -266,7 +266,7 @@ pitch_keycenter=62
 lokey=62
 hikey=63
 tune=-1
-volume=14.529100
+volume=24.529100
 
 <region>
 xfin_lovel=70
@@ -276,7 +276,7 @@ pitch_keycenter=62
 lokey=62
 hikey=63
 tune=-3
-volume=-3.824498
+volume=6.175502
 
 <region>
 xfout_lovel=70
@@ -286,7 +286,7 @@ pitch_keycenter=64
 lokey=64
 hikey=65
 tune=-3
-volume=5.812168
+volume=15.812168
 
 <region>
 xfin_lovel=70
@@ -296,7 +296,7 @@ pitch_keycenter=64
 lokey=64
 hikey=65
 tune=-6
-volume=-8.598705
+volume=1.401295
 
 <region>
 xfout_lovel=70
@@ -306,7 +306,7 @@ pitch_keycenter=66
 lokey=66
 hikey=67
 tune=-7
-volume=14.960702
+volume=24.960702
 
 <region>
 xfin_lovel=70
@@ -315,7 +315,7 @@ sample=Folk Harp/EWHarp_Normal_F#3_v3_RR1.wav
 pitch_keycenter=66
 lokey=66
 hikey=67
-volume=-5.489190
+volume=4.510810
 
 <region>
 xfout_lovel=70
@@ -325,7 +325,7 @@ pitch_keycenter=68
 lokey=68
 hikey=69
 tune=-3
-volume=19.805447
+volume=29.805447
 
 <region>
 xfin_lovel=70
@@ -335,7 +335,7 @@ pitch_keycenter=68
 lokey=68
 hikey=69
 tune=-6
-volume=1.623642
+volume=6.623642
 
 <region>
 xfout_lovel=70
@@ -345,7 +345,7 @@ pitch_keycenter=70
 lokey=70
 hikey=71
 tune=-2
-volume=1.823563
+volume=11.823563
 
 <region>
 xfin_lovel=70
@@ -355,7 +355,7 @@ pitch_keycenter=70
 lokey=70
 hikey=71
 tune=-4
-volume=-6.149399
+volume=3.850601
 
 <region>
 xfout_lovel=70
@@ -364,7 +364,7 @@ sample=Folk Harp/EWHarp_Normal_C4_v2_RR1.wav
 pitch_keycenter=72
 lokey=72
 hikey=73
-volume=16.162176
+volume=25.162176
 
 <region>
 xfin_lovel=70
@@ -374,7 +374,7 @@ pitch_keycenter=72
 lokey=72
 hikey=73
 tune=3
-volume=1.478148
+volume=9.478148
 
 <region>
 xfout_lovel=70
@@ -384,7 +384,7 @@ pitch_keycenter=74
 lokey=74
 hikey=75
 tune=-3
-volume=18.229904
+volume=28.229904
 
 <region>
 xfin_lovel=70
@@ -394,7 +394,7 @@ pitch_keycenter=74
 lokey=74
 hikey=75
 tune=-5
-volume=-7.257069
+volume=2.742931
 
 <region>
 xfout_lovel=70
@@ -404,7 +404,7 @@ pitch_keycenter=76
 lokey=76
 hikey=77
 tune=3
-volume=4.077761
+volume=14.077761
 
 <region>
 xfin_lovel=70
@@ -414,7 +414,7 @@ pitch_keycenter=76
 lokey=76
 hikey=77
 tune=2
-volume=-5.600466
+volume=4.399534
 
 <region>
 xfout_lovel=70
@@ -424,7 +424,7 @@ pitch_keycenter=78
 lokey=78
 hikey=79
 tune=-2
-volume=12.668239
+volume=22.668239
 
 <region>
 xfin_lovel=70
@@ -434,7 +434,7 @@ pitch_keycenter=78
 lokey=78
 hikey=79
 tune=-4
-volume=-2.367534
+volume=7.632466
 
 <region>
 xfout_lovel=70
@@ -444,7 +444,7 @@ pitch_keycenter=80
 lokey=80
 hikey=81
 tune=-4
-volume=6.321129
+volume=16.321129
 
 <region>
 xfin_lovel=70
@@ -454,7 +454,7 @@ pitch_keycenter=80
 lokey=80
 hikey=81
 tune=-11
-volume=1.061676
+volume=11.061676
 
 <region>
 xfout_lovel=70
@@ -464,7 +464,7 @@ pitch_keycenter=82
 lokey=82
 hikey=83
 tune=1
-volume=5.124669
+volume=15.124669
 
 <region>
 xfin_lovel=70
@@ -474,7 +474,7 @@ pitch_keycenter=82
 lokey=82
 hikey=83
 tune=-6
-volume=-8.883520
+volume=1.116480
 
 <region>
 xfout_lovel=70
@@ -484,7 +484,7 @@ pitch_keycenter=84
 lokey=84
 hikey=85
 tune=-4
-volume=7.482124
+volume=17.482124
 
 <region>
 xfin_lovel=70
@@ -494,7 +494,7 @@ pitch_keycenter=84
 lokey=84
 hikey=85
 tune=-9
-volume=-0.187024
+volume=9.812976
 
 <region>
 xfout_lovel=70
@@ -504,7 +504,7 @@ pitch_keycenter=86
 lokey=86
 hikey=87
 tune=-7
-volume=13.557080
+volume=23.557080
 
 <region>
 xfin_lovel=70
@@ -514,7 +514,7 @@ pitch_keycenter=86
 lokey=86
 hikey=87
 tune=-11
-volume=-3.540588
+volume=6.459412
 
 <region>
 xfout_lovel=70
@@ -523,7 +523,7 @@ sample=Folk Harp/EWHarp_Normal_E5_v2_RR1.wav
 pitch_keycenter=88
 lokey=88
 hikey=89
-volume=4.803390
+volume=14.803390
 
 <region>
 xfin_lovel=70
@@ -532,7 +532,7 @@ sample=Folk Harp/EWHarp_Normal_E5_v3_RR1.wav
 pitch_keycenter=88
 lokey=88
 hikey=89
-volume=1.897952
+volume=11.897952
 
 <region>
 xfout_lovel=70
@@ -541,7 +541,7 @@ sample=Folk Harp/EWHarp_Normal_F#5_v2_RR1.wav
 pitch_keycenter=90
 lokey=90
 hikey=91
-volume=3.395851
+volume=13.395851
 
 <region>
 xfin_lovel=70
@@ -551,7 +551,7 @@ pitch_keycenter=90
 lokey=90
 hikey=91
 tune=-4
-volume=-4.411585
+volume=5.588415
 
 <region>
 xfout_lovel=70
@@ -560,7 +560,7 @@ sample=Folk Harp/EWHarp_Normal_G#5_v2_RR1.wav
 pitch_keycenter=92
 lokey=92
 hikey=93
-volume=4.939987
+volume=14.939987
 
 <region>
 xfin_lovel=70
@@ -570,5 +570,5 @@ pitch_keycenter=92
 lokey=92
 hikey=93
 tune=-5
-volume=-6.025772
+volume=3.974228
 

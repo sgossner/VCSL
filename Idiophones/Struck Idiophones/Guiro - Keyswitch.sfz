@@ -5,7 +5,7 @@ sw_default=48
 sw_lokey=48
 sw_hikey=50
 sw_last=48
-sw_label=
+sw_label=Normal
 ampeg_attack=0.004000
 ampeg_release=30.000000
 

@@ -1,0 +1,59 @@
+// Generation Options: --unpitched
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=10
+
+<region>
+seq_length=4
+seq_position=1
+sample=Tambourine 4 - Legacy/tamb2_rr4.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=-0.307161
+
+<region>
+seq_length=4
+seq_position=2
+sample=Tambourine 4 - Legacy/tamb2_rr2.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=-3.347457
+
+<region>
+seq_length=4
+seq_position=3
+sample=Tambourine 4 - Legacy/tamb2_rr3.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+offset=179
+volume=0.621734
+
+<region>
+seq_length=4
+seq_position=4
+sample=Tambourine 4 - Legacy/tamb2_rr1.wav
+pitch_keycenter=60
+lokey=60
+hikey=60
+volume=4.991465
+
+<region>
+sample=Tambourine 4 - Legacy/tamb2_rollFast.wav
+pitch_keycenter=61
+lokey=61
+hikey=61
+volume=0.000000
+ampeg_release=0.3
+
+<region>
+sample=Tambourine 4 - Legacy/tamb2_rollSlow.wav
+pitch_keycenter=62
+lokey=62
+hikey=62
+volume=0.000000
+ampeg_release=0.3
+

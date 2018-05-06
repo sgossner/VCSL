@@ -1,8 +1,8 @@
-// Generation Options: --crossfade --release 15 --transpose 12
+// Generation Options: --crossfade --release 30 --transpose 12 --volume 12
 
 <group>
 ampeg_attack=0.004000
-ampeg_release=15.000000
+ampeg_release=30.000000
 
 <region>
 sample=Concert Harp/KSHarp_E1_f1.wav
@@ -11,7 +11,7 @@ lokey=28
 hikey=29
 offset=453
 tune=22
-volume=-0.794483
+volume=11.205517
 
 <region>
 xfout_lovel=70
@@ -21,7 +21,7 @@ pitch_keycenter=31
 lokey=30
 hikey=33
 tune=22
-volume=21.799319
+volume=33.799319
 
 <region>
 xfin_lovel=70
@@ -32,7 +32,7 @@ lokey=30
 hikey=33
 offset=148
 tune=20
-volume=1.816520
+volume=13.816520
 
 <region>
 xfout_lovel=70
@@ -43,7 +43,7 @@ lokey=34
 hikey=36
 offset=420
 tune=14
-volume=9.199185
+volume=21.199185
 
 <region>
 xfin_lovel=70
@@ -54,7 +54,7 @@ lokey=34
 hikey=36
 offset=909
 tune=10
-volume=-3.122986
+volume=8.877014
 
 <region>
 xfout_lovel=70
@@ -65,7 +65,7 @@ lokey=37
 hikey=39
 offset=1241
 tune=5
-volume=6.750459
+volume=18.750459
 
 <region>
 xfin_lovel=70
@@ -76,7 +76,7 @@ lokey=37
 hikey=39
 offset=1978
 tune=2
-volume=-8.110362
+volume=3.889638
 
 <region>
 xfout_lovel=70
@@ -87,7 +87,7 @@ lokey=40
 hikey=43
 offset=529
 tune=7
-volume=12.846014
+volume=24.846014
 
 <region>
 xfin_lovel=70
@@ -98,7 +98,7 @@ lokey=40
 hikey=43
 offset=1959
 tune=4
-volume=0.582499
+volume=12.582499
 
 <region>
 xfout_lovel=70
@@ -108,7 +108,7 @@ pitch_keycenter=45
 lokey=44
 hikey=46
 tune=2
-volume=4.505365
+volume=16.505365
 
 <region>
 xfin_lovel=70
@@ -119,7 +119,7 @@ lokey=44
 hikey=46
 offset=2228
 tune=-1
-volume=-5.886005
+volume=6.113995
 
 <region>
 xfout_lovel=70
@@ -129,7 +129,7 @@ pitch_keycenter=48
 lokey=47
 hikey=50
 tune=1
-volume=7.639021
+volume=19.639021
 
 <region>
 xfin_lovel=70
@@ -139,7 +139,7 @@ pitch_keycenter=48
 lokey=47
 hikey=50
 offset=2298
-volume=-5.476224
+volume=6.523776
 
 <region>
 xfout_lovel=70
@@ -150,7 +150,7 @@ lokey=51
 hikey=53
 offset=2011
 tune=2
-volume=7.761176
+volume=19.761176
 
 <region>
 xfin_lovel=70
@@ -161,7 +161,7 @@ lokey=51
 hikey=53
 offset=2221
 tune=-3
-volume=1.379737
+volume=13.379737
 
 <region>
 xfout_lovel=70
@@ -172,7 +172,7 @@ lokey=54
 hikey=57
 offset=2805
 tune=1
-volume=2.065751
+volume=14.065751
 
 <region>
 xfin_lovel=70
@@ -183,7 +183,7 @@ lokey=54
 hikey=57
 offset=2625
 tune=-3
-volume=-3.705968
+volume=8.294032
 
 <region>
 xfout_lovel=70
@@ -194,7 +194,7 @@ lokey=58
 hikey=60
 offset=1341
 tune=8
-volume=1.853713
+volume=13.853713
 
 <region>
 xfin_lovel=70
@@ -205,7 +205,7 @@ lokey=58
 hikey=60
 offset=856
 tune=1
-volume=-1.216832
+volume=10.783168
 
 <region>
 xfout_lovel=70
@@ -216,7 +216,7 @@ lokey=61
 hikey=63
 offset=957
 tune=7
-volume=3.002996
+volume=15.002996
 
 <region>
 xfin_lovel=70
@@ -227,7 +227,7 @@ lokey=61
 hikey=63
 offset=994
 tune=-4
-volume=-2.460145
+volume=9.539855
 
 <region>
 xfout_lovel=70
@@ -238,7 +238,7 @@ lokey=64
 hikey=67
 offset=453
 tune=1
-volume=-0.454987
+volume=14.545013
 
 <region>
 xfin_lovel=70
@@ -248,7 +248,7 @@ pitch_keycenter=65
 lokey=64
 hikey=67
 offset=676
-volume=-4.574121
+volume=10.425879
 
 <region>
 xfout_lovel=70
@@ -259,7 +259,7 @@ lokey=68
 hikey=70
 offset=748
 tune=19
-volume=7.932846
+volume=15.932846
 
 <region>
 xfin_lovel=70
@@ -270,7 +270,7 @@ lokey=68
 hikey=70
 offset=755
 tune=10
-volume=3.111107
+volume=11.111107
 
 <region>
 xfout_lovel=70
@@ -281,7 +281,7 @@ lokey=71
 hikey=74
 offset=953
 tune=12
-volume=1.282487
+volume=13.282487
 
 <region>
 xfin_lovel=70
@@ -292,7 +292,7 @@ lokey=71
 hikey=74
 offset=1003
 tune=3
-volume=-3.334617
+volume=8.665383
 
 <region>
 xfout_lovel=70
@@ -303,7 +303,7 @@ lokey=75
 hikey=77
 offset=921
 tune=11
-volume=-2.437895
+volume=9.562105
 
 <region>
 xfin_lovel=70
@@ -314,7 +314,7 @@ lokey=75
 hikey=77
 offset=1445
 tune=6
-volume=-5.708361
+volume=6.291639
 
 <region>
 xfout_lovel=70
@@ -325,7 +325,7 @@ lokey=78
 hikey=81
 offset=769
 tune=10
-volume=4.809883
+volume=13.809883
 
 <region>
 xfin_lovel=70
@@ -336,7 +336,7 @@ lokey=78
 hikey=81
 offset=549
 tune=6
-volume=3.597898
+volume=12.597898
 
 <region>
 xfout_lovel=70
@@ -347,7 +347,7 @@ lokey=82
 hikey=84
 offset=788
 tune=5
-volume=1.839091
+volume=10.839091
 
 <region>
 xfin_lovel=70
@@ -358,7 +358,7 @@ lokey=82
 hikey=84
 offset=727
 tune=3
-volume=6.437033
+volume=15.437033
 
 <region>
 xfout_lovel=70
@@ -369,7 +369,7 @@ lokey=85
 hikey=87
 offset=740
 tune=5
-volume=0.784993
+volume=14.784993
 
 <region>
 xfin_lovel=70
@@ -380,7 +380,7 @@ lokey=85
 hikey=87
 offset=1774
 tune=8
-volume=-4.946330
+volume=9.053670
 
 <region>
 xfout_lovel=70
@@ -391,7 +391,7 @@ lokey=88
 hikey=91
 offset=272
 tune=11
-volume=4.406056
+volume=16.406056
 
 <region>
 xfin_lovel=70
@@ -401,7 +401,7 @@ pitch_keycenter=89
 lokey=88
 hikey=91
 offset=1059
-volume=-4.135791
+volume=7.864209
 
 <region>
 xfout_lovel=70
@@ -412,7 +412,7 @@ lokey=92
 hikey=94
 offset=1180
 tune=17
-volume=4.756118
+volume=16.756118
 
 <region>
 xfin_lovel=70
@@ -423,7 +423,7 @@ lokey=92
 hikey=94
 offset=696
 tune=8
-volume=-0.098126
+volume=11.901874
 
 <region>
 xfout_lovel=70
@@ -433,7 +433,7 @@ pitch_keycenter=95
 lokey=95
 hikey=96
 offset=659
-volume=5.981156
+volume=17.981156
 
 <region>
 xfin_lovel=70
@@ -444,7 +444,7 @@ lokey=95
 hikey=96
 offset=1008
 tune=8
-volume=-4.955837
+volume=7.044163
 
 <region>
 xfout_lovel=70
@@ -455,7 +455,7 @@ lokey=97
 hikey=99
 offset=174
 tune=-4
-volume=21.261830
+volume=33.261830
 
 <region>
 xfin_lovel=70
@@ -466,7 +466,7 @@ lokey=97
 hikey=99
 offset=510
 tune=9
-volume=-4.375686
+volume=7.624314
 
 <region>
 xfout_lovel=70
@@ -477,7 +477,7 @@ lokey=100
 hikey=102
 offset=359
 tune=3
-volume=17.414672
+volume=29.414672
 
 <region>
 xfin_lovel=70
@@ -488,5 +488,5 @@ lokey=100
 hikey=102
 offset=1426
 tune=22
-volume=0.165235
+volume=12.165235
 

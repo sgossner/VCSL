@@ -1,0 +1,605 @@
+// Generation Options: --volume 15 --release 0.5 --articulation Loud
+
+<group>
+sw_default=100
+sw_lokey=100
+sw_hikey=104
+sw_last=100
+sw_label=Loud
+ampeg_attack=0.004000
+ampeg_release=0.500000
+amp_veltrack=0
+
+<region>
+sample=Pipe Organ/Loud/Rode_Man3Open_C1.wav
+pitch_keycenter=36
+lokey=36
+hikey=37
+offset=1986
+tune=-2
+volume=15.814443
+
+<region>
+sample=Pipe Organ/Loud/Rode_Man3Open_D#1.wav
+pitch_keycenter=39
+lokey=38
+hikey=40
+offset=1654
+tune=-5
+volume=13.057325
+
+<region>
+sample=Pipe Organ/Loud/Rode_Man3Open_F#1.wav
+pitch_keycenter=42
+lokey=41
+hikey=43
+offset=2014
+tune=-1
+volume=14.914921
+
+<region>
+sample=Pipe Organ/Loud/Rode_Man3Open_A1.wav
+pitch_keycenter=45
+lokey=44
+hikey=46
+offset=1864
+volume=16.131650
+
+<region>
+sample=Pipe Organ/Loud/Rode_Man3Open_C2.wav
+pitch_keycenter=48
+lokey=47
+hikey=49
+offset=2176
+tune=-2
+volume=15.283152
+
+<region>
+sample=Pipe Organ/Loud/Rode_Man3Open_D#2.wav
+pitch_keycenter=51
+lokey=50
+hikey=52
+offset=1955
+tune=-1
+volume=14.344521
+
+<region>
+sample=Pipe Organ/Loud/Rode_Man3Open_F#2.wav
+pitch_keycenter=54
+lokey=53
+hikey=55
+offset=2022
+tune=-1
+volume=15.579395
+
+<region>
+sample=Pipe Organ/Loud/Rode_Man3Open_A2.wav
+pitch_keycenter=57
+lokey=56
+hikey=58
+offset=1641
+volume=16.762793
+
+<region>
+sample=Pipe Organ/Loud/Rode_Man3Open_C3.wav
+pitch_keycenter=60
+lokey=59
+hikey=61
+offset=2168
+volume=12.591327
+
+<region>
+sample=Pipe Organ/Loud/Rode_Man3Open_D#3.wav
+pitch_keycenter=63
+lokey=62
+hikey=64
+offset=1700
+tune=3
+volume=16.361221
+
+<region>
+sample=Pipe Organ/Loud/Rode_Man3Open_F#3.wav
+pitch_keycenter=66
+lokey=65
+hikey=67
+offset=1656
+volume=14.761193
+
+<region>
+sample=Pipe Organ/Loud/Rode_Man3Open_A3.wav
+pitch_keycenter=69
+lokey=68
+hikey=70
+offset=1673
+volume=14.228857
+
+<region>
+sample=Pipe Organ/Loud/Rode_Man3Open_C4.wav
+pitch_keycenter=72
+lokey=71
+hikey=73
+offset=1745
+tune=1
+volume=14.319014
+
+<region>
+sample=Pipe Organ/Loud/Rode_Man3Open_D#4.wav
+pitch_keycenter=75
+lokey=74
+hikey=76
+offset=2028
+tune=2
+volume=16.853463
+
+<region>
+sample=Pipe Organ/Loud/Rode_Man3Open_F#4.wav
+pitch_keycenter=78
+lokey=77
+hikey=79
+offset=1754
+volume=15.108115
+
+<region>
+sample=Pipe Organ/Loud/Rode_Man3Open_A4.wav
+pitch_keycenter=81
+lokey=80
+hikey=82
+offset=1893
+tune=1
+volume=16.597455
+
+<region>
+sample=Pipe Organ/Loud/Rode_Man3Open_C5.wav
+pitch_keycenter=84
+lokey=83
+hikey=85
+offset=1683
+volume=15.574525
+
+<region>
+sample=Pipe Organ/Loud/Rode_Man3Open_D#5.wav
+pitch_keycenter=87
+lokey=86
+hikey=88
+offset=1920
+tune=2
+volume=12.965525
+
+<region>
+sample=Pipe Organ/Loud/Rode_Man3Open_F#5.wav
+pitch_keycenter=90
+lokey=89
+hikey=91
+offset=1810
+volume=14.507747
+
+<region>
+sample=Pipe Organ/Loud/Rode_Man3Open_A5.wav
+pitch_keycenter=93
+lokey=92
+hikey=94
+offset=1359
+tune=1
+volume=16.290628
+
+<region>
+sample=Pipe Organ/Loud/Rode_Man3Open_C6.wav
+pitch_keycenter=96
+lokey=95
+hikey=97
+offset=1728
+volume=16.358738
+
+
+
+// Generation Options: --volume 20 --release 0.5 --articulation Quiet
+
+<group>
+sw_default=100
+sw_lokey=100
+sw_hikey=104
+sw_last=101
+sw_label=Quiet
+ampeg_attack=0.004000
+ampeg_release=0.500000
+amp_veltrack=0
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_C1_rr1.wav
+pitch_keycenter=36
+lokey=36
+hikey=37
+offset=1365
+tune=6
+volume=27
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_D#1_rr1.wav
+pitch_keycenter=39
+lokey=38
+hikey=40
+tune=-1
+volume=25.169845
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_F#1_rr1.wav
+pitch_keycenter=42
+lokey=41
+hikey=43
+offset=1538
+tune=-15
+volume=27
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_A1_rr1.wav
+pitch_keycenter=45
+lokey=44
+hikey=46
+offset=3434
+volume=21
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_C2_rr1.wav
+pitch_keycenter=48
+lokey=47
+hikey=49
+offset=2095
+volume=18.449313
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_D#2_rr1.wav
+pitch_keycenter=51
+lokey=50
+hikey=52
+offset=3710
+tune=-2
+volume=23
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_F#2_rr1.wav
+pitch_keycenter=54
+lokey=53
+hikey=55
+offset=2217
+tune=-5
+volume=19
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_A2_rr1.wav
+pitch_keycenter=57
+lokey=56
+hikey=58
+offset=1751
+tune=-3
+volume=24
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_C3_rr1.wav
+pitch_keycenter=60
+lokey=59
+hikey=61
+offset=1876
+tune=-2
+volume=22
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_D#3_rr1.wav
+pitch_keycenter=63
+lokey=62
+hikey=64
+offset=3062
+volume=19
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_F#3_rr1.wav
+pitch_keycenter=66
+lokey=65
+hikey=67
+offset=1042
+volume=19
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_A3_rr1.wav
+pitch_keycenter=69
+lokey=68
+hikey=70
+offset=1917
+tune=2
+volume=21.640202
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_C4_rr1.wav
+pitch_keycenter=72
+lokey=71
+hikey=73
+offset=1633
+tune=3
+volume=24.279572
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_D#4_rr1.wav
+pitch_keycenter=75
+lokey=74
+hikey=76
+offset=2384
+tune=2
+volume=19.446667
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_F#4_rr1.wav
+pitch_keycenter=78
+lokey=77
+hikey=79
+offset=1629
+tune=1
+volume=20.875902
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_A4_rr1.wav
+pitch_keycenter=81
+lokey=80
+hikey=82
+offset=1871
+volume=19.130972
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_C5_rr1.wav
+pitch_keycenter=84
+lokey=83
+hikey=85
+offset=1976
+volume=16.799337
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_D#5_rr1.wav
+pitch_keycenter=87
+lokey=86
+hikey=88
+offset=1653
+tune=8
+volume=22.843969
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_F#5_rr1.wav
+pitch_keycenter=90
+lokey=89
+hikey=91
+offset=1896
+tune=3
+volume=18.999193
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_A5_rr1.wav
+pitch_keycenter=93
+lokey=92
+hikey=94
+offset=2103
+tune=2
+volume=20.194444
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_C6_rr1.wav
+pitch_keycenter=96
+lokey=95
+hikey=97
+offset=1785
+tune=1
+volume=24.385810
+
+
+
+// Generation Options: --volume 10 --release 0.5 --articulation Loud Pedal
+
+<group>
+sw_default=100
+sw_lokey=100
+sw_hikey=104
+sw_last=102
+sw_label=Loud Pedal
+ampeg_attack=0.004000
+ampeg_release=0.500000
+amp_veltrack=0
+
+<region>
+sample=Pipe Organ/Loud Pedal/Rode_Pedal_C1.wav
+pitch_keycenter=36
+lokey=36
+hikey=37
+offset=2663
+volume=9.912506
+
+<region>
+sample=Pipe Organ/Loud Pedal/Rode_Pedal_D#1.wav
+pitch_keycenter=39
+lokey=38
+hikey=40
+offset=2961
+volume=9.577327
+
+<region>
+sample=Pipe Organ/Loud Pedal/Rode_Pedal_F#1.wav
+pitch_keycenter=42
+lokey=41
+hikey=43
+offset=2806
+volume=8.849503
+
+<region>
+sample=Pipe Organ/Loud Pedal/Rode_Pedal_A1.wav
+pitch_keycenter=45
+lokey=44
+hikey=46
+offset=2177
+tune=3
+volume=10.569999
+
+<region>
+sample=Pipe Organ/Loud Pedal/Rode_Pedal_C2.wav
+pitch_keycenter=48
+lokey=47
+hikey=49
+offset=2231
+volume=10.934211
+
+<region>
+sample=Pipe Organ/Loud Pedal/Rode_Pedal_D#2.wav
+pitch_keycenter=51
+lokey=50
+hikey=52
+offset=1925
+volume=9.609162
+
+<region>
+sample=Pipe Organ/Loud Pedal/Rode_Pedal_F#2.wav
+pitch_keycenter=54
+lokey=53
+hikey=55
+offset=2169
+volume=11.134386
+
+<region>
+sample=Pipe Organ/Loud Pedal/Rode_Pedal_A2.wav
+pitch_keycenter=57
+lokey=56
+hikey=58
+offset=2093
+volume=8.833623
+
+<region>
+sample=Pipe Organ/Loud Pedal/Rode_Pedal_C3.wav
+pitch_keycenter=60
+lokey=59
+hikey=61
+offset=1851
+tune=3
+volume=11.568898
+
+<region>
+sample=Pipe Organ/Loud Pedal/Rode_Pedal_D#3.wav
+pitch_keycenter=63
+lokey=62
+hikey=64
+offset=1937
+volume=10.394812
+
+<region>
+sample=Pipe Organ/Loud Pedal/Rode_Pedal_F#3.wav
+pitch_keycenter=66
+lokey=65
+hikey=67
+offset=1982
+volume=9.422045
+
+
+
+// Generation Options: --volume 20 --release 0.5 --articulation Quiet Pedal
+
+<group>
+sw_default=100
+sw_lokey=100
+sw_hikey=104
+sw_last=103
+sw_label=Quiet Pedal
+ampeg_attack=0.004000
+ampeg_release=0.500000
+amp_veltrack=0
+
+<region>
+sample=Pipe Organ/Quiet Pedal/NT5_PedalQuiet_C1_rr1.wav
+pitch_keycenter=36
+lokey=36
+hikey=37
+offset=4130
+tune=-4
+volume=20.541636
+
+<region>
+sample=Pipe Organ/Quiet Pedal/NT5_PedalQuiet_D#1_rr1.wav
+pitch_keycenter=39
+lokey=38
+hikey=40
+offset=1055
+tune=-7
+volume=22.724474
+
+<region>
+sample=Pipe Organ/Quiet Pedal/NT5_PedalQuiet_F#1_rr1.wav
+pitch_keycenter=42
+lokey=41
+hikey=43
+offset=3513
+tune=3
+volume=16.660325
+
+<region>
+sample=Pipe Organ/Quiet Pedal/NT5_PedalQuiet_A1_rr1.wav
+pitch_keycenter=45
+lokey=44
+hikey=46
+offset=2252
+tune=1
+volume=22.504928
+
+<region>
+sample=Pipe Organ/Quiet Pedal/NT5_PedalQuiet_C2_rr1.wav
+pitch_keycenter=48
+lokey=47
+hikey=49
+offset=2494
+tune=1
+volume=18.409594
+
+<region>
+sample=Pipe Organ/Quiet Pedal/NT5_PedalQuiet_D#2_rr1.wav
+pitch_keycenter=51
+lokey=50
+hikey=52
+offset=2806
+tune=1
+volume=21.468793
+
+<region>
+sample=Pipe Organ/Quiet Pedal/NT5_PedalQuiet_F#2_rr1.wav
+pitch_keycenter=54
+lokey=53
+hikey=55
+offset=2303
+volume=21.340178
+
+<region>
+sample=Pipe Organ/Quiet Pedal/NT5_PedalQuiet_A2_rr1.wav
+pitch_keycenter=57
+lokey=56
+hikey=58
+offset=2340
+tune=1
+volume=21.720253
+
+<region>
+sample=Pipe Organ/Quiet Pedal/NT5_PedalQuiet_C3_rr1.wav
+pitch_keycenter=60
+lokey=59
+hikey=61
+offset=2318
+tune=1
+volume=17.193041
+
+<region>
+sample=Pipe Organ/Quiet Pedal/NT5_PedalQuiet_D#3_rr1.wav
+pitch_keycenter=63
+lokey=62
+hikey=64
+offset=2342
+tune=-2
+volume=18.320441
+
+<region>
+sample=Pipe Organ/Quiet Pedal/NT5_PedalQuiet_F#3_rr1.wav
+pitch_keycenter=66
+lokey=65
+hikey=67
+offset=2217
+volume=25.002938
+
+
+

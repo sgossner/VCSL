@@ -1,0 +1,189 @@
+// Generation Options: --volume 20 --release 0.5 --articulation Quiet
+
+<group>
+ampeg_attack=0.004000
+ampeg_release=0.500000
+amp_veltrack=0
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_C1_rr1.wav
+pitch_keycenter=36
+lokey=36
+hikey=37
+offset=1365
+tune=6
+volume=27
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_D#1_rr1.wav
+pitch_keycenter=39
+lokey=38
+hikey=40
+tune=-1
+volume=25.169845
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_F#1_rr1.wav
+pitch_keycenter=42
+lokey=41
+hikey=43
+offset=1538
+tune=-15
+volume=27
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_A1_rr1.wav
+pitch_keycenter=45
+lokey=44
+hikey=46
+offset=3434
+volume=21
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_C2_rr1.wav
+pitch_keycenter=48
+lokey=47
+hikey=49
+offset=2095
+volume=18.449313
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_D#2_rr1.wav
+pitch_keycenter=51
+lokey=50
+hikey=52
+offset=3710
+tune=-2
+volume=23
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_F#2_rr1.wav
+pitch_keycenter=54
+lokey=53
+hikey=55
+offset=2217
+tune=-5
+volume=19
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_A2_rr1.wav
+pitch_keycenter=57
+lokey=56
+hikey=58
+offset=1751
+tune=-3
+volume=24
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_C3_rr1.wav
+pitch_keycenter=60
+lokey=59
+hikey=61
+offset=1876
+tune=-2
+volume=22
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_D#3_rr1.wav
+pitch_keycenter=63
+lokey=62
+hikey=64
+offset=3062
+volume=19
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_F#3_rr1.wav
+pitch_keycenter=66
+lokey=65
+hikey=67
+offset=1042
+volume=19
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_A3_rr1.wav
+pitch_keycenter=69
+lokey=68
+hikey=70
+offset=1917
+tune=2
+volume=21.640202
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_C4_rr1.wav
+pitch_keycenter=72
+lokey=71
+hikey=73
+offset=1633
+tune=3
+volume=24.279572
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_D#4_rr1.wav
+pitch_keycenter=75
+lokey=74
+hikey=76
+offset=2384
+tune=2
+volume=19.446667
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_F#4_rr1.wav
+pitch_keycenter=78
+lokey=77
+hikey=79
+offset=1629
+tune=1
+volume=20.875902
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_A4_rr1.wav
+pitch_keycenter=81
+lokey=80
+hikey=82
+offset=1871
+volume=19.130972
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_C5_rr1.wav
+pitch_keycenter=84
+lokey=83
+hikey=85
+offset=1976
+volume=16.799337
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_D#5_rr1.wav
+pitch_keycenter=87
+lokey=86
+hikey=88
+offset=1653
+tune=8
+volume=22.843969
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_F#5_rr1.wav
+pitch_keycenter=90
+lokey=89
+hikey=91
+offset=1896
+tune=3
+volume=18.999193
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_A5_rr1.wav
+pitch_keycenter=93
+lokey=92
+hikey=94
+offset=2103
+tune=2
+volume=20.194444
+
+<region>
+sample=Pipe Organ/Quiet/NT5_Man3Quiet_C6_rr1.wav
+pitch_keycenter=96
+lokey=95
+hikey=97
+offset=1785
+tune=1
+volume=24.385810
+
