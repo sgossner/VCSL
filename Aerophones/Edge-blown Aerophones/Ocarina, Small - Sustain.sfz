@@ -1,3 +1,5 @@
+// Generation Options: --volume 12
+
 <group>
 ampeg_attack=0.004000
 ampeg_release=0.300000
@@ -8,7 +10,7 @@ pitch_keycenter=82
 lokey=82
 hikey=83
 tune=3
-volume=12.054970
+volume=19.054970
 
 <region>
 sample=Ocarina, Small/Sustain/ocarina_C5_sustain0.wav
@@ -16,7 +18,7 @@ pitch_keycenter=84
 lokey=84
 hikey=85
 tune=-1
-volume=7.823864
+volume=14.823864
 
 <region>
 sample=Ocarina, Small/Sustain/ocarina_D5_sustain0.wav
@@ -25,7 +27,7 @@ lokey=86
 hikey=87
 offset=43
 tune=1
-volume=1.340011
+volume=8.340011
 
 <region>
 sample=Ocarina, Small/Sustain/ocarina_E5_sustain0.wav
@@ -33,32 +35,24 @@ pitch_keycenter=88
 lokey=88
 hikey=88
 tune=-2
-volume=5.867691
+volume=12.871617
 
 <region>
 sample=Ocarina, Small/Sustain/ocarina_F5_sustain0.wav
 pitch_keycenter=89
 lokey=89
-hikey=89
-offset=6
-volume=7.067927
-
-<region>
-sample=Ocarina, Small/Sustain/ocarina_F#5_sustain0.wav
-pitch_keycenter=90
-lokey=90
 hikey=90
-offset=148
-volume=4.089229
+offset=6
+volume=13.849319
 
 <region>
 sample=Ocarina, Small/Sustain/ocarina_G5_sustain0.wav
 pitch_keycenter=91
 lokey=91
 hikey=91
-offset=10
-tune=-4
-volume=4.460259
+offset=148
+tune=-1
+volume=11.793637
 
 <region>
 sample=Ocarina, Small/Sustain/ocarina_G#5_sustain0.wav
@@ -67,7 +61,7 @@ lokey=92
 hikey=92
 offset=61
 tune=-3
-volume=5.840059
+volume=12.093048
 
 <region>
 sample=Ocarina, Small/Sustain/ocarina_A5_sustain0.wav
@@ -76,7 +70,7 @@ lokey=93
 hikey=93
 offset=387
 tune=1
-volume=2.659332
+volume=9.436424
 
 <region>
 sample=Ocarina, Small/Sustain/ocarina_A#5_sustain0.wav
@@ -84,7 +78,7 @@ pitch_keycenter=94
 lokey=94
 hikey=94
 tune=1
-volume=6.342204
+volume=13.342204
 
 <region>
 sample=Ocarina, Small/Sustain/ocarina_B5_sustain0.wav
@@ -92,5 +86,5 @@ pitch_keycenter=95
 lokey=95
 hikey=96
 offset=408
-volume=5.713320
+volume=12.713320
 
