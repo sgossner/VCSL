@@ -1,4 +1,4 @@
-// Generation Options: --release 30 --volume 10 --transpose -24
+// Generation Options: --release 30 --volume 13 --transpose -24
 
 <group>
 ampeg_attack=0.004000
@@ -10,7 +10,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=2804
-volume=13.982995
+volume=16.982995
 
 <region>
 sample=Tubular Bells 3 - Legacy/chimes_C#1.ogg
@@ -18,7 +18,7 @@ pitch_keycenter=61
 lokey=61
 hikey=61
 offset=2325
-volume=5.364776
+volume=8.364776
 
 <region>
 sample=Tubular Bells 3 - Legacy/chimes_D1.ogg
@@ -26,7 +26,7 @@ pitch_keycenter=62
 lokey=62
 hikey=62
 offset=2388
-volume=16.206362
+volume=19.206362
 
 <region>
 sample=Tubular Bells 3 - Legacy/chimes_D#1.ogg
@@ -34,7 +34,7 @@ pitch_keycenter=63
 lokey=63
 hikey=63
 offset=3474
-volume=10.236350
+volume=13.236350
 
 <region>
 sample=Tubular Bells 3 - Legacy/chimes_E1.ogg
@@ -42,7 +42,7 @@ pitch_keycenter=64
 lokey=64
 hikey=64
 offset=3106
-volume=7.151247
+volume=10.151247
 
 <region>
 sample=Tubular Bells 3 - Legacy/chimes_F1.ogg
@@ -50,7 +50,7 @@ pitch_keycenter=65
 lokey=65
 hikey=65
 offset=2804
-volume=12.983288
+volume=15.983288
 
 <region>
 sample=Tubular Bells 3 - Legacy/chimes_F#1.ogg
@@ -59,7 +59,7 @@ lokey=66
 hikey=66
 offset=2882
 tune=-16
-volume=8.860680
+volume=11.860680
 
 <region>
 sample=Tubular Bells 3 - Legacy/chimes_G1.ogg
@@ -67,7 +67,7 @@ pitch_keycenter=67
 lokey=67
 hikey=67
 offset=2822
-volume=9.116910
+volume=12.116910
 
 <region>
 sample=Tubular Bells 3 - Legacy/chimes_G#1.ogg
@@ -75,7 +75,7 @@ pitch_keycenter=68
 lokey=68
 hikey=68
 offset=2997
-volume=12.242419
+volume=15.242419
 
 <region>
 sample=Tubular Bells 3 - Legacy/chimes_A1.ogg
@@ -83,7 +83,7 @@ pitch_keycenter=69
 lokey=69
 hikey=69
 offset=3310
-volume=9.125638
+volume=12.125638
 
 <region>
 sample=Tubular Bells 3 - Legacy/chimes_A#1.ogg
@@ -91,7 +91,7 @@ pitch_keycenter=70
 lokey=70
 hikey=70
 offset=2308
-volume=7.249764
+volume=10.249764
 
 <region>
 sample=Tubular Bells 3 - Legacy/chimes_B1.ogg
@@ -99,7 +99,7 @@ pitch_keycenter=71
 lokey=71
 hikey=71
 offset=3067
-volume=13.955369
+volume=16.955369
 
 <region>
 sample=Tubular Bells 3 - Legacy/chimes_C2.ogg
@@ -107,7 +107,7 @@ pitch_keycenter=72
 lokey=72
 hikey=72
 offset=3172
-volume=10.704139
+volume=13.704139
 
 <region>
 sample=Tubular Bells 3 - Legacy/chimes_C#2.ogg
@@ -115,7 +115,7 @@ pitch_keycenter=73
 lokey=73
 hikey=73
 offset=2420
-volume=7.467620
+volume=10.467620
 
 <region>
 sample=Tubular Bells 3 - Legacy/chimes_D2.ogg
@@ -123,7 +123,7 @@ pitch_keycenter=74
 lokey=74
 hikey=74
 offset=2306
-volume=10.289392
+volume=13.289392
 
 <region>
 sample=Tubular Bells 3 - Legacy/chimes_D#2.ogg
@@ -131,7 +131,7 @@ pitch_keycenter=75
 lokey=75
 hikey=75
 offset=2803
-volume=11.863788
+volume=14.863788
 
 <region>
 sample=Tubular Bells 3 - Legacy/chimes_E2.ogg
@@ -139,7 +139,7 @@ pitch_keycenter=76
 lokey=76
 hikey=76
 offset=2917
-volume=11.565069
+volume=14.565069
 
 <region>
 sample=Tubular Bells 3 - Legacy/chimes_F2.ogg
@@ -147,5 +147,5 @@ pitch_keycenter=77
 lokey=77
 hikey=78
 offset=3492
-volume=7.638334
+volume=10.638334
 

@@ -70,7 +70,7 @@ lokey=53
 hikey=55
 offset=2022
 tune=-1
-volume=15.579395
+volume=14.579395
 
 <region>
 sample=Pipe Organ/Loud/Rode_Man3Open_A2.wav
@@ -78,7 +78,7 @@ pitch_keycenter=57
 lokey=56
 hikey=58
 offset=1641
-volume=16.762793
+volume=15.762793
 
 <region>
 sample=Pipe Organ/Loud/Rode_Man3Open_C3.wav
@@ -103,7 +103,7 @@ pitch_keycenter=66
 lokey=65
 hikey=67
 offset=1656
-volume=14.761193
+volume=13.761193
 
 <region>
 sample=Pipe Organ/Loud/Rode_Man3Open_A3.wav
@@ -111,7 +111,7 @@ pitch_keycenter=69
 lokey=68
 hikey=70
 offset=1673
-volume=14.228857
+volume=16.228857
 
 <region>
 sample=Pipe Organ/Loud/Rode_Man3Open_C4.wav
@@ -120,7 +120,7 @@ lokey=71
 hikey=73
 offset=1745
 tune=1
-volume=14.319014
+volume=15.319014
 
 <region>
 sample=Pipe Organ/Loud/Rode_Man3Open_D#4.wav

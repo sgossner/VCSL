@@ -1,3 +1,5 @@
+// Generation Options: --volume 15
+
 <group>
 ampeg_attack=0.004000
 ampeg_release=0.300000
@@ -9,7 +11,7 @@ lokey=65
 hikey=66
 offset=1002
 tune=-2
-volume=10.328033
+volume=20.328033
 
 <region>
 sample=Baroque Alto Recorder/Sustain/AltRecorder_Sus_G#3_rr1_Main.wav
@@ -18,7 +20,7 @@ lokey=67
 hikey=69
 offset=879
 tune=-1
-volume=10.195551
+volume=20.195551
 
 <region>
 sample=Baroque Alto Recorder/Sustain/AltRecorder_Sus_A#3_rr1_Main.wav
@@ -26,7 +28,7 @@ pitch_keycenter=70
 lokey=70
 hikey=71
 offset=515
-volume=2.123615
+volume=12.123615
 
 <region>
 sample=Baroque Alto Recorder/Sustain/AltRecorder_Sus_C4_rr1_Main.wav
@@ -34,7 +36,7 @@ pitch_keycenter=72
 lokey=72
 hikey=73
 offset=749
-volume=4.493999
+volume=14.493999
 
 <region>
 sample=Baroque Alto Recorder/Sustain/AltRecorder_Sus_D4_rr1_Main.wav
@@ -42,7 +44,7 @@ pitch_keycenter=74
 lokey=74
 hikey=75
 offset=579
-volume=10.070692
+volume=20.070692
 
 <region>
 sample=Baroque Alto Recorder/Sustain/AltRecorder_Sus_E4_rr1_Main.wav
@@ -50,7 +52,7 @@ pitch_keycenter=76
 lokey=76
 hikey=77
 offset=413
-volume=2.613586
+volume=12.613586
 
 <region>
 sample=Baroque Alto Recorder/Sustain/AltRecorder_Sus_F#4_rr1_Main.wav
@@ -58,7 +60,7 @@ pitch_keycenter=78
 lokey=78
 hikey=79
 offset=289
-volume=1.872402
+volume=11.872402
 
 <region>
 sample=Baroque Alto Recorder/Sustain/AltRecorder_Sus_G#4_rr1_Main.wav
@@ -66,7 +68,7 @@ pitch_keycenter=80
 lokey=80
 hikey=81
 offset=666
-volume=7.613940
+volume=17.613940
 
 <region>
 sample=Baroque Alto Recorder/Sustain/AltRecorder_Sus_A#4_rr1_Main.wav
@@ -74,7 +76,7 @@ pitch_keycenter=82
 lokey=82
 hikey=83
 offset=354
-volume=7.193745
+volume=17.193745
 
 <region>
 sample=Baroque Alto Recorder/Sustain/AltRecorder_Sus_C5_rr1_Main.wav
@@ -83,7 +85,7 @@ lokey=84
 hikey=85
 offset=397
 tune=-1
-volume=4.707178
+volume=14.707178
 
 <region>
 sample=Baroque Alto Recorder/Sustain/AltRecorder_Sus_D5_rr1_Main.wav
@@ -91,13 +93,13 @@ pitch_keycenter=86
 lokey=86
 hikey=87
 offset=357
-volume=7.422890
+volume=17.422890
 
 <region>
 sample=Baroque Alto Recorder/Sustain/AltRecorder_Sus_E5_rr1_Main.wav
 pitch_keycenter=88
 lokey=88
-hikey=89
+hikey=91
 offset=81
-volume=1.459237
+volume=11.459237
 

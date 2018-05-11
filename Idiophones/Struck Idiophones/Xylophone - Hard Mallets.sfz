@@ -4,18 +4,18 @@
 ampeg_attack=0.004000
 ampeg_release=15.000000
 
-<region>
-lovel=0
-hivel=83
-sample=Xylophone/Hard Mallets/Xylo_Hard_G3_pp_01_far.wav
-pitch_keycenter=67
-lokey=67
-hikey=69
-volume=8.013224
+//<region>
+//lovel=0
+//hivel=83
+//sample=Xylophone/Hard Mallets/Xylo_Hard_G3_pp_01_far.wav
+//pitch_keycenter=67
+//lokey=67
+//hikey=69
+//volume=8.013224
 
 <region>
-lovel=84
-hivel=127
+//lovel=84
+//hivel=127
 sample=Xylophone/Hard Mallets/Xylo_Hard_G3_ff_01_far.wav
 pitch_keycenter=67
 lokey=67

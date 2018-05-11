@@ -1,3 +1,5 @@
+// Generation Options: --volume 5
+
 <group>
 trigger=attack
 ampeg_attack=0.004000
@@ -9,28 +11,28 @@ pitch_keycenter=60
 lokey=60
 hikey=62
 tune=1
-volume=1.683441
+volume=6.683441
 
 <region>
 sample=Harmonica-Hohner-Special20-C/Sustains/Vib/Hohner-Special20_Vib_E3.wav
 pitch_keycenter=64
 lokey=63
 hikey=65
-volume=0.012055
+volume=5.012055
 
 <region>
 sample=Harmonica-Hohner-Special20-C/Sustains/Vib/Hohner-Special20_Vib_G3.wav
 pitch_keycenter=67
 lokey=66
 hikey=69
-volume=-0.490110
+volume=4.509890
 
 <region>
 sample=Harmonica-Hohner-Special20-C/Sustains/Vib/Hohner-Special20_Vib_C4.wav
 pitch_keycenter=72
 lokey=70
 hikey=74
-volume=-0.831715
+volume=4.168285
 
 <region>
 sample=Harmonica-Hohner-Special20-C/Sustains/Vib/Hohner-Special20_Vib_E4.wav
@@ -38,7 +40,7 @@ pitch_keycenter=76
 lokey=75
 hikey=77
 offset=6
-volume=1.322042
+volume=6.322042
 
 <region>
 sample=Harmonica-Hohner-Special20-C/Sustains/Vib/Hohner-Special20_Vib_G4.wav
@@ -46,7 +48,7 @@ pitch_keycenter=79
 lokey=78
 hikey=81
 tune=2
-volume=3.300912
+volume=8.300912
 
 <region>
 sample=Harmonica-Hohner-Special20-C/Sustains/Vib/Hohner-Special20_Vib_C5.wav
@@ -54,7 +56,7 @@ pitch_keycenter=84
 lokey=82
 hikey=86
 offset=61
-volume=1.608128
+volume=6.608128
 
 <region>
 sample=Harmonica-Hohner-Special20-C/Sustains/Vib/Hohner-Special20_Vib_E5.wav
@@ -62,7 +64,7 @@ pitch_keycenter=88
 lokey=87
 hikey=89
 tune=2
-volume=-1.265319
+volume=3.734681
 
 <region>
 sample=Harmonica-Hohner-Special20-C/Sustains/Vib/Hohner-Special20_Vib_G5.wav
@@ -70,19 +72,18 @@ pitch_keycenter=91
 lokey=90
 hikey=93
 tune=-3
-volume=0.496405
+volume=5.496405
 
 <region>
 sample=Harmonica-Hohner-Special20-C/Sustains/Vib/Hohner-Special20_Vib_C6.wav
 pitch_keycenter=96
 lokey=94
 hikey=97
-volume=-2.357011
+volume=2.642989
 
 <group>
 trigger=release
 ampeg_attack=0.100000
-ampeg_release=0.300000
 
 <region>
 sample=Harmonica-Hohner-Special20-C/Releases/Vib/Hohner-Special20_Vib_rel_C3.wav

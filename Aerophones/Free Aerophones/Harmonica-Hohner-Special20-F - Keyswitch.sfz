@@ -1,3 +1,5 @@
+// Generation Options: --volume 10
+
 <group>
 sw_default=48
 sw_lokey=48
@@ -13,21 +15,21 @@ sample=Harmonica-Hohner-Special20-F/Sustains/Normal/Hohner-Special20-F_Normal_F3
 pitch_keycenter=65
 lokey=65
 hikey=67
-volume=-1.934796
+volume=8.065204
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Normal/Hohner-Special20-F_Normal_A3.wav
 pitch_keycenter=69
 lokey=68
 hikey=70
-volume=1.586160
+volume=11.586160
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Normal/Hohner-Special20-F_Normal_C4.wav
 pitch_keycenter=72
 lokey=71
 hikey=74
-volume=0.920034
+volume=10.920034
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Normal/Hohner-Special20-F_Normal_F4.wav
@@ -35,28 +37,28 @@ pitch_keycenter=77
 lokey=75
 hikey=79
 tune=-1
-volume=-1.478859
+volume=8.521141
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Normal/Hohner-Special20-F_Normal_A4.wav
 pitch_keycenter=81
 lokey=80
 hikey=82
-volume=1.753415
+volume=11.753415
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Normal/Hohner-Special20-F_Normal_C5.wav
 pitch_keycenter=84
 lokey=83
 hikey=86
-volume=4.824080
+volume=14.824080
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Normal/Hohner-Special20-F_Normal_F5.wav
 pitch_keycenter=89
 lokey=87
 hikey=92
-volume=-0.562701
+volume=9.437299
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Normal/Hohner-Special20-F_Normal_C6.wav
@@ -64,7 +66,7 @@ pitch_keycenter=96
 lokey=93
 hikey=97
 tune=-1
-volume=-4.107189
+volume=5.892811
 
 <group>
 sw_default=48
@@ -74,7 +76,6 @@ sw_last=48
 sw_label=Normal
 trigger=release
 ampeg_attack=0.100000
-ampeg_release=0.300000
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Releases/Normal/Hohner-Special20-F_Normal_rel_F3.wav
@@ -141,6 +142,8 @@ volume=-4.367148
 
 
 
+// Generation Options: --volume 5 --attack 0.1 --articulation Vib
+
 <group>
 sw_default=48
 sw_lokey=48
@@ -148,7 +151,7 @@ sw_hikey=53
 sw_last=49
 sw_label=Vib
 trigger=attack
-ampeg_attack=0.004000
+ampeg_attack=0.100000
 ampeg_release=0.100000
 
 <region>
@@ -156,21 +159,21 @@ sample=Harmonica-Hohner-Special20-F/Sustains/Vib/Hohner-Special20-F_Vib_F3.wav
 pitch_keycenter=65
 lokey=65
 hikey=67
-volume=-0.719245
+volume=4.280755
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Vib/Hohner-Special20-F_Vib_A3.wav
 pitch_keycenter=69
 lokey=68
 hikey=70
-volume=1.180978
+volume=6.180978
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Vib/Hohner-Special20-F_Vib_C4.wav
 pitch_keycenter=72
 lokey=71
 hikey=74
-volume=0.792669
+volume=5.792669
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Vib/Hohner-Special20-F_Vib_F4.wav
@@ -178,28 +181,28 @@ pitch_keycenter=77
 lokey=75
 hikey=79
 tune=-1
-volume=-0.979064
+volume=4.020936
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Vib/Hohner-Special20-F_Vib_A4.wav
 pitch_keycenter=81
 lokey=80
 hikey=82
-volume=-0.823894
+volume=4.176106
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Vib/Hohner-Special20-F_Vib_C5.wav
 pitch_keycenter=84
 lokey=83
 hikey=86
-volume=5.141761
+volume=10.141761
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Vib/Hohner-Special20-F_Vib_F5.wav
 pitch_keycenter=89
 lokey=87
 hikey=91
-volume=-2.970039
+volume=2.029961
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Vib/Hohner-Special20-F_Vib_A5.wav
@@ -207,14 +210,14 @@ pitch_keycenter=93
 lokey=92
 hikey=97
 tune=-1
-volume=-0.060392
+volume=4.939608
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Vib/Hohner-Special20-F_Vib_F6.wav
 pitch_keycenter=101
 lokey=98
 hikey=102
-volume=0.738648
+volume=5.738648
 
 <group>
 sw_default=48
@@ -224,7 +227,6 @@ sw_last=49
 sw_label=Vib
 trigger=release
 ampeg_attack=0.100000
-ampeg_release=0.300000
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Releases/Vib/Hohner-Special20-F_Vib_rel_F3.wav
@@ -298,6 +300,8 @@ volume=12.793746
 
 
 
+// Generation Options: --volume 10
+
 <group>
 sw_default=48
 sw_lokey=48
@@ -313,56 +317,58 @@ sample=Harmonica-Hohner-Special20-F/Sustains/HandVib/Hohner-Special20-F_HandVib_
 pitch_keycenter=65
 lokey=65
 hikey=67
-volume=-3.016269
+volume=6.983731
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/HandVib/Hohner-Special20-F_HandVib_A3.wav
 pitch_keycenter=69
 lokey=68
 hikey=70
-volume=1.233406
+volume=11.233406
+ampeg_attack=0.1
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/HandVib/Hohner-Special20-F_HandVib_C4.wav
 pitch_keycenter=72
 lokey=71
 hikey=74
-volume=3.674840
+volume=13.674840
+ampeg_attack=0.1
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/HandVib/Hohner-Special20-F_HandVib_F4.wav
 pitch_keycenter=77
 lokey=75
 hikey=79
-volume=-2.141897
+volume=7.858103
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/HandVib/Hohner-Special20-F_HandVib_A4.wav
 pitch_keycenter=81
 lokey=80
 hikey=82
-volume=4.108568
+volume=14.108568
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/HandVib/Hohner-Special20-F_HandVib_C5.wav
 pitch_keycenter=84
 lokey=83
 hikey=86
-volume=6.506399
+volume=16.506399
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/HandVib/Hohner-Special20-F_HandVib_F5.wav
 pitch_keycenter=89
 lokey=87
 hikey=91
-volume=-1.401224
+volume=8.598776
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/HandVib/Hohner-Special20-F_HandVib_A5.wav
 pitch_keycenter=93
 lokey=92
 hikey=94
-volume=3.976601
+volume=13.976601
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/HandVib/Hohner-Special20-F_HandVib_C6.wav
@@ -370,14 +376,14 @@ pitch_keycenter=96
 lokey=95
 hikey=98
 offset=782
-volume=-5.385704
+volume=4.614296
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/HandVib/Hohner-Special20-F_HandVib_F6.wav
 pitch_keycenter=101
 lokey=99
 hikey=102
-volume=2.859392
+volume=12.859392
 
 <group>
 sw_default=48
@@ -387,7 +393,8 @@ sw_last=50
 sw_label=HandVib
 trigger=release
 ampeg_attack=0.100000
-ampeg_release=0.300000
+ampeg_sustain=0
+ampeg_decay=0.5
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Releases/HandVib/Hohner-Special20-F_HandVib_rel_F3.wav
@@ -470,6 +477,8 @@ volume=-1.529193
 
 
 
+// Generation Options: --volume 0 --articulation Stac
+
 <group>
 sw_default=48
 sw_lokey=48
@@ -477,7 +486,7 @@ sw_hikey=53
 sw_last=51
 sw_label=Stac
 ampeg_attack=0.004000
-ampeg_release=0.800000
+ampeg_release=0.300000
 
 <region>
 seq_length=2
@@ -677,6 +686,8 @@ volume=1.549506
 
 
 
+// Generation Options: --volume 5 --attack 0.1 --articulation Accented
+
 <group>
 sw_default=48
 sw_lokey=48
@@ -684,7 +695,7 @@ sw_hikey=53
 sw_last=52
 sw_label=Accented
 trigger=attack
-ampeg_attack=0.004000
+ampeg_attack=0.100000
 ampeg_release=0.100000
 
 <region>
@@ -692,35 +703,35 @@ sample=Harmonica-Hohner-Special20-F/Sustains/Accented/Hohner-Special20-F_Accente
 pitch_keycenter=65
 lokey=65
 hikey=67
-volume=-0.416640
+volume=4.583360
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Accented/Hohner-Special20-F_Accented_A3.wav
 pitch_keycenter=69
 lokey=68
 hikey=70
-volume=0.015732
+volume=5.015732
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Accented/Hohner-Special20-F_Accented_C4.wav
 pitch_keycenter=72
 lokey=71
 hikey=74
-volume=1.354124
+volume=6.354124
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Accented/Hohner-Special20-F_Accented_F4.wav
 pitch_keycenter=77
 lokey=75
 hikey=79
-volume=-0.840669
+volume=4.159331
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Accented/Hohner-Special20-F_Accented_A4.wav
 pitch_keycenter=81
 lokey=80
 hikey=82
-volume=1.674940
+volume=6.674940
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Accented/Hohner-Special20-F_Accented_C5.wav
@@ -728,21 +739,21 @@ pitch_keycenter=84
 lokey=83
 hikey=86
 tune=-1
-volume=3.024193
+volume=8.024193
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Accented/Hohner-Special20-F_Accented_F5.wav
 pitch_keycenter=89
 lokey=87
 hikey=91
-volume=-2.196459
+volume=2.803541
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Accented/Hohner-Special20-F_Accented_A5.wav
 pitch_keycenter=93
 lokey=92
 hikey=94
-volume=7.704512
+volume=12.704512
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Accented/Hohner-Special20-F_Accented_C6.wav
@@ -750,14 +761,14 @@ pitch_keycenter=96
 lokey=95
 hikey=98
 tune=-2
-volume=-1.236033
+volume=3.763967
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Accented/Hohner-Special20-F_Accented_F6.wav
 pitch_keycenter=101
 lokey=99
 hikey=102
-volume=-4.191128
+volume=0.808872
 
 <group>
 sw_default=48
@@ -767,7 +778,6 @@ sw_last=52
 sw_label=Accented
 trigger=release
 ampeg_attack=0.100000
-ampeg_release=0.300000
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Releases/Accented/Hohner-Special20-F_Accented_rel_F3.wav

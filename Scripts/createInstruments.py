@@ -22,7 +22,10 @@ try:
     import soundfile as sf
     formats = ['.wav', '.ogg', '.flac']
     def loadFile(path):
-        return sf.read(path)
+        data, rate = sf.read(path)
+        if len(data.shape) == 1:
+            data = np.expand_dims(data, 1)
+        return data, rate
 except:
     # It isn't installed, so use wavio instead.
     import wavio

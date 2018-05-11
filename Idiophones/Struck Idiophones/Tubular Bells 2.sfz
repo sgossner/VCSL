@@ -120,6 +120,7 @@ pitch_keycenter=83
 lokey=83
 hikey=83
 volume=21.724717
+offset=1026
 
 <region>
 lovel=84
@@ -147,6 +148,7 @@ pitch_keycenter=84
 lokey=84
 hikey=85
 volume=6.222510
+offset=2727
 
 <region>
 lovel=0

@@ -20,7 +20,7 @@ sample=Xylophone/Soft Mallets/Xylo_Soft_G3_ff_01_far.wav
 pitch_keycenter=67
 lokey=67
 hikey=69
-volume=3.962981
+volume=0.962981
 
 <region>
 lovel=0
@@ -119,7 +119,7 @@ sample=Xylophone/Soft Mallets/Xylo_Soft_G6_pp_01_far.wav
 pitch_keycenter=103
 lokey=100
 hikey=105
-volume=19.502175
+volume=16.502175
 
 <region>
 lovel=84
@@ -128,7 +128,7 @@ sample=Xylophone/Soft Mallets/Xylo_Soft_G6_ff_01_far.wav
 pitch_keycenter=103
 lokey=100
 hikey=105
-volume=9.608295
+volume=5.608295
 
 <region>
 lovel=0

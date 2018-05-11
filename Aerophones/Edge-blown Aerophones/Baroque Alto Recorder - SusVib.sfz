@@ -1,3 +1,5 @@
+// Generation Options: --volume 15
+
 <group>
 ampeg_attack=0.004000
 ampeg_release=0.300000
@@ -9,7 +11,7 @@ lokey=65
 hikey=66
 offset=1109
 tune=-4
-volume=9.202355
+volume=19.202355
 
 <region>
 sample=Baroque Alto Recorder/SusVib/AltRecorder_SusVib_G#3_rr1_Main.wav
@@ -17,7 +19,7 @@ pitch_keycenter=68
 lokey=67
 hikey=69
 offset=1213
-volume=10.467137
+volume=20.467137
 
 <region>
 sample=Baroque Alto Recorder/SusVib/AltRecorder_SusVib_A#3_rr1_Main.wav
@@ -26,7 +28,7 @@ lokey=70
 hikey=71
 offset=303
 tune=-2
-volume=6.342269
+volume=16.342269
 
 <region>
 sample=Baroque Alto Recorder/SusVib/AltRecorder_SusVib_C4_rr1_Main.wav
@@ -35,7 +37,7 @@ lokey=72
 hikey=73
 offset=278
 tune=-1
-volume=7.459752
+volume=17.459752
 
 <region>
 sample=Baroque Alto Recorder/SusVib/AltRecorder_SusVib_D4_rr1_Main.wav
@@ -44,7 +46,7 @@ lokey=74
 hikey=75
 offset=592
 tune=-2
-volume=5.680772
+volume=15.680772
 
 <region>
 sample=Baroque Alto Recorder/SusVib/AltRecorder_SusVib_E4_rr1_Main.wav
@@ -53,7 +55,7 @@ lokey=76
 hikey=77
 offset=526
 tune=-2
-volume=-0.113635
+volume=9.886365
 
 <region>
 sample=Baroque Alto Recorder/SusVib/AltRecorder_SusVib_F#4_rr1_Main.wav
@@ -62,7 +64,7 @@ lokey=78
 hikey=79
 offset=358
 tune=-1
-volume=5.601894
+volume=15.601894
 
 <region>
 sample=Baroque Alto Recorder/SusVib/AltRecorder_SusVib_G#4_rr1_Main.wav
@@ -70,7 +72,7 @@ pitch_keycenter=80
 lokey=80
 hikey=81
 offset=507
-volume=11.858990
+volume=21.858990
 
 <region>
 sample=Baroque Alto Recorder/SusVib/AltRecorder_SusVib_A#4_rr1_Main.wav
@@ -79,7 +81,7 @@ lokey=82
 hikey=83
 offset=485
 tune=-1
-volume=3.899695
+volume=13.899695
 
 <region>
 sample=Baroque Alto Recorder/SusVib/AltRecorder_SusVib_C5_rr1_Main.wav
@@ -87,7 +89,7 @@ pitch_keycenter=84
 lokey=84
 hikey=85
 offset=348
-volume=3.480815
+volume=13.480815
 
 <region>
 sample=Baroque Alto Recorder/SusVib/AltRecorder_SusVib_D5_rr1_Main.wav
@@ -95,13 +97,13 @@ pitch_keycenter=86
 lokey=86
 hikey=87
 offset=512
-volume=5.156688
+volume=15.156688
 
 <region>
 sample=Baroque Alto Recorder/SusVib/AltRecorder_SusVib_E5_rr1_Main.wav
 pitch_keycenter=88
 lokey=88
-hikey=89
+hikey=91
 offset=460
-volume=4.513495
+volume=14.513495
 

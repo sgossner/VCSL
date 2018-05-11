@@ -1,6 +1,8 @@
+// Generation Options: --volume 5
+
 <group>
 trigger=attack
-ampeg_attack=0.004000
+ampeg_attack=0.100000
 ampeg_release=0.100000
 
 <region>
@@ -8,21 +10,21 @@ sample=Harmonica-Hohner-Special20-C/Sustains/Normal/Hohner-Special20_Normal_C3.w
 pitch_keycenter=60
 lokey=60
 hikey=62
-volume=0.358320
+volume=5.358320
 
 <region>
 sample=Harmonica-Hohner-Special20-C/Sustains/Normal/Hohner-Special20_Normal_E3.wav
 pitch_keycenter=64
 lokey=63
 hikey=68
-volume=-1.176557
+volume=3.823443
 
 <region>
 sample=Harmonica-Hohner-Special20-C/Sustains/Normal/Hohner-Special20_Normal_C4.wav
 pitch_keycenter=72
 lokey=69
 hikey=74
-volume=0.625936
+volume=5.625936
 
 <region>
 sample=Harmonica-Hohner-Special20-C/Sustains/Normal/Hohner-Special20_Normal_E4.wav
@@ -30,21 +32,21 @@ pitch_keycenter=76
 lokey=75
 hikey=77
 tune=1
-volume=1.460416
+volume=6.460416
 
 <region>
 sample=Harmonica-Hohner-Special20-C/Sustains/Normal/Hohner-Special20_Normal_G4.wav
 pitch_keycenter=79
 lokey=78
 hikey=81
-volume=1.231638
+volume=6.231638
 
 <region>
 sample=Harmonica-Hohner-Special20-C/Sustains/Normal/Hohner-Special20_Normal_C5.wav
 pitch_keycenter=84
 lokey=82
 hikey=86
-volume=2.810544
+volume=7.810544
 
 <region>
 sample=Harmonica-Hohner-Special20-C/Sustains/Normal/Hohner-Special20_Normal_E5.wav
@@ -52,14 +54,14 @@ pitch_keycenter=88
 lokey=87
 hikey=89
 tune=2
-volume=-0.668357
+volume=4.331643
 
 <region>
 sample=Harmonica-Hohner-Special20-C/Sustains/Normal/Hohner-Special20_Normal_G5.wav
 pitch_keycenter=91
 lokey=90
 hikey=93
-volume=-0.561123
+volume=4.438877
 
 <region>
 sample=Harmonica-Hohner-Special20-C/Sustains/Normal/Hohner-Special20_Normal_C6.wav
@@ -67,12 +69,13 @@ pitch_keycenter=96
 lokey=94
 hikey=97
 tune=-1
-volume=-2.064106
+volume=2.935894
 
 <group>
 trigger=release
 ampeg_attack=0.100000
-ampeg_release=0.300000
+ampeg_sustain=0
+ampeg_decay=0.4
 
 <region>
 sample=Harmonica-Hohner-Special20-C/Releases/Normal/Hohner-Special20_Normal_rel_C3.wav

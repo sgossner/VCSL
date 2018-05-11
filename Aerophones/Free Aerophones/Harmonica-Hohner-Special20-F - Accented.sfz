@@ -1,6 +1,8 @@
+// Generation Options: --volume 5 --attack 0.1 --articulation Accented
+
 <group>
 trigger=attack
-ampeg_attack=0.004000
+ampeg_attack=0.100000
 ampeg_release=0.100000
 
 <region>
@@ -8,35 +10,35 @@ sample=Harmonica-Hohner-Special20-F/Sustains/Accented/Hohner-Special20-F_Accente
 pitch_keycenter=65
 lokey=65
 hikey=67
-volume=-0.416640
+volume=4.583360
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Accented/Hohner-Special20-F_Accented_A3.wav
 pitch_keycenter=69
 lokey=68
 hikey=70
-volume=0.015732
+volume=5.015732
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Accented/Hohner-Special20-F_Accented_C4.wav
 pitch_keycenter=72
 lokey=71
 hikey=74
-volume=1.354124
+volume=6.354124
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Accented/Hohner-Special20-F_Accented_F4.wav
 pitch_keycenter=77
 lokey=75
 hikey=79
-volume=-0.840669
+volume=4.159331
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Accented/Hohner-Special20-F_Accented_A4.wav
 pitch_keycenter=81
 lokey=80
 hikey=82
-volume=1.674940
+volume=6.674940
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Accented/Hohner-Special20-F_Accented_C5.wav
@@ -44,21 +46,21 @@ pitch_keycenter=84
 lokey=83
 hikey=86
 tune=-1
-volume=3.024193
+volume=8.024193
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Accented/Hohner-Special20-F_Accented_F5.wav
 pitch_keycenter=89
 lokey=87
 hikey=91
-volume=-2.196459
+volume=2.803541
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Accented/Hohner-Special20-F_Accented_A5.wav
 pitch_keycenter=93
 lokey=92
 hikey=94
-volume=7.704512
+volume=12.704512
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Accented/Hohner-Special20-F_Accented_C6.wav
@@ -66,19 +68,18 @@ pitch_keycenter=96
 lokey=95
 hikey=98
 tune=-2
-volume=-1.236033
+volume=3.763967
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/Accented/Hohner-Special20-F_Accented_F6.wav
 pitch_keycenter=101
 lokey=99
 hikey=102
-volume=-4.191128
+volume=0.808872
 
 <group>
 trigger=release
 ampeg_attack=0.100000
-ampeg_release=0.300000
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Releases/Accented/Hohner-Special20-F_Accented_rel_F3.wav

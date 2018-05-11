@@ -1,5 +1,7 @@
+// Generation Options: --volume 12 --attack 0.1
+
 <group>
-ampeg_attack=0.004000
+ampeg_attack=0.100000
 ampeg_release=0.300000
 
 <region>
@@ -8,7 +10,7 @@ pitch_keycenter=72
 lokey=72
 hikey=73
 offset=854
-volume=6.783835
+volume=13.783835
 
 <region>
 sample=Baroque Soprano Recorder/Sustain/SopRecorder_Sus_D4_rr1_Main.wav
@@ -16,7 +18,7 @@ pitch_keycenter=74
 lokey=74
 hikey=75
 offset=371
-volume=8.958565
+volume=15.958565
 
 <region>
 sample=Baroque Soprano Recorder/Sustain/SopRecorder_Sus_E4_rr1_Main.wav
@@ -24,7 +26,7 @@ pitch_keycenter=76
 lokey=76
 hikey=77
 offset=325
-volume=4.143976
+volume=11.143976
 
 <region>
 sample=Baroque Soprano Recorder/Sustain/SopRecorder_Sus_F#4_rr1_Main.wav
@@ -32,7 +34,7 @@ pitch_keycenter=78
 lokey=78
 hikey=79
 offset=132
-volume=5.515612
+volume=12.515612
 
 <region>
 sample=Baroque Soprano Recorder/Sustain/SopRecorder_Sus_G#4_rr1_Main.wav
@@ -40,7 +42,7 @@ pitch_keycenter=80
 lokey=80
 hikey=81
 offset=291
-volume=12.737557
+volume=19.737557
 
 <region>
 sample=Baroque Soprano Recorder/Sustain/SopRecorder_Sus_A#4_rr1_Main.wav
@@ -48,7 +50,7 @@ pitch_keycenter=82
 lokey=82
 hikey=83
 offset=413
-volume=4.343692
+volume=11.343692
 
 <region>
 sample=Baroque Soprano Recorder/Sustain/SopRecorder_Sus_C5_rr1_Main.wav
@@ -56,7 +58,7 @@ pitch_keycenter=84
 lokey=84
 hikey=85
 offset=202
-volume=2.439442
+volume=9.439442
 
 <region>
 sample=Baroque Soprano Recorder/Sustain/SopRecorder_Sus_D5_rr1_Main.wav
@@ -64,7 +66,7 @@ pitch_keycenter=86
 lokey=86
 hikey=87
 offset=201
-volume=0.886456
+volume=7.886456
 
 <region>
 sample=Baroque Soprano Recorder/Sustain/SopRecorder_Sus_E5_rr1_Main.wav
@@ -72,7 +74,7 @@ pitch_keycenter=88
 lokey=88
 hikey=89
 offset=194
-volume=10.987521
+volume=17.987521
 
 <region>
 sample=Baroque Soprano Recorder/Sustain/SopRecorder_Sus_F#5_rr1_Main.wav
@@ -80,7 +82,7 @@ pitch_keycenter=90
 lokey=90
 hikey=90
 offset=305
-volume=8.744581
+volume=15.744581
 
 <region>
 sample=Baroque Soprano Recorder/Sustain/SopRecorder_Sus_G5_rr1_Main.wav
@@ -88,7 +90,7 @@ pitch_keycenter=91
 lokey=91
 hikey=92
 offset=419
-volume=1.790412
+volume=8.790412
 
 <region>
 sample=Baroque Soprano Recorder/Sustain/SopRecorder_Sus_A#5_rr1_Main.wav
@@ -96,13 +98,13 @@ pitch_keycenter=94
 lokey=93
 hikey=95
 offset=380
-volume=3.265266
+volume=10.265266
 
 <region>
 sample=Baroque Soprano Recorder/Sustain/SopRecorder_Sus_C6_rr1_Main.wav
 pitch_keycenter=96
 lokey=96
-hikey=97
+hikey=98
 offset=248
-volume=8.330327
+volume=15.330327
 

@@ -147,7 +147,8 @@ sample=Glockenspiel/glock_loud_G#6_01.wav
 pitch_keycenter=92
 lokey=92
 hikey=94
-volume=12.643213
+offset=932
+volume=15.643213
 
 <region>
 xfout_lovel=0
@@ -168,7 +169,7 @@ pitch_keycenter=96
 lokey=95
 hikey=97
 offset=101
-volume=29.288723
+volume=26.288723
 
 <region>
 xfin_lovel=84
@@ -177,5 +178,5 @@ sample=Glockenspiel/glock_loud_C7_01.wav
 pitch_keycenter=96
 lokey=95
 hikey=97
-volume=26.208163
+volume=19.208163
 

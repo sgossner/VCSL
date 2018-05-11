@@ -1,3 +1,5 @@
+// Generation Options: --volume 15
+
 <group>
 ampeg_attack=0.004000
 ampeg_release=0.300000
@@ -9,7 +11,7 @@ lokey=53
 hikey=54
 offset=1673
 tune=-7
-volume=13.156500
+volume=23.156500
 
 <region>
 sample=Baroque Bass Recorder/SusVib/BassRecorder_SusVib_G2_rr1_Main.wav
@@ -18,7 +20,7 @@ lokey=55
 hikey=56
 offset=689
 tune=-6
-volume=2.594758
+volume=12.594758
 
 <region>
 sample=Baroque Bass Recorder/SusVib/BassRecorder_SusVib_A2_rr1_Main.wav
@@ -27,7 +29,7 @@ lokey=57
 hikey=58
 offset=1061
 tune=-4
-volume=4.679549
+volume=14.679549
 
 <region>
 sample=Baroque Bass Recorder/SusVib/BassRecorder_SusVib_B2_rr1_Main.wav
@@ -35,7 +37,9 @@ pitch_keycenter=59
 lokey=59
 hikey=59
 offset=149
-volume=9.773062
+volume=19.773062
+offset=6419
+ampeg_attack=0.1
 
 <region>
 sample=Baroque Bass Recorder/SusVib/BassRecorder_SusVib_C3_rr1_Main.wav
@@ -44,7 +48,7 @@ lokey=60
 hikey=61
 offset=392
 tune=-2
-volume=3.922285
+volume=13.922285
 
 <region>
 sample=Baroque Bass Recorder/SusVib/BassRecorder_SusVib_D3_rr1_Main.wav
@@ -53,7 +57,7 @@ lokey=62
 hikey=63
 offset=1514
 tune=-5
-volume=3.157136
+volume=13.157136
 
 <region>
 sample=Baroque Bass Recorder/SusVib/BassRecorder_SusVib_E3_rr1_Main.wav
@@ -62,7 +66,7 @@ lokey=64
 hikey=64
 offset=426
 tune=-2
-volume=7.233974
+volume=17.233974
 
 <region>
 sample=Baroque Bass Recorder/SusVib/BassRecorder_SusVib_F3_rr1_Main.wav
@@ -71,7 +75,7 @@ lokey=65
 hikey=66
 offset=827
 tune=-5
-volume=9.279131
+volume=19.279131
 
 <region>
 sample=Baroque Bass Recorder/SusVib/BassRecorder_SusVib_G3_rr1_Main.wav
@@ -80,7 +84,7 @@ lokey=67
 hikey=68
 offset=582
 tune=-3
-volume=3.278873
+volume=13.278873
 
 <region>
 sample=Baroque Bass Recorder/SusVib/BassRecorder_SusVib_A3_rr1_Main.wav
@@ -89,7 +93,7 @@ lokey=69
 hikey=70
 offset=749
 tune=1
-volume=2.339734
+volume=12.339734
 
 <region>
 sample=Baroque Bass Recorder/SusVib/BassRecorder_SusVib_B3_rr1_Main.wav
@@ -98,7 +102,7 @@ lokey=71
 hikey=71
 offset=195
 tune=-3
-volume=7.483960
+volume=17.483960
 
 <region>
 sample=Baroque Bass Recorder/SusVib/BassRecorder_SusVib_C4_rr1_Main.wav
@@ -107,7 +111,7 @@ lokey=72
 hikey=73
 offset=370
 tune=-1
-volume=3.087805
+volume=13.087805
 
 <region>
 sample=Baroque Bass Recorder/SusVib/BassRecorder_SusVib_D4_rr1_Main.wav
@@ -116,14 +120,14 @@ lokey=74
 hikey=75
 offset=502
 tune=-4
-volume=9.553958
+volume=19.553958
 
 <region>
 sample=Baroque Bass Recorder/SusVib/BassRecorder_SusVib_E4_rr1_Main.wav
 pitch_keycenter=76
 lokey=76
-hikey=77
+hikey=79
 offset=688
 tune=-3
-volume=2.864687
+volume=12.864687
 
