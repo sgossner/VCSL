@@ -1,6 +1,8 @@
+// Generation Options: --volume 5 --attack 0.1 --articulation Accented
+
 <group>
 trigger=attack
-ampeg_attack=0.004000
+ampeg_attack=0.100000
 ampeg_release=0.100000
 
 <region>
@@ -9,84 +11,84 @@ pitch_keycenter=48
 lokey=48
 hikey=50
 offset=46
-volume=0.631504
+volume=5.631504
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Accented/Hohner-Super64_Accented_E2.wav
 pitch_keycenter=52
 lokey=51
 hikey=53
-volume=0.539772
+volume=5.539772
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Accented/Hohner-Super64_Accented_G2.wav
 pitch_keycenter=55
 lokey=54
 hikey=57
-volume=-0.748851
+volume=4.251149
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Accented/Hohner-Super64_Accented_C3.wav
 pitch_keycenter=60
 lokey=58
 hikey=62
-volume=1.593665
+volume=6.593665
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Accented/Hohner-Super64_Accented_E3.wav
 pitch_keycenter=64
 lokey=63
 hikey=65
-volume=1.490837
+volume=6.490837
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Accented/Hohner-Super64_Accented_G3.wav
 pitch_keycenter=67
 lokey=66
 hikey=69
-volume=-1.179836
+volume=3.820164
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Accented/Hohner-Super64_Accented_C4.wav
 pitch_keycenter=72
 lokey=70
 hikey=74
-volume=-1.525957
+volume=3.474043
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Accented/Hohner-Super64_Accented_E4.wav
 pitch_keycenter=76
 lokey=75
 hikey=77
-volume=-1.786718
+volume=3.213282
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Accented/Hohner-Super64_Accented_G4.wav
 pitch_keycenter=79
 lokey=78
 hikey=81
-volume=3.207255
+volume=8.207255
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Accented/Hohner-Super64_Accented_C5.wav
 pitch_keycenter=84
 lokey=82
 hikey=86
-volume=1.466968
+volume=6.466968
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Accented/Hohner-Super64_Accented_E5.wav
 pitch_keycenter=88
 lokey=87
 hikey=89
-volume=-0.394667
+volume=4.605333
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Accented/Hohner-Super64_Accented_G5.wav
 pitch_keycenter=91
 lokey=90
 hikey=93
-volume=0.655453
+volume=5.655453
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Accented/Hohner-Super64_Accented_C6.wav
@@ -94,12 +96,11 @@ pitch_keycenter=96
 lokey=94
 hikey=97
 tune=-1
-volume=-1.898983
+volume=3.101017
 
 <group>
 trigger=release
 ampeg_attack=0.100000
-ampeg_release=0.300000
 
 <region>
 sample=Harmonica-Hohner-Super64/Releases/Accented/Hohner-Super64_Accented_rel_C2.wav

@@ -1,3 +1,5 @@
+// Generation Options: --volume 10
+
 <group>
 ampeg_attack=0.004000
 ampeg_release=0.300000
@@ -9,7 +11,7 @@ lokey=60
 hikey=61
 offset=2165
 tune=-5
-volume=6.812789
+volume=11.812789
 
 <region>
 sample=Baroque Tenor Recorder/SusVib/TenRecorder_SusVib_D3_rr1_Main.wav
@@ -18,7 +20,7 @@ lokey=62
 hikey=63
 offset=1103
 tune=-1
-volume=3.312453
+volume=8.312453
 
 <region>
 sample=Baroque Tenor Recorder/SusVib/TenRecorder_SusVib_E3_rr1_Main.wav
@@ -27,7 +29,7 @@ lokey=64
 hikey=65
 offset=924
 tune=-1
-volume=11.132348
+volume=16.132348
 
 <region>
 sample=Baroque Tenor Recorder/SusVib/TenRecorder_SusVib_F#3_rr1_Main.wav
@@ -35,7 +37,7 @@ pitch_keycenter=66
 lokey=66
 hikey=66
 offset=161
-volume=8.094486
+volume=13.094486
 
 <region>
 sample=Baroque Tenor Recorder/SusVib/TenRecorder_SusVib_G3_rr1_Main.wav
@@ -44,7 +46,7 @@ lokey=67
 hikey=68
 offset=469
 tune=-5
-volume=2.234425
+volume=7.234425
 
 <region>
 sample=Baroque Tenor Recorder/SusVib/TenRecorder_SusVib_A3_rr1_Main.wav
@@ -52,7 +54,7 @@ pitch_keycenter=69
 lokey=69
 hikey=70
 offset=575
-volume=4.945456
+volume=9.945456
 
 <region>
 sample=Baroque Tenor Recorder/SusVib/TenRecorder_SusVib_B3_rr1_Main.wav
@@ -61,7 +63,7 @@ lokey=71
 hikey=71
 offset=389
 tune=1
-volume=4.986942
+volume=9.986942
 
 <region>
 sample=Baroque Tenor Recorder/SusVib/TenRecorder_SusVib_C4_rr1_Main.wav
@@ -70,7 +72,7 @@ lokey=72
 hikey=73
 offset=426
 tune=-4
-volume=5.955048
+volume=10.955048
 
 <region>
 sample=Baroque Tenor Recorder/SusVib/TenRecorder_SusVib_D4_rr1_Main.wav
@@ -79,7 +81,7 @@ lokey=74
 hikey=75
 offset=277
 tune=-2
-volume=1.541167
+volume=6.541167
 
 <region>
 sample=Baroque Tenor Recorder/SusVib/TenRecorder_SusVib_E4_rr1_Main.wav
@@ -88,7 +90,7 @@ lokey=76
 hikey=77
 offset=601
 tune=-3
-volume=11.241357
+volume=16.241357
 
 <region>
 sample=Baroque Tenor Recorder/SusVib/TenRecorder_SusVib_F#4_rr1_Main.wav
@@ -97,7 +99,7 @@ lokey=78
 hikey=78
 offset=447
 tune=-2
-volume=7.651877
+volume=12.651877
 
 <region>
 sample=Baroque Tenor Recorder/SusVib/TenRecorder_SusVib_G4_rr1_Main.wav
@@ -106,7 +108,7 @@ lokey=79
 hikey=80
 offset=260
 tune=-2
-volume=6.822791
+volume=11.822791
 
 <region>
 sample=Baroque Tenor Recorder/SusVib/TenRecorder_SusVib_A4_rr1_Main.wav
@@ -114,14 +116,14 @@ pitch_keycenter=81
 lokey=81
 hikey=82
 offset=387
-volume=-0.591265
+volume=4.408735
 
 <region>
 sample=Baroque Tenor Recorder/SusVib/TenRecorder_SusVib_B4_rr1_Main.wav
 pitch_keycenter=83
 lokey=83
-hikey=84
+hikey=86
 offset=630
 tune=1
-volume=8.278322
+volume=13.278322
 

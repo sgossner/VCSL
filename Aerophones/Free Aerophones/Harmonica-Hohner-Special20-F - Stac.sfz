@@ -1,6 +1,8 @@
+// Generation Options: --volume 0 --articulation Stac
+
 <group>
 ampeg_attack=0.004000
-ampeg_release=0.800000
+ampeg_release=0.300000
 
 <region>
 seq_length=2

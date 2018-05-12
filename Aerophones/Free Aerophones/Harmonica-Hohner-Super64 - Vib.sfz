@@ -1,3 +1,5 @@
+// Generation Options: --volume 5 --articulation Vib
+
 <group>
 trigger=attack
 ampeg_attack=0.004000
@@ -8,14 +10,14 @@ sample=Harmonica-Hohner-Super64/Sustains/Vib/Hohner-Super64_Vib_C2.wav
 pitch_keycenter=48
 lokey=48
 hikey=50
-volume=1.155485
+volume=6.155485
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Vib/Hohner-Super64_Vib_E2.wav
 pitch_keycenter=52
 lokey=51
 hikey=53
-volume=-2.398469
+volume=2.601531
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Vib/Hohner-Super64_Vib_G2.wav
@@ -23,14 +25,14 @@ pitch_keycenter=55
 lokey=54
 hikey=57
 tune=1
-volume=0.853160
+volume=5.853160
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Vib/Hohner-Super64_Vib_C3.wav
 pitch_keycenter=60
 lokey=58
 hikey=62
-volume=3.231031
+volume=8.231031
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Vib/Hohner-Super64_Vib_E3.wav
@@ -38,35 +40,35 @@ pitch_keycenter=64
 lokey=63
 hikey=65
 tune=1
-volume=0.291799
+volume=5.291799
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Vib/Hohner-Super64_Vib_G3.wav
 pitch_keycenter=67
 lokey=66
 hikey=69
-volume=-0.512310
+volume=4.487690
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Vib/Hohner-Super64_Vib_C4.wav
 pitch_keycenter=72
 lokey=70
 hikey=74
-volume=1.237797
+volume=6.237797
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Vib/Hohner-Super64_Vib_E4.wav
 pitch_keycenter=76
 lokey=75
 hikey=77
-volume=-0.873217
+volume=4.126783
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Vib/Hohner-Super64_Vib_G4.wav
 pitch_keycenter=79
 lokey=78
 hikey=81
-volume=-0.578281
+volume=4.421719
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Vib/Hohner-Super64_Vib_C5.wav
@@ -74,7 +76,7 @@ pitch_keycenter=84
 lokey=82
 hikey=86
 offset=197
-volume=-0.754009
+volume=4.245991
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Vib/Hohner-Super64_Vib_E5.wav
@@ -82,7 +84,7 @@ pitch_keycenter=88
 lokey=87
 hikey=89
 offset=1437
-volume=-0.512155
+volume=4.487845
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Vib/Hohner-Super64_Vib_G5.wav
@@ -90,7 +92,8 @@ pitch_keycenter=91
 lokey=90
 hikey=93
 tune=-1
-volume=0.561965
+volume=5.561965
+ampeg_attack=0.1
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Vib/Hohner-Super64_Vib_C6.wav
@@ -98,12 +101,14 @@ pitch_keycenter=96
 lokey=94
 hikey=97
 tune=-1
-volume=1.068372
+volume=6.068372
+ampeg_attack=0.1
 
 <group>
 trigger=release
 ampeg_attack=0.100000
-ampeg_release=0.300000
+ampeg_sustain=0
+ampeg_decay=0.5
 
 <region>
 sample=Harmonica-Hohner-Super64/Releases/Vib/Hohner-Super64_Vib_rel_C2.wav

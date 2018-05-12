@@ -9,18 +9,18 @@ sw_label=Hard Mallets
 ampeg_attack=0.004000
 ampeg_release=15.000000
 
-<region>
-lovel=0
-hivel=83
-sample=Xylophone/Hard Mallets/Xylo_Hard_G3_pp_01_far.wav
-pitch_keycenter=67
-lokey=67
-hikey=69
-volume=8.013224
+//<region>
+//lovel=0
+//hivel=83
+//sample=Xylophone/Hard Mallets/Xylo_Hard_G3_pp_01_far.wav
+//pitch_keycenter=67
+//lokey=67
+//hikey=69
+//volume=8.013224
 
 <region>
-lovel=84
-hivel=127
+//lovel=84
+//hivel=127
 sample=Xylophone/Hard Mallets/Xylo_Hard_G3_ff_01_far.wav
 pitch_keycenter=67
 lokey=67
@@ -182,7 +182,7 @@ sample=Xylophone/Soft Mallets/Xylo_Soft_G3_ff_01_far.wav
 pitch_keycenter=67
 lokey=67
 hikey=69
-volume=3.962981
+volume=0.962981
 
 <region>
 lovel=0
@@ -281,7 +281,7 @@ sample=Xylophone/Soft Mallets/Xylo_Soft_G6_pp_01_far.wav
 pitch_keycenter=103
 lokey=100
 hikey=105
-volume=19.502175
+volume=16.502175
 
 <region>
 lovel=84
@@ -290,7 +290,7 @@ sample=Xylophone/Soft Mallets/Xylo_Soft_G6_ff_01_far.wav
 pitch_keycenter=103
 lokey=100
 hikey=105
-volume=9.608295
+volume=5.608295
 
 <region>
 lovel=0
@@ -330,7 +330,7 @@ sample=Xylophone/Medium Mallets/Xylo_Medium_G3_pp_01_far.wav
 pitch_keycenter=67
 lokey=67
 hikey=69
-volume=25.810545
+volume=22.810545
 
 <region>
 lovel=84
@@ -339,7 +339,7 @@ sample=Xylophone/Medium Mallets/Xylo_Medium_G3_ff_01_far.wav
 pitch_keycenter=67
 lokey=67
 hikey=69
-volume=7.425835
+volume=1.425835
 
 <region>
 lovel=0
@@ -375,7 +375,7 @@ sample=Xylophone/Medium Mallets/Xylo_Medium_G4_ff_01_far.wav
 pitch_keycenter=79
 lokey=76
 hikey=81
-volume=-3.767685
+volume=-1.767685
 
 <region>
 lovel=0
@@ -384,7 +384,7 @@ sample=Xylophone/Medium Mallets/Xylo_Medium_C5_pp_01_far.wav
 pitch_keycenter=84
 lokey=82
 hikey=87
-volume=12.198534
+volume=13.198534
 
 <region>
 lovel=84
@@ -393,7 +393,7 @@ sample=Xylophone/Medium Mallets/Xylo_Medium_C5_ff_01_far.wav
 pitch_keycenter=84
 lokey=82
 hikey=87
-volume=-1.259127
+volume=2
 
 <region>
 lovel=0
@@ -411,7 +411,7 @@ sample=Xylophone/Medium Mallets/Xylo_Medium_G5_ff_01_far.wav
 pitch_keycenter=91
 lokey=88
 hikey=93
-volume=4.039045
+volume=1.039045
 
 <region>
 lovel=0
@@ -429,7 +429,7 @@ sample=Xylophone/Medium Mallets/Xylo_Medium_C6_ff_01_far.wav
 pitch_keycenter=96
 lokey=94
 hikey=99
-volume=1.136201
+volume=3.136201
 
 <region>
 lovel=0
@@ -447,7 +447,7 @@ sample=Xylophone/Medium Mallets/Xylo_Medium_G6_ff_01_far.wav
 pitch_keycenter=103
 lokey=100
 hikey=105
-volume=3.679822
+volume=2.679822
 
 <region>
 lovel=0

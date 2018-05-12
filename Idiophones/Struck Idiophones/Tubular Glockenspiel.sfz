@@ -43,6 +43,8 @@ lokey=81
 hikey=82
 tune=34
 volume=30.042898
+ampeg_sustain=0.0
+ampeg_decay=1.5
 
 <region>
 lovel=66
@@ -53,6 +55,8 @@ lokey=81
 hikey=82
 tune=21
 volume=17.925369
+ampeg_sustain=0.0
+ampeg_decay=1.5
 
 <region>
 lovel=100
@@ -72,6 +76,8 @@ pitch_keycenter=83
 lokey=83
 hikey=83
 volume=34.290849
+ampeg_sustain=0.0
+ampeg_decay=1.5
 
 <region>
 lovel=66
@@ -82,6 +88,7 @@ lokey=83
 hikey=83
 tune=-12
 volume=18.040228
+offset=1841
 
 <region>
 lovel=100
@@ -109,6 +116,7 @@ pitch_keycenter=84
 lokey=84
 hikey=85
 volume=11.139223
+offset=2225
 
 <region>
 lovel=100
@@ -128,6 +136,8 @@ pitch_keycenter=86
 lokey=86
 hikey=87
 volume=33.737979
+ampeg_sustain=0.0
+ampeg_decay=1.5
 
 <region>
 lovel=66
@@ -155,6 +165,8 @@ pitch_keycenter=88
 lokey=88
 hikey=89
 volume=28.093809
+ampeg_sustain=0.0
+ampeg_decay=1.5
 
 <region>
 lovel=66
@@ -164,6 +176,8 @@ pitch_keycenter=88
 lokey=88
 hikey=89
 volume=13.383984
+ampeg_sustain=0.0
+ampeg_decay=1.7
 
 <region>
 lovel=100
@@ -189,8 +203,8 @@ hivel=99
 sample=Tubular Glockenspiel/F#1_medium1.wav
 pitch_keycenter=90
 lokey=90
-hikey=90
-tune=-55
+hikey=92
+//tune=-55
 volume=11.584981
 
 <region>
@@ -199,7 +213,7 @@ hivel=127
 sample=Tubular Glockenspiel/F#1_loud1.wav
 pitch_keycenter=90
 lokey=90
-hikey=90
+hikey=92
 tune=-3
 volume=3.453590
 
@@ -212,25 +226,30 @@ lokey=91
 hikey=92
 tune=-38
 volume=39.913600
+ampeg_sustain=0.0
+ampeg_decay=0.7
 
-<region>
-lovel=66
-hivel=99
-sample=Tubular Glockenspiel/G1_medium1.wav
-pitch_keycenter=91
-lokey=91
-hikey=92
-volume=23.352821
+//<region>
+//lovel=66
+//hivel=99
+//sample=Tubular Glockenspiel/G1_medium1.wav
+//pitch_keycenter=91
+//lokey=91
+//hikey=92
+//tune=-51
+//volume=23.352821
+//ampeg_sustain=0.0
+//ampeg_decay=1.0
 
-<region>
-lovel=100
-hivel=127
-sample=Tubular Glockenspiel/G1_loud1.wav
-pitch_keycenter=91
-lokey=91
-hikey=92
-tune=-19
-volume=12.410199
+//<region>
+//lovel=100
+//hivel=127
+//sample=Tubular Glockenspiel/G1_loud1.wav
+//pitch_keycenter=91
+//lokey=91
+//hikey=92
+//tune=-19
+//volume=12.410199
 
 <region>
 lovel=0
@@ -248,7 +267,7 @@ sample=Tubular Glockenspiel/A1_medium1.wav
 pitch_keycenter=93
 lokey=93
 hikey=94
-tune=20
+//tune=20
 volume=8.333417
 
 <region>
@@ -258,5 +277,5 @@ sample=Tubular Glockenspiel/A1_loud1.wav
 pitch_keycenter=93
 lokey=93
 hikey=94
-volume=5.728749
+volume=8.728749
 

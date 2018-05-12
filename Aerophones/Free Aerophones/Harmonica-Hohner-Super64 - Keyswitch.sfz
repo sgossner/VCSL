@@ -1,3 +1,5 @@
+// Generation Options: --volume 5 --releasevolume -10 --articulation Normal
+
 <group>
 sw_default=36
 sw_lokey=36
@@ -13,7 +15,7 @@ sample=Harmonica-Hohner-Super64/Sustains/Normal/Hohner-Super64_Normal _C2.wav
 pitch_keycenter=48
 lokey=48
 hikey=50
-volume=-2.945450
+volume=2.054550
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Normal/Hohner-Super64_Normal _E2.wav
@@ -21,7 +23,7 @@ pitch_keycenter=52
 lokey=51
 hikey=53
 tune=1
-volume=1.192994
+volume=6.192994
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Normal/Hohner-Super64_Normal _G2.wav
@@ -29,7 +31,7 @@ pitch_keycenter=55
 lokey=54
 hikey=57
 tune=3
-volume=1.435344
+volume=6.435344
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Normal/Hohner-Super64_Normal _C3.wav
@@ -37,28 +39,28 @@ pitch_keycenter=60
 lokey=58
 hikey=62
 tune=1
-volume=2.608488
+volume=7.608488
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Normal/Hohner-Super64_Normal _E3.wav
 pitch_keycenter=64
 lokey=63
 hikey=65
-volume=-0.709166
+volume=4.290834
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Normal/Hohner-Super64_Normal _G3.wav
 pitch_keycenter=67
 lokey=66
 hikey=69
-volume=0.303144
+volume=5.303144
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Normal/Hohner-Super64_Normal _C4.wav
 pitch_keycenter=72
 lokey=70
 hikey=74
-volume=-1.911416
+volume=3.088584
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Normal/Hohner-Super64_Normal _E4.wav
@@ -66,7 +68,7 @@ pitch_keycenter=76
 lokey=75
 hikey=77
 tune=1
-volume=2.983352
+volume=7.983352
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Normal/Hohner-Super64_Normal _G4.wav
@@ -74,35 +76,35 @@ pitch_keycenter=79
 lokey=78
 hikey=81
 offset=167
-volume=-2.346742
+volume=2.653258
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Normal/Hohner-Super64_Normal _C5.wav
 pitch_keycenter=84
 lokey=82
 hikey=86
-volume=0.396118
+volume=5.396118
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Normal/Hohner-Super64_Normal _E5.wav
 pitch_keycenter=88
 lokey=87
 hikey=89
-volume=1.785430
+volume=6.785430
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Normal/Hohner-Super64_Normal _G5.wav
 pitch_keycenter=91
 lokey=90
 hikey=93
-volume=2.347265
+volume=7.347265
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Normal/Hohner-Super64_Normal _C6.wav
 pitch_keycenter=96
 lokey=94
 hikey=97
-volume=-3.348266
+volume=1.651734
 
 <group>
 sw_default=36
@@ -112,7 +114,6 @@ sw_last=36
 sw_label=Normal
 trigger=release
 ampeg_attack=0.100000
-ampeg_release=0.300000
 
 <region>
 sample=Harmonica-Hohner-Super64/Releases/Normal/Hohner-Super64_Normal _rel_C2.wav
@@ -219,6 +220,8 @@ volume=-6.741646
 
 
 
+// Generation Options: --volume 5 --articulation Vib
+
 <group>
 sw_default=36
 sw_lokey=36
@@ -234,14 +237,14 @@ sample=Harmonica-Hohner-Super64/Sustains/Vib/Hohner-Super64_Vib_C2.wav
 pitch_keycenter=48
 lokey=48
 hikey=50
-volume=1.155485
+volume=6.155485
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Vib/Hohner-Super64_Vib_E2.wav
 pitch_keycenter=52
 lokey=51
 hikey=53
-volume=-2.398469
+volume=2.601531
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Vib/Hohner-Super64_Vib_G2.wav
@@ -249,14 +252,14 @@ pitch_keycenter=55
 lokey=54
 hikey=57
 tune=1
-volume=0.853160
+volume=5.853160
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Vib/Hohner-Super64_Vib_C3.wav
 pitch_keycenter=60
 lokey=58
 hikey=62
-volume=3.231031
+volume=8.231031
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Vib/Hohner-Super64_Vib_E3.wav
@@ -264,35 +267,35 @@ pitch_keycenter=64
 lokey=63
 hikey=65
 tune=1
-volume=0.291799
+volume=5.291799
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Vib/Hohner-Super64_Vib_G3.wav
 pitch_keycenter=67
 lokey=66
 hikey=69
-volume=-0.512310
+volume=4.487690
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Vib/Hohner-Super64_Vib_C4.wav
 pitch_keycenter=72
 lokey=70
 hikey=74
-volume=1.237797
+volume=6.237797
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Vib/Hohner-Super64_Vib_E4.wav
 pitch_keycenter=76
 lokey=75
 hikey=77
-volume=-0.873217
+volume=4.126783
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Vib/Hohner-Super64_Vib_G4.wav
 pitch_keycenter=79
 lokey=78
 hikey=81
-volume=-0.578281
+volume=4.421719
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Vib/Hohner-Super64_Vib_C5.wav
@@ -300,7 +303,7 @@ pitch_keycenter=84
 lokey=82
 hikey=86
 offset=197
-volume=-0.754009
+volume=4.245991
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Vib/Hohner-Super64_Vib_E5.wav
@@ -308,7 +311,7 @@ pitch_keycenter=88
 lokey=87
 hikey=89
 offset=1437
-volume=-0.512155
+volume=4.487845
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Vib/Hohner-Super64_Vib_G5.wav
@@ -316,7 +319,8 @@ pitch_keycenter=91
 lokey=90
 hikey=93
 tune=-1
-volume=0.561965
+volume=5.561965
+ampeg_attack=0.1
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Vib/Hohner-Super64_Vib_C6.wav
@@ -324,7 +328,8 @@ pitch_keycenter=96
 lokey=94
 hikey=97
 tune=-1
-volume=1.068372
+volume=6.068372
+ampeg_attack=0.1
 
 <group>
 sw_default=36
@@ -334,7 +339,8 @@ sw_last=37
 sw_label=Vib
 trigger=release
 ampeg_attack=0.100000
-ampeg_release=0.300000
+ampeg_sustain=0
+ampeg_decay=0.5
 
 <region>
 sample=Harmonica-Hohner-Super64/Releases/Vib/Hohner-Super64_Vib_rel_C2.wav
@@ -440,6 +446,8 @@ volume=1.161332
 
 
 
+// Generation Options: --volume 5 --attack 0.1 --articulation Accented
+
 <group>
 sw_default=36
 sw_lokey=36
@@ -447,7 +455,7 @@ sw_hikey=39
 sw_last=38
 sw_label=Accented
 trigger=attack
-ampeg_attack=0.004000
+ampeg_attack=0.100000
 ampeg_release=0.100000
 
 <region>
@@ -456,84 +464,84 @@ pitch_keycenter=48
 lokey=48
 hikey=50
 offset=46
-volume=0.631504
+volume=5.631504
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Accented/Hohner-Super64_Accented_E2.wav
 pitch_keycenter=52
 lokey=51
 hikey=53
-volume=0.539772
+volume=5.539772
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Accented/Hohner-Super64_Accented_G2.wav
 pitch_keycenter=55
 lokey=54
 hikey=57
-volume=-0.748851
+volume=4.251149
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Accented/Hohner-Super64_Accented_C3.wav
 pitch_keycenter=60
 lokey=58
 hikey=62
-volume=1.593665
+volume=6.593665
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Accented/Hohner-Super64_Accented_E3.wav
 pitch_keycenter=64
 lokey=63
 hikey=65
-volume=1.490837
+volume=6.490837
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Accented/Hohner-Super64_Accented_G3.wav
 pitch_keycenter=67
 lokey=66
 hikey=69
-volume=-1.179836
+volume=3.820164
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Accented/Hohner-Super64_Accented_C4.wav
 pitch_keycenter=72
 lokey=70
 hikey=74
-volume=-1.525957
+volume=3.474043
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Accented/Hohner-Super64_Accented_E4.wav
 pitch_keycenter=76
 lokey=75
 hikey=77
-volume=-1.786718
+volume=3.213282
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Accented/Hohner-Super64_Accented_G4.wav
 pitch_keycenter=79
 lokey=78
 hikey=81
-volume=3.207255
+volume=8.207255
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Accented/Hohner-Super64_Accented_C5.wav
 pitch_keycenter=84
 lokey=82
 hikey=86
-volume=1.466968
+volume=6.466968
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Accented/Hohner-Super64_Accented_E5.wav
 pitch_keycenter=88
 lokey=87
 hikey=89
-volume=-0.394667
+volume=4.605333
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Accented/Hohner-Super64_Accented_G5.wav
 pitch_keycenter=91
 lokey=90
 hikey=93
-volume=0.655453
+volume=5.655453
 
 <region>
 sample=Harmonica-Hohner-Super64/Sustains/Accented/Hohner-Super64_Accented_C6.wav
@@ -541,7 +549,7 @@ pitch_keycenter=96
 lokey=94
 hikey=97
 tune=-1
-volume=-1.898983
+volume=3.101017
 
 <group>
 sw_default=36
@@ -551,7 +559,6 @@ sw_last=38
 sw_label=Accented
 trigger=release
 ampeg_attack=0.100000
-ampeg_release=0.300000
 
 <region>
 sample=Harmonica-Hohner-Super64/Releases/Accented/Hohner-Super64_Accented_rel_C2.wav

@@ -1,3 +1,5 @@
+// Generation Options: --volume 10
+
 <group>
 trigger=attack
 ampeg_attack=0.004000
@@ -8,56 +10,58 @@ sample=Harmonica-Hohner-Special20-F/Sustains/HandVib/Hohner-Special20-F_HandVib_
 pitch_keycenter=65
 lokey=65
 hikey=67
-volume=-3.016269
+volume=6.983731
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/HandVib/Hohner-Special20-F_HandVib_A3.wav
 pitch_keycenter=69
 lokey=68
 hikey=70
-volume=1.233406
+volume=11.233406
+ampeg_attack=0.1
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/HandVib/Hohner-Special20-F_HandVib_C4.wav
 pitch_keycenter=72
 lokey=71
 hikey=74
-volume=3.674840
+volume=13.674840
+ampeg_attack=0.1
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/HandVib/Hohner-Special20-F_HandVib_F4.wav
 pitch_keycenter=77
 lokey=75
 hikey=79
-volume=-2.141897
+volume=7.858103
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/HandVib/Hohner-Special20-F_HandVib_A4.wav
 pitch_keycenter=81
 lokey=80
 hikey=82
-volume=4.108568
+volume=14.108568
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/HandVib/Hohner-Special20-F_HandVib_C5.wav
 pitch_keycenter=84
 lokey=83
 hikey=86
-volume=6.506399
+volume=16.506399
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/HandVib/Hohner-Special20-F_HandVib_F5.wav
 pitch_keycenter=89
 lokey=87
 hikey=91
-volume=-1.401224
+volume=8.598776
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/HandVib/Hohner-Special20-F_HandVib_A5.wav
 pitch_keycenter=93
 lokey=92
 hikey=94
-volume=3.976601
+volume=13.976601
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/HandVib/Hohner-Special20-F_HandVib_C6.wav
@@ -65,19 +69,20 @@ pitch_keycenter=96
 lokey=95
 hikey=98
 offset=782
-volume=-5.385704
+volume=4.614296
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Sustains/HandVib/Hohner-Special20-F_HandVib_F6.wav
 pitch_keycenter=101
 lokey=99
 hikey=102
-volume=2.859392
+volume=12.859392
 
 <group>
 trigger=release
 ampeg_attack=0.100000
-ampeg_release=0.300000
+ampeg_sustain=0
+ampeg_decay=0.5
 
 <region>
 sample=Harmonica-Hohner-Special20-F/Releases/HandVib/Hohner-Special20-F_HandVib_rel_F3.wav
