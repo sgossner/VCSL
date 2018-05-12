@@ -1,7 +1,7 @@
-// Generation Options: --volume 12 --attack 0.1
+// Generation Options: --volume 12 --attack 0.005
 
 <group>
-ampeg_attack=0.100000
+ampeg_attack=0.005
 ampeg_release=10.000000
 
 <region>

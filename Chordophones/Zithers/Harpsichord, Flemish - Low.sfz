@@ -231,7 +231,7 @@ volume=1.615040
 trigger=release
 //ampeg_attack=0.050000
 ampeg_release=0.300000
-//rt_decay=5
+//rt_decay=0
 amp_veltrack=0
 
 <region>

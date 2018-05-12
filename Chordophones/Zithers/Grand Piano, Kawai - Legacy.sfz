@@ -3,7 +3,7 @@
 <group>
 trigger=attack
 ampeg_attack=0.004000
-ampeg_release=0.100000
+ampeg_release=0.400000
 
 <region>
 lovel=0

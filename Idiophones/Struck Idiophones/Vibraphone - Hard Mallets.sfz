@@ -32,7 +32,7 @@ pitch_keycenter=57
 lokey=56
 hikey=58
 offset=111
-tune=44
+//tune=44
 volume=12.651582
 
 <region>

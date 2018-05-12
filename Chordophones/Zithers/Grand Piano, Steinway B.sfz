@@ -2,7 +2,7 @@
 
 <group>
 ampeg_attack=0.004000
-ampeg_release=0.100000
+ampeg_release=0.400000
 locc64=65
 hicc64=127
 
@@ -1245,7 +1245,7 @@ volume=4.680145
 
 <group>
 ampeg_attack=0.004000
-ampeg_release=0.100000
+ampeg_release=0.400000
 locc64=0
 hicc64=64
 
