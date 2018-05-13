@@ -1,4 +1,4 @@
-// Generation Options: --unpitched --release 30 --volume 10 --articulation OldSnare
+// Generation Options: --unpitched --release 30 --volume 16 --articulation OldSnare
 
 <group>
 ampeg_attack=0.004000
@@ -14,7 +14,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=399
-volume=31.180308
+volume=37.180308
 
 <region>
 seq_length=3
@@ -26,7 +26,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=188
-volume=24.705181
+volume=30.705181
 
 <region>
 seq_length=3
@@ -38,7 +38,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=167
-volume=23.668115
+volume=29.668115
 
 <region>
 seq_length=2
@@ -50,7 +50,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=135
-volume=23.249182
+volume=29.249182
 
 <region>
 seq_length=2
@@ -62,7 +62,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=121
-volume=20.631159
+volume=26.631159
 
 <region>
 seq_length=4
@@ -74,7 +74,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=183
-volume=16.750074
+volume=22.750074
 
 <region>
 seq_length=4
@@ -86,7 +86,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=408
-volume=7.789593
+volume=13.789593
 
 <region>
 seq_length=4
@@ -98,7 +98,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=124
-volume=15.296823
+volume=21.296823
 
 <region>
 seq_length=4
@@ -110,7 +110,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=220
-volume=16.768307
+volume=22.768307
 
 <region>
 seq_length=3
@@ -122,7 +122,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=234
-volume=5.218773
+volume=11.218773
 
 <region>
 seq_length=3
@@ -134,7 +134,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=87
-volume=6.910241
+volume=12.910241
 
 <region>
 seq_length=3
@@ -146,7 +146,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=112
-volume=6.284653
+volume=12.284653
 
 <region>
 seq_length=2
@@ -158,7 +158,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=127
-volume=0.105861
+volume=6.105861
 
 <region>
 seq_length=2
@@ -170,7 +170,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=190
-volume=2.255459
+volume=8.255459
 
 <region>
 sample=Legacy Snares/OldSnare/snare_rim.wav
@@ -178,5 +178,5 @@ pitch_keycenter=61
 lokey=61
 hikey=61
 offset=248
-volume=10.000000
+volume=16.000000
 

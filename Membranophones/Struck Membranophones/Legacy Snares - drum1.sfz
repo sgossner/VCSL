@@ -1,4 +1,4 @@
-// Generation Options: --unpitched --release 30 --volume 3
+// Generation Options: --unpitched --release 30 --volume 9 --articulation drum1
 
 <group>
 ampeg_attack=0.004000
@@ -14,7 +14,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=586
-volume=25.336926
+volume=31.336926
 
 <region>
 seq_length=2
@@ -25,7 +25,7 @@ sample=Legacy Snares/drum1/snare1_pppp_rr2.wav
 pitch_keycenter=60
 lokey=60
 hikey=60
-volume=21.690364
+volume=27.690364
 
 <region>
 seq_length=3
@@ -37,7 +37,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=1586
-volume=15.834297
+volume=21.834297
 
 <region>
 seq_length=3
@@ -49,7 +49,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=918
-volume=14.572190
+volume=20.572190
 
 <region>
 seq_length=3
@@ -61,7 +61,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=854
-volume=13.455610
+volume=19.455610
 
 <region>
 lovel=55
@@ -71,7 +71,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=831
-volume=11.732623
+volume=17.732623
 
 <region>
 lovel=71
@@ -81,7 +81,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=1060
-volume=7.180912
+volume=13.180912
 
 <region>
 seq_length=2
@@ -93,7 +93,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=1181
-volume=5.429781
+volume=11.429781
 
 <region>
 seq_length=2
@@ -105,7 +105,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=707
-volume=5.737079
+volume=11.737079
 
 <region>
 seq_length=3
@@ -117,7 +117,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=1206
-volume=0.686279
+volume=6.686279
 
 <region>
 seq_length=3
@@ -129,7 +129,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=1068
-volume=4.935251
+volume=10.935251
 
 <region>
 seq_length=3
@@ -141,7 +141,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=835
-volume=1.491266
+volume=7.491266
 
 <region>
 seq_length=2
@@ -153,7 +153,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=369
-volume=-3.735263
+volume=2.264737
 
 <region>
 seq_length=2
@@ -165,7 +165,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=835
-volume=1.491266
+volume=7.491266
 
 <region>
 seq_length=2
@@ -177,7 +177,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=1131
-volume=-7.180496
+volume=-1.180496
 
 <region>
 seq_length=2
@@ -189,7 +189,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=1172
-volume=-5.499471
+volume=0.500529
 
 <region>
 sample=Legacy Snares/drum1/snare1_click.wav
@@ -197,7 +197,7 @@ pitch_keycenter=61
 lokey=61
 hikey=61
 offset=969
-volume=3.000000
+volume=9.000000
 
 <region>
 sample=Legacy Snares/drum1/snare1_click2.wav
@@ -205,7 +205,7 @@ pitch_keycenter=62
 lokey=62
 hikey=62
 offset=1154
-volume=3.000000
+volume=9.000000
 
 <region>
 sample=Legacy Snares/drum1/snare1_click3.wav
@@ -213,7 +213,7 @@ pitch_keycenter=63
 lokey=63
 hikey=63
 offset=1039
-volume=3.000000
+volume=9.000000
 
 <region>
 sample=Legacy Snares/drum1/snare1_click4.wav
@@ -221,7 +221,7 @@ pitch_keycenter=64
 lokey=64
 hikey=64
 offset=1281
-volume=3.000000
+volume=9.000000
 
 <region>
 seq_length=3
@@ -233,7 +233,7 @@ pitch_keycenter=65
 lokey=65
 hikey=65
 offset=1069
-volume=22.474588
+volume=28.474588
 
 <region>
 seq_length=3
@@ -245,7 +245,7 @@ pitch_keycenter=65
 lokey=65
 hikey=65
 offset=678
-volume=19.628766
+volume=25.628766
 
 <region>
 seq_length=3
@@ -257,7 +257,7 @@ pitch_keycenter=65
 lokey=65
 hikey=65
 offset=768
-volume=20.220401
+volume=26.220401
 
 <region>
 lovel=39
@@ -267,7 +267,7 @@ pitch_keycenter=65
 lokey=65
 hikey=65
 offset=638
-volume=14.786906
+volume=20.786906
 
 <region>
 seq_length=2
@@ -279,7 +279,7 @@ pitch_keycenter=65
 lokey=65
 hikey=65
 offset=595
-volume=9.980903
+volume=15.980903
 
 <region>
 seq_length=2
@@ -291,7 +291,7 @@ pitch_keycenter=65
 lokey=65
 hikey=65
 offset=885
-volume=9.457318
+volume=15.457318
 
 <region>
 seq_length=2
@@ -303,7 +303,7 @@ pitch_keycenter=65
 lokey=65
 hikey=65
 offset=968
-volume=2.047660
+volume=8.047660
 
 <region>
 seq_length=2
@@ -315,7 +315,7 @@ pitch_keycenter=65
 lokey=65
 hikey=65
 offset=1004
-volume=-0.753090
+volume=5.246910
 
 <region>
 seq_length=2
@@ -327,7 +327,7 @@ pitch_keycenter=65
 lokey=65
 hikey=65
 offset=887
-volume=-0.410193
+volume=5.589807
 
 <region>
 seq_length=2
@@ -339,7 +339,7 @@ pitch_keycenter=65
 lokey=65
 hikey=65
 offset=621
-volume=-0.942021
+volume=5.057979
 
 <region>
 lovel=104
@@ -349,7 +349,7 @@ pitch_keycenter=65
 lokey=65
 hikey=65
 offset=1058
-volume=-3.970118
+volume=2.029882
 
 <region>
 seq_length=3
@@ -361,7 +361,7 @@ pitch_keycenter=65
 lokey=65
 hikey=65
 offset=1341
-volume=-6.290324
+volume=-0.290324
 
 <region>
 seq_length=3
@@ -373,7 +373,7 @@ pitch_keycenter=65
 lokey=65
 hikey=65
 offset=1729
-volume=6.849091
+volume=10.849091
 
 <region>
 seq_length=3
@@ -385,7 +385,7 @@ pitch_keycenter=65
 lokey=65
 hikey=65
 offset=1096
-volume=3.637091
+volume=9.637091
 
 <region>
 sample=Legacy Snares/drum1/snare1_rim_fff_rr1.wav
@@ -393,7 +393,7 @@ pitch_keycenter=66
 lokey=66
 hikey=66
 offset=1108
-volume=3.000000
+volume=9.000000
 
 <region>
 lovel=0
@@ -403,7 +403,7 @@ pitch_keycenter=67
 lokey=67
 hikey=67
 offset=1060
-volume=10.316985
+volume=16.316985
 
 <region>
 lovel=66
@@ -413,7 +413,7 @@ pitch_keycenter=67
 lokey=67
 hikey=67
 offset=997
-volume=4.503038
+volume=10.503038
 
 <region>
 lovel=100
@@ -423,7 +423,7 @@ pitch_keycenter=67
 lokey=67
 hikey=67
 offset=1336
-volume=-1.751996
+volume=4.248004
 
 <region>
 sample=Legacy Snares/drum1/snare1_mp_snare.wav
@@ -431,7 +431,7 @@ pitch_keycenter=68
 lokey=68
 hikey=68
 offset=794
-volume=3.000000
+volume=9.000000
 
 <region>
 sample=Legacy Snares/drum1/snare1_mp_snare2.wav
@@ -439,5 +439,5 @@ pitch_keycenter=69
 lokey=69
 hikey=69
 offset=1220
-volume=3.000000
+volume=9.000000
 

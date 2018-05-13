@@ -8,6 +8,7 @@ sw_last=94
 sw_label=4'
 ampeg_attack=0.004000
 ampeg_release=0.300000
+amp_veltrack=0
 
 <region>
 sample=Renaissance Organ/4'/RenOrgan_4foot_Room_C1_rr1.wav
@@ -219,6 +220,7 @@ sw_last=95
 sw_label=8'
 ampeg_attack=0.004000
 ampeg_release=0.300000
+amp_veltrack=0
 
 <region>
 sample=Renaissance Organ/8'/RenOrgan_8foot_Room_C1_rr1.wav
@@ -441,6 +443,7 @@ sw_last=96
 sw_label=Full
 ampeg_attack=0.004000
 ampeg_release=0.300000
+amp_veltrack=0
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_C1_rr1.wav

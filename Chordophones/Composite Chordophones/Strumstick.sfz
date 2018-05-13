@@ -1,4 +1,4 @@
-// Generation Options: --release 15
+// Generation Options: --release 15 --notuning
 
 <group>
 ampeg_attack=0.004000
@@ -9,9 +9,8 @@ lovel=0
 hivel=65
 sample=Strumstick/Finger/Strumstick_Finger_Str1_Main_D2_vl1_rr1.wav
 pitch_keycenter=50
-lokey=50
+lokey=48
 hikey=51
-tune=-3
 volume=17.611592
 
 <region>
@@ -19,9 +18,8 @@ lovel=66
 hivel=99
 sample=Strumstick/Finger/Strumstick_Finger_Str1_Main_D2_vl2_rr1.wav
 pitch_keycenter=50
-lokey=50
+lokey=48
 hikey=51
-tune=-9
 volume=4.926087
 
 <region>
@@ -29,9 +27,8 @@ lovel=100
 hivel=127
 sample=Strumstick/Finger/Strumstick_Finger_Str1_Main_D2_vl3_rr1.wav
 pitch_keycenter=50
-lokey=50
+lokey=48
 hikey=51
-tune=-15
 volume=-3.763252
 
 <region>
@@ -41,7 +38,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str1_Main_E2_vl1_rr1.wav
 pitch_keycenter=52
 lokey=52
 hikey=53
-tune=-6
 volume=14.267600
 
 <region>
@@ -51,7 +47,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str1_Main_E2_vl2_rr1.wav
 pitch_keycenter=52
 lokey=52
 hikey=53
-tune=-9
 volume=7.564340
 
 <region>
@@ -61,7 +56,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str1_Main_E2_vl3_rr1.wav
 pitch_keycenter=52
 lokey=52
 hikey=53
-tune=-32
 volume=5.751143
 
 <region>
@@ -80,7 +74,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str1_Main_F#2_vl2_rr1.wav
 pitch_keycenter=54
 lokey=54
 hikey=54
-tune=-1
 volume=-9.241131
 
 <region>
@@ -90,7 +83,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str1_Main_F#2_vl3_rr2.wav
 pitch_keycenter=54
 lokey=54
 hikey=54
-tune=-24
 volume=-7.545094
 
 <region>
@@ -101,7 +93,6 @@ pitch_keycenter=55
 lokey=55
 hikey=56
 offset=10
-tune=2
 volume=7.122253
 
 <region>
@@ -120,7 +111,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str1_Main_G2_vl3_rr1.wav
 pitch_keycenter=55
 lokey=55
 hikey=56
-tune=-29
 volume=-5.225824
 
 <region>
@@ -130,7 +120,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str2_Main_A2_vl1_rr1.wav
 pitch_keycenter=57
 lokey=57
 hikey=58
-tune=1
 volume=23.724060
 
 <region>
@@ -140,7 +129,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str2_Main_A2_vl2_rr1.wav
 pitch_keycenter=57
 lokey=57
 hikey=58
-tune=-3
 volume=0.824734
 
 <region>
@@ -150,7 +138,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str2_Main_A2_vl3_rr1.wav
 pitch_keycenter=57
 lokey=57
 hikey=58
-tune=-15
 volume=-3.888565
 
 <region>
@@ -160,7 +147,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str2_Main_B2_vl1_rr1.wav
 pitch_keycenter=59
 lokey=59
 hikey=60
-tune=-7
 volume=11.535541
 
 <region>
@@ -170,7 +156,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str2_Main_B2_vl2_rr1.wav
 pitch_keycenter=59
 lokey=59
 hikey=60
-tune=-4
 volume=4.882690
 
 <region>
@@ -180,7 +165,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str2_Main_B2_vl3_rr1.wav
 pitch_keycenter=59
 lokey=59
 hikey=60
-tune=-18
 volume=-6.226627
 
 <region>
@@ -190,7 +174,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str2_Main_C#3_vl1_rr1.wav
 pitch_keycenter=61
 lokey=61
 hikey=61
-tune=-8
 volume=12.052608
 
 <region>
@@ -200,7 +183,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str2_Main_C#3_vl2_rr1.wav
 pitch_keycenter=61
 lokey=61
 hikey=61
-tune=-7
 volume=4.695340
 
 <region>
@@ -210,7 +192,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str2_Main_C#3_vl3_rr1.wav
 pitch_keycenter=61
 lokey=61
 hikey=61
-tune=-23
 volume=-3.324223
 
 <region>
@@ -220,7 +201,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str2_Main_D3_vl1_rr2.wav
 pitch_keycenter=62
 lokey=62
 hikey=63
-tune=-8
 volume=13.556727
 
 <region>
@@ -230,7 +210,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str2_Main_D3_vl2_rr1.wav
 pitch_keycenter=62
 lokey=62
 hikey=63
-tune=-10
 volume=7.478954
 
 <region>
@@ -240,7 +219,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str2_Main_D3_vl3_rr1.wav
 pitch_keycenter=62
 lokey=62
 hikey=63
-tune=-38
 volume=2.802491
 
 <region>
@@ -250,7 +228,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str3_Main_E3_vl1_rr1.wav
 pitch_keycenter=64
 lokey=64
 hikey=65
-tune=-6
 volume=7.695583
 
 <region>
@@ -260,7 +237,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str3_Main_E3_vl2_rr1.wav
 pitch_keycenter=64
 lokey=64
 hikey=65
-tune=-6
 volume=2.407545
 
 <region>
@@ -270,7 +246,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str3_Main_E3_vl3_rr1.wav
 pitch_keycenter=64
 lokey=64
 hikey=65
-tune=-19
 volume=-3.970507
 
 <region>
@@ -280,7 +255,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str3_Main_F#3_vl1_rr1.wav
 pitch_keycenter=66
 lokey=66
 hikey=66
-tune=-1
 volume=2.642854
 
 <region>
@@ -299,7 +273,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str3_Main_F#3_vl3_rr1.wav
 pitch_keycenter=66
 lokey=66
 hikey=66
-tune=-12
 volume=-5.978563
 
 <region>
@@ -309,7 +282,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str3_Main_G3_vl1_rr1.wav
 pitch_keycenter=67
 lokey=67
 hikey=68
-tune=-4
 volume=11.901047
 
 <region>
@@ -319,7 +291,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str3_Main_G3_vl2_rr1.wav
 pitch_keycenter=67
 lokey=67
 hikey=68
-tune=-1
 volume=-0.185726
 
 <region>
@@ -329,7 +300,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str3_Main_G3_vl3_rr1.wav
 pitch_keycenter=67
 lokey=67
 hikey=68
-tune=-13
 volume=-4.878751
 
 <region>
@@ -339,7 +309,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str3_Main_A3_vl1_rr1.wav
 pitch_keycenter=69
 lokey=69
 hikey=70
-tune=-5
 volume=14.384447
 
 <region>
@@ -349,7 +318,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str3_Main_A3_vl2_rr1.wav
 pitch_keycenter=69
 lokey=69
 hikey=70
-tune=-4
 volume=3.714887
 
 <region>
@@ -359,7 +327,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str3_Main_A3_vl3_rr1.wav
 pitch_keycenter=69
 lokey=69
 hikey=70
-tune=-8
 volume=-1.118447
 
 <region>
@@ -369,7 +336,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str3_Main_B3_vl1_rr1.wav
 pitch_keycenter=71
 lokey=71
 hikey=72
-tune=2
 volume=13.369979
 
 <region>
@@ -379,7 +345,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str3_Main_B3_vl2_rr1.wav
 pitch_keycenter=71
 lokey=71
 hikey=72
-tune=-6
 volume=1.013261
 
 <region>
@@ -389,7 +354,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str3_Main_B3_vl3_rr1.wav
 pitch_keycenter=71
 lokey=71
 hikey=72
-tune=-14
 volume=-2.000912
 
 <region>
@@ -399,7 +363,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str3_Main_C#4_vl1_rr1.wav
 pitch_keycenter=73
 lokey=73
 hikey=73
-tune=1
 volume=15.503676
 
 <region>
@@ -409,7 +372,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str3_Main_C#4_vl2_rr1.wav
 pitch_keycenter=73
 lokey=73
 hikey=73
-tune=-5
 volume=-0.272136
 
 <region>
@@ -419,7 +381,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str3_Main_C#4_vl3_rr1.wav
 pitch_keycenter=73
 lokey=73
 hikey=73
-tune=-6
 volume=-5.457693
 
 <region>
@@ -429,7 +390,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str3_Main_D4_vl1_rr1.wav
 pitch_keycenter=74
 lokey=74
 hikey=75
-tune=-3
 volume=5.418296
 
 <region>
@@ -440,7 +400,6 @@ pitch_keycenter=74
 lokey=74
 hikey=75
 offset=7
-tune=-6
 volume=-0.858782
 
 <region>
@@ -450,7 +409,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str3_Main_D4_vl3_rr1.wav
 pitch_keycenter=74
 lokey=74
 hikey=75
-tune=2
 volume=-3.369997
 
 <region>
@@ -460,7 +418,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str3_Main_E4_vl1_rr1.wav
 pitch_keycenter=76
 lokey=76
 hikey=77
-tune=-4
 volume=15.757685
 
 <region>
@@ -471,7 +428,6 @@ pitch_keycenter=76
 lokey=76
 hikey=77
 offset=16
-tune=-3
 volume=-3.330450
 
 <region>
@@ -481,7 +437,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str3_Main_E4_vl3_rr1.wav
 pitch_keycenter=76
 lokey=76
 hikey=77
-tune=-13
 volume=-0.629112
 
 <region>
@@ -491,7 +446,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str3_Main_F#4_vl1_rr1.wav
 pitch_keycenter=78
 lokey=78
 hikey=78
-tune=-1
 volume=14.475191
 
 <region>
@@ -501,7 +455,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str3_Main_F#4_vl2_rr1.wav
 pitch_keycenter=78
 lokey=78
 hikey=78
-tune=-1
 volume=-3.934010
 
 <region>
@@ -511,7 +464,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str3_Main_F#4_vl3_rr1.wav
 pitch_keycenter=78
 lokey=78
 hikey=78
-tune=-19
 volume=-2.979660
 
 <region>
@@ -521,7 +473,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str3_Main_G4_vl1_rr1.wav
 pitch_keycenter=79
 lokey=79
 hikey=80
-tune=-2
 volume=3.441549
 
 <region>
@@ -531,7 +482,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str3_Main_G4_vl2_rr2.wav
 pitch_keycenter=79
 lokey=79
 hikey=80
-tune=-4
 volume=-2.665712
 
 <region>
@@ -541,7 +491,6 @@ sample=Strumstick/Finger/Strumstick_Finger_Str3_Main_G4_vl3_rr1.wav
 pitch_keycenter=79
 lokey=79
 hikey=80
-tune=0
 volume=-3.798125
 
 <region>
@@ -550,8 +499,7 @@ hivel=65
 sample=Strumstick/Finger/Strumstick_Finger_Str3_Main_A4_vl1_rr1.wav
 pitch_keycenter=81
 lokey=81
-hikey=82
-tune=-1
+hikey=84
 volume=9.352552
 
 <region>
@@ -560,8 +508,7 @@ hivel=99
 sample=Strumstick/Finger/Strumstick_Finger_Str3_Main_A4_vl2_rr1.wav
 pitch_keycenter=81
 lokey=81
-hikey=82
-tune=-11
+hikey=84
 volume=1.713689
 
 <region>
@@ -570,7 +517,6 @@ hivel=127
 sample=Strumstick/Finger/Strumstick_Finger_Str3_Main_A4_vl3_rr1.wav
 pitch_keycenter=81
 lokey=81
-hikey=82
-tune=-7
+hikey=84
 volume=-3.109807
 

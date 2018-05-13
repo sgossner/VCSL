@@ -1343,6 +1343,11 @@ hikey=100
 tune=2
 volume=5.090563
 
+<group>
+trigger=attack
+ampeg_attack=0.004000
+ampeg_release=10.000000
+
 <region>
 lovel=0
 hivel=83

@@ -1,4 +1,4 @@
-// Generation Options: --unpitched --release 30 --volume 10 --articulation drum3_marching
+// Generation Options: --unpitched --release 30 --volume 16 --articulation drum3_marching
 
 <group>
 ampeg_attack=0.004000
@@ -14,7 +14,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=908
-volume=18.636815
+volume=24.636815
 
 <region>
 seq_length=3
@@ -26,7 +26,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=846
-volume=19.693376
+volume=25.693376
 
 <region>
 seq_length=3
@@ -38,7 +38,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=1393
-volume=28.997693
+volume=34.997693
 
 <region>
 seq_length=2
@@ -50,7 +50,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=885
-volume=19.157703
+volume=25.157703
 
 <region>
 seq_length=2
@@ -62,7 +62,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=727
-volume=22.660750
+volume=28.660750
 
 <region>
 seq_length=4
@@ -74,7 +74,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=274
-volume=16.163744
+volume=22.163744
 
 <region>
 seq_length=4
@@ -86,7 +86,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=437
-volume=17.725369
+volume=23.725369
 
 <region>
 seq_length=4
@@ -98,7 +98,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=154
-volume=17.442671
+volume=23.442671
 
 <region>
 seq_length=4
@@ -110,7 +110,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=782
-volume=17.478050
+volume=23.478050
 
 <region>
 lovel=84
@@ -120,7 +120,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=598
-volume=9.001559
+volume=15.001559
 
 <region>
 seq_length=2
@@ -132,7 +132,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=1433
-volume=0.683857
+volume=6.683857
 
 <region>
 seq_length=2
@@ -144,7 +144,7 @@ pitch_keycenter=60
 lokey=60
 hikey=60
 offset=996
-volume=4.169627
+volume=10.169627
 
 <region>
 lovel=114
@@ -153,7 +153,7 @@ sample=Legacy Snares/drum3_marching/snare3_fff_rr1.wav
 pitch_keycenter=60
 lokey=60
 hikey=60
-volume=-1.726510
+volume=4.273490
 
 <region>
 seq_length=2
@@ -163,7 +163,7 @@ pitch_keycenter=61
 lokey=61
 hikey=61
 offset=986
-volume=13.026708
+volume=19.026708
 
 <region>
 seq_length=2
@@ -173,7 +173,7 @@ pitch_keycenter=61
 lokey=61
 hikey=61
 offset=859
-volume=7.759786
+volume=13.759786
 
 <region>
 lovel=0
@@ -183,7 +183,7 @@ pitch_keycenter=62
 lokey=62
 hikey=62
 offset=873
-volume=13.603377
+volume=19.603377
 
 <region>
 lovel=84
@@ -193,5 +193,5 @@ pitch_keycenter=62
 lokey=62
 hikey=62
 offset=515
-volume=7.460735
+volume=13.460735
 

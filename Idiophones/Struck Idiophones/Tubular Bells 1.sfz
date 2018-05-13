@@ -1,4 +1,4 @@
-// Generation Options: --release 30 --volume 4
+// Generation Options: --release 30 --volume 4 --notuning
 
 <group>
 ampeg_attack=0.004000
@@ -65,7 +65,6 @@ sample=Tubular Bells 1/chimes_F#3_p_rr1.wav
 pitch_keycenter=66
 lokey=66
 hikey=67
-tune=16
 volume=14.124176
 
 <region>
@@ -84,7 +83,6 @@ sample=Tubular Bells 1/chimes_G#3_p_rr2.wav
 pitch_keycenter=68
 lokey=68
 hikey=69
-tune=23
 volume=13.654877
 
 <region>
@@ -103,7 +101,6 @@ sample=Tubular Bells 1/chimes_A#3_pp_rr1.wav
 pitch_keycenter=70
 lokey=70
 hikey=71
-tune=-19
 volume=23.199458
 
 <region>

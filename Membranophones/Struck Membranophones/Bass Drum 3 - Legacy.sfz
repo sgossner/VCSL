@@ -318,7 +318,7 @@ pitch_keycenter=64
 lokey=64
 hikey=64
 offset=5669
-volume=13.856603
+volume=10
 
 <region>
 sample=Bass Drum 3 - Legacy/bdrum_roll-quietest.wav

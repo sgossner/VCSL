@@ -845,6 +845,11 @@ offset=29
 tune=-29
 volume=12.580966
 
+<group>
+trigger=attack
+ampeg_attack=0.004000
+ampeg_release=10.000000
+
 <region>
 lovel=0
 hivel=83
