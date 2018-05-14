@@ -1,4 +1,4 @@
-// Generation Options: --release 30 --volume 13 --transpose -24
+// Generation Options: --release 30 --volume 13 --transpose -24 --notuning
 
 <group>
 ampeg_attack=0.004000
@@ -58,7 +58,6 @@ pitch_keycenter=66
 lokey=66
 hikey=66
 offset=2882
-tune=-16
 volume=11.860680
 
 <region>

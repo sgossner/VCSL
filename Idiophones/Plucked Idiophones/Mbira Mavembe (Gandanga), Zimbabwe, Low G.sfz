@@ -1,4 +1,4 @@
-// Generation Options: --release 15 --notuning
+// Generation Options: --release 15
 
 <group>
 ampeg_attack=0.004000
@@ -6,7 +6,7 @@ ampeg_release=15.000000
 
 <region>
 sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_A#1_k12_vl2_rr1.wav
-pitch_keycenter=46
+pitch_keycenter=47
 lokey=46
 hikey=47
 volume=0.515072
@@ -16,6 +16,7 @@ sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_C2_k10
 pitch_keycenter=48
 lokey=48
 hikey=49
+tune=51
 volume=-3.260362
 
 <region>
@@ -23,6 +24,7 @@ sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_D2_k8_
 pitch_keycenter=50
 lokey=50
 hikey=50
+tune=20
 volume=4.386862
 
 <region>
@@ -30,6 +32,7 @@ sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_D#2_k6
 pitch_keycenter=51
 lokey=51
 hikey=52
+tune=17
 volume=-1.190269
 
 <region>
@@ -72,6 +75,7 @@ sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_D3_k11
 pitch_keycenter=62
 lokey=62
 hikey=62
+tune=32
 volume=-1.345018
 
 <region>
@@ -86,25 +90,28 @@ sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_F3_k5_
 pitch_keycenter=65
 lokey=65
 hikey=66
+tune=22
 volume=-3.294644
 
 <region>
 seq_length=2
 seq_position=1
-sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_G3_k16_vl2_rr1.wav
-pitch_keycenter=67
-lokey=67
-hikey=67
-volume=5.503410
-
-<region>
-seq_length=2
-seq_position=2
 sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_G3_k3_vl2_rr1.wav
 pitch_keycenter=67
 lokey=67
 hikey=67
+tune=25
 volume=2.358162
+
+<region>
+seq_length=2
+seq_position=2
+sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_G3_k16_vl2_rr1.wav
+pitch_keycenter=67
+lokey=67
+hikey=67
+tune=7
+volume=5.503410
 
 <region>
 seq_length=2
@@ -113,6 +120,7 @@ sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_G#3_k1
 pitch_keycenter=68
 lokey=68
 hikey=69
+tune=-2
 volume=3.413080
 
 <region>
@@ -122,6 +130,7 @@ sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_G#3_k1
 pitch_keycenter=68
 lokey=68
 hikey=69
+tune=11
 volume=-6.332559
 
 <region>
@@ -129,6 +138,7 @@ sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_A#3_k1
 pitch_keycenter=70
 lokey=70
 hikey=71
+tune=28
 volume=6.639345
 
 <region>
@@ -136,6 +146,7 @@ sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_C4_k19
 pitch_keycenter=72
 lokey=72
 hikey=72
+tune=20
 volume=1.469104
 
 <region>
@@ -150,6 +161,7 @@ sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_D4_k20
 pitch_keycenter=74
 lokey=74
 hikey=74
+tune=2
 volume=-3.305207
 
 <region>
@@ -157,6 +169,7 @@ sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_D#4_k2
 pitch_keycenter=75
 lokey=75
 hikey=76
+tune=-2
 volume=-4.520796
 
 <region>
@@ -164,6 +177,7 @@ sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_F4_k22
 pitch_keycenter=77
 lokey=77
 hikey=78
+tune=14
 volume=9.859019
 
 <region>
@@ -171,6 +185,7 @@ sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_G4_k23
 pitch_keycenter=79
 lokey=79
 hikey=80
+tune=53
 volume=4.820332
 
 <region>
@@ -178,5 +193,6 @@ sample=Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_A4_k24
 pitch_keycenter=81
 lokey=81
 hikey=82
+tune=82
 volume=0.669635
 

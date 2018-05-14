@@ -1,4 +1,4 @@
-// Generation Options: --release 30 --volume 20 --notuning
+// Generation Options: --release 30 --volume 20
 
 <group>
 ampeg_attack=0.004000
@@ -74,6 +74,7 @@ pitch_keycenter=63
 lokey=63
 hikey=63
 offset=4645
+tune=4
 volume=20.100759
 
 <region>
@@ -82,6 +83,7 @@ pitch_keycenter=64
 lokey=64
 hikey=65
 offset=4654
+tune=-13
 volume=17.205425
 
 <region>
@@ -90,6 +92,7 @@ pitch_keycenter=66
 lokey=66
 hikey=67
 offset=4617
+tune=-12
 volume=22.218911
 
 <region>
@@ -98,6 +101,7 @@ pitch_keycenter=68
 lokey=68
 hikey=68
 offset=3790
+tune=-32
 volume=20.530722
 
 <region>
@@ -106,6 +110,7 @@ pitch_keycenter=69
 lokey=69
 hikey=70
 offset=4658
+tune=-23
 volume=19.151527
 
 <region>
@@ -116,6 +121,7 @@ pitch_keycenter=71
 lokey=71
 hikey=72
 offset=4662
+tune=-14
 volume=24.575997
 
 <region>
@@ -126,6 +132,7 @@ pitch_keycenter=71
 lokey=71
 hikey=72
 offset=4649
+tune=-24
 volume=21.000816
 
 <region>
@@ -136,6 +143,7 @@ pitch_keycenter=73
 lokey=73
 hikey=74
 offset=4631
+tune=-3
 volume=17.992516
 
 <region>
@@ -146,6 +154,7 @@ pitch_keycenter=73
 lokey=73
 hikey=74
 offset=4367
+tune=2
 volume=15.314652
 
 <region>
@@ -154,6 +163,7 @@ pitch_keycenter=75
 lokey=75
 hikey=75
 offset=4653
+tune=-5
 volume=20.850015
 
 <region>
@@ -162,6 +172,7 @@ pitch_keycenter=76
 lokey=76
 hikey=77
 offset=4642
+tune=-40
 volume=22.594101
 
 <region>
@@ -170,6 +181,7 @@ pitch_keycenter=78
 lokey=78
 hikey=79
 offset=4641
+tune=-11
 volume=16.562377
 
 <region>
@@ -178,6 +190,7 @@ pitch_keycenter=80
 lokey=80
 hikey=80
 offset=4648
+tune=-56
 volume=22.553734
 
 <region>
@@ -186,6 +199,7 @@ pitch_keycenter=81
 lokey=81
 hikey=82
 offset=4635
+tune=-32
 volume=22.112469
 
 <region>
@@ -194,6 +208,7 @@ pitch_keycenter=83
 lokey=83
 hikey=84
 offset=4508
+tune=-13
 volume=18.160915
 
 <region>
@@ -202,5 +217,6 @@ pitch_keycenter=85
 lokey=85
 hikey=86
 offset=4665
+tune=-8
 volume=20.793592
 

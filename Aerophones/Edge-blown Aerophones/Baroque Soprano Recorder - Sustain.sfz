@@ -19,6 +19,7 @@ lokey=74
 hikey=75
 offset=371
 volume=15.958565
+ampeg_attack=0.1
 
 <region>
 sample=Baroque Soprano Recorder/Sustain/SopRecorder_Sus_E4_rr1_Main.wav
@@ -27,6 +28,7 @@ lokey=76
 hikey=77
 offset=325
 volume=11.143976
+ampeg_attack=0.1
 
 <region>
 sample=Baroque Soprano Recorder/Sustain/SopRecorder_Sus_F#4_rr1_Main.wav
@@ -91,6 +93,7 @@ lokey=91
 hikey=92
 offset=419
 volume=8.790412
+ampeg_attack=0.1
 
 <region>
 sample=Baroque Soprano Recorder/Sustain/SopRecorder_Sus_A#5_rr1_Main.wav

@@ -1,4 +1,4 @@
-// Generation Options: --volume 12 --attack 0.1
+// Generation Options: --volume 12 --attack 0.005
 
 <group>
 sw_default=48
@@ -6,7 +6,7 @@ sw_lokey=48
 sw_hikey=50
 sw_last=48
 sw_label=Sustain
-ampeg_attack=0.100000
+ampeg_attack=0.005000
 ampeg_release=0.300000
 
 <region>
@@ -24,6 +24,7 @@ lokey=74
 hikey=75
 offset=371
 volume=15.958565
+ampeg_attack=0.1
 
 <region>
 sample=Baroque Soprano Recorder/Sustain/SopRecorder_Sus_E4_rr1_Main.wav
@@ -32,6 +33,7 @@ lokey=76
 hikey=77
 offset=325
 volume=11.143976
+ampeg_attack=0.1
 
 <region>
 sample=Baroque Soprano Recorder/Sustain/SopRecorder_Sus_F#4_rr1_Main.wav
@@ -96,6 +98,7 @@ lokey=91
 hikey=92
 offset=419
 volume=8.790412
+ampeg_attack=0.1
 
 <region>
 sample=Baroque Soprano Recorder/Sustain/SopRecorder_Sus_A#5_rr1_Main.wav
@@ -115,7 +118,7 @@ volume=15.330327
 
 
 
-// Generation Options: --volume 12 --attack 0.1
+// Generation Options: --volume 12 --attack 0.005
 
 <group>
 sw_default=48
@@ -123,7 +126,7 @@ sw_lokey=48
 sw_hikey=50
 sw_last=49
 sw_label=Staccato
-ampeg_attack=0.100000
+ampeg_attack=0.005
 ampeg_release=10.000000
 
 <region>

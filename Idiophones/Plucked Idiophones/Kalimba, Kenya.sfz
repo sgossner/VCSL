@@ -1,4 +1,4 @@
-// Generation Options: --release 15 --notuning --volume 5
+// Generation Options: --release 15 --volume 5
 
 <group>
 ampeg_attack=0.004000
@@ -16,6 +16,7 @@ sample=Kalimba, Kenya/Mbira6_Normal_MainSpirit_C#3_k7_vl3_rr2.wav
 pitch_keycenter=61
 lokey=61
 hikey=62
+tune=-30
 volume=4.773361
 
 <region>
@@ -25,6 +26,7 @@ sample=Kalimba, Kenya/Mbira6_Normal_MainSpirit_D#3_k6_vl3_rr2.wav
 pitch_keycenter=63
 lokey=63
 hikey=64
+tune=7
 volume=9.083731
 
 <region>
@@ -34,6 +36,7 @@ sample=Kalimba, Kenya/Mbira6_Normal_MainSpirit_D#3_k9_vl3_rr2.wav
 pitch_keycenter=63
 lokey=63
 hikey=64
+tune=5
 volume=0.989334
 
 <region>
@@ -52,49 +55,55 @@ sample=Kalimba, Kenya/Mbira6_Normal_MainSpirit_F#3_k5_vl3_rr2.wav
 pitch_keycenter=66
 lokey=65
 hikey=67
+tune=-38
 volume=8.274535
 
 <region>
 seq_length=2
 seq_position=1
-sample=Kalimba, Kenya/Mbira6_Normal_MainSpirit_G#3_k11_vl3_rr2.wav
-pitch_keycenter=68
-lokey=68
-hikey=69
-volume=5.528248
-
-<region>
-seq_length=2
-seq_position=2
 sample=Kalimba, Kenya/Mbira6_Normal_MainSpirit_G#3_k4_vl3_rr2.wav
 pitch_keycenter=68
 lokey=68
 hikey=69
+tune=-38
 volume=-1.418293
 
 <region>
 seq_length=2
-seq_position=1
-sample=Kalimba, Kenya/Mbira6_Normal_MainSpirit_B3_k12_vl3_rr2.wav
-pitch_keycenter=71
-lokey=70
-hikey=72
-volume=6.591513
+seq_position=2
+sample=Kalimba, Kenya/Mbira6_Normal_MainSpirit_G#3_k11_vl3_rr2.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+tune=-41
+volume=5.528248
 
 <region>
 seq_length=2
-seq_position=2
+seq_position=1
 sample=Kalimba, Kenya/Mbira6_Normal_MainSpirit_B3_k3_vl3_rr2.wav
 pitch_keycenter=71
 lokey=70
 hikey=72
+tune=-21
 volume=3.556468
+
+<region>
+seq_length=2
+seq_position=2
+sample=Kalimba, Kenya/Mbira6_Normal_MainSpirit_B3_k12_vl3_rr2.wav
+pitch_keycenter=71
+lokey=70
+hikey=72
+tune=-8
+volume=6.591513
 
 <region>
 sample=Kalimba, Kenya/Mbira6_Normal_MainSpirit_C#4_k2_vl3_rr2.wav
 pitch_keycenter=73
 lokey=73
 hikey=74
+tune=-1
 volume=2.967380
 
 <region>
@@ -109,6 +118,7 @@ sample=Kalimba, Kenya/Mbira6_Normal_MainSpirit_F#4_k14_vl3_rr2.wav
 pitch_keycenter=78
 lokey=77
 hikey=79
+tune=-43
 volume=2.831477
 
 <region>
@@ -116,6 +126,7 @@ sample=Kalimba, Kenya/Mbira6_Normal_MainSpirit_A4_k1_vl3_rr2.wav
 pitch_keycenter=81
 lokey=80
 hikey=82
+tune=44
 volume=4.280300
 
 <region>

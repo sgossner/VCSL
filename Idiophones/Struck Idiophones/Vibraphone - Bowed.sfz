@@ -1,4 +1,4 @@
-// Generation Options: --volume 20 --release 5 --articulation Bowed
+// Generation Options: --volume 20 --release 5 --notuning --articulation Bowed
 
 <group>
 ampeg_attack=0.004000
@@ -10,7 +10,6 @@ pitch_keycenter=57
 lokey=57
 hikey=60
 offset=8139
-tune=1
 volume=26.997378
 
 <region>

@@ -1,4 +1,4 @@
-// Generation Options: --volume 10 --release 15
+// Generation Options: --volume 10 --release 15 --notuning --articulation Hard Mallets
 
 <group>
 ampeg_attack=0.004000
@@ -32,7 +32,6 @@ pitch_keycenter=57
 lokey=56
 hikey=58
 offset=111
-//tune=44
 volume=12.651582
 
 <region>
@@ -53,7 +52,6 @@ pitch_keycenter=60
 lokey=59
 hikey=62
 offset=114
-tune=15
 volume=17.606842
 
 <region>
@@ -64,7 +62,6 @@ pitch_keycenter=60
 lokey=59
 hikey=62
 offset=114
-tune=-67
 volume=6.850434
 
 <region>
@@ -75,7 +72,6 @@ pitch_keycenter=64
 lokey=63
 hikey=65
 offset=115
-tune=6
 volume=13.662226
 
 <region>
@@ -86,7 +82,6 @@ pitch_keycenter=64
 lokey=63
 hikey=65
 offset=118
-tune=15
 volume=9.723325
 
 <region>
@@ -97,7 +92,6 @@ pitch_keycenter=67
 lokey=66
 hikey=69
 offset=115
-tune=-2
 volume=18.367152
 
 <region>
@@ -108,7 +102,6 @@ pitch_keycenter=67
 lokey=66
 hikey=69
 offset=110
-tune=-5
 volume=10.651992
 
 <region>
@@ -119,7 +112,6 @@ pitch_keycenter=71
 lokey=70
 hikey=72
 offset=115
-tune=1
 volume=14.935447
 
 <region>
@@ -130,7 +122,6 @@ pitch_keycenter=71
 lokey=70
 hikey=72
 offset=111
-tune=3
 volume=7.867626
 
 <region>
@@ -151,7 +142,6 @@ pitch_keycenter=74
 lokey=73
 hikey=75
 offset=109
-tune=1
 volume=4.157508
 
 <region>
@@ -172,7 +162,6 @@ pitch_keycenter=77
 lokey=76
 hikey=79
 offset=98
-tune=-15
 volume=6.181621
 
 <region>
@@ -193,7 +182,6 @@ pitch_keycenter=81
 lokey=80
 hikey=82
 offset=93
-tune=1
 volume=9.804130
 
 <region>
@@ -214,7 +202,6 @@ pitch_keycenter=84
 lokey=83
 hikey=86
 offset=88
-tune=1
 volume=6.301050
 
 <region>
@@ -235,6 +222,5 @@ pitch_keycenter=88
 lokey=87
 hikey=89
 offset=82
-tune=-1
 volume=5.005945
 

@@ -1,4 +1,4 @@
-// Generation Options: --release 15 --notuning
+// Generation Options: --release 15
 
 <group>
 ampeg_attack=0.004000
@@ -10,6 +10,7 @@ pitch_keycenter=43
 lokey=43
 hikey=43
 offset=3843
+tune=-9
 volume=-3.065671
 
 <region>
@@ -26,6 +27,7 @@ pitch_keycenter=47
 lokey=46
 hikey=48
 offset=11
+tune=78
 volume=6.961577
 
 <region>
@@ -34,6 +36,7 @@ pitch_keycenter=49
 lokey=49
 hikey=50
 offset=4561
+tune=24
 volume=-0.519795
 
 <region>
@@ -42,6 +45,7 @@ pitch_keycenter=51
 lokey=51
 hikey=52
 offset=3229
+tune=-38
 volume=0.283634
 
 <region>
@@ -50,6 +54,7 @@ pitch_keycenter=53
 lokey=53
 hikey=54
 offset=4561
+tune=-41
 volume=2.599445
 
 <region>
@@ -58,6 +63,7 @@ pitch_keycenter=55
 lokey=55
 hikey=56
 offset=4666
+tune=-45
 volume=4.060146
 
 <region>
@@ -66,6 +72,7 @@ pitch_keycenter=58
 lokey=57
 hikey=59
 offset=4666
+tune=-54
 volume=-1.640063
 
 <region>
@@ -74,6 +81,7 @@ pitch_keycenter=61
 lokey=60
 hikey=62
 offset=3641
+tune=43
 volume=-2.701336
 
 <region>
@@ -82,6 +90,7 @@ pitch_keycenter=63
 lokey=63
 hikey=64
 offset=4680
+tune=-49
 volume=-1.423243
 
 <region>
@@ -90,6 +99,7 @@ pitch_keycenter=65
 lokey=65
 hikey=66
 offset=4667
+tune=-39
 volume=3.670689
 
 <region>
@@ -98,6 +108,7 @@ pitch_keycenter=67
 lokey=67
 hikey=68
 offset=4686
+tune=-16
 volume=-4.930473
 
 <region>
@@ -106,6 +117,7 @@ pitch_keycenter=70
 lokey=69
 hikey=71
 offset=4650
+tune=-38
 volume=9.913765
 
 <region>
@@ -122,27 +134,30 @@ pitch_keycenter=74
 lokey=74
 hikey=74
 offset=4513
+tune=-18
 volume=0.706556
 
 <region>
 seq_length=2
 seq_position=1
-sample=Kalimba, Tanzania/MBira3_pluck_Main_D#4_k20_50_100_rr2.wav
-pitch_keycenter=75
-lokey=75
-hikey=76
-offset=4650
-volume=-2.752871
-
-<region>
-seq_length=2
-seq_position=2
 sample=Kalimba, Tanzania/MBira3_pluck_Main_D#4_k4_50_100_rr2.wav
 pitch_keycenter=75
 lokey=75
 hikey=76
 offset=4567
+tune=-30
 volume=-5.160262
+
+<region>
+seq_length=2
+seq_position=2
+sample=Kalimba, Tanzania/MBira3_pluck_Main_D#4_k20_50_100_rr2.wav
+pitch_keycenter=75
+lokey=75
+hikey=76
+offset=4650
+tune=-19
+volume=-2.752871
 
 <region>
 seq_length=2
@@ -152,6 +167,7 @@ pitch_keycenter=77
 lokey=77
 hikey=78
 offset=4655
+tune=-34
 volume=-0.477684
 
 <region>
@@ -162,6 +178,7 @@ pitch_keycenter=77
 lokey=77
 hikey=78
 offset=4457
+tune=-20
 volume=-1.484838
 
 <region>
@@ -178,6 +195,7 @@ pitch_keycenter=82
 lokey=81
 hikey=82
 offset=4654
+tune=-40
 volume=4.505621
 
 <region>
@@ -186,6 +204,7 @@ pitch_keycenter=83
 lokey=83
 hikey=84
 offset=4637
+tune=47
 volume=-2.931288
 
 <region>
@@ -194,6 +213,7 @@ pitch_keycenter=85
 lokey=85
 hikey=86
 offset=4636
+tune=-57
 volume=-0.002467
 
 <region>
@@ -218,6 +238,7 @@ pitch_keycenter=92
 lokey=92
 hikey=94
 offset=4640
+tune=-11
 volume=-3.155076
 
 <region>
@@ -226,5 +247,6 @@ pitch_keycenter=97
 lokey=95
 hikey=98
 offset=4555
+tune=-67
 volume=2.439337
 

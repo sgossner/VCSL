@@ -1,4 +1,4 @@
-// Generation Options: --volume 10 --release 15
+// Generation Options: --volume 10 --release 15 --notuning --articulation Soft Mallets
 
 <group>
 ampeg_attack=0.004000
@@ -12,7 +12,6 @@ pitch_keycenter=53
 lokey=53
 hikey=55
 offset=90
-tune=12
 volume=31.081910
 
 <region>
@@ -32,7 +31,6 @@ sample=Vibraphone/Soft Mallets/Vibes_soft_A2_v1_rr1_Main.wav
 pitch_keycenter=57
 lokey=56
 hikey=58
-tune=-1
 volume=25.227232
 
 <region>
@@ -43,7 +41,6 @@ pitch_keycenter=57
 lokey=56
 hikey=58
 offset=113
-tune=44
 volume=7.995510
 
 <region>
@@ -173,7 +170,6 @@ sample=Vibraphone/Soft Mallets/Vibes_soft_A4_v1_rr1_Main.wav
 pitch_keycenter=81
 lokey=80
 hikey=82
-tune=2
 volume=29.510803
 
 <region>
@@ -184,7 +180,6 @@ pitch_keycenter=81
 lokey=80
 hikey=82
 offset=106
-tune=1
 volume=5.145228
 
 <region>
@@ -215,7 +210,6 @@ pitch_keycenter=88
 lokey=87
 hikey=89
 offset=90
-tune=1
 volume=28.592920
 
 <region>

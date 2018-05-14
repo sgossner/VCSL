@@ -686,7 +686,7 @@ sw_label=High
 trigger=release
 //ampeg_attack=0.050000
 ampeg_release=0.300000
-//rt_decay=0
+//rt_decay=5
 amp_veltrack=0
 
 <region>
