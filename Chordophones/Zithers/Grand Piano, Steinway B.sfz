@@ -11,7 +11,7 @@ lovel=0
 hivel=65
 sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A#0_vl2_rr1.wav
 pitch_keycenter=22
-lokey=22
+lokey=21
 hikey=23
 volume=0.157074
 
@@ -20,7 +20,7 @@ lovel=66
 hivel=99
 sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A#0_vl3_rr1.wav
 pitch_keycenter=22
-lokey=22
+lokey=21
 hikey=23
 volume=0.065465
 
@@ -29,7 +29,7 @@ lovel=100
 hivel=127
 sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A#0_vl4_rr1.wav
 pitch_keycenter=22
-lokey=22
+lokey=21
 hikey=23
 volume=-0.112712
 
@@ -778,6 +778,7 @@ sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_F#5_vl3_rr1.wav
 pitch_keycenter=78
 lokey=78
 hikey=79
+offset=700
 volume=0.934510
 
 <region>
@@ -805,6 +806,7 @@ sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#5_vl3_rr1.wav
 pitch_keycenter=80
 lokey=80
 hikey=81
+offset=650
 volume=-2.410314
 
 <region>
@@ -1125,7 +1127,7 @@ hivel=65
 sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#7_vl2_rr1.wav
 pitch_keycenter=104
 lokey=104
-hikey=105
+hikey=108
 volume=4.867380
 
 <region>
@@ -1134,7 +1136,7 @@ hivel=99
 sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#7_vl3_rr1.wav
 pitch_keycenter=104
 lokey=104
-hikey=105
+hikey=108
 volume=4.275654
 
 <region>
@@ -1143,7 +1145,7 @@ hivel=127
 sample=Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#7_vl4_rr1.wav
 pitch_keycenter=104
 lokey=104
-hikey=105
+hikey=108
 volume=4.680145
 
 
@@ -1158,7 +1160,7 @@ lovel=0
 hivel=65
 sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_A#0_vl2_rr1.wav
 pitch_keycenter=22
-lokey=22
+lokey=21
 hikey=23
 volume=-1.007117
 
@@ -1167,7 +1169,7 @@ lovel=66
 hivel=99
 sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_A#0_vl3_rr1.wav
 pitch_keycenter=22
-lokey=22
+lokey=21
 hikey=23
 volume=-0.796795
 
@@ -1176,7 +1178,7 @@ lovel=100
 hivel=127
 sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_A#0_vl4_rr1.wav
 pitch_keycenter=22
-lokey=22
+lokey=21
 hikey=23
 volume=-0.778387
 
@@ -1808,7 +1810,7 @@ sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_A#4_vl2_rr1.wav
 pitch_keycenter=70
 lokey=70
 hikey=71
-volume=-2.234402
+volume=-1.234402
 
 <region>
 lovel=66
@@ -1817,7 +1819,7 @@ sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_A#4_vl3_rr1.wav
 pitch_keycenter=70
 lokey=70
 hikey=71
-volume=-2.066330
+volume=-1.066330
 
 <region>
 lovel=100
@@ -1826,7 +1828,7 @@ sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_A#4_vl4_rr1.wav
 pitch_keycenter=70
 lokey=70
 hikey=71
-volume=-1.874262
+volume=-0.874262
 
 <region>
 lovel=0
@@ -1835,7 +1837,7 @@ sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_C5_vl2_rr1.wav
 pitch_keycenter=72
 lokey=72
 hikey=73
-volume=1.190596
+volume=0.190596
 
 <region>
 lovel=66
@@ -1844,7 +1846,7 @@ sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_C5_vl3_rr1.wav
 pitch_keycenter=72
 lokey=72
 hikey=73
-volume=1.877421
+volume=0.877421
 
 <region>
 lovel=100
@@ -1853,7 +1855,7 @@ sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_C5_vl4_rr1.wav
 pitch_keycenter=72
 lokey=72
 hikey=73
-volume=3.099254
+volume=1.099254
 
 <region>
 lovel=0
@@ -1961,6 +1963,7 @@ sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_G#5_vl4_rr1.wav
 pitch_keycenter=80
 lokey=80
 hikey=81
+offset=650
 volume=-0.579873
 
 <region>
@@ -1988,6 +1991,7 @@ sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_A#5_vl4_rr1.wav
 pitch_keycenter=82
 lokey=82
 hikey=83
+offset=500
 volume=-0.403745
 
 <region>
@@ -2272,7 +2276,7 @@ hivel=65
 sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_G#7_vl2_rr1.wav
 pitch_keycenter=104
 lokey=104
-hikey=105
+hikey=108
 volume=-1.968885
 
 <region>
@@ -2281,7 +2285,7 @@ hivel=99
 sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_G#7_vl3_rr1.wav
 pitch_keycenter=104
 lokey=104
-hikey=105
+hikey=108
 volume=7.296103
 
 <region>
@@ -2290,7 +2294,7 @@ hivel=127
 sample=Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_G#7_vl4_rr1.wav
 pitch_keycenter=104
 lokey=104
-hikey=105
+hikey=108
 volume=7.838073
 
 
@@ -2303,7 +2307,7 @@ lovel=0
 hivel=65
 sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_A#0_vl2_rr1.wav
 pitch_keycenter=22
-lokey=22
+lokey=21
 hikey=23
 volume=8.891696
 
@@ -2312,7 +2316,7 @@ lovel=66
 hivel=99
 sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_A#0_vl3_rr1.wav
 pitch_keycenter=22
-lokey=22
+lokey=21
 hikey=23
 volume=4.046884
 
@@ -2321,7 +2325,7 @@ lovel=100
 hivel=127
 sample=Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_A#0_vl4_rr1.wav
 pitch_keycenter=22
-lokey=22
+lokey=21
 hikey=23
 volume=1.974433
 

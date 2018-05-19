@@ -12,7 +12,7 @@ lovel=0
 hivel=65
 sample=Upright Piano, Yamaha/Sustains/Upright1_Sus_C0_vl1_rr1.wav
 pitch_keycenter=24
-lokey=24
+lokey=21
 hikey=27
 volume=29.651838
 
@@ -23,7 +23,7 @@ lovel=0
 hivel=65
 sample=Upright Piano, Yamaha/Sustains/Upright1_Sus_C0_vl1_rr2.wav
 pitch_keycenter=24
-lokey=24
+lokey=21
 hikey=27
 volume=23.303640
 
@@ -32,7 +32,7 @@ lovel=66
 hivel=99
 sample=Upright Piano, Yamaha/Sustains/Upright1_Sus_C0_vl2_rr1.wav
 pitch_keycenter=24
-lokey=24
+lokey=21
 hikey=27
 volume=8.641084
 
@@ -43,7 +43,7 @@ lovel=100
 hivel=127
 sample=Upright Piano, Yamaha/Sustains/Upright1_Sus_C0_vl3_rr1.wav
 pitch_keycenter=24
-lokey=24
+lokey=21
 hikey=27
 volume=6.807817
 
@@ -54,7 +54,7 @@ volume=6.807817
 //hivel=127
 //sample=Upright Piano, Yamaha/Sustains/Upright1_Sus_C0_vl3_rr2.wav
 //pitch_keycenter=24
-//lokey=24
+//lokey=21
 //hikey=27
 //tune=8
 //volume=0.291828
@@ -788,7 +788,7 @@ hivel=83
 sample=Upright Piano, Yamaha/Sustains/Upright1_Sus_C6_vl2_rr1.wav
 pitch_keycenter=96
 lokey=94
-hikey=97
+hikey=100
 volume=7.532214
 
 <region>
@@ -799,7 +799,7 @@ hivel=83
 sample=Upright Piano, Yamaha/Sustains/Upright1_Sus_C6_vl2_rr2.wav
 pitch_keycenter=96
 lokey=94
-hikey=97
+hikey=100
 volume=13.610472
 
 <region>
@@ -810,7 +810,7 @@ hivel=127
 sample=Upright Piano, Yamaha/Sustains/Upright1_Sus_C6_vl3_rr1.wav
 pitch_keycenter=96
 lokey=94
-hikey=97
+hikey=100
 volume=1.788612
 
 <region>
@@ -821,7 +821,7 @@ hivel=127
 sample=Upright Piano, Yamaha/Sustains/Upright1_Sus_C6_vl3_rr2.wav
 pitch_keycenter=96
 lokey=94
-hikey=97
+hikey=100
 volume=2.004837
 
 <group>
@@ -835,7 +835,7 @@ lovel=0
 hivel=65
 sample=Upright Piano, Yamaha/Releases/Upright1_Rel_C0_vl1_rr1.wav
 pitch_keycenter=24
-lokey=24
+lokey=21
 hikey=27
 offset=64
 volume=30.129975
@@ -847,7 +847,7 @@ lovel=0
 hivel=65
 sample=Upright Piano, Yamaha/Releases/Upright1_Rel_C0_vl1_rr2.wav
 pitch_keycenter=24
-lokey=24
+lokey=21
 hikey=27
 offset=2564
 tune=35
@@ -858,7 +858,7 @@ lovel=66
 hivel=99
 sample=Upright Piano, Yamaha/Releases/Upright1_Rel_C0_vl2_rr1.wav
 pitch_keycenter=24
-lokey=24
+lokey=21
 hikey=27
 volume=40.335807
 
@@ -869,7 +869,7 @@ lovel=100
 hivel=127
 sample=Upright Piano, Yamaha/Releases/Upright1_Rel_C0_vl3_rr1.wav
 pitch_keycenter=24
-lokey=24
+lokey=21
 hikey=27
 tune=5
 offset=1800
@@ -882,7 +882,7 @@ lovel=100
 hivel=127
 sample=Upright Piano, Yamaha/Releases/Upright1_Rel_C0_vl3_rr2.wav
 pitch_keycenter=24
-lokey=24
+lokey=21
 hikey=27
 tune=-64
 offset=4976
@@ -1406,7 +1406,7 @@ sample=Upright Piano, Yamaha/Releases/Upright1_Rel_G4_vl2_rr1.wav
 pitch_keycenter=79
 lokey=76
 hikey=81
-volume=40.987854
+volume=32.987854
 
 <region>
 seq_length=2
@@ -1440,7 +1440,7 @@ pitch_keycenter=79
 lokey=76
 hikey=81
 offset=365
-volume=31.484516
+volume=27.484516
 
 <region>
 seq_length=2
@@ -1485,7 +1485,8 @@ sample=Upright Piano, Yamaha/Releases/Upright1_Rel_C5_vl2_rr2.wav
 pitch_keycenter=84
 lokey=82
 hikey=87
-volume=31.139513
+offset=5523
+volume=25
 
 //<region>
 //seq_length=2
@@ -1508,7 +1509,7 @@ pitch_keycenter=84
 lokey=82
 hikey=87
 offset=3257
-volume=31.227685
+volume=26
 
 <region>
 seq_length=2
@@ -1520,7 +1521,7 @@ pitch_keycenter=91
 lokey=88
 hikey=93
 offset=980
-volume=36.173396
+volume=31.173396
 
 <region>
 seq_length=2
@@ -1532,7 +1533,7 @@ pitch_keycenter=91
 lokey=88
 hikey=93
 offset=225
-volume=28.718960
+volume=23.718960
 
 <region>
 seq_length=2
@@ -1543,7 +1544,7 @@ sample=Upright Piano, Yamaha/Releases/Upright1_Rel_G5_vl2_rr1.wav
 pitch_keycenter=91
 lokey=88
 hikey=93
-volume=22.657411
+volume=17.657411
 
 <region>
 seq_length=2
@@ -1555,7 +1556,7 @@ pitch_keycenter=91
 lokey=88
 hikey=93
 offset=5260
-volume=38.684038
+volume=33.684038
 
 <region>
 seq_length=3
@@ -1566,7 +1567,7 @@ sample=Upright Piano, Yamaha/Releases/Upright1_Rel_G5_vl3_rr1.wav
 pitch_keycenter=91
 lokey=88
 hikey=93
-volume=36.111983
+volume=31.111983
 
 <region>
 seq_length=3
@@ -1578,7 +1579,7 @@ pitch_keycenter=91
 lokey=88
 hikey=93
 offset=840
-volume=33.337556
+volume=28.337556
 
 <region>
 seq_length=3
@@ -1590,7 +1591,7 @@ pitch_keycenter=91
 lokey=88
 hikey=93
 offset=2231
-volume=34.704199
+volume=29.704199
 
 <region>
 seq_length=2
@@ -1600,9 +1601,9 @@ hivel=83
 sample=Upright Piano, Yamaha/Releases/Upright1_Rel_C6_vl2_rr1.wav
 pitch_keycenter=96
 lokey=94
-hikey=97
+hikey=100
 offset=292
-volume=20.263832
+volume=16.263832
 
 <region>
 seq_length=2
@@ -1612,9 +1613,9 @@ hivel=83
 sample=Upright Piano, Yamaha/Releases/Upright1_Rel_C6_vl2_rr2.wav
 pitch_keycenter=96
 lokey=94
-hikey=97
+hikey=100
 offset=2337
-volume=31.723652
+volume=27.723652
 
 <region>
 seq_length=2
@@ -1624,9 +1625,9 @@ hivel=127
 sample=Upright Piano, Yamaha/Releases/Upright1_Rel_C6_vl3_rr1.wav
 pitch_keycenter=96
 lokey=94
-hikey=97
+hikey=100
 offset=165
-volume=34.634585
+volume=28.634585
 
 <region>
 seq_length=2
@@ -1636,7 +1637,7 @@ hivel=127
 sample=Upright Piano, Yamaha/Releases/Upright1_Rel_C6_vl3_rr2.wav
 pitch_keycenter=96
 lokey=94
-hikey=97
+hikey=100
 offset=912
-volume=27.254301
+volume=21.254301
 

@@ -5,10 +5,11 @@ ampeg_release=2.000000
 <region>
 sample=Psaltery, Bowed and Plucked/LongBow/BowedPsaltery_A#3_Main_LongBow_rr2.wav
 pitch_keycenter=70
-lokey=70
+lokey=67
 hikey=71
 tune=-1
-volume=13.434067
+offset=1302
+volume=23.434067
 
 <region>
 sample=Psaltery, Bowed and Plucked/LongBow/BowedPsaltery_C4_Main_LongBow_rr1.wav
@@ -17,7 +18,7 @@ lokey=72
 hikey=73
 offset=3342
 tune=-1
-volume=7.862948
+volume=17.862948
 
 <region>
 sample=Psaltery, Bowed and Plucked/LongBow/BowedPsaltery_D4_Main_LongBow_rr1.wav
@@ -26,14 +27,15 @@ lokey=74
 hikey=75
 offset=2744
 tune=-1
-volume=1.703480
+volume=11.703480
 
 <region>
 sample=Psaltery, Bowed and Plucked/LongBow/BowedPsaltery_E4_Main_LongBow_rr2.wav
 pitch_keycenter=76
 lokey=76
 hikey=77
-volume=10.104714
+offset=1307
+volume=20.104714
 
 <region>
 sample=Psaltery, Bowed and Plucked/LongBow/BowedPsaltery_F#4_Main_LongBow_rr1.wav
@@ -42,7 +44,7 @@ lokey=78
 hikey=79
 offset=392
 tune=-1
-volume=8.338478
+volume=18.338478
 
 <region>
 sample=Psaltery, Bowed and Plucked/LongBow/BowedPsaltery_G#4_Main_LongBow_rr1.wav
@@ -50,7 +52,7 @@ pitch_keycenter=80
 lokey=80
 hikey=81
 tune=-1
-volume=8.283098
+volume=18.283098
 
 <region>
 sample=Psaltery, Bowed and Plucked/LongBow/BowedPsaltery_A#4_Main_LongBow_rr2.wav
@@ -58,7 +60,7 @@ pitch_keycenter=82
 lokey=82
 hikey=83
 offset=1158
-volume=8.475470
+volume=18.475470
 
 <region>
 sample=Psaltery, Bowed and Plucked/LongBow/BowedPsaltery_C5_Main_LongBow_rr1.wav
@@ -66,14 +68,15 @@ pitch_keycenter=84
 lokey=84
 hikey=85
 tune=-1
-volume=4.840666
+volume=14.840666
 
 <region>
 sample=Psaltery, Bowed and Plucked/LongBow/BowedPsaltery_D5_Main_LongBow_rr2.wav
 pitch_keycenter=86
 lokey=86
 hikey=87
-volume=7.001384
+offset=738
+volume=17.001384
 
 <region>
 sample=Psaltery, Bowed and Plucked/LongBow/BowedPsaltery_E5_Main_LongBow_rr2.wav
@@ -81,13 +84,13 @@ pitch_keycenter=88
 lokey=88
 hikey=89
 offset=1878
-volume=5.929650
+volume=15.929650
 
 <region>
 sample=Psaltery, Bowed and Plucked/LongBow/BowedPsaltery_F#5_Main_LongBow_rr2.wav
 pitch_keycenter=90
 lokey=90
 hikey=91
-offset=1385
-volume=8.628379
+offset=4500
+volume=18.628379
 

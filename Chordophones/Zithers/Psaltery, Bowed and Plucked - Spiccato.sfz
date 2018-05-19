@@ -5,7 +5,7 @@ ampeg_release=15.000000
 <region>
 sample=Psaltery, Bowed and Plucked/Spiccato/BowedPsaltery_A#3_Main_Spic_rr1.wav
 pitch_keycenter=70
-lokey=70
+lokey=67
 hikey=71
 offset=121
 volume=14.249479
@@ -56,7 +56,7 @@ sample=Psaltery, Bowed and Plucked/Spiccato/BowedPsaltery_A#4_Main_Spic_rr1.wav
 pitch_keycenter=82
 lokey=82
 hikey=83
-volume=3.554851
+volume=5.554851
 
 <region>
 sample=Psaltery, Bowed and Plucked/Spiccato/BowedPsaltery_C5_Main_Spic_rr1.wav
@@ -64,7 +64,7 @@ pitch_keycenter=84
 lokey=84
 hikey=85
 tune=3
-volume=6.926708
+volume=8.926708
 
 <region>
 sample=Psaltery, Bowed and Plucked/Spiccato/BowedPsaltery_D5_Main_Spic_rr1.wav
@@ -81,7 +81,7 @@ pitch_keycenter=88
 lokey=88
 hikey=89
 tune=1
-volume=2.777122
+volume=4.777122
 
 <region>
 sample=Psaltery, Bowed and Plucked/Spiccato/BowedPsaltery_F#5_Main_Spic_rr4.wav
