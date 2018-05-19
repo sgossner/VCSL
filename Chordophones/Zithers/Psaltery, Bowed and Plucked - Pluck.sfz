@@ -5,10 +5,10 @@ ampeg_release=15.000000
 <region>
 sample=Psaltery, Bowed and Plucked/Pluck/BowedPsaltery_A#3_Main_Pluck_rr1.wav
 pitch_keycenter=70
-lokey=70
+lokey=67
 hikey=71
 tune=-10
-volume=8.525451
+volume=13.525451
 
 <region>
 sample=Psaltery, Bowed and Plucked/Pluck/BowedPsaltery_C4_Main_Pluck_rr1.wav
@@ -16,7 +16,7 @@ pitch_keycenter=72
 lokey=72
 hikey=73
 tune=-6
-volume=5.726364
+volume=10.726364
 
 <region>
 sample=Psaltery, Bowed and Plucked/Pluck/BowedPsaltery_D4_Main_Pluck_rr1.wav
@@ -24,7 +24,7 @@ pitch_keycenter=74
 lokey=74
 hikey=75
 tune=-4
-volume=3.939743
+volume=8.939743
 
 <region>
 sample=Psaltery, Bowed and Plucked/Pluck/BowedPsaltery_E4_Main_Pluck_rr2.wav
@@ -32,7 +32,7 @@ pitch_keycenter=76
 lokey=76
 hikey=77
 tune=-5
-volume=10.880991
+volume=15.880991
 
 <region>
 sample=Psaltery, Bowed and Plucked/Pluck/BowedPsaltery_F#4_Main_Pluck_rr1.wav
@@ -40,7 +40,7 @@ pitch_keycenter=78
 lokey=78
 hikey=79
 tune=-7
-volume=11.513891
+volume=16.513891
 
 <region>
 sample=Psaltery, Bowed and Plucked/Pluck/BowedPsaltery_G#4_Main_Pluck_rr3.wav
@@ -48,7 +48,7 @@ pitch_keycenter=80
 lokey=80
 hikey=81
 tune=-2
-volume=8.181664
+volume=13.181664
 
 <region>
 sample=Psaltery, Bowed and Plucked/Pluck/BowedPsaltery_A#4_Main_Pluck_rr1.wav
@@ -56,7 +56,7 @@ pitch_keycenter=82
 lokey=82
 hikey=83
 tune=-4
-volume=7.677325
+volume=12.677325
 
 <region>
 sample=Psaltery, Bowed and Plucked/Pluck/BowedPsaltery_C5_Main_Pluck_rr1.wav
@@ -64,7 +64,7 @@ pitch_keycenter=84
 lokey=84
 hikey=85
 tune=-3
-volume=2.261083
+volume=7.261083
 
 <region>
 sample=Psaltery, Bowed and Plucked/Pluck/BowedPsaltery_D5_Main_Pluck_rr1.wav
@@ -72,7 +72,7 @@ pitch_keycenter=86
 lokey=86
 hikey=87
 tune=-8
-volume=8.665486
+volume=13.665486
 
 <region>
 sample=Psaltery, Bowed and Plucked/Pluck/BowedPsaltery_E5_Main_Pluck_rr1.wav
@@ -80,7 +80,7 @@ pitch_keycenter=88
 lokey=88
 hikey=89
 tune=-7
-volume=8.312686
+volume=13.312686
 
 <region>
 sample=Psaltery, Bowed and Plucked/Pluck/BowedPsaltery_F#5_Main_Pluck_rr3.wav
@@ -88,5 +88,5 @@ pitch_keycenter=90
 lokey=90
 hikey=91
 tune=-7
-volume=7.859463
+volume=12.859463
 
