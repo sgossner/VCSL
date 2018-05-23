@@ -39,7 +39,7 @@ sample=Tambourine 4 - Legacy/tamb2_rr1.wav
 pitch_keycenter=60
 lokey=60
 hikey=60
-volume=4.991465
+volume=-1
 
 <region>
 sample=Tambourine 4 - Legacy/tamb2_rollFast.wav

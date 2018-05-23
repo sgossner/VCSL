@@ -11,7 +11,7 @@ lokey=44
 hikey=45
 offset=87
 tune=10
-volume=17.836573
+volume=13.836573
 
 <region>
 sample=Tenor Saxophone/Staccato/BrettTenor_Staccato_Main_A#1_vl2_rr5.wav
@@ -27,7 +27,7 @@ pitch_keycenter=48
 lokey=48
 hikey=49
 tune=15
-volume=16.236339
+volume=14.236339
 
 <region>
 lovel=0
@@ -232,7 +232,7 @@ pitch_keycenter=68
 lokey=68
 hikey=69
 offset=451
-volume=16.144105
+volume=15.144105
 
 <region>
 lovel=0
@@ -364,7 +364,7 @@ lokey=81
 hikey=82
 offset=108
 tune=6
-volume=19.595984
+volume=15.595984
 
 <region>
 lovel=0
@@ -403,5 +403,5 @@ lokey=88
 hikey=89
 offset=7
 tune=-2
-volume=13.863302
+volume=12.863302
 
