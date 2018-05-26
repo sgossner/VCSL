@@ -394,7 +394,7 @@ hivel=65
 sample=Dan Tranh/Normal/G#4_mf_1.wav
 pitch_keycenter=80
 lokey=80
-hikey=87
+hikey=81
 volume=10.929110
 
 <region>
@@ -403,7 +403,7 @@ hivel=99
 sample=Dan Tranh/Normal/G#4_f_1.wav
 pitch_keycenter=80
 lokey=80
-hikey=87
+hikey=81
 volume=4.987312
 
 <region>
@@ -412,33 +412,33 @@ hivel=127
 sample=Dan Tranh/Normal/G#4_ff_1.wav
 pitch_keycenter=80
 lokey=80
-hikey=87
+hikey=81
 volume=9.797802
 
 <region>
 lovel=0
 hivel=65
-sample=Dan Tranh/Normal/B5_mf_1.wav
-pitch_keycenter=95
-lokey=88
-hikey=96
+sample=Dan Tranh/Normal/B4_mf_1.wav
+pitch_keycenter=83
+lokey=82
+hikey=84
 volume=19.152715
 
 <region>
 lovel=66
 hivel=99
-sample=Dan Tranh/Normal/B5_f_1.wav
-pitch_keycenter=95
-lokey=88
-hikey=96
+sample=Dan Tranh/Normal/B4_f_1.wav
+pitch_keycenter=83
+lokey=82
+hikey=84
 volume=7.415859
 
 <region>
 lovel=100
 hivel=127
-sample=Dan Tranh/Normal/B5_ff_1.wav
-pitch_keycenter=95
-lokey=88
-hikey=96
+sample=Dan Tranh/Normal/B4_ff_1.wav
+pitch_keycenter=83
+lokey=82
+hikey=84
 volume=4.731953
 
