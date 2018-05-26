@@ -116,7 +116,7 @@ ampeg_release=15.000000
 <region>
 sample=Bell Tree/Individual/BellTree_Hit_C5_rr1_Mid.wav
 pitch_keycenter=84
-lokey=84
+lokey=77
 hikey=85
 offset=278
 volume=22.960868
@@ -158,7 +158,7 @@ volume=21.099348
 sample=Bell Tree/Individual/BellTree_Hit_A#5_rr1_Mid.wav
 pitch_keycenter=94
 lokey=94
-hikey=95
+hikey=100
 offset=227
 volume=24.558300
 

@@ -1,10 +1,10 @@
 // Generation Options: --volume 10
 
 <group>
-sw_default=94
-sw_lokey=94
+sw_default=93
+sw_lokey=93
 sw_hikey=97
-sw_last=94
+sw_last=93
 sw_label=4'
 ampeg_attack=0.004000
 ampeg_release=0.300000
@@ -213,10 +213,10 @@ volume=7.954064
 // Generation Options: --volume 10
 
 <group>
-sw_default=94
-sw_lokey=94
+sw_default=93
+sw_lokey=93
 sw_hikey=97
-sw_last=95
+sw_last=94
 sw_label=8'
 ampeg_attack=0.004000
 ampeg_release=0.300000
@@ -433,13 +433,13 @@ volume=9.487856
 
 
 
-// Generation Options: --volume 10
+// Generation Options: --volume 6
 
 <group>
-sw_default=94
-sw_lokey=94
+sw_default=93
+sw_lokey=93
 sw_hikey=97
-sw_last=96
+sw_last=95
 sw_label=Full
 ampeg_attack=0.004000
 ampeg_release=0.300000
@@ -451,7 +451,7 @@ pitch_keycenter=36
 lokey=36
 hikey=37
 tune=-1
-volume=10.507564
+volume=6.507564
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_D1_rr1.wav
@@ -459,14 +459,14 @@ pitch_keycenter=38
 lokey=38
 hikey=39
 tune=9
-volume=10.469370
+volume=6.469370
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_E1_rr1.wav
 pitch_keycenter=40
 lokey=40
 hikey=41
-volume=9.269064
+volume=5.269064
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_F#1_rr1.wav
@@ -474,14 +474,14 @@ pitch_keycenter=42
 lokey=42
 hikey=43
 offset=74
-volume=11.876962
+volume=7.876962
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_G#1_rr1.wav
 pitch_keycenter=44
 lokey=44
 hikey=45
-volume=10.253375
+volume=6.253375
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_A#1_rr1.wav
@@ -489,21 +489,21 @@ pitch_keycenter=46
 lokey=46
 hikey=47
 offset=110
-volume=6.176338
+volume=2.176338
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_C2_rr1.wav
 pitch_keycenter=48
 lokey=48
 hikey=49
-volume=11.208600
+volume=7.208600
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_D2_rr1.wav
 pitch_keycenter=50
 lokey=50
 hikey=51
-volume=12.393714
+volume=8.393714
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_E2_rr1.wav
@@ -511,7 +511,7 @@ pitch_keycenter=52
 lokey=52
 hikey=53
 offset=113
-volume=8.574863
+volume=4.574863
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_F#2_rr1.wav
@@ -519,14 +519,14 @@ pitch_keycenter=54
 lokey=54
 hikey=55
 offset=31
-volume=9.144534
+volume=5.144534
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_G#2_rr1.wav
 pitch_keycenter=56
 lokey=56
 hikey=57
-volume=13.815986
+volume=9.815986
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_A#2_rr1.wav
@@ -534,28 +534,28 @@ pitch_keycenter=58
 lokey=58
 hikey=59
 offset=7
-volume=12.574263
+volume=8.574263
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_C3_rr1.wav
 pitch_keycenter=60
 lokey=60
 hikey=61
-volume=6.153268
+volume=2.153268
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_D3_rr1.wav
 pitch_keycenter=62
 lokey=62
 hikey=63
-volume=9.201705
+volume=5.201705
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_E3_rr1.wav
 pitch_keycenter=64
 lokey=64
 hikey=65
-volume=11.601673
+volume=7.601673
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_F#3_rr1.wav
@@ -563,21 +563,21 @@ pitch_keycenter=66
 lokey=66
 hikey=67
 tune=1
-volume=9.788157
+volume=5.788157
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_G#3_rr1.wav
 pitch_keycenter=68
 lokey=68
 hikey=69
-volume=11.749759
+volume=7.749759
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_A#3_rr1.wav
 pitch_keycenter=70
 lokey=70
 hikey=71
-volume=12.233512
+volume=8.233512
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_C4_rr1.wav
@@ -585,28 +585,28 @@ pitch_keycenter=72
 lokey=72
 hikey=73
 tune=2
-volume=11.091627
+volume=7.091627
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_D4_rr1.wav
 pitch_keycenter=74
 lokey=74
 hikey=75
-volume=5.839030
+volume=1.839030
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_E4_rr1.wav
 pitch_keycenter=76
 lokey=76
 hikey=77
-volume=9.519128
+volume=5.519128
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_F#4_rr1.wav
 pitch_keycenter=78
 lokey=78
 hikey=79
-volume=12.466648
+volume=8.466648
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_G#4_rr1.wav
@@ -614,7 +614,7 @@ pitch_keycenter=80
 lokey=80
 hikey=81
 tune=-2
-volume=10.196929
+volume=6.196929
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_A#4_rr1.wav
@@ -622,21 +622,21 @@ pitch_keycenter=82
 lokey=82
 hikey=83
 tune=-5
-volume=9.259417
+volume=5.259417
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_C5_rr1.wav
 pitch_keycenter=84
 lokey=84
 hikey=85
-volume=10.167979
+volume=6.167979
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_D5_rr1.wav
 pitch_keycenter=86
 lokey=86
 hikey=87
-volume=14.184464
+volume=10.184464
 
 <region>
 sample=Renaissance Organ/Full/RenOrgan_Full_Room_E5_rr1.wav
@@ -644,7 +644,441 @@ pitch_keycenter=88
 lokey=88
 hikey=89
 tune=4
-volume=8.317221
+volume=4.317221
+
+
+
+// Generation Options: --volume 7
+
+<group>
+sw_default=93
+sw_lokey=93
+sw_hikey=97
+sw_last=96
+sw_label=4'+8'
+ampeg_attack=0.004000
+ampeg_release=0.300000
+amp_veltrack=0
+
+<region>
+sample=Renaissance Organ/8'/RenOrgan_8foot_Room_C1_rr1.wav
+pitch_keycenter=36
+lokey=36
+hikey=37
+tune=3
+volume=14.765657
+
+<region>
+sample=Renaissance Organ/8'/RenOrgan_8foot_Room_D1_rr1.wav
+pitch_keycenter=38
+lokey=38
+hikey=39
+offset=1847
+tune=1
+volume=3.071526
+
+<region>
+sample=Renaissance Organ/8'/RenOrgan_8foot_Room_E1_rr1.wav
+pitch_keycenter=40
+lokey=40
+hikey=41
+offset=461
+volume=6.574050
+
+<region>
+sample=Renaissance Organ/8'/RenOrgan_8foot_Room_F#1_rr1.wav
+pitch_keycenter=42
+lokey=42
+hikey=43
+offset=598
+tune=1
+volume=15.411341
+
+<region>
+sample=Renaissance Organ/8'/RenOrgan_8foot_Room_G#1_rr1.wav
+pitch_keycenter=44
+lokey=44
+hikey=45
+tune=1
+volume=5.103623
+
+<region>
+sample=Renaissance Organ/8'/RenOrgan_8foot_Room_A#1_rr1.wav
+pitch_keycenter=46
+lokey=46
+hikey=47
+tune=1
+volume=1.126385
+
+<region>
+sample=Renaissance Organ/8'/RenOrgan_8foot_Room_C2_rr1.wav
+pitch_keycenter=48
+lokey=48
+hikey=49
+offset=449
+volume=11.625306
+
+<region>
+sample=Renaissance Organ/8'/RenOrgan_8foot_Room_D2_rr1.wav
+pitch_keycenter=50
+lokey=50
+hikey=51
+offset=135
+volume=9.204747
+
+<region>
+sample=Renaissance Organ/8'/RenOrgan_8foot_Room_E2_rr1.wav
+pitch_keycenter=52
+lokey=52
+hikey=53
+offset=286
+volume=5.047506
+
+<region>
+sample=Renaissance Organ/8'/RenOrgan_8foot_Room_F#2_rr1.wav
+pitch_keycenter=54
+lokey=54
+hikey=55
+offset=261
+volume=6.265317
+
+<region>
+sample=Renaissance Organ/8'/RenOrgan_8foot_Room_G#2_rr1.wav
+pitch_keycenter=56
+lokey=56
+hikey=57
+offset=119
+volume=9.681435
+
+<region>
+sample=Renaissance Organ/8'/RenOrgan_8foot_Room_A#2_rr1.wav
+pitch_keycenter=58
+lokey=58
+hikey=59
+volume=13.939548
+
+<region>
+sample=Renaissance Organ/8'/RenOrgan_8foot_Room_C3_rr1.wav
+pitch_keycenter=60
+lokey=60
+hikey=61
+volume=0.085613
+
+<region>
+sample=Renaissance Organ/8'/RenOrgan_8foot_Room_D3_rr1.wav
+pitch_keycenter=62
+lokey=62
+hikey=63
+volume=10.422019
+
+<region>
+sample=Renaissance Organ/8'/RenOrgan_8foot_Room_E3_rr1.wav
+pitch_keycenter=64
+lokey=64
+hikey=65
+volume=11.696324
+
+<region>
+sample=Renaissance Organ/8'/RenOrgan_8foot_Room_F#3_rr1.wav
+pitch_keycenter=66
+lokey=66
+hikey=67
+volume=3.361279
+
+<region>
+sample=Renaissance Organ/8'/RenOrgan_8foot_Room_G#3_rr1.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+volume=11.300565
+
+<region>
+sample=Renaissance Organ/8'/RenOrgan_8foot_Room_A#3_rr1.wav
+pitch_keycenter=70
+lokey=70
+hikey=71
+offset=11
+volume=12.684907
+
+<region>
+sample=Renaissance Organ/8'/RenOrgan_8foot_Room_C4_rr1.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+offset=206
+volume=7.006227
+
+<region>
+sample=Renaissance Organ/8'/RenOrgan_8foot_Room_D4_rr1.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+offset=83
+volume=2.164446
+
+<region>
+sample=Renaissance Organ/8'/RenOrgan_8foot_Room_E4_rr1.wav
+pitch_keycenter=76
+lokey=76
+hikey=77
+offset=35
+volume=5.403964
+
+<region>
+sample=Renaissance Organ/8'/RenOrgan_8foot_Room_F#4_rr1.wav
+pitch_keycenter=78
+lokey=78
+hikey=79
+tune=1
+volume=8.746951
+
+<region>
+sample=Renaissance Organ/8'/RenOrgan_8foot_Room_G#4_rr1.wav
+pitch_keycenter=80
+lokey=80
+hikey=81
+volume=10.711655
+
+<region>
+sample=Renaissance Organ/8'/RenOrgan_8foot_Room_A#4_rr1.wav
+pitch_keycenter=82
+lokey=82
+hikey=83
+offset=36
+volume=7.096146
+
+<region>
+sample=Renaissance Organ/8'/RenOrgan_8foot_Room_C5_rr1.wav
+pitch_keycenter=84
+lokey=84
+hikey=85
+offset=36
+volume=10.392434
+
+<region>
+sample=Renaissance Organ/8'/RenOrgan_8foot_Room_D5_rr1.wav
+pitch_keycenter=86
+lokey=86
+hikey=87
+volume=11.280878
+
+<region>
+sample=Renaissance Organ/8'/RenOrgan_8foot_Room_E5_rr1.wav
+pitch_keycenter=88
+lokey=88
+hikey=89
+volume=6.487856
+
+
+// Generation Options: --volume 7
+
+<group>
+sw_default=93
+sw_lokey=93
+sw_hikey=97
+sw_last=96
+sw_label=4'+8'
+ampeg_attack=0.004000
+ampeg_release=0.300000
+amp_veltrack=0
+
+<region>
+sample=Renaissance Organ/4'/RenOrgan_4foot_Room_C1_rr1.wav
+pitch_keycenter=36
+lokey=36
+hikey=37
+offset=30
+volume=7.693726
+
+<region>
+sample=Renaissance Organ/4'/RenOrgan_4foot_Room_D1_rr1.wav
+pitch_keycenter=38
+lokey=38
+hikey=39
+tune=1
+volume=10.612850
+
+<region>
+sample=Renaissance Organ/4'/RenOrgan_4foot_Room_E1_rr1.wav
+pitch_keycenter=40
+lokey=40
+hikey=41
+offset=20
+volume=5.668586
+
+<region>
+sample=Renaissance Organ/4'/RenOrgan_4foot_Room_F#1_rr1.wav
+pitch_keycenter=42
+lokey=42
+hikey=43
+offset=126
+volume=3.134075
+
+<region>
+sample=Renaissance Organ/4'/RenOrgan_4foot_Room_G#1_rr1.wav
+pitch_keycenter=44
+lokey=44
+hikey=45
+volume=7.473457
+
+<region>
+sample=Renaissance Organ/4'/RenOrgan_4foot_Room_A#1_rr1.wav
+pitch_keycenter=46
+lokey=46
+hikey=47
+offset=8
+volume=12.101135
+
+<region>
+sample=Renaissance Organ/4'/RenOrgan_4foot_Room_C2_rr1.wav
+pitch_keycenter=48
+lokey=48
+hikey=49
+volume=4.505830
+
+<region>
+sample=Renaissance Organ/4'/RenOrgan_4foot_Room_D2_rr1.wav
+pitch_keycenter=50
+lokey=50
+hikey=51
+volume=15.330159
+
+<region>
+sample=Renaissance Organ/4'/RenOrgan_4foot_Room_E2_rr1.wav
+pitch_keycenter=52
+lokey=52
+hikey=53
+offset=151
+volume=3.882050
+
+<region>
+sample=Renaissance Organ/4'/RenOrgan_4foot_Room_F#2_rr1.wav
+pitch_keycenter=54
+lokey=54
+hikey=55
+volume=6.180806
+
+<region>
+sample=Renaissance Organ/4'/RenOrgan_4foot_Room_G#2_rr1.wav
+pitch_keycenter=56
+lokey=56
+hikey=57
+volume=12.726251
+
+<region>
+sample=Renaissance Organ/4'/RenOrgan_4foot_Room_A#2_rr1.wav
+pitch_keycenter=58
+lokey=58
+hikey=59
+offset=132
+volume=6.624286
+
+<region>
+sample=Renaissance Organ/4'/RenOrgan_4foot_Room_C3_rr1.wav
+pitch_keycenter=60
+lokey=60
+hikey=61
+volume=4.664334
+
+<region>
+sample=Renaissance Organ/4'/RenOrgan_4foot_Room_D3_rr1.wav
+pitch_keycenter=62
+lokey=62
+hikey=63
+volume=4.176520
+
+<region>
+sample=Renaissance Organ/4'/RenOrgan_4foot_Room_E3_rr1.wav
+pitch_keycenter=64
+lokey=64
+hikey=65
+volume=9.411604
+
+<region>
+sample=Renaissance Organ/4'/RenOrgan_4foot_Room_F#3_rr1.wav
+pitch_keycenter=66
+lokey=66
+hikey=67
+tune=1
+volume=10.772524
+
+<region>
+sample=Renaissance Organ/4'/RenOrgan_4foot_Room_G#3_rr1.wav
+pitch_keycenter=68
+lokey=68
+hikey=69
+volume=7.877316
+
+<region>
+sample=Renaissance Organ/4'/RenOrgan_4foot_Room_A#3_rr1.wav
+pitch_keycenter=70
+lokey=70
+hikey=71
+volume=6.872042
+
+<region>
+sample=Renaissance Organ/4'/RenOrgan_4foot_Room_C4_rr1.wav
+pitch_keycenter=72
+lokey=72
+hikey=73
+volume=6.140600
+
+<region>
+sample=Renaissance Organ/4'/RenOrgan_4foot_Room_D4_rr1.wav
+pitch_keycenter=74
+lokey=74
+hikey=75
+volume=3.935884
+
+<region>
+sample=Renaissance Organ/4'/RenOrgan_4foot_Room_E4_rr1.wav
+pitch_keycenter=76
+lokey=76
+hikey=77
+volume=9.393438
+
+<region>
+sample=Renaissance Organ/4'/RenOrgan_4foot_Room_F#4_rr1.wav
+pitch_keycenter=78
+lokey=78
+hikey=79
+volume=9.521419
+
+<region>
+sample=Renaissance Organ/4'/RenOrgan_4foot_Room_G#4_rr1.wav
+pitch_keycenter=80
+lokey=80
+hikey=81
+volume=5.048627
+
+<region>
+sample=Renaissance Organ/4'/RenOrgan_4foot_Room_A#4_rr1.wav
+pitch_keycenter=82
+lokey=82
+hikey=83
+volume=5.901336
+
+<region>
+sample=Renaissance Organ/4'/RenOrgan_4foot_Room_C5_rr1.wav
+pitch_keycenter=84
+lokey=84
+hikey=85
+volume=10.477118
+
+<region>
+sample=Renaissance Organ/4'/RenOrgan_4foot_Room_D5_rr1.wav
+pitch_keycenter=86
+lokey=86
+hikey=87
+volume=8.232795
+
+<region>
+sample=Renaissance Organ/4'/RenOrgan_4foot_Room_E5_rr1.wav
+pitch_keycenter=88
+lokey=88
+hikey=89
+offset=76
+volume=4.954064
 
 
 
