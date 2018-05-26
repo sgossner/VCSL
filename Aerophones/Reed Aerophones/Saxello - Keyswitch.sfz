@@ -236,7 +236,7 @@ volume=5.897013
 
 
 
-// Generation Options: --volume 10 --release 0.5
+// Generation Options: --volume 10 --release 2.5
 
 <group>
 sw_default=48
@@ -245,7 +245,7 @@ sw_hikey=51
 sw_last=50
 sw_label=Staccato
 ampeg_attack=0.004000
-ampeg_release=0.500000
+ampeg_release=2.500000
 
 <region>
 lovel=0

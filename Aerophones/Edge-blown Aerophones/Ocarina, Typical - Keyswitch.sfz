@@ -199,7 +199,7 @@ sw_last=49
 sw_label=SusVib
 trigger=attack
 ampeg_attack=0.004000
-ampeg_release=0.100000
+ampeg_release=0.200000
 
 <region>
 sample=Ocarina, Typical/Sustains/SusVib/StdOcarina_SusVib_A3.wav
