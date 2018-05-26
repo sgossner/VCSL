@@ -1,4 +1,4 @@
-// Generation Options: --volume 15 --crossfade --release 15 --notuning
+// Generation Options: --volume 23 --crossfade --release 15 --notuning
 
 <group>
 ampeg_attack=0.004000
@@ -12,7 +12,7 @@ pitch_keycenter=41
 lokey=41
 hikey=44
 offset=22
-volume=26.436551
+volume=34.436551
 
 <region>
 xfin_lovel=0
@@ -23,7 +23,7 @@ sample=Marimba/Marimba_hit_Outrigger_F1_med_01.wav
 pitch_keycenter=41
 lokey=41
 hikey=44
-volume=15.636466
+volume=23.636466
 
 <region>
 xfin_lovel=84
@@ -32,7 +32,7 @@ sample=Marimba/Marimba_hit_Outrigger_F1_loud_01.wav
 pitch_keycenter=41
 lokey=41
 hikey=44
-volume=11.570500
+volume=19.570500
 
 <region>
 xfout_lovel=0
@@ -42,7 +42,7 @@ pitch_keycenter=48
 lokey=45
 hikey=51
 offset=57
-volume=29.213197
+volume=37.213197
 
 <region>
 xfin_lovel=0
@@ -54,7 +54,7 @@ pitch_keycenter=48
 lokey=45
 hikey=51
 offset=43
-volume=17.935313
+volume=25.935313
 
 <region>
 xfin_lovel=84
@@ -64,7 +64,7 @@ pitch_keycenter=48
 lokey=45
 hikey=51
 offset=2
-volume=6.443122
+volume=14.443122
 
 <region>
 xfout_lovel=0
@@ -74,7 +74,7 @@ pitch_keycenter=55
 lokey=52
 hikey=57
 offset=121
-volume=31.603034
+volume=39.603034
 
 <region>
 xfin_lovel=0
@@ -86,7 +86,7 @@ pitch_keycenter=55
 lokey=52
 hikey=57
 offset=59
-volume=19.614759
+volume=27.614759
 
 <region>
 xfin_lovel=84
@@ -96,7 +96,7 @@ pitch_keycenter=55
 lokey=52
 hikey=57
 offset=34
-volume=9.435073
+volume=17.435073
 
 <region>
 xfout_lovel=0
@@ -106,7 +106,7 @@ pitch_keycenter=59
 lokey=58
 hikey=62
 offset=151
-volume=31.271583
+volume=39.271583
 
 <region>
 xfin_lovel=0
@@ -118,7 +118,7 @@ pitch_keycenter=59
 lokey=58
 hikey=62
 offset=113
-volume=19.827660
+volume=27.827660
 
 <region>
 xfin_lovel=84
@@ -128,7 +128,7 @@ pitch_keycenter=59
 lokey=58
 hikey=62
 offset=58
-volume=11.247664
+volume=19.247664
 
 <region>
 xfout_lovel=0
@@ -138,7 +138,7 @@ pitch_keycenter=65
 lokey=63
 hikey=68
 offset=112
-volume=23.390224
+volume=31.390224
 
 <region>
 xfin_lovel=0
@@ -150,7 +150,7 @@ pitch_keycenter=65
 lokey=63
 hikey=68
 offset=184
-volume=17.917888
+volume=25.917888
 
 <region>
 xfin_lovel=84
@@ -160,7 +160,7 @@ pitch_keycenter=65
 lokey=63
 hikey=68
 offset=73
-volume=6.853747
+volume=14.853747
 
 <region>
 xfout_lovel=0
@@ -170,7 +170,7 @@ pitch_keycenter=72
 lokey=69
 hikey=75
 offset=119
-volume=28.835571
+volume=36.835571
 
 <region>
 xfin_lovel=0
@@ -182,7 +182,7 @@ pitch_keycenter=72
 lokey=69
 hikey=75
 offset=87
-volume=16.361622
+volume=24.361622
 
 <region>
 xfin_lovel=84
@@ -192,7 +192,7 @@ pitch_keycenter=72
 lokey=69
 hikey=75
 offset=58
-volume=6.991565
+volume=14.991565
 
 <region>
 xfout_lovel=0
@@ -202,7 +202,7 @@ pitch_keycenter=79
 lokey=76
 hikey=81
 offset=69
-volume=29.623671
+volume=37.623671
 
 <region>
 xfin_lovel=0
@@ -214,7 +214,7 @@ pitch_keycenter=79
 lokey=76
 hikey=81
 offset=48
-volume=20.135008
+volume=28.135008
 
 <region>
 xfin_lovel=84
@@ -224,7 +224,7 @@ pitch_keycenter=79
 lokey=76
 hikey=81
 offset=30
-volume=10.093528
+volume=18.093528
 
 <region>
 xfout_lovel=0
@@ -234,7 +234,7 @@ pitch_keycenter=83
 lokey=82
 hikey=86
 offset=58
-volume=31.827554
+volume=39.827554
 
 <region>
 xfin_lovel=0
@@ -246,7 +246,7 @@ pitch_keycenter=83
 lokey=82
 hikey=86
 offset=31
-volume=15.379722
+volume=23.379722
 
 <region>
 xfin_lovel=84
@@ -256,7 +256,7 @@ pitch_keycenter=83
 lokey=82
 hikey=86
 offset=13
-volume=2.981782
+volume=10.981782
 
 <region>
 xfout_lovel=0
@@ -265,7 +265,7 @@ sample=Marimba/Marimba_hit_Outrigger_F5_soft_01.wav
 pitch_keycenter=89
 lokey=87
 hikey=92
-volume=48.766884
+volume=56.766884
 
 <region>
 xfin_lovel=0
@@ -276,7 +276,7 @@ sample=Marimba/Marimba_hit_Outrigger_F5_med_01.wav
 pitch_keycenter=89
 lokey=87
 hikey=92
-volume=29.067757
+volume=37.067757
 
 <region>
 xfin_lovel=84
@@ -285,7 +285,7 @@ sample=Marimba/Marimba_hit_Outrigger_F5_loud_01.wav
 pitch_keycenter=89
 lokey=87
 hikey=92
-volume=12.664081
+volume=20.664081
 
 <region>
 xfout_lovel=0
@@ -294,7 +294,7 @@ sample=Marimba/Marimba_hit_Outrigger_C6_soft_01.wav
 pitch_keycenter=96
 lokey=93
 hikey=97
-volume=41.199775
+volume=49.199775
 
 <region>
 xfin_lovel=0
@@ -305,7 +305,7 @@ sample=Marimba/Marimba_hit_Outrigger_C6_med_01.wav
 pitch_keycenter=96
 lokey=93
 hikey=97
-volume=31.395381
+volume=39.395381
 
 <region>
 xfin_lovel=84
@@ -314,5 +314,5 @@ sample=Marimba/Marimba_hit_Outrigger_C6_loud_01.wav
 pitch_keycenter=96
 lokey=93
 hikey=97
-volume=17.808448
+volume=18.808448
 

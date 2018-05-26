@@ -9,7 +9,6 @@ sample=Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_A#0_rr1.w
 pitch_keycenter=34
 lokey=34
 hikey=35
-tune=-5
 volume=1.763723
 
 <region>
@@ -17,7 +16,6 @@ sample=Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_C1_rr1.wa
 pitch_keycenter=36
 lokey=36
 hikey=37
-tune=-3
 volume=1.832042
 
 <region>
@@ -40,15 +38,13 @@ sample=Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_F#1_rr1.w
 pitch_keycenter=42
 lokey=42
 hikey=43
-tune=-2
-volume=0.587907
+volume=-1
 
 <region>
 sample=Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_G#1_rr1.wav
 pitch_keycenter=44
 lokey=44
 hikey=45
-tune=3
 volume=2.157181
 
 <region>
@@ -57,7 +53,6 @@ pitch_keycenter=46
 lokey=46
 hikey=48
 offset=44
-tune=3
 volume=-4.643962
 
 <region>
@@ -65,15 +60,13 @@ sample=Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_D2_rr1.wa
 pitch_keycenter=50
 lokey=49
 hikey=51
-tune=-7
-volume=4.507286
+volume=1
 
 <region>
 sample=Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_E2_rr1.wav
 pitch_keycenter=52
 lokey=52
 hikey=53
-tune=-6
 volume=1.148020
 
 <region>
@@ -82,7 +75,6 @@ pitch_keycenter=54
 lokey=54
 hikey=55
 offset=94
-tune=-5
 volume=-3.111599
 
 <region>
@@ -90,7 +82,6 @@ sample=Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_G#2_rr1.w
 pitch_keycenter=56
 lokey=56
 hikey=57
-tune=-6
 volume=9.348472
 
 <region>
@@ -98,7 +89,6 @@ sample=Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_A#2_rr1.w
 pitch_keycenter=58
 lokey=58
 hikey=59
-tune=-11
 volume=-0.417280
 
 <region>
@@ -106,7 +96,6 @@ sample=Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_C3_rr1.wa
 pitch_keycenter=60
 lokey=60
 hikey=61
-tune=-7
 volume=-2.726479
 
 <region>
@@ -114,7 +103,6 @@ sample=Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_D3_rr1.wa
 pitch_keycenter=62
 lokey=62
 hikey=63
-tune=-9
 volume=-2.188249
 
 <region>
@@ -122,7 +110,6 @@ sample=Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_E3_rr1.wa
 pitch_keycenter=64
 lokey=64
 hikey=65
-tune=-10
 volume=1.042084
 
 <region>
@@ -130,15 +117,13 @@ sample=Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_F#3_rr1.w
 pitch_keycenter=66
 lokey=66
 hikey=67
-tune=-7
-volume=5.542219
+volume=3
 
 <region>
 sample=Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_G#3_rr1.wav
 pitch_keycenter=68
 lokey=68
 hikey=69
-tune=-7
 volume=1.961144
 
 <region>
@@ -146,23 +131,20 @@ sample=Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_A#3_rr1.w
 pitch_keycenter=70
 lokey=70
 hikey=71
-tune=-4
-volume=-4.985556
+volume=-2
 
 <region>
 sample=Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_C4_rr1.wav
 pitch_keycenter=72
 lokey=72
 hikey=73
-tune=-7
-volume=5.191059
+volume=3
 
 <region>
 sample=Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_D4_rr1.wav
 pitch_keycenter=74
 lokey=74
 hikey=75
-tune=-2
 volume=-1.510287
 
 <region>
@@ -170,7 +152,6 @@ sample=Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_E4_rr1.wa
 pitch_keycenter=76
 lokey=76
 hikey=77
-tune=-13
 volume=-0.737975
 
 <region>
@@ -178,7 +159,6 @@ sample=Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_F#4_rr1.w
 pitch_keycenter=78
 lokey=78
 hikey=79
-tune=-11
 volume=0.148233
 
 <region>
@@ -186,7 +166,6 @@ sample=Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_G#4_rr1.w
 pitch_keycenter=80
 lokey=80
 hikey=81
-tune=-20
 volume=-0.220671
 
 <region>
@@ -194,36 +173,20 @@ sample=Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_A#4_rr1.w
 pitch_keycenter=82
 lokey=82
 hikey=83
-tune=-6
 volume=-1.170932
 
 <region>
-seq_length=2
-seq_position=1
 sample=Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_C5_rr1.wav
 pitch_keycenter=84
 lokey=84
 hikey=85
-tune=-1
-volume=-2.246775
-
-<region>
-seq_length=2
-seq_position=2
-sample=Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_C5_rr2.wav
-pitch_keycenter=84
-lokey=84
-hikey=85
-offset=14
-tune=-13
-volume=10.663883
+volume=2
 
 <region>
 sample=Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_D5_rr1.wav
 pitch_keycenter=86
 lokey=86
 hikey=87
-tune=-20
 volume=2.732660
 
 <region>
@@ -231,14 +194,12 @@ sample=Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_E5_rr1.wa
 pitch_keycenter=88
 lokey=88
 hikey=89
-tune=-8
 volume=4.462697
 
 <group>
 trigger=release
 //ampeg_attack=0.100000
 ampeg_release=0.300000
-//rt_decay=8
 amp_veltrack=0
 
 <region>
@@ -246,7 +207,6 @@ sample=Harpsichord, English/Releases/Lute/ZuckermannKitHarpsi_Lute_Rel_A#0_rr1.w
 pitch_keycenter=34
 lokey=34
 hikey=35
-tune=-19
 volume=-7.090658
 
 <region>
@@ -254,7 +214,6 @@ sample=Harpsichord, English/Releases/Lute/ZuckermannKitHarpsi_Lute_Rel_C1_rr1.wa
 pitch_keycenter=36
 lokey=36
 hikey=37
-tune=-4
 volume=-4.524784
 
 <region>
@@ -269,7 +228,6 @@ sample=Harpsichord, English/Releases/Lute/ZuckermannKitHarpsi_Lute_Rel_E1_rr1.wa
 pitch_keycenter=40
 lokey=40
 hikey=41
-tune=-14
 volume=-8.904123
 
 <region>
@@ -277,7 +235,6 @@ sample=Harpsichord, English/Releases/Lute/ZuckermannKitHarpsi_Lute_Rel_F#1_rr1.w
 pitch_keycenter=42
 lokey=42
 hikey=43
-tune=-17
 volume=-11.072442
 
 <region>
@@ -285,7 +242,6 @@ sample=Harpsichord, English/Releases/Lute/ZuckermannKitHarpsi_Lute_Rel_G#1_rr1.w
 pitch_keycenter=44
 lokey=44
 hikey=45
-tune=-5
 volume=-6.487487
 
 <region>
@@ -307,7 +263,6 @@ sample=Harpsichord, English/Releases/Lute/ZuckermannKitHarpsi_Lute_Rel_E2_rr1.wa
 pitch_keycenter=52
 lokey=52
 hikey=53
-tune=-13
 volume=-7.304161
 
 <region>
@@ -315,7 +270,6 @@ sample=Harpsichord, English/Releases/Lute/ZuckermannKitHarpsi_Lute_Rel_G2_rr1.wa
 pitch_keycenter=55
 lokey=54
 hikey=55
-tune=-4
 volume=-6.645541
 
 <region>
@@ -323,7 +277,6 @@ sample=Harpsichord, English/Releases/Lute/ZuckermannKitHarpsi_Lute_Rel_G#2_rr1.w
 pitch_keycenter=56
 lokey=56
 hikey=56
-tune=-63
 volume=-4.141532
 
 <region>
@@ -352,7 +305,6 @@ sample=Harpsichord, English/Releases/Lute/ZuckermannKitHarpsi_Lute_Rel_E3_rr1.wa
 pitch_keycenter=64
 lokey=64
 hikey=65
-tune=-26
 volume=-7.282378
 
 <region>
@@ -367,7 +319,6 @@ sample=Harpsichord, English/Releases/Lute/ZuckermannKitHarpsi_Lute_Rel_G#3_rr1.w
 pitch_keycenter=68
 lokey=68
 hikey=69
-tune=-16
 volume=-10.717479
 
 <region>
@@ -375,7 +326,6 @@ sample=Harpsichord, English/Releases/Lute/ZuckermannKitHarpsi_Lute_Rel_A#3_rr1.w
 pitch_keycenter=70
 lokey=70
 hikey=71
-tune=-11
 volume=-4.627871
 
 <region>
@@ -397,7 +347,6 @@ sample=Harpsichord, English/Releases/Lute/ZuckermannKitHarpsi_Lute_Rel_E4_rr1.wa
 pitch_keycenter=76
 lokey=76
 hikey=77
-tune=-11
 volume=-10.483735
 
 <region>
@@ -405,7 +354,6 @@ sample=Harpsichord, English/Releases/Lute/ZuckermannKitHarpsi_Lute_Rel_F#4_rr1.w
 pitch_keycenter=78
 lokey=78
 hikey=79
-tune=-30
 volume=-10.225799
 
 <region>
@@ -413,7 +361,6 @@ sample=Harpsichord, English/Releases/Lute/ZuckermannKitHarpsi_Lute_Rel_G#4_rr1.w
 pitch_keycenter=80
 lokey=80
 hikey=81
-tune=-15
 volume=-6.079718
 
 <region>
@@ -421,7 +368,6 @@ sample=Harpsichord, English/Releases/Lute/ZuckermannKitHarpsi_Lute_Rel_A#4_rr1.w
 pitch_keycenter=82
 lokey=82
 hikey=84
-tune=-44
 volume=-4.501149
 
 <region>
@@ -429,7 +375,6 @@ sample=Harpsichord, English/Releases/Lute/ZuckermannKitHarpsi_Lute_Rel_D5_rr1.wa
 pitch_keycenter=86
 lokey=85
 hikey=87
-tune=-13
 volume=-10.475509
 
 <region>

@@ -7,9 +7,8 @@ amp_veltrack=0
 <region>
 sample=Harpsichord, Flemish/Sustains/High/HarpsiRH_High_Far_F#1_rr1.wav
 pitch_keycenter=42
-lokey=42
+lokey=41
 hikey=43
-tune=-3
 volume=-0.253976
 
 <region>
@@ -17,7 +16,6 @@ sample=Harpsichord, Flemish/Sustains/High/HarpsiRH_High_Far_G#1_rr1.wav
 pitch_keycenter=44
 lokey=44
 hikey=45
-tune=-5
 volume=-1.025889
 
 <region>
@@ -32,7 +30,6 @@ sample=Harpsichord, Flemish/Sustains/High/HarpsiRH_High_Far_C#2_rr1.wav
 pitch_keycenter=49
 lokey=48
 hikey=50
-tune=-8
 volume=-0.448909
 
 <region>
@@ -40,7 +37,6 @@ sample=Harpsichord, Flemish/Sustains/High/HarpsiRH_High_Far_E2_rr1.wav
 pitch_keycenter=52
 lokey=51
 hikey=53
-tune=-8
 volume=-1.304560
 
 <region>
@@ -48,7 +44,6 @@ sample=Harpsichord, Flemish/Sustains/High/HarpsiRH_High_Far_F#2_rr1.wav
 pitch_keycenter=54
 lokey=54
 hikey=55
-tune=-7
 volume=-0.254181
 
 <region>
@@ -56,7 +51,6 @@ sample=Harpsichord, Flemish/Sustains/High/HarpsiRH_High_Far_G#2_rr1.wav
 pitch_keycenter=56
 lokey=56
 hikey=57
-tune=-11
 volume=1.151423
 
 <region>
@@ -64,7 +58,6 @@ sample=Harpsichord, Flemish/Sustains/High/HarpsiRH_High_Far_A#2_rr1.wav
 pitch_keycenter=58
 lokey=58
 hikey=59
-tune=-11
 volume=1.185090
 
 <region>
@@ -72,7 +65,6 @@ sample=Harpsichord, Flemish/Sustains/High/HarpsiRH_High_Far_C#3_rr1.wav
 pitch_keycenter=61
 lokey=60
 hikey=62
-tune=-6
 volume=1.035230
 
 <region>
@@ -80,7 +72,6 @@ sample=Harpsichord, Flemish/Sustains/High/HarpsiRH_High_Far_E3_rr1.wav
 pitch_keycenter=64
 lokey=63
 hikey=65
-tune=-13
 volume=-1.210866
 
 <region>
@@ -88,7 +79,6 @@ sample=Harpsichord, Flemish/Sustains/High/HarpsiRH_High_Far_F#3_rr1.wav
 pitch_keycenter=66
 lokey=66
 hikey=67
-tune=-11
 volume=-2.374491
 
 <region>
@@ -96,7 +86,6 @@ sample=Harpsichord, Flemish/Sustains/High/HarpsiRH_High_Far_G#3_rr1.wav
 pitch_keycenter=68
 lokey=68
 hikey=68
-tune=-6
 volume=2.316202
 
 <region>
@@ -104,7 +93,6 @@ sample=Harpsichord, Flemish/Sustains/High/HarpsiRH_High_Far_A3_rr2.wav
 pitch_keycenter=69
 lokey=69
 hikey=71
-tune=-6
 volume=-1.315981
 
 <region>
@@ -112,7 +100,6 @@ sample=Harpsichord, Flemish/Sustains/High/HarpsiRH_High_Far_C#4_rr1.wav
 pitch_keycenter=73
 lokey=72
 hikey=73
-tune=-6
 volume=2.781465
 
 <region>
@@ -120,7 +107,6 @@ sample=Harpsichord, Flemish/Sustains/High/HarpsiRH_High_Far_D4_rr1.wav
 pitch_keycenter=74
 lokey=74
 hikey=75
-tune=-5
 volume=-0.122453
 
 <region>
@@ -128,7 +114,6 @@ sample=Harpsichord, Flemish/Sustains/High/HarpsiRH_High_Far_E4_rr1.wav
 pitch_keycenter=76
 lokey=76
 hikey=77
-tune=-10
 volume=1.589474
 
 <region>
@@ -136,7 +121,6 @@ sample=Harpsichord, Flemish/Sustains/High/HarpsiRH_High_Far_F#4_rr1.wav
 pitch_keycenter=78
 lokey=78
 hikey=79
-tune=-5
 volume=-0.181269
 
 <region>
@@ -144,7 +128,6 @@ sample=Harpsichord, Flemish/Sustains/High/HarpsiRH_High_Far_G#4_rr1.wav
 pitch_keycenter=80
 lokey=80
 hikey=81
-tune=-4
 volume=2.440377
 
 <region>
@@ -152,7 +135,6 @@ sample=Harpsichord, Flemish/Sustains/High/HarpsiRH_High_Far_A#4_rr1.wav
 pitch_keycenter=82
 lokey=82
 hikey=83
-tune=-1
 volume=-5.387336
 
 <region>
@@ -160,7 +142,6 @@ sample=Harpsichord, Flemish/Sustains/High/HarpsiRH_High_Far_C5_rr1.wav
 pitch_keycenter=84
 lokey=84
 hikey=85
-tune=-3
 volume=2.751121
 
 <region>
@@ -168,7 +149,6 @@ sample=Harpsichord, Flemish/Sustains/High/HarpsiRH_High_Far_D5_rr1.wav
 pitch_keycenter=86
 lokey=86
 hikey=87
-tune=-7
 volume=3.049173
 
 <region>
@@ -176,7 +156,6 @@ sample=Harpsichord, Flemish/Sustains/High/HarpsiRH_High_Far_E5_rr1.wav
 pitch_keycenter=88
 lokey=88
 hikey=89
-tune=-3
 volume=-2.925343
 
 <region>
@@ -184,7 +163,6 @@ sample=Harpsichord, Flemish/Sustains/High/HarpsiRH_High_Far_F#5_rr1.wav
 pitch_keycenter=90
 lokey=90
 hikey=91
-tune=3
 volume=2.881215
 
 <region>
@@ -192,7 +170,6 @@ sample=Harpsichord, Flemish/Sustains/High/HarpsiRH_High_Far_G#5_rr1.wav
 pitch_keycenter=92
 lokey=92
 hikey=93
-tune=-2
 volume=0.615691
 
 <region>
@@ -200,15 +177,13 @@ sample=Harpsichord, Flemish/Sustains/High/HarpsiRH_High_Far_A#5_rr1.wav
 pitch_keycenter=94
 lokey=94
 hikey=95
-tune=-7
 volume=-0.053052
 
 <region>
 sample=Harpsichord, Flemish/Sustains/High/HarpsiRH_High_Far_C6_rr1.wav
 pitch_keycenter=96
 lokey=96
-hikey=97
-tune=-5
+hikey=96
 volume=3.180666
 
 <group>
@@ -221,7 +196,7 @@ amp_veltrack=0
 <region>
 sample=Harpsichord, Flemish/Releases/High/HarpsiRH_HighRel_Far_F#1_rr1.wav
 pitch_keycenter=42
-lokey=42
+lokey=41
 hikey=43
 offset=27
 volume=-7.094404
@@ -231,7 +206,6 @@ sample=Harpsichord, Flemish/Releases/High/HarpsiRH_HighRel_Far_G#1_rr1.wav
 pitch_keycenter=44
 lokey=44
 hikey=45
-tune=-39
 volume=-11.320696
 
 <region>
@@ -239,7 +213,6 @@ sample=Harpsichord, Flemish/Releases/High/HarpsiRH_HighRel_Far_A#1_rr1.wav
 pitch_keycenter=46
 lokey=46
 hikey=47
-tune=-44
 volume=2.412872
 
 <region>
@@ -247,7 +220,6 @@ sample=Harpsichord, Flemish/Releases/High/HarpsiRH_HighRel_Far_C#2_rr1.wav
 pitch_keycenter=49
 lokey=48
 hikey=50
-tune=-9
 volume=1.006407
 
 <region>
@@ -263,7 +235,6 @@ sample=Harpsichord, Flemish/Releases/High/HarpsiRH_HighRel_Far_F#2_rr1.wav
 pitch_keycenter=54
 lokey=54
 hikey=55
-tune=29
 volume=-0.378688
 
 <region>
@@ -271,7 +242,6 @@ sample=Harpsichord, Flemish/Releases/High/HarpsiRH_HighRel_Far_G#2_rr1.wav
 pitch_keycenter=56
 lokey=56
 hikey=57
-tune=-54
 volume=-7.947424
 
 <region>
@@ -279,7 +249,6 @@ sample=Harpsichord, Flemish/Releases/High/HarpsiRH_HighRel_Far_A#2_rr1.wav
 pitch_keycenter=58
 lokey=58
 hikey=59
-tune=-5
 volume=-7.598771
 
 <region>
@@ -294,7 +263,6 @@ sample=Harpsichord, Flemish/Releases/High/HarpsiRH_HighRel_Far_E3_rr1.wav
 pitch_keycenter=64
 lokey=63
 hikey=65
-tune=-23
 volume=-7.546711
 
 <region>
@@ -302,7 +270,6 @@ sample=Harpsichord, Flemish/Releases/High/HarpsiRH_HighRel_Far_F#3_rr1.wav
 pitch_keycenter=66
 lokey=66
 hikey=67
-tune=-60
 volume=-7.171695
 
 <region>
@@ -310,7 +277,6 @@ sample=Harpsichord, Flemish/Releases/High/HarpsiRH_HighRel_Far_G#3_rr1.wav
 pitch_keycenter=68
 lokey=68
 hikey=68
-tune=-4
 volume=-7.389095
 
 <region>
@@ -318,7 +284,6 @@ sample=Harpsichord, Flemish/Releases/High/HarpsiRH_HighRel_Far_A3_rr1.wav
 pitch_keycenter=69
 lokey=69
 hikey=71
-tune=-22
 volume=-5.532790
 
 <region>
@@ -326,7 +291,6 @@ sample=Harpsichord, Flemish/Releases/High/HarpsiRH_HighRel_Far_C#4_rr1.wav
 pitch_keycenter=73
 lokey=72
 hikey=73
-tune=-53
 volume=-11.140133
 
 <region>
@@ -334,7 +298,6 @@ sample=Harpsichord, Flemish/Releases/High/HarpsiRH_HighRel_Far_D4_rr1.wav
 pitch_keycenter=74
 lokey=74
 hikey=75
-tune=-9
 volume=-8.289727
 
 <region>
@@ -411,6 +374,6 @@ volume=-10.739275
 sample=Harpsichord, Flemish/Releases/High/HarpsiRH_HighRel_Far_C6_rr1.wav
 pitch_keycenter=96
 lokey=96
-hikey=97
+hikey=96
 volume=-5.844790
 

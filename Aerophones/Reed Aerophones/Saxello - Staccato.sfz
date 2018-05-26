@@ -22,7 +22,7 @@ pitch_keycenter=58
 lokey=58
 hikey=60
 offset=10
-volume=9.311843
+volume=8.311843
 
 <region>
 lovel=0
@@ -42,7 +42,7 @@ pitch_keycenter=62
 lokey=61
 hikey=64
 offset=101
-volume=9.585427
+volume=8.585427
 
 <region>
 lovel=0
@@ -81,7 +81,7 @@ pitch_keycenter=70
 lokey=69
 hikey=72
 tune=9
-volume=9.241029
+volume=7.241029
 
 <region>
 lovel=0
@@ -128,7 +128,7 @@ pitch_keycenter=82
 lokey=81
 hikey=84
 tune=1
-volume=10.766055
+volume=13.766055
 
 <region>
 lovel=84
@@ -138,13 +138,13 @@ pitch_keycenter=82
 lokey=81
 hikey=84
 tune=5
-volume=5.893575
+volume=7.893575
 
 <region>
 sample=Saxello/Staccato/BrettSaxello_Stcts_MainSpirit_D5_vl1_rr6.wav
 pitch_keycenter=86
 lokey=85
-hikey=87
+hikey=89
 tune=3
 volume=11.441933
 

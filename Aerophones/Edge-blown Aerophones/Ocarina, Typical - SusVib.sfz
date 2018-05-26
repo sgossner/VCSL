@@ -77,7 +77,7 @@ volume=-0.147342
 sample=Ocarina, Typical/Sustains/SusVib/StdOcarina_SusVib_C5.wav
 pitch_keycenter=84
 lokey=84
-hikey=85
+hikey=86
 tune=-9
 volume=1.380054
 
@@ -162,7 +162,7 @@ volume=-7.028720
 sample=Ocarina, Typical/Releases/SusVib/StdOcarina_SusVib_C5_rel.wav
 pitch_keycenter=84
 lokey=84
-hikey=85
+hikey=86
 tune=40
 volume=6.231957
 

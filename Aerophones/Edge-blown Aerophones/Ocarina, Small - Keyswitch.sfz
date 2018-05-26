@@ -12,7 +12,7 @@ ampeg_release=0.300000
 <region>
 sample=Ocarina, Small/Sustain/ocarina_A#4_sustain0.wav
 pitch_keycenter=82
-lokey=82
+lokey=81
 hikey=83
 tune=3
 volume=19.054970
@@ -89,7 +89,7 @@ volume=13.342204
 sample=Ocarina, Small/Sustain/ocarina_B5_sustain0.wav
 pitch_keycenter=95
 lokey=95
-hikey=96
+hikey=97
 offset=408
 volume=12.713320
 

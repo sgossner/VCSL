@@ -85,7 +85,7 @@ sample=Tenor Saxophone/Non-Vibrato/BrettTenor_NV_Main_E2_vl2_rr1.wav
 pitch_keycenter=52
 lokey=52
 hikey=53
-offset=287
+offset=3973
 volume=16.934190
 
 <region>
@@ -132,7 +132,7 @@ sample=Tenor Saxophone/Non-Vibrato/BrettTenor_NV_Main_G#2_vl3_rr1.wav
 pitch_keycenter=56
 lokey=56
 hikey=57
-volume=14.560748
+volume=12.560748
 
 <region>
 lovel=0
@@ -150,7 +150,8 @@ sample=Tenor Saxophone/Non-Vibrato/BrettTenor_NV_Main_A#2_vl3_rr1.wav
 pitch_keycenter=58
 lokey=58
 hikey=59
-volume=15.056091
+volume=11.056091
+ampeg_attack=0.05
 
 <region>
 lovel=0
@@ -168,7 +169,7 @@ sample=Tenor Saxophone/Non-Vibrato/BrettTenor_NV_Main_C3_vl3_rr1.wav
 pitch_keycenter=60
 lokey=60
 hikey=61
-volume=15.353727
+volume=13.353727
 
 <region>
 lovel=0
@@ -195,7 +196,7 @@ sample=Tenor Saxophone/Non-Vibrato/BrettTenor_NV_Main_E3_vl2_rr1.wav
 pitch_keycenter=64
 lokey=64
 hikey=65
-volume=16.465358
+volume=20.465358
 
 <region>
 lovel=84
@@ -417,7 +418,7 @@ sample=Tenor Saxophone/Non-Vibrato/BrettTenor_NV_Main_E5_vl2_rr1.wav
 pitch_keycenter=88
 lokey=88
 hikey=89
-volume=21.457505
+volume=18.457505
 
 <region>
 lovel=84
@@ -426,5 +427,5 @@ sample=Tenor Saxophone/Non-Vibrato/BrettTenor_NV_Main_E5_vl3_rr1.wav
 pitch_keycenter=88
 lokey=88
 hikey=89
-volume=15.546265
+volume=11.546265
 

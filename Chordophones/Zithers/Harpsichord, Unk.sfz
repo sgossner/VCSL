@@ -9,7 +9,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_F0_rr1.wav
 pitch_keycenter=29
 lokey=29
 hikey=29
-tune=-2
 volume=0.312064
 
 <region>
@@ -24,7 +23,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_G0_rr1.wav
 pitch_keycenter=31
 lokey=31
 hikey=31
-tune=-1
 volume=-1.410128
 
 <region>
@@ -32,7 +30,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_G#0_rr1.wav
 pitch_keycenter=32
 lokey=32
 hikey=32
-tune=-2
 volume=1.112921
 
 <region>
@@ -40,7 +37,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_A0_rr1.wav
 pitch_keycenter=33
 lokey=33
 hikey=33
-tune=-3
 volume=0.120609
 
 <region>
@@ -48,7 +44,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_A#0_rr1.wav
 pitch_keycenter=34
 lokey=34
 hikey=34
-tune=-5
 volume=0.162769
 
 <region>
@@ -56,7 +51,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_B0_rr1.wav
 pitch_keycenter=35
 lokey=35
 hikey=35
-tune=-5
 volume=-1.528505
 
 <region>
@@ -64,7 +58,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_C1_rr1.wav
 pitch_keycenter=36
 lokey=36
 hikey=36
-tune=-5
 volume=0.578066
 
 <region>
@@ -72,7 +65,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_C#1_rr1.wav
 pitch_keycenter=37
 lokey=37
 hikey=37
-tune=-4
 volume=1.869011
 
 <region>
@@ -80,7 +72,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_D1_rr1.wav
 pitch_keycenter=38
 lokey=38
 hikey=38
-tune=-1
 volume=-1.124767
 
 <region>
@@ -88,23 +79,20 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_D#1_rr1.wav
 pitch_keycenter=39
 lokey=39
 hikey=39
-tune=-4
-volume=2.014039
+volume=0
 
 <region>
 sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_E1_rr1.wav
 pitch_keycenter=40
 lokey=40
 hikey=40
-tune=-4
-volume=-1.791644
+volume=0
 
 <region>
 sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_F1_rr1.wav
 pitch_keycenter=41
 lokey=41
 hikey=41
-tune=-2
 volume=-1.052276
 
 <region>
@@ -112,15 +100,13 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_F#1_rr1.wav
 pitch_keycenter=42
 lokey=42
 hikey=42
-tune=-4
-volume=0.738476
+volume=-1
 
 <region>
 sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_G1_rr1.wav
 pitch_keycenter=43
 lokey=43
 hikey=43
-tune=-4
 volume=1.784599
 
 <region>
@@ -128,7 +114,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_G#1_rr1.wav
 pitch_keycenter=44
 lokey=44
 hikey=44
-tune=-3
 volume=-0.665575
 
 <region>
@@ -136,15 +121,13 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_A1_rr1.wav
 pitch_keycenter=45
 lokey=45
 hikey=45
-tune=-3
-volume=2.901891
+volume=0
 
 <region>
 sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_A#1_rr1.wav
 pitch_keycenter=46
 lokey=46
 hikey=46
-tune=-5
 volume=-1.798780
 
 <region>
@@ -152,15 +135,13 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_B1_rr1.wav
 pitch_keycenter=47
 lokey=47
 hikey=47
-tune=-2
-volume=-1.842034
+volume=0
 
 <region>
 sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_C2_rr1.wav
 pitch_keycenter=48
 lokey=48
 hikey=48
-tune=-5
 volume=1.573665
 
 <region>
@@ -168,7 +149,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_C#2_rr1.wav
 pitch_keycenter=49
 lokey=49
 hikey=49
-tune=-4
 volume=-0.690072
 
 <region>
@@ -176,7 +156,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_D2_rr1.wav
 pitch_keycenter=50
 lokey=50
 hikey=50
-tune=-4
 volume=-0.430718
 
 <region>
@@ -184,7 +163,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_D#2_rr1.wav
 pitch_keycenter=51
 lokey=51
 hikey=51
-tune=-5
 volume=2.529297
 
 <region>
@@ -192,7 +170,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_E2_rr1.wav
 pitch_keycenter=52
 lokey=52
 hikey=52
-tune=-5
 volume=0.951532
 
 <region>
@@ -200,15 +177,13 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_F2_rr1.wav
 pitch_keycenter=53
 lokey=53
 hikey=53
-tune=-4
-volume=-2.510985
+volume=-1
 
 <region>
 sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_F#2_rr1.wav
 pitch_keycenter=54
 lokey=54
 hikey=54
-tune=-4
 volume=1.346414
 
 <region>
@@ -216,7 +191,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_G2_rr1.wav
 pitch_keycenter=55
 lokey=55
 hikey=55
-tune=-5
 volume=1.070111
 
 <region>
@@ -224,7 +198,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_G#2_rr1.wav
 pitch_keycenter=56
 lokey=56
 hikey=56
-tune=-5
 volume=-1.513926
 
 <region>
@@ -232,7 +205,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_A2_rr1.wav
 pitch_keycenter=57
 lokey=57
 hikey=57
-tune=-3
 volume=-0.606817
 
 <region>
@@ -240,7 +212,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_A#2_rr1.wav
 pitch_keycenter=58
 lokey=58
 hikey=58
-tune=-4
 volume=0.896579
 
 <region>
@@ -248,7 +219,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_B2_rr1.wav
 pitch_keycenter=59
 lokey=59
 hikey=59
-tune=-4
 volume=-0.103937
 
 <region>
@@ -256,7 +226,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_C3_rr1.wav
 pitch_keycenter=60
 lokey=60
 hikey=60
-tune=-3
 volume=-1.077809
 
 <region>
@@ -264,7 +233,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_C#3_rr1.wav
 pitch_keycenter=61
 lokey=61
 hikey=61
-tune=-4
 volume=1.821550
 
 <region>
@@ -272,7 +240,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_D3_rr1.wav
 pitch_keycenter=62
 lokey=62
 hikey=62
-tune=-4
 volume=1.224342
 
 <region>
@@ -280,7 +247,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_D#3_rr1.wav
 pitch_keycenter=63
 lokey=63
 hikey=63
-tune=-3
 volume=-0.883560
 
 <region>
@@ -288,23 +254,20 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_E3_rr1.wav
 pitch_keycenter=64
 lokey=64
 hikey=64
-tune=-2
-volume=2.468867
+volume=1
 
 <region>
 sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_F3_rr1.wav
 pitch_keycenter=65
 lokey=65
 hikey=65
-tune=-4
-volume=-3.105207
+volume=-1
 
 <region>
 sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_F#3_rr1.wav
 pitch_keycenter=66
 lokey=66
 hikey=66
-tune=-4
 volume=-0.874460
 
 <region>
@@ -312,7 +275,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_G3_rr1.wav
 pitch_keycenter=67
 lokey=67
 hikey=67
-tune=-6
 volume=1.822587
 
 <region>
@@ -320,7 +282,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_G#3_rr1.wav
 pitch_keycenter=68
 lokey=68
 hikey=68
-tune=-3
 volume=1.557366
 
 <region>
@@ -328,7 +289,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_A3_rr1.wav
 pitch_keycenter=69
 lokey=69
 hikey=69
-tune=-5
 volume=0.598870
 
 <region>
@@ -336,15 +296,13 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_A#3_rr1.wav
 pitch_keycenter=70
 lokey=70
 hikey=70
-tune=-7
-volume=-1.264932
+volume=0
 
 <region>
 sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_B3_rr1.wav
 pitch_keycenter=71
 lokey=71
 hikey=71
-tune=-5
 volume=1.083678
 
 <region>
@@ -352,7 +310,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_C4_rr1.wav
 pitch_keycenter=72
 lokey=72
 hikey=72
-tune=-4
 volume=-1.448809
 
 <region>
@@ -360,7 +317,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_C#4_rr1.wav
 pitch_keycenter=73
 lokey=73
 hikey=73
-tune=-6
 volume=-1.488177
 
 <region>
@@ -368,7 +324,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_D4_rr1.wav
 pitch_keycenter=74
 lokey=74
 hikey=74
-tune=-7
 volume=3.505364
 
 <region>
@@ -376,7 +331,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_D#4_rr1.wav
 pitch_keycenter=75
 lokey=75
 hikey=75
-tune=-6
 volume=1.727595
 
 <region>
@@ -384,7 +338,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_E4_rr1.wav
 pitch_keycenter=76
 lokey=76
 hikey=76
-tune=-5
 volume=-2.483370
 
 <region>
@@ -392,7 +345,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_F4_rr1.wav
 pitch_keycenter=77
 lokey=77
 hikey=77
-tune=-4
 volume=-0.805323
 
 <region>
@@ -400,7 +352,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_F#4_rr1.wav
 pitch_keycenter=78
 lokey=78
 hikey=78
-tune=-6
 volume=1.883148
 
 <region>
@@ -408,7 +359,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_G4_rr1.wav
 pitch_keycenter=79
 lokey=79
 hikey=79
-tune=-5
 volume=0.643061
 
 <region>
@@ -416,7 +366,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_G#4_rr1.wav
 pitch_keycenter=80
 lokey=80
 hikey=80
-tune=-1
 volume=-1.878977
 
 <region>
@@ -424,7 +373,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_A4_rr1.wav
 pitch_keycenter=81
 lokey=81
 hikey=81
-tune=-8
 volume=1.670768
 
 <region>
@@ -432,7 +380,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_A#4_rr1.wav
 pitch_keycenter=82
 lokey=82
 hikey=82
-tune=-7
 volume=-0.732647
 
 <region>
@@ -447,7 +394,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_C5_rr1.wav
 pitch_keycenter=84
 lokey=84
 hikey=84
-tune=-2
 volume=-1.162111
 
 <region>
@@ -455,7 +401,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_C#5_rr1.wav
 pitch_keycenter=85
 lokey=85
 hikey=85
-tune=-6
 volume=-3.051442
 
 <region>
@@ -463,7 +408,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_D5_rr1.wav
 pitch_keycenter=86
 lokey=86
 hikey=86
-tune=-6
 volume=1.467371
 
 <region>
@@ -471,7 +415,6 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_D#5_rr1.wav
 pitch_keycenter=87
 lokey=87
 hikey=87
-tune=-4
 volume=2.023659
 
 <region>
@@ -479,15 +422,13 @@ sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_E5_rr1.wav
 pitch_keycenter=88
 lokey=88
 hikey=88
-tune=-3
 volume=0.431665
 
 <region>
 sample=Harpsichord, Unk/Sustains/Harpsi4_Sus_Main_F5_rr1.wav
 pitch_keycenter=89
 lokey=89
-hikey=90
-tune=1
+hikey=89
 volume=-0.172685
 
 <group>
@@ -502,23 +443,19 @@ sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_F0_rr1.wav
 pitch_keycenter=29
 lokey=29
 hikey=29
-tune=26
-volume=-11.076366
+volume=-5
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_F#0_rr1.wav
 pitch_keycenter=30
 lokey=30
 hikey=30
-volume=-8.181330
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_G0_rr1.wav
 pitch_keycenter=31
 lokey=31
 hikey=31
-tune=9
-volume=-1.922708
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_G#0_rr1.wav
@@ -526,436 +463,354 @@ pitch_keycenter=32
 lokey=32
 hikey=32
 offset=131
-tune=8
-volume=-2.195859
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_A0_rr1.wav
 pitch_keycenter=33
 lokey=33
 hikey=33
-tune=-43
-volume=-9.703943
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_A#0_rr1.wav
 pitch_keycenter=34
 lokey=34
 hikey=34
-tune=-10
-volume=-9.090869
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_B0_rr1.wav
 pitch_keycenter=35
 lokey=35
 hikey=35
-volume=-4.006559
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_C1_rr1.wav
 pitch_keycenter=36
 lokey=36
 hikey=36
-volume=-4.780412
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_C#1_rr1.wav
 pitch_keycenter=37
 lokey=37
 hikey=37
-volume=-7.627547
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_D1_rr1.wav
 pitch_keycenter=38
 lokey=38
 hikey=38
-tune=-3
-volume=-2.623032
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_D#1_rr1.wav
 pitch_keycenter=39
 lokey=39
 hikey=39
-tune=-57
-volume=-9.843814
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_E1_rr1.wav
 pitch_keycenter=40
 lokey=40
 hikey=40
-volume=-8.150381
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_F1_rr1.wav
 pitch_keycenter=41
 lokey=41
 hikey=41
-volume=-10.027058
+volume=-5
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_F#1_rr1.wav
 pitch_keycenter=42
 lokey=42
 hikey=42
-tune=-3
-volume=-2.893879
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_G1_rr1.wav
 pitch_keycenter=43
 lokey=43
 hikey=43
-volume=-1.474932
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_G#1_rr1.wav
 pitch_keycenter=44
 lokey=44
 hikey=44
-tune=8
-volume=1.728812
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_A1_rr1.wav
 pitch_keycenter=45
 lokey=45
 hikey=45
-volume=-9.032765
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_A#1_rr1.wav
 pitch_keycenter=46
 lokey=46
 hikey=46
-volume=-9.385530
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_B1_rr1.wav
 pitch_keycenter=47
 lokey=47
 hikey=47
-tune=-24
-volume=-7.101293
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_C2_rr1.wav
 pitch_keycenter=48
 lokey=48
 hikey=48
-tune=-11
-volume=-8.829244
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_C#2_rr1.wav
 pitch_keycenter=49
 lokey=49
 hikey=49
-tune=7
-volume=-8.302217
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_D2_rr1.wav
 pitch_keycenter=50
 lokey=50
 hikey=50
-volume=7.350010
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_D#2_rr1.wav
 pitch_keycenter=51
 lokey=51
 hikey=51
-tune=1
-volume=-9.613541
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_E2_rr1.wav
 pitch_keycenter=52
 lokey=52
 hikey=52
-tune=-30
-volume=-4.854330
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_F2_rr1.wav
 pitch_keycenter=53
 lokey=53
 hikey=53
-tune=13
-volume=-6.144511
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_F#2_rr1.wav
 pitch_keycenter=54
 lokey=54
 hikey=54
-tune=5
-volume=-10.177391
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_G2_rr1.wav
 pitch_keycenter=55
 lokey=55
 hikey=55
-volume=4.545409
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_G#2_rr1.wav
 pitch_keycenter=56
 lokey=56
 hikey=56
-tune=-14
-volume=-11.083448
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_A2_rr1.wav
 pitch_keycenter=57
 lokey=57
 hikey=57
-volume=-8.795378
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_A#2_rr1.wav
 pitch_keycenter=58
 lokey=58
 hikey=58
-tune=-13
-volume=-7.276168
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_B2_rr1.wav
 pitch_keycenter=59
 lokey=59
 hikey=59
-tune=-1
-volume=-5.855369
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_C3_rr1.wav
 pitch_keycenter=60
 lokey=60
 hikey=60
-tune=9
-volume=-1.977116
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_C#3_rr1.wav
 pitch_keycenter=61
 lokey=61
 hikey=61
-tune=11
-volume=-2.717834
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_D3_rr1.wav
 pitch_keycenter=62
 lokey=62
 hikey=62
-volume=-5.177025
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_D#3_rr1.wav
 pitch_keycenter=63
 lokey=63
 hikey=63
-tune=-7
-volume=-11.526936
+volume=-5
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_E3_rr1.wav
 pitch_keycenter=64
 lokey=64
 hikey=64
-tune=8
-volume=-3.242404
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_F3_rr1.wav
 pitch_keycenter=65
 lokey=65
 hikey=65
-volume=-9.357028
+volume=-5
+ampeg_sustain=0
+ampeg_decay=1.0
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_F#3_rr1.wav
 pitch_keycenter=66
 lokey=66
 hikey=66
-tune=7
-volume=-2.795874
+volume=-5
+ampeg_sustain=0
+ampeg_decay=1.0
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_G3_rr1.wav
 pitch_keycenter=67
 lokey=67
 hikey=67
-tune=-7
-volume=-6.621677
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_G#3_rr1.wav
 pitch_keycenter=68
 lokey=68
 hikey=68
-volume=-4.047756
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_A3_rr1.wav
 pitch_keycenter=69
 lokey=69
 hikey=69
-volume=-8.609090
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_A#3_rr1.wav
 pitch_keycenter=70
 lokey=70
 hikey=70
-volume=-11.844595
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_B3_rr1.wav
 pitch_keycenter=71
 lokey=71
 hikey=71
-tune=-71
-volume=-3.271092
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_C4_rr1.wav
 pitch_keycenter=72
 lokey=72
 hikey=72
-tune=-14
-volume=-6.277466
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_C#4_rr1.wav
 pitch_keycenter=73
 lokey=73
 hikey=73
-tune=3
-volume=-3.645060
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_D4_rr1.wav
 pitch_keycenter=74
 lokey=74
 hikey=74
-volume=-8.383485
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_D#4_rr1.wav
 pitch_keycenter=75
 lokey=75
 hikey=75
-volume=-3.019707
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_E4_rr1.wav
 pitch_keycenter=76
 lokey=76
 hikey=76
-tune=-8
-volume=-2.830288
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_F4_rr1.wav
 pitch_keycenter=77
 lokey=77
 hikey=77
-volume=-12.464699
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_F#4_rr1.wav
 pitch_keycenter=78
 lokey=78
 hikey=78
-tune=4
-volume=-2.012764
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_G4_rr1.wav
 pitch_keycenter=79
 lokey=79
 hikey=79
-volume=-10.478774
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_G#4_rr1.wav
 pitch_keycenter=80
 lokey=80
 hikey=80
-tune=-15
-volume=5.461731
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_A4_rr1.wav
 pitch_keycenter=81
 lokey=81
 hikey=81
-volume=-7.121154
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_A#4_rr1.wav
 pitch_keycenter=82
 lokey=82
 hikey=82
-tune=9
-volume=-0.560407
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_B4_rr1.wav
 pitch_keycenter=83
 lokey=83
 hikey=83
-volume=-8.384329
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_C5_rr1.wav
 pitch_keycenter=84
 lokey=84
 hikey=84
-volume=-10.492316
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_C#5_rr1.wav
 pitch_keycenter=85
 lokey=85
 hikey=85
-volume=-6.622493
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_D5_rr1.wav
 pitch_keycenter=86
 lokey=86
 hikey=86
-volume=-9.013610
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_D#5_rr1.wav
 pitch_keycenter=87
 lokey=87
 hikey=87
-tune=63
-volume=-3.507441
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_E5_rr1.wav
 pitch_keycenter=88
 lokey=88
 hikey=88
-tune=-3
-volume=-3.276211
 
 <region>
 sample=Harpsichord, Unk/Releases/Harpsi4_Rel_Main_F5_rr1.wav
 pitch_keycenter=89
 lokey=89
-hikey=90
-volume=-7.029193
+hikey=89
 
