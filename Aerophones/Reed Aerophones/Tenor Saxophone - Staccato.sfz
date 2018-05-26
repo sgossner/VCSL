@@ -1,8 +1,8 @@
-// Generation Options: --volume 16 --release 0.5
+// Generation Options: --volume 16 --release 1.5
 
 <group>
 ampeg_attack=0.004000
-ampeg_release=0.500000
+ampeg_release=1.500000
 
 <region>
 sample=Tenor Saxophone/Staccato/BrettTenor_Staccato_Main_G#1_vl2_rr1.wav

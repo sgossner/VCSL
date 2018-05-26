@@ -1,8 +1,8 @@
-// Generation Options: --volume 10 --release 0.5
+// Generation Options: --volume 10 --release 2.5
 
 <group>
 ampeg_attack=0.004000
-ampeg_release=0.500000
+ampeg_release=2.500000
 
 <region>
 lovel=0

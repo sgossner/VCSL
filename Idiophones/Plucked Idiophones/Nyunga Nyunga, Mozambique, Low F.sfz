@@ -37,7 +37,6 @@ sample=Nyunga Nyunga, Mozambique, Low F/Mbira2_Normal_MainSpirit_D3_k17_vl3_rr2.
 pitch_keycenter=62
 lokey=62
 hikey=63
-tune=-16
 volume=1.024660
 
 <region>
@@ -128,6 +127,7 @@ sample=Nyunga Nyunga, Mozambique, Low F/Mbira2_Normal_MainSpirit_D4_k16_vl3_rr2.
 pitch_keycenter=74
 lokey=74
 hikey=75
+tune=-11
 volume=5.425991
 
 <region>
@@ -157,7 +157,7 @@ sample=Nyunga Nyunga, Mozambique, Low F/Mbira2_Normal_MainSpirit_E4_k18_vl3_rr2.
 pitch_keycenter=76
 lokey=76
 hikey=76
-tune=-14
+tune=15
 volume=0.437082
 
 <region>

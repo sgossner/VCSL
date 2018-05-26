@@ -64,7 +64,7 @@ sample=Tambourine 2/Tamb2_Shake_rr3_Mid.wav
 pitch_keycenter=62
 lokey=62
 hikey=62
-offset=256
+offset=512
 volume=22.899820
 
 <region>
