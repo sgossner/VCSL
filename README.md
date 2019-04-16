@@ -8,7 +8,7 @@ This collection is under a Creative Commons 0 license. Essentially it's Public D
 The easiest way to keep up to date is to set up a local copy of the repository with Github Desktop, then just 'Fetch origin' whenever something new comes out. Install Github Desktop, then back on the VCSL main branch page click 'Clone or Download' then 'Open in Desktop'.
 
 Want to stay updated? Join the mailing list and we'll send you an e-mail every time the project is updated-
-http://www.versilstudios.net/sendy/subscription?f=b763a892L4k9FXaEnJ3glhJUq3yyF71hesBFROqKTz08slZriGNWCYyV7OLLLPCTd8Dn
+http://www.versilstudios.com/sendy/subscription?f=hFEXWRmWQcWyn8jkwdpYe0pGxonOozLxaZO89255eH7kEMUXqSZDHWMwe25T8falDW2DILY763eUa2x763UBwa892n33kQ
 
 # SFZ Version
 You can download the SFZ version from the latest release here:
