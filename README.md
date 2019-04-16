@@ -8,7 +8,7 @@ This collection is under a Creative Commons 0 license. Essentially it's Public D
 The easiest way to keep up to date is to set up a local copy of the repository with Github Desktop, then just 'Fetch origin' whenever something new comes out. Install Github Desktop, then back on the VCSL main branch page click 'Clone or Download' then 'Open in Desktop'.
 
 Want to stay updated? Join the mailing list and we'll send you an e-mail every time the project is updated-
-http://www.versilstudios.net/sendy/subscription?f=b763a892L4k9FXaEnJ3glhJUq3yyF71hesBFROqKTz08slZriGNWCYyV7OLLLPCTd8Dn
+http://www.versilstudios.com/sendy/subscription?f=hFEXWRmWQcWyn8jkwdpYe0pGxonOozLxaZO89255eH7kEMUXqSZDHWMwe25T8falDW2DILY763eUa2x763UBwa892n33kQ
 
 # Design Philosophy
 The selection of samples for VCSL is designed specifically to suit lightweight sample library creation. A greater emphasis is placed on pitch fidelity (with most being wholetone sampled if possible) and consistency, but less on more 'professional' features such as many round robins or velocity layers, except where warranted (e.g. percussion). As such, most articulations only have a single round robin and two to three velocity layers, although like all things in life, there are exceptions to that. On average, this means each instrument weighs about 20-75 MB in raw .wav format, a small but comfortable size for adequate reproduction.
